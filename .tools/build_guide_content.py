@@ -21,7 +21,7 @@ SERIES = {
         ("간암 환자가 알아야 할 식이·일상", None),
     ]),
     "간경화": ("02", [
-        ("대상성 vs 비대상성 간경변", None),
+        ("대상성 vs 비대상성 간경변", "/간경변-대상성-비대상성/"),
         ("Child-Pugh와 MELD — 점수가 의미하는 것", None),
         ("식도정맥류 — 첫 신호와 예방적 결찰", None),
         ("복수 — 단계별 관리", None),
@@ -37,7 +37,7 @@ SERIES = {
         ("B형간염 검사 결과지 해석", "/B형간염-검사결과/"),
         ("B형간염 보균자와 결혼·임신·수유", "/B형간염-결혼-임신/"),
         ("가족 중 B형간염 환자가 있다면 받아야 할 검사 3가지", "/가족-B형간염-검사/"),
-        ("B형간염 백신 — 누가, 언제, 몇 번", None),
+        ("B형간염 백신 — 누가, 언제, 몇 번", "/B형간염-백신/"),
         ("HBeAg 양성 vs 음성 — 무엇이 다른가", None),
         ("항바이러스제 비교 — TDF · TAF · ETV", None),
         ("B형간염 functional cure — 어디까지 와 있나", None),
@@ -53,14 +53,14 @@ SERIES = {
         ("지방간 정밀검사 — FIB-4·Fibroscan·MRE", "/지방간-정밀검사/"),
         ("lean MASLD — 마른 사람의 지방간", None),
         ("resmetirom과 차세대 지방간 약물", None),
-        ("지방간염(MASH) — 단순 지방간과 무엇이 다른가", None),
+        ("지방간염(MASH) — 단순 지방간과 무엇이 다른가", "/지방간염-MASH/"),
         ("SGLT2·GLP-1 작용제와 지방간", None),
     ]),
     "간수치": ("05", [
         ("건강검진 간수치(AST·ALT) 높음, 첫 단계", "/간수치-높음/"),
         ("AST·ALT·GGT 차이", "/간수치-종류-차이/"),
         ("Fibroscan 수치 읽는 법 — F0부터 F4까지", "/간섬유화스캔-수치/"),
-        ("빌리루빈 — 직접·간접 차이", None),
+        ("빌리루빈 — 직접·간접 차이", "/빌리루빈-직접-간접/"),
         ("알부민·PT — 간 합성능 보는 방법", None),
         ("ALP·GGT — 담도 vs 간세포 손상", None),
         ("약물·영양제·한약 — 간 손상 가능성 점검", None),
@@ -69,6 +69,7 @@ SERIES = {
         ("간생검 — 언제 필요한가", None),
     ]),
     "최신 지견": ("06", [
+        ("MAESTRO-NASH — resmetirom NEJM 2024", "/updates/MAESTRO-NASH-resmetirom-NEJM-2024/"),
         ("AASLD 2026 MASH 가이드라인 update", None),
         ("resmetirom 장기 추적 결과", None),
         ("HBV functional cure 임상 진행", None),
@@ -78,7 +79,6 @@ SERIES = {
         ("KASL 2025 B형간염 가이드라인 update", None),
         ("Fibroscan 신규 임계치 update", None),
         ("SGLT2 억제제와 MASLD", None),
-        ("CHIP과 간 outcomes", None),
     ]),
 }
 
