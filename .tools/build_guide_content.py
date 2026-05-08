@@ -1,184 +1,209 @@
-"""Render plaintext guide HTML from structure.json."""
+"""Render plaintext guide HTML reflecting new 6-series IA."""
 import json
 import html as htmllib
+import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-data = json.loads((ROOT / ".tools" / "structure.json").read_text(encoding="utf-8"))
 
-def esc(s: str) -> str:
-    return htmllib.escape(s or "")
+# 6 series + 10 topics each (mirrors build_series_hubs.py)
+SERIES = {
+    "간암": ("01", [
+        ("간암 진단을 받았을 때, 첫 외래에서 결정되는 것", None),
+        ("BCLC 병기와 치료 옵션 — 무엇이 어떤 환자에게", None),
+        ("절제술 vs 색전술 vs 방사선 — 선택의 기준", None),
+        ("면역치료 1차 시대 — atezolizumab+bevacizumab과 그 이후", None),
+        ("간이식 — 적응증과 대기 기간", None),
+        ("AFP(알파태아단백) — 정상범위와 간암 의심 기준", "/알파태아단백/"),
+        ("B형간염 환자가 6개월마다 간암 검진을 받아야 하는 이유", "/B형간염-간암검진/"),
+        ("지방간에서 간암까지 — 비알코올성 간질환의 간암 위험", "/지방간-간암/"),
+        ("간암 재발 추적 — 첫 5년의 일정", None),
+        ("간암 환자가 알아야 할 식이·일상", None),
+    ]),
+    "간경화": ("02", [
+        ("대상성 vs 비대상성 간경변", None),
+        ("Child-Pugh와 MELD — 점수가 의미하는 것", None),
+        ("식도정맥류 — 첫 신호와 예방적 결찰", None),
+        ("복수 — 단계별 관리", None),
+        ("간성혼수 — 외래에서 알아채는 신호", None),
+        ("간신증후군 — 진단과 즉각 대응", None),
+        ("간경변 영양·근감소증 관리", None),
+        ("간이식 평가 — 누가, 언제 시작하나", None),
+        ("간경변 환자가 피해야 할 약·영양제", None),
+        ("간기능검사가 정상인데 간경변? — 진행된 간경변의 함정", None),
+    ]),
+    "B형간염": ("03", [
+        ("B형간염 약을 평생 먹어야 하나", "/B형간염-평생약/"),
+        ("B형간염 검사 결과지 해석", "/B형간염-검사결과/"),
+        ("B형간염 보균자와 결혼·임신·수유", "/B형간염-결혼-임신/"),
+        ("가족 중 B형간염 환자가 있다면 받아야 할 검사 3가지", "/가족-B형간염-검사/"),
+        ("B형간염 백신 — 누가, 언제, 몇 번", None),
+        ("HBeAg 양성 vs 음성 — 무엇이 다른가", None),
+        ("항바이러스제 비교 — TDF · TAF · ETV", None),
+        ("B형간염 functional cure — 어디까지 와 있나", None),
+        ("항암치료·면역억제제와 B형간염 재활성화", None),
+        ("C형간염 DAA 8주 완치", "/C형간염-완치-DAA/"),
+    ]),
+    "지방간": ("04", [
+        ("NAFLD가 MASLD로 바뀐 이유", "/대사이상지방간-MASLD/"),
+        ("술 안 마시는데 지방간", "/술-안마셔도-지방간/"),
+        ("지방간 치료 — 운동·식이·약물", "/지방간-치료/"),
+        ("지방간에 좋은 음식·피해야 할 음식", "/지방간-음식/"),
+        ("지방간 회복 6개월 패턴", "/지방간-회복-6개월/"),
+        ("지방간 정밀검사 — FIB-4·Fibroscan·MRE", "/지방간-정밀검사/"),
+        ("lean MASLD — 마른 사람의 지방간", None),
+        ("resmetirom과 차세대 지방간 약물", None),
+        ("지방간염(MASH) — 단순 지방간과 무엇이 다른가", None),
+        ("SGLT2·GLP-1 작용제와 지방간", None),
+    ]),
+    "간수치": ("05", [
+        ("건강검진 간수치(AST·ALT) 높음, 첫 단계", "/간수치-높음/"),
+        ("AST·ALT·GGT 차이", "/간수치-종류-차이/"),
+        ("Fibroscan 수치 읽는 법 — F0부터 F4까지", "/간섬유화스캔-수치/"),
+        ("빌리루빈 — 직접·간접 차이", None),
+        ("알부민·PT — 간 합성능 보는 방법", None),
+        ("ALP·GGT — 담도 vs 간세포 손상", None),
+        ("약물·영양제·한약 — 간 손상 가능성 점검", None),
+        ("간수치 정상인데도 간경변일 수 있다", None),
+        ("PIVKA-II — 간암 종양표지자의 또 다른 축", None),
+        ("간생검 — 언제 필요한가", None),
+    ]),
+    "최신 지견": ("06", [
+        ("AASLD 2026 MASH 가이드라인 update", None),
+        ("resmetirom 장기 추적 결과", None),
+        ("HBV functional cure 임상 진행", None),
+        ("HCC 면역치료 1차 — atezo+bev 5년 데이터", None),
+        ("HCC 면역치료 — durva+treme combo", None),
+        ("KASL 2025 간암 가이드라인 변화", None),
+        ("KASL 2025 B형간염 가이드라인 update", None),
+        ("Fibroscan 신규 임계치 update", None),
+        ("SGLT2 억제제와 MASLD", None),
+        ("CHIP과 간 outcomes", None),
+    ]),
+}
 
-def clean_h1(s: str) -> str:
-    return s.replace("<br>", " — ").replace("<br/>", " — ").replace("<br />", " — ")
+def esc(s): return htmllib.escape(s or "")
 
-# Counts
-total = sum(len(v) for v in data.values())
-series_counts = {k: len(v) for k, v in data.items()}
-
-# Quality flags
-missing_tldr = []
-missing_faq = []
-for series, articles in data.items():
-    for a in articles:
-        if not a.get("tldr"):
-            missing_tldr.append(a)
-        if not a.get("faq"):
-            missing_faq.append(a)
+# Compute counts
+total_topics = sum(len(s[1]) for s in SERIES.values())
+total_published = sum(1 for s in SERIES.values() for t in s[1] if t[1])
+total_draft = total_topics - total_published
 
 parts = []
+
+# Overview
 parts.append(f"""
 <section class="overview">
   <h2>사이트 한눈에</h2>
   <div class="stats">
-    <div><strong>{total}</strong><span>총 글 수</span></div>
-    <div><strong>{len(data)}</strong><span>시리즈</span></div>
-    <div><strong>{len(missing_tldr)}</strong><span>tldr 누락</span></div>
-    <div><strong>{len(missing_faq)}</strong><span>FAQ 누락</span></div>
+    <div><strong>{len(SERIES)}</strong><span>시리즈</span></div>
+    <div><strong>{total_topics}</strong><span>계획 토픽</span></div>
+    <div><strong style="color:var(--accent)">{total_published}</strong><span>게시됨</span></div>
+    <div><strong style="color:#c9542b">{total_draft}</strong><span>준비 중</span></div>
   </div>
   <ul class="convention">
-    <li>URL 패턴: <code>/{{한글-슬러그}}/</code> — 폴더당 <code>index.html</code> 한 개</li>
-    <li>head 구성: title · description · canonical · og · twitter · JSON-LD (MedicalWebPage + Person + FAQPage + BreadcrumbList)</li>
-    <li>본문 구조: h1 → <code>.tldr</code> → h2 섹션 4–7개 → FAQ <code>&lt;details&gt;</code> → author-box → related → disclaimer</li>
-    <li>스타일시트: 단일 <code>/style.css</code> (Pretendard 폰트, accent #1f6f5c, max-width 720px)</li>
+    <li>브랜드: <strong>Hepatology Note</strong> · 한국어 부제 "간질환 가이드와 임상 노트"</li>
+    <li>저자 표기: 글마다 photo + "서울대학교병원 소화기내과 · 간암센터" (이름·직책 단어 없음)</li>
+    <li>JSON-LD Person.name = "신현재" 유지 (E-E-A-T 신호, 검색·LLM 인용용)</li>
+    <li>새 페이지: <code>/소개/</code> (학력·경력·진료분야), <code>/논문/</code> (대표 논문 — 입력 대기)</li>
   </ul>
 """)
 
-if missing_tldr or missing_faq:
-    parts.append("""
-  <div class="alert">
-    <strong>구조 불일치 감지</strong>
-    <p>시리즈 1·2는 모두 tldr 박스 + 5개 FAQ를 가지고 있으나, 시리즈 3 (B형·C형 간염) 6개 글은 tldr와 FAQ가 비어있습니다. h1에 <code>&lt;br&gt;</code>이 들어간 점, modified date가 없는 점도 시리즈 1·2와 다릅니다. 시리즈 3을 1·2와 같은 패턴으로 보강하면 SEO·LLM 일관성 모두 개선됩니다.</p>
-  </div>
-""")
-
-parts.append("</section>")
-
-# Series cards
-for series, articles in data.items():
-    parts.append(f'<section class="series">\n<h2>{esc(series)} <span class="count">{len(articles)}</span></h2>\n<div class="cards">\n')
-    for a in articles:
-        h1 = esc(clean_h1(a["h1"]))
-        slug = esc(a["slug"])
-        url = esc(a["url"])
-        desc = esc(a["description"])
-        tldr = esc(a["tldr"]) if a["tldr"] else ""
-        published = esc((a["published"] or "")[:10])
-        modified = esc((a["modified"] or "")[:10]) if a["modified"] else ""
-        sections = a["sections"]
-        faq = a["faq"]
-
-        parts.append(f'<article class="card">\n')
-        parts.append(f'  <div class="card-head">\n')
-        parts.append(f'    <code class="slug">{slug}</code>\n')
-        parts.append(f'    <a class="visit" href="{url}" target="_blank" rel="noopener">열기 ↗</a>\n')
-        parts.append(f'  </div>\n')
-        parts.append(f'  <h3>{h1}</h3>\n')
-        parts.append(f'  <p class="desc">{desc}</p>\n')
-
-        if tldr:
-            parts.append(f'  <div class="tldr-mini"><strong>핵심</strong> {tldr}</div>\n')
-        else:
-            parts.append(f'  <div class="tldr-mini empty"><strong>핵심</strong> <em>(tldr 없음 — 보강 필요)</em></div>\n')
-
-        if sections:
-            parts.append(f'  <div class="block">\n    <strong>섹션 ({len(sections)})</strong>\n    <ol>\n')
-            for s in sections:
-                if s == "같이 읽으면 좋은 글" or s == "관련 글":
-                    parts.append(f'      <li class="muted">{esc(s)}</li>\n')
-                else:
-                    parts.append(f'      <li>{esc(s)}</li>\n')
-            parts.append(f'    </ol>\n  </div>\n')
-
-        if faq:
-            parts.append(f'  <div class="block">\n    <strong>FAQ ({len(faq)})</strong>\n    <ul class="faq">\n')
-            for q in faq:
-                parts.append(f'      <li>{esc(q)}</li>\n')
-            parts.append(f'    </ul>\n  </div>\n')
-        else:
-            parts.append(f'  <div class="block empty"><strong>FAQ</strong> <em>(없음 — 보강 필요)</em></div>\n')
-
-        parts.append(f'  <div class="dates">\n')
-        parts.append(f'    <span>발행 {published}</span>\n')
-        if modified and modified != published:
-            parts.append(f'    <span>수정 {modified}</span>\n')
-        elif not modified:
-            parts.append(f'    <span class="warn-inline">수정일 없음</span>\n')
-        parts.append(f'  </div>\n')
-        parts.append(f'</article>\n')
-    parts.append('</div>\n</section>\n')
-
-# Series 4 placeholder
+# Migration map
 parts.append("""
-<section class="series upcoming">
-  <h2>시리즈 4 · /updates (논문 노트 · 전문가용) <span class="count">0</span></h2>
-  <p class="placeholder">
-    의료진·전공의 대상 hepatology 논문·가이드라인 업데이트 노트.
-    환자용 글과 톤·구조가 다릅니다 (Background → Methods → Findings → Critique → References).
-    JSON-LD type은 <code>ScholarlyArticle</code>, audience는 <code>Physician</code>.
-    URL 패턴: <code>/updates/{학회-연도-키워드}/</code>.
-  </p>
-  <p class="placeholder">아직 글이 없습니다. <a href="/updates/" target="_blank" rel="noopener">/updates/ 허브 페이지 ↗</a></p>
+  <div class="alert" style="border-left-color:var(--accent);background:var(--accent-soft)">
+    <strong style="color:var(--accent)">2026-05-08 리브랜드 완료</strong>
+    <p>"간 건강 가이드" → "Hepatology Note"로 브랜드 변경. 17개 기존 글이 새 6 시리즈 IA로 이주됨. villagebaby.kr 잔재 일괄 정리. 모든 글 byline에서 "글쓴이 신현재", "진료조교수" 표현 제거.</p>
+  </div>
 </section>
 """)
 
-# Coverage gaps
+# Series cards — show each series with all 10 topics, marked published/draft
+for series_name, (num, topics) in SERIES.items():
+    pub_count = sum(1 for t in topics if t[1])
+    parts.append(f'<section class="series">\n')
+    display = "B형 간염" if series_name == "B형간염" else ("간수치 이상" if series_name == "간수치" else series_name)
+    series_url = "/updates/" if series_name == "최신 지견" else f"/{series_name}/"
+    parts.append(f'  <h2>SERIES {num} · {esc(display)} <span class="count">{pub_count}/{len(topics)}</span></h2>\n')
+    parts.append(f'  <p style="margin:0 0 14px;color:var(--muted);font-size:14px"><a href="{esc(series_url)}" target="_blank" rel="noopener" style="color:var(--accent);text-decoration:none">{esc(series_url)} 허브 페이지 ↗</a></p>\n')
+    parts.append('  <div class="cards">\n')
+    for i, (title, slug) in enumerate(topics, 1):
+        parts.append('  <article class="card">\n')
+        parts.append(f'    <div class="card-head">\n')
+        parts.append(f'      <code class="slug">{i:02d}</code>\n')
+        if slug:
+            parts.append(f'      <a class="visit" href="{esc(slug)}" target="_blank" rel="noopener">열기 ↗</a>\n')
+        else:
+            parts.append(f'      <span class="status draft" style="font-size:11px;color:#c9542b;background:#fbe9e1;padding:2px 8px;border-radius:99px;letter-spacing:0.05em;font-weight:600">준비 중</span>\n')
+        parts.append(f'    </div>\n')
+        parts.append(f'    <h3>{esc(title)}</h3>\n')
+        if slug:
+            parts.append(f'    <p class="desc" style="color:var(--accent);font-size:12.5px;margin-top:8px"><code style="color:inherit;background:transparent;padding:0">{esc(slug)}</code></p>\n')
+        parts.append('  </article>\n')
+    parts.append('  </div>\n')
+    parts.append('</section>\n')
+
+# Coverage / next steps
 parts.append("""
 <section class="gaps">
-  <h2>아직 다루지 않은 주요 주제</h2>
-  <p>현재 17개 글은 외래에서 자주 받는 질문을 잘 커버하지만, 다음 주제는 환자 검색량·임상 빈도 대비 비어 있습니다. 우선순위 참고용.</p>
+  <h2>다음 작업 우선순위</h2>
+  <p>토픽 본문 추가는 시리즈별로 batch 작성을 권장합니다. 한 시리즈 내에서 글이 모이면 cross-link이 풍부해지고, 검색에서 "topic cluster"로 인식됩니다.</p>
   <div class="gap-grid">
     <div>
-      <strong>간경변</strong>
+      <strong>1순위 — 간경화 (10편 전부 신규)</strong>
       <ul>
-        <li>대상성 vs 비대상성 차이</li>
-        <li>복수·간성혼수·식도정맥류 첫 신호</li>
-        <li>Child-Pugh / MELD 점수가 의미하는 것</li>
-        <li>간이식 대상자 평가 흐름</li>
+        <li>현재 게시 0편 — 가장 비어 있는 시리즈</li>
+        <li>외래 빈도 높은 토픽 (복수·정맥류·간성혼수)부터 권장</li>
+        <li>5편 단위 batch 작성 권장</li>
       </ul>
     </div>
     <div>
-      <strong>간암</strong>
+      <strong>2순위 — 간암 (7편 신규)</strong>
       <ul>
-        <li>간암 진단 후 첫 외래에서 결정되는 것</li>
-        <li>BCLC 병기와 치료 옵션</li>
-        <li>색전술 · 방사선 · 면역치료 — 무엇이 어떤 환자에게</li>
-        <li>간암 재발 감시 일정</li>
+        <li>현재 게시 3편 (AFP, B형 검진, 지방간→간암)</li>
+        <li>BCLC 병기·치료 선택·면역치료 1차가 검색 수요 ↑</li>
       </ul>
     </div>
     <div>
-      <strong>약물·간 손상</strong>
+      <strong>3순위 — 간수치 (7편 신규)</strong>
       <ul>
-        <li>건강기능식품·한약 간독성</li>
-        <li>타이레놀 안전 용량</li>
-        <li>스타틴은 정말 간에 나쁜가</li>
+        <li>현재 게시 3편 (AST/ALT/GGT, Fibroscan)</li>
+        <li>빌리루빈·알부민·PT는 간단한 글로 빠르게 채울 수 있음</li>
       </ul>
     </div>
     <div>
-      <strong>응급 / 알람 신호</strong>
+      <strong>4순위 — B형간염 (5편 신규)</strong>
       <ul>
-        <li>황달이 보일 때 24시간 안에 해야 할 것</li>
-        <li>토혈·흑변 — 식도정맥류 출혈 신호</li>
-        <li>의식 변화·간성혼수 응급도</li>
+        <li>현재 게시 5편 (포함 C형 1편)</li>
+        <li>functional cure / 항암 시 재활성화는 의료진 검색에도 유리</li>
       </ul>
     </div>
     <div>
-      <strong>예방·생활</strong>
+      <strong>5순위 — 지방간 (4편 신규)</strong>
       <ul>
-        <li>간 건강을 위한 술 한도 — 정확한 숫자</li>
-        <li>간염 백신 — 누가, 언제, 몇 번</li>
-        <li>건강검진 간 검사 어디까지 받아야 충분한가</li>
+        <li>현재 게시 6편 — 가장 채워진 시리즈</li>
+        <li>resmetirom·MASH 본문 등 신약 토픽이 신선도 신호</li>
       </ul>
     </div>
     <div>
-      <strong>기타 임상</strong>
+      <strong>병행 — 최신 지견 (Updates)</strong>
       <ul>
-        <li>간 낭종·혈관종 — 우연히 발견됐을 때</li>
-        <li>철저장과 간 (혈색소증)</li>
-        <li>윌슨병 / 자가면역간염 — 흔치 않지만 놓치면 안 되는 진단</li>
+        <li>현재 0편</li>
+        <li>의료진·SEO 양측에 유리. 학회 가이드라인 update가 검색 신선도 강함</li>
       </ul>
     </div>
   </div>
+</section>
+
+<section class="overview">
+  <h2>알려진 이슈 / 향후 보강</h2>
+  <ul class="convention">
+    <li><strong>Series 3 (B형) 5개 글</strong>: tldr·FAQ가 비어있음. 본문은 충실하나 head JSON-LD에 FAQPage 누락. SEO 향상을 위해 5문항씩 보강 권장.</li>
+    <li><strong>이미지·다이어그램</strong>: 글마다 SVG 다이어그램 2–3개 (예: MASLD progression, BCLC stages, HBV markers). 의학 저널 그림은 저작권 — 직접 SVG로 재구성 권장.</li>
+    <li><strong>sitemap.xml / robots.txt</strong>: 미작성. 다음 단계에 Naver/Google 인증 메타와 함께 추가.</li>
+    <li><strong>논문 페이지</strong>: <code>/논문/</code> 골격만 있음. PubMed ID 또는 인용정보 입력 후 자동 채움.</li>
+    <li><strong>대표 og:image</strong>: 현재 모든 글이 author photo를 og:image로 사용. 글마다 hero 이미지가 생기면 페이지별로 갱신 권장.</li>
+  </ul>
 </section>
 """)
 
@@ -186,4 +211,4 @@ content = "".join(parts)
 
 out = ROOT / ".tools" / "guide_content.html"
 out.write_text(content, encoding="utf-8")
-print(f"Wrote {out} ({len(content)} bytes)")
+print(f"Wrote {out} ({len(content)} bytes, {total_topics} topics, {total_published} published)")
