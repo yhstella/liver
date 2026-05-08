@@ -1,0 +1,5 @@
+.tools/structure.json
+.tools/guide_content.html
+*.tmp
+.DS_Store
+Thumbs.db

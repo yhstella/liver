@@ -1,0 +1,227 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>사이트 가이드 (인증 필요) — drshin.kr</title>
+<meta name="description" content="비공개 페이지. 로그인 후 조회 가능.">
+<meta name="robots" content="noindex,nofollow">
+<link rel="canonical" href="https://drshin.kr/guide/">
+<link rel="icon" href="/favicon.png">
+<link rel="stylesheet" href="/style.css">
+<style>
+.guide-wrap{max-width:960px;margin:0 auto;padding:24px 20px 80px}
+.login{max-width:380px;margin:80px auto 0;padding:32px 28px;background:#fff;border:1px solid var(--line);border-radius:12px}
+.login h1{font-size:20px;margin:0 0 6px;letter-spacing:-0.01em}
+.login p.sub{margin:0 0 24px;color:var(--muted);font-size:14px}
+.login label{display:block;font-size:13px;color:var(--muted);margin:14px 0 4px;letter-spacing:0.02em}
+.login input{width:100%;padding:10px 12px;font-size:15px;border:1px solid var(--line);border-radius:8px;background:#fafaf7;font-family:inherit;color:var(--fg)}
+.login input:focus{outline:none;border-color:var(--accent);background:#fff}
+.login button{margin-top:20px;width:100%;padding:11px;background:var(--accent);color:#fff;border:0;border-radius:8px;font-size:15px;font-weight:600;cursor:pointer;font-family:inherit}
+.login button:hover{background:#185e4d}
+.login button:disabled{opacity:0.5;cursor:wait}
+.login .err{margin-top:14px;color:#c9542b;font-size:13px;min-height:18px}
+.login .hint{margin-top:18px;font-size:12px;color:var(--muted);line-height:1.6}
+.guide-content{display:none}
+.guide-content.shown{display:block}
+
+/* Guide content styles */
+.guide-content section{margin:48px 0}
+.guide-content h2{font-size:22px;line-height:1.4;margin:0 0 16px;letter-spacing:-0.01em;border-bottom:2px solid var(--line);padding-bottom:8px}
+.guide-content h2 .count{display:inline-block;background:var(--accent-soft);color:var(--accent);font-size:13px;padding:2px 10px;border-radius:99px;font-weight:600;margin-left:8px;vertical-align:middle}
+.guide-content h3{font-size:17px;line-height:1.45;margin:0 0 8px}
+.overview .stats{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin:16px 0 24px}
+.overview .stats > div{background:#fff;border:1px solid var(--line);border-radius:10px;padding:16px 14px;text-align:center}
+.overview .stats strong{display:block;font-size:28px;font-weight:700;color:var(--accent);letter-spacing:-0.02em}
+.overview .stats span{font-size:12px;color:var(--muted);letter-spacing:0.03em}
+.overview .convention{padding-left:20px;font-size:14.5px;line-height:1.85}
+.overview .convention code{background:#f3f1ec;padding:1px 6px;border-radius:4px;font-size:13px;color:var(--accent);font-family:Consolas,Menlo,monospace}
+.alert{margin-top:20px;border-left:4px solid #c9542b;background:#fbe9e1;padding:14px 18px;border-radius:0 8px 8px 0}
+.alert strong{display:block;color:#c9542b;font-size:13px;letter-spacing:0.05em;margin-bottom:6px}
+.alert p{margin:0;font-size:14.5px;line-height:1.7}
+
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(360px,1fr));gap:16px}
+.card{background:#fff;border:1px solid var(--line);border-radius:12px;padding:18px 20px;display:flex;flex-direction:column}
+.card-head{display:flex;justify-content:space-between;align-items:center;margin-bottom:8px}
+.card-head .slug{font-family:Consolas,Menlo,monospace;font-size:12px;color:var(--muted);background:#f3f1ec;padding:2px 8px;border-radius:4px}
+.card-head .visit{font-size:12px;color:var(--accent);text-decoration:none;font-weight:600}
+.card-head .visit:hover{text-decoration:underline}
+.card h3{margin:0 0 6px;font-size:16.5px;line-height:1.4;letter-spacing:-0.01em}
+.card .desc{margin:0 0 10px;font-size:13px;color:var(--muted);line-height:1.55}
+.card .tldr-mini{background:var(--accent-soft);border-radius:6px;padding:10px 12px;font-size:13px;line-height:1.6;margin:8px 0}
+.card .tldr-mini strong{color:var(--accent);font-size:11px;letter-spacing:0.05em;display:block;margin-bottom:2px}
+.card .tldr-mini.empty{background:#fbe9e1}
+.card .tldr-mini.empty strong{color:#c9542b}
+.card .tldr-mini em{color:#c9542b;font-style:normal}
+.card .block{margin:10px 0}
+.card .block > strong{display:block;font-size:11px;color:var(--muted);letter-spacing:0.06em;margin-bottom:4px;text-transform:uppercase}
+.card .block ol,.card .block ul{margin:0;padding-left:18px;font-size:13.5px;line-height:1.65}
+.card .block ol li,.card .block ul li{margin:1px 0}
+.card .block .muted{color:var(--muted);font-style:italic}
+.card .block.empty{color:#c9542b;font-size:12px}
+.card .block.empty em{font-style:normal}
+.card .dates{margin-top:auto;padding-top:10px;display:flex;gap:12px;font-size:11px;color:var(--muted);letter-spacing:0.02em;border-top:1px dashed var(--line)}
+.card .dates .warn-inline{color:#c9542b}
+.card .faq li{color:#2a2a2a}
+
+.upcoming .placeholder{background:#fafaf7;border:1px dashed var(--line);border-radius:10px;padding:14px 16px;font-size:14px;color:var(--muted);line-height:1.7;margin:8px 0}
+.upcoming .placeholder code{font-size:12.5px;color:var(--accent)}
+.upcoming .placeholder a{color:var(--accent);font-weight:600}
+
+.gap-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px;margin-top:14px}
+.gap-grid > div{background:#fff;border:1px solid var(--line);border-radius:10px;padding:14px 18px}
+.gap-grid strong{display:block;color:var(--accent);font-size:14px;margin-bottom:6px;letter-spacing:-0.01em}
+.gap-grid ul{margin:0;padding-left:18px;font-size:13.5px;line-height:1.7;color:#2a2a2a}
+
+.logout-bar{position:sticky;top:0;background:rgba(250,250,247,0.95);backdrop-filter:blur(6px);border-bottom:1px solid var(--line);padding:10px 20px;font-size:13px;display:flex;justify-content:space-between;align-items:center;z-index:10}
+.logout-bar .who{color:var(--muted)}
+.logout-bar button{background:none;border:1px solid var(--line);color:var(--fg);padding:5px 12px;border-radius:6px;font-size:12px;cursor:pointer;font-family:inherit}
+.logout-bar button:hover{border-color:var(--accent);color:var(--accent)}
+
+@media (max-width:600px){
+  .overview .stats{grid-template-columns:repeat(2,1fr)}
+  .cards{grid-template-columns:1fr}
+}
+</style>
+</head>
+<body>
+<header class="site-header"><div class="inner"><strong><a href="/">간 건강 가이드</a></strong><span style="display:block;color:var(--muted);font-size:12px">사이트 가이드</span></div></header>
+
+<main>
+
+<!-- Login form (visible until decryption) -->
+<form class="login" id="login-form" autocomplete="off">
+  <h1>사이트 가이드</h1>
+  <p class="sub">비공개 페이지입니다. 로그인 정보를 입력해 주세요.</p>
+  <label for="u">사용자명</label>
+  <input type="text" id="u" name="u" autocapitalize="off" autocorrect="off" spellcheck="false" required>
+  <label for="p">비밀번호</label>
+  <input type="password" id="p" name="p" required>
+  <button type="submit" id="submit-btn">로그인</button>
+  <div class="err" id="err" role="alert" aria-live="polite"></div>
+  <p class="hint">이 페이지는 클라이언트 측 AES-GCM 암호화로 보호됩니다. 본문은 정확한 사용자명·비밀번호 조합으로만 복호화됩니다.</p>
+</form>
+
+<!-- Encrypted content + decryption logic -->
+<div class="guide-wrap">
+  <div class="logout-bar guide-content" id="logout-bar">
+    <span class="who">로그인됨</span>
+    <button type="button" id="logout-btn">로그아웃</button>
+  </div>
+  <div class="guide-content" id="guide-body">
+    <h1 style="font-size:26px;margin:24px 0 4px;letter-spacing:-0.02em">사이트 가이드</h1>
+    <p style="margin:0 0 32px;color:var(--muted);font-size:14px">drshin.kr · 콘텐츠 구조 한눈에 보기 (비공개)</p>
+    <div id="guide-content-target"></div>
+  </div>
+</div>
+
+</main>
+
+<script>
+(function(){
+  const SALT_B64 = '__SALT__';
+  const IV_B64 = '__IV__';
+  const CT_B64 = '__CT__';
+  const ITER = __ITER__;
+  const STORAGE_KEY = 'drshin-guide-auth';
+
+  const form = document.getElementById('login-form');
+  const errEl = document.getElementById('err');
+  const submitBtn = document.getElementById('submit-btn');
+  const guideEls = document.querySelectorAll('.guide-content');
+  const target = document.getElementById('guide-content-target');
+  const logoutBtn = document.getElementById('logout-btn');
+
+  function b64ToBytes(b64){
+    const bin = atob(b64);
+    const arr = new Uint8Array(bin.length);
+    for(let i=0;i<bin.length;i++) arr[i] = bin.charCodeAt(i);
+    return arr;
+  }
+
+  async function deriveKey(user, pass, saltBytes){
+    const enc = new TextEncoder();
+    const material = await crypto.subtle.importKey(
+      'raw',
+      enc.encode(user + ':' + pass),
+      'PBKDF2',
+      false,
+      ['deriveKey']
+    );
+    return crypto.subtle.deriveKey(
+      {name:'PBKDF2', salt:saltBytes, iterations:ITER, hash:'SHA-256'},
+      material,
+      {name:'AES-GCM', length:256},
+      false,
+      ['decrypt']
+    );
+  }
+
+  async function tryDecrypt(user, pass){
+    const salt = b64ToBytes(SALT_B64);
+    const iv = b64ToBytes(IV_B64);
+    const ct = b64ToBytes(CT_B64);
+    const key = await deriveKey(user, pass, salt);
+    const plain = await crypto.subtle.decrypt({name:'AES-GCM', iv:iv}, key, ct);
+    const text = new TextDecoder().decode(plain);
+    if(!text.startsWith('OK\n')) throw new Error('magic mismatch');
+    return text.slice(3);
+  }
+
+  function showGuide(html){
+    target.innerHTML = html;
+    form.style.display = 'none';
+    guideEls.forEach(el => el.classList.add('shown'));
+  }
+
+  function showLogin(){
+    form.style.display = '';
+    guideEls.forEach(el => el.classList.remove('shown'));
+  }
+
+  // Try resume from sessionStorage
+  (async function(){
+    try{
+      const cached = sessionStorage.getItem(STORAGE_KEY);
+      if(cached){
+        const {u, p} = JSON.parse(cached);
+        const html = await tryDecrypt(u, p);
+        showGuide(html);
+        return;
+      }
+    }catch(e){
+      sessionStorage.removeItem(STORAGE_KEY);
+    }
+  })();
+
+  form.addEventListener('submit', async function(ev){
+    ev.preventDefault();
+    errEl.textContent = '';
+    submitBtn.disabled = true;
+    submitBtn.textContent = '확인 중…';
+    const u = document.getElementById('u').value.trim();
+    const p = document.getElementById('p').value;
+    try{
+      const html = await tryDecrypt(u, p);
+      try{ sessionStorage.setItem(STORAGE_KEY, JSON.stringify({u, p})); }catch(e){}
+      showGuide(html);
+    }catch(e){
+      errEl.textContent = '사용자명 또는 비밀번호가 올바르지 않습니다.';
+      submitBtn.disabled = false;
+      submitBtn.textContent = '로그인';
+    }
+  });
+
+  logoutBtn.addEventListener('click', function(){
+    sessionStorage.removeItem(STORAGE_KEY);
+    target.innerHTML = '';
+    document.getElementById('u').value = '';
+    document.getElementById('p').value = '';
+    submitBtn.disabled = false;
+    submitBtn.textContent = '로그인';
+    showLogin();
+  });
+})();
+</script>
+</body>
+</html>
