@@ -81,6 +81,30 @@ Shin H, Hur MH, Song BG, et al. AI model using CT-based imaging biomarkers to pr
 <p>CT 영상에서 정량적 바이오마커(간 부피·표면 결절성·비장 부피·문맥압 추정 등)를 자동 추출해 AI 모델 학습에 사용합니다. 이런 영상 마커는 사람 눈으로 보는 정성적 판독보다 객관적이고 시간 추세 비교가 쉬워요. 모델은 영상 + 임상 변수를 통합해 개별 환자 위험을 출력합니다.</p>
 </div>
 
+<!-- update-fig -->
+<svg class="fig" viewBox="0 0 720 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="AI-CT 모델의 HCC 위험 stratification — CHB 환자">
+<text x="20" y="26" font-size="15" font-weight="600" fill="#1f6f5c">AI-CT 위험 점수에 따른 HCC 누적 발생률 (CHB)</text>
+<line x1="60" y1="180" x2="700" y2="180" stroke="#5a5a5a" stroke-width="1.5"/>
+<line x1="60" y1="50" x2="60" y2="180" stroke="#5a5a5a" stroke-width="1.5"/>
+<text x="48" y="184" text-anchor="end" font-size="11" fill="#5a5a5a">0%</text>
+<text x="48" y="120" text-anchor="end" font-size="11" fill="#5a5a5a">15%</text>
+<text x="48" y="60" text-anchor="end" font-size="11" fill="#5a5a5a">30% HCC</text>
+<text x="370" y="200" text-anchor="middle" font-size="11" fill="#5a5a5a">시간 (년)</text>
+<g font-size="11" fill="#5a5a5a">
+<text x="120" y="195" text-anchor="middle">0</text><text x="240" y="195" text-anchor="middle">2</text>
+<text x="360" y="195" text-anchor="middle">4</text><text x="480" y="195" text-anchor="middle">6</text>
+<text x="600" y="195" text-anchor="middle">8</text>
+</g>
+<path d="M120 178 L210 165 L300 145 L390 120 L480 90 L580 60" fill="none" stroke="#c9542b" stroke-width="3"/>
+<text x="600" y="55" font-size="11" fill="#c9542b" font-weight="600">AI 고위험</text>
+<path d="M120 178 L210 175 L300 170 L390 162 L480 152 L580 138" fill="none" stroke="#fbbf24" stroke-width="3"/>
+<text x="600" y="135" font-size="11" fill="#a16207" font-weight="600">중위험</text>
+<path d="M120 178 L210 178 L300 177 L390 175 L480 172 L580 168" fill="none" stroke="#1f6f5c" stroke-width="3"/>
+<text x="600" y="165" font-size="11" fill="#1f6f5c" font-weight="600">저위험</text>
+</svg>
+<p class="fig-caption">AI-CT 점수가 임상 위험 인자 단독보다 HCC 발생을 잘 stratification합니다. (도식적 표현)</p>
+<!-- /update-fig -->
+
 <div class="note-section"><h2><span class="label">KEY POINT</span>임상 함의</h2>
 <p>이 모델이 외래에 적용되면 "이번 검진에서 다음 6개월·1년 위험은 얼마인가"를 더 정확히 답할 수 있게 됩니다. 다만 외부 검증, 다른 인종·지역으로의 일반화, 임상 워크플로 통합은 후속 연구가 필요해요. AI 영상 바이오마커는 hepatology 임상 결정 지원의 다음 세대로 활발히 연구되고 있는 분야입니다.</p>
 </div>
