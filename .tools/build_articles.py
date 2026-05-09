@@ -156,6 +156,7 @@ def render_article(spec):
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/favicon.png">
 <link rel="stylesheet" href="/style.css">
+<script src="/assets/js/figure-zoom.js" defer></script>
 <script type="application/ld+json">
 {{"@context":"https://schema.org","@graph":[
 {','.join(jsonld_graph)}

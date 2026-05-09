@@ -129,6 +129,7 @@ def render_update(spec):
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/favicon.png">
 <link rel="stylesheet" href="/style.css">
+<script src="/assets/js/figure-zoom.js" defer></script>
 <script type="application/ld+json">
 {{"@context":"https://schema.org","@graph":[
 {{"@type":"ScholarlyArticle","@id":"{canonical}#webpage","url":"{canonical}","name":"{esc(h1)}","description":"{esc(description)}","inLanguage":"ko","datePublished":"{published}","dateModified":"{published}","author":{{"@id":"https://drshin.kr/#author"}},"isPartOf":{{"@id":"https://drshin.kr/#website"}},"citation":"{esc(cite)}"}},
