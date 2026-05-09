@@ -195,6 +195,14 @@ h1 .page-id,h3 .page-id{font-size:0.55em;margin-left:8px;vertical-align:middle}
 .case-list .case-row:hover .body h3{color:var(--accent)}
 .case-list .case-row .body p{margin:0;font-size:14px;color:var(--muted);line-height:1.55}
 
+/* === Real figures from private-figures (Wikimedia/PubChem) === */
+figure.real-fig{margin:24px auto;max-width:560px;background:#fff;border:1px solid var(--line);border-radius:8px;padding:14px;display:block}
+figure.real-fig img{display:block;width:100%;height:auto;background:#fafaf7;border-radius:4px;cursor:zoom-in;max-height:480px;object-fit:contain}
+figure.real-fig figcaption{margin:10px 4px 0;font-size:13px;line-height:1.55;color:var(--muted)}
+figure.real-fig figcaption .fig-meta{color:var(--muted);font-size:12px}
+figure.real-fig figcaption a{color:var(--muted);text-decoration:underline;text-decoration-color:var(--line)}
+figure.real-fig figcaption a:hover{color:var(--accent)}
+
 /* === Paper figures (real images from PMC OA) === */
 figure.paper-fig{margin:24px 0;background:#fff;border:1px solid var(--line);border-radius:8px;padding:14px;display:block}
 figure.paper-fig img{display:block;width:100%;height:auto;background:#fafaf7;border-radius:4px;cursor:zoom-in}
