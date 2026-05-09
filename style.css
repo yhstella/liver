@@ -179,3 +179,12 @@ ol.references li a:hover{text-decoration:underline}
   .author-box img.author-photo{width:48px;height:48px}
   .site-footer .inner{grid-template-columns:1fr}
 }
+
+/* === Per-page figure cards (private-figures embed) === */
+.page-figures{margin:48px 0 32px}
+.page-figure-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px}
+.page-figure-card{margin:0;background:#fff;border:1px solid var(--line);border-radius:10px;padding:10px;display:flex;flex-direction:column;gap:8px}
+.page-figure-card img{width:100%;height:auto;display:block;border-radius:6px;background:#f8fafc;cursor:zoom-in}
+.page-figure-card figcaption{font-size:13px;color:var(--muted);line-height:1.5}
+.page-figure-card figcaption a{color:var(--muted);text-decoration:underline;text-decoration-color:var(--line)}
+.page-figure-card figcaption a:hover{color:var(--accent)}
