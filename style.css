@@ -180,6 +180,21 @@ ol.references li a:hover{text-decoration:underline}
   .site-footer .inner{grid-template-columns:1fr}
 }
 
+/* === Page ID label === */
+.page-id{display:inline-block;font-family:'JetBrains Mono','SF Mono',Consolas,monospace;font-size:12px;color:#8a6d3b;background:#fdf6e3;padding:1px 7px;border-radius:4px;letter-spacing:0.02em;border:1px solid #f0e3c0;font-weight:500;vertical-align:middle}
+h1 .page-id,h3 .page-id{font-size:0.55em;margin-left:8px;vertical-align:middle}
+
+/* === Case intro & list (revised 2026-05-10) === */
+.case-intro{background:#fff;border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:0 8px 8px 0;padding:18px 22px;margin:18px 0 28px;font-size:16px;line-height:1.75}
+.case-intro p{margin:0}
+.case-list{display:flex;flex-direction:column;gap:0;border-top:1px solid var(--line);margin:24px 0}
+.case-list .case-row{display:flex;gap:14px;padding:18px 4px;border-bottom:1px solid var(--line);text-decoration:none;color:var(--fg);align-items:flex-start}
+.case-list .case-row:hover{background:#f9f8f3}
+.case-list .case-row .page-id{flex-shrink:0;margin-top:2px}
+.case-list .case-row .body h3{margin:0 0 4px;font-size:17px;color:var(--fg);font-weight:600}
+.case-list .case-row:hover .body h3{color:var(--accent)}
+.case-list .case-row .body p{margin:0;font-size:14px;color:var(--muted);line-height:1.55}
+
 /* === Per-page figure cards (private-figures embed) === */
 .page-figures{margin:48px 0 32px}
 .page-figure-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px}
