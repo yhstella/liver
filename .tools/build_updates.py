@@ -146,8 +146,6 @@ def render_update(spec):
 <nav class="crumb"><a href="/">홈</a> › <a href="/updates/">최신 지견</a> › <span>{esc(last_crumb)}</span></nav>
 <article>
 <h1>{esc(h1)}</h1>
-<p class="meta">서울대학교병원 소화기내과 · 작성 {published} · 검토 {published}</p>
-
 <div class="cite-banner">
 <strong>원문</strong>
 {cite}

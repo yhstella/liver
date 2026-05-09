@@ -175,8 +175,6 @@ svg.fig text{{font-family:"Pretendard","Apple SD Gothic Neo","Noto Sans KR",sans
 <nav class="crumb"><a href="/">홈</a> › <a href="/{series_slug}/">{esc(series_display)}</a> › <span>{esc(last_crumb)}</span></nav>
 <article>
 <h1>{esc(h1)}</h1>
-<p class="meta">서울대학교병원 소화기내과 · 작성 {published} · 검토 {published}</p>
-
 {body_html}
 
 {faq_html}
