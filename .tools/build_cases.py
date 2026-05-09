@@ -8,6 +8,7 @@ Anonymization disclaimer only at bottom.
 import sys, os, re, html as htmllib
 sys.path.insert(0, os.path.dirname(__file__))
 from pathlib import Path
+from case_figures import CASE_FIGURES
 
 ROOT = Path(__file__).resolve().parent.parent
 def esc(s): return htmllib.escape(s or "")
@@ -676,9 +677,15 @@ CASES.append({
 # === Render ===
 def render_case(spec, page_id):
     intro_html = formalize(spec["intro"])
+    fig_spec = CASE_FIGURES.get(spec["slug"])
+    fig_after = fig_spec["after"] if fig_spec else -1
+    fig_html = fig_spec["svg"] if fig_spec else ""
+
     sections_html = ""
-    for h2, body in spec["sections"]:
+    for idx, (h2, body) in enumerate(spec["sections"]):
         sections_html += f'<div class="case-section"><h2>{esc(h2)}</h2>\n{formalize(body)}\n</div>\n\n'
+        if idx == fig_after and fig_html:
+            sections_html += fig_html + "\n\n"
 
     teaching_html = "".join(f'<li>{esc(t)}</li>' for t in spec["teaching"])
     related_html = "".join(f'<li><a href="{esc(u)}">{esc(t)}</a></li>' for u, t in spec["related"])
