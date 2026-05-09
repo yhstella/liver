@@ -263,6 +263,79 @@ def svg_checklist(title, items, caption=""):
 {chr(10).join(parts)}
 </svg>{cap}'''
 
+def svg_flow_arrows(steps, caption="", title=""):
+    """Process flow with prominent colored arrows. steps=[(label,sublabel,color)]."""
+    n = len(steps)
+    box_w = min(130, (700 - (n-1)*40) // n)
+    arrow_w = 40
+    total_w = n * box_w + (n - 1) * arrow_w
+    start_x = (720 - total_w) // 2
+    title_h = 35 if title else 0
+    h = 180 + title_h
+    colors = {
+        'normal': ('#fff', '#bcbcb0', '#1a1a1a'),
+        'accent': ('#e8f3ef', '#1f6f5c', '#1f6f5c'),
+        'warn':   ('#fef3e0', '#b8650a', '#b8650a'),
+        'danger': ('#fce7e0', '#c9542b', '#c9542b'),
+    }
+    parts = []
+    if title:
+        parts.append(f'<text x="20" y="26" font-size="15" font-weight="700" fill="#1f6f5c">{esc(title)}</text>')
+    box_y = 50 + title_h
+    for i, step in enumerate(steps):
+        label = step[0]
+        sublabel = step[1] if len(step) > 1 else ''
+        color_key = step[2] if len(step) > 2 else 'normal'
+        x = start_x + i * (box_w + arrow_w)
+        bg, border, txt = colors.get(color_key, colors['normal'])
+        parts.append(f'<rect x="{x}" y="{box_y}" width="{box_w}" height="100" rx="10" fill="{bg}" stroke="{border}" stroke-width="2.5"/>')
+        parts.append(f'<text x="{x+box_w//2}" y="{box_y+45}" text-anchor="middle" font-size="14" font-weight="700" fill="{txt}">{esc(label)}</text>')
+        if sublabel:
+            parts.append(f'<text x="{x+box_w//2}" y="{box_y+70}" text-anchor="middle" font-size="11" fill="#5a5a5a">{esc(sublabel)}</text>')
+        if i < n - 1:
+            ax = x + box_w + 6
+            ay = box_y + 50
+            parts.append(f'<path d="M{ax} {ay} L{ax+arrow_w-12} {ay}" stroke="#5a5a5a" stroke-width="3" marker-end="url(#bigarr)" fill="none"/>')
+    cap = f'<p class="fig-caption">{esc(caption)}</p>' if caption else ''
+    return f'''<svg class="fig" viewBox="0 0 720 {h}" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="{esc(caption or title or "flow")}">
+<defs><marker id="bigarr" markerWidth="12" markerHeight="12" refX="10" refY="3" orient="auto"><path d="M0,0 L0,6 L10,3 z" fill="#5a5a5a"/></marker></defs>
+{chr(10).join(parts)}
+</svg>{cap}'''
+
+
+def svg_progression_bar(stages, caption="", title=""):
+    """Horizontal progression bar with colored segments."""
+    title_h = 35 if title else 0
+    h = 130 + title_h
+    bar_y = 40 + title_h
+    bar_h = 56
+    total_w = 660
+    start_x = 30
+    seg_w = total_w // len(stages)
+    colors = ['#e8f3ef', '#fff8e0', '#fef3e0', '#fce7e0', '#f3d4c0']
+    border_colors = ['#1f6f5c', '#a88a3a', '#b8650a', '#c9542b', '#8b3d1c']
+    parts = []
+    if title:
+        parts.append(f'<text x="20" y="26" font-size="15" font-weight="700" fill="#1f6f5c">{esc(title)}</text>')
+    for i, stage in enumerate(stages):
+        label = stage[0]
+        sublabel = stage[1] if len(stage) > 1 else ''
+        x = start_x + i * seg_w
+        ci = min(i, len(colors) - 1)
+        parts.append(f'<rect x="{x}" y="{bar_y}" width="{seg_w}" height="{bar_h}" fill="{colors[ci]}" stroke="{border_colors[ci]}" stroke-width="1.5"/>')
+        parts.append(f'<text x="{x+seg_w//2}" y="{bar_y+bar_h//2-2}" text-anchor="middle" font-size="14" font-weight="700" fill="{border_colors[ci]}">{esc(label)}</text>')
+        if sublabel:
+            parts.append(f'<text x="{x+seg_w//2}" y="{bar_y+bar_h//2+18}" text-anchor="middle" font-size="11" fill="#5a5a5a">{esc(sublabel)}</text>')
+    arrow_y = bar_y + bar_h + 22
+    parts.append(f'<line x1="30" y1="{arrow_y}" x2="685" y2="{arrow_y}" stroke="#5a5a5a" stroke-width="1.5" marker-end="url(#progarr)"/>')
+    parts.append(f'<text x="690" y="{arrow_y+5}" text-anchor="end" font-size="11" fill="#5a5a5a">→ 진행</text>')
+    cap = f'<p class="fig-caption">{esc(caption)}</p>' if caption else ''
+    return f'''<svg class="fig" viewBox="0 0 720 {h}" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="{esc(caption or title or "progression")}">
+<defs><marker id="progarr" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#5a5a5a"/></marker></defs>
+{chr(10).join(parts)}
+</svg>{cap}'''
+
+
 def svg_compare_two(title_a, items_a, title_b, items_b, caption=""):
     """Two-column comparison cards."""
     h = 60 + max(len(items_a), len(items_b)) * 26 + 40
