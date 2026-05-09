@@ -12,6 +12,22 @@
 .home-hero .photo img{width:200px;height:200px;border-radius:12px;object-fit:cover;object-position:center 25%;background:#f3f1ec;display:block}
 
 .series-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin:0 0 56px}
+.series-grid.five-cols{grid-template-columns:repeat(5,1fr);gap:12px;margin-bottom:32px}
+.updates-section{margin:0 0 56px;padding-top:24px;border-top:1px solid var(--line)}
+.updates-tile{display:flex;justify-content:space-between;align-items:center;padding:24px 28px;background:var(--accent-soft);border:1px solid var(--accent);border-radius:12px;text-decoration:none;color:var(--fg);transition:background .15s}
+.updates-tile:hover{background:#dceae5}
+.updates-tile-text h3{margin:0 0 6px;font-size:21px;letter-spacing:-0.01em;font-weight:600;color:var(--accent)}
+.updates-tile-text .updates-arrow{font-weight:400;margin-left:4px}
+.updates-tile-text p{margin:0;font-size:14px;color:#2a2a2a;line-height:1.6}
+.updates-tile .count{background:var(--accent);color:#fff;padding:6px 14px;border-radius:99px;font-size:13px;font-weight:600;letter-spacing:0.05em;flex-shrink:0;margin-left:20px}
+@media(max-width:900px){
+  .series-grid.five-cols{grid-template-columns:repeat(2,1fr)}
+}
+@media(max-width:600px){
+  .series-grid.five-cols{grid-template-columns:1fr}
+  .updates-tile{flex-direction:column;align-items:flex-start;gap:14px}
+  .updates-tile .count{margin-left:0}
+}
 .series-tile{display:block;padding:22px 22px 24px;background:#fff;border:1px solid var(--line);border-radius:12px;text-decoration:none;color:var(--fg);transition:border-color .15s,transform .15s}
 .series-tile:hover{border-color:var(--accent);transform:translateY(-2px)}
 .series-tile .num{font-family:"Times New Roman",Georgia,serif;font-size:13px;color:var(--accent);letter-spacing:0.1em;margin-bottom:8px;display:block}
@@ -75,11 +91,12 @@
 svg.fig{display:block;width:100%;height:auto;max-width:720px;margin:20px auto;background:#fff;border:1px solid var(--line);border-radius:8px;transition:border-color .15s}
 svg.fig text{font-family:"Pretendard","Apple SD Gothic Neo","Noto Sans KR",sans-serif}
 svg.fig:hover{border-color:var(--accent)}
-.fig-caption{font-size:12.5px;color:var(--muted);text-align:center;margin:-12px 0 24px;letter-spacing:0.01em}
+.fig-caption{display:none}
 .fig-modal-overlay{position:fixed;inset:0;background:rgba(20,20,18,0.88);z-index:1000;display:flex;align-items:center;justify-content:center;padding:20px;animation:fadeIn .15s}
 @keyframes fadeIn{from{opacity:0}to{opacity:1}}
-.fig-modal-box{position:relative;max-width:95vw;max-height:95vh;background:#fff;border-radius:12px;padding:24px 24px 16px;overflow:auto;box-shadow:0 30px 80px rgba(0,0,0,0.5)}
-.fig-modal-svg{display:block;width:100%;height:auto;min-width:280px;max-width:1100px}
+.fig-modal-box{position:relative;width:min(96vw,1400px);max-height:96vh;background:#fff;border-radius:12px;padding:32px 32px 24px;overflow:auto;box-shadow:0 30px 80px rgba(0,0,0,0.5)}
+.fig-modal-svg{display:block;width:100%;height:auto}
+.fig-modal-svg text{font-size:140% !important}
 .fig-modal-caption{font-size:13px;color:var(--muted);text-align:center;margin:14px 0 0;letter-spacing:0.01em;line-height:1.5}
 .fig-modal-close{position:absolute;top:8px;right:12px;background:transparent;border:none;font-size:30px;cursor:pointer;color:var(--muted);width:36px;height:36px;line-height:36px;padding:0;font-family:inherit}
 .fig-modal-close:hover{color:var(--fg)}
