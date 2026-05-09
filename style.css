@@ -87,6 +87,36 @@
 .pub-list .pub-links a:hover{text-decoration:underline}
 .pub-empty{padding:48px 20px;text-align:center;color:var(--muted);background:#fafaf7;border:1px dashed var(--line);border-radius:10px;margin:24px 0}
 
+/* Virtual case pages */
+.case-badge{display:inline-block;background:#fef3e0;color:#b8650a;font-size:11px;padding:3px 10px;border-radius:99px;letter-spacing:0.05em;font-weight:600;margin-bottom:10px}
+.patient-card{background:#fff;border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:8px;padding:18px 22px;margin:16px 0 28px}
+.patient-card h3{margin:0 0 8px;font-size:13px;color:var(--muted);letter-spacing:0.06em;text-transform:uppercase;font-weight:600}
+.patient-card .demo{font-size:16px;font-weight:600;margin:0 0 6px;color:var(--fg)}
+.patient-card .summary{margin:0;color:#2a2a2a;font-size:14.5px;line-height:1.6}
+.case-section{margin:28px 0}
+.case-section h2{font-family:'Times New Roman',Georgia,serif;font-size:19px;letter-spacing:-0.01em;font-weight:600;margin:0 0 10px;color:var(--accent);border-bottom:1px solid var(--line);padding-bottom:6px}
+.lab-table{font-size:14px;border-collapse:collapse;margin:8px 0}
+.lab-table td{padding:4px 12px 4px 0;border:0}
+.lab-table td:first-child{color:var(--muted);font-weight:500}
+.lab-table td:nth-child(2){font-weight:600}
+.lab-table td.abn{color:#c9542b;font-weight:600}
+.teaching-box{background:#e8f3ef;border-radius:8px;padding:16px 20px;margin:24px 0;font-size:14.5px;line-height:1.7}
+.teaching-box h2{font-size:14px;color:var(--accent);letter-spacing:0.06em;text-transform:uppercase;margin:0 0 8px;font-weight:600;border:0;padding:0;font-family:Pretendard,sans-serif}
+.teaching-box ul{margin:6px 0 0;padding-left:22px}
+.teaching-box li{margin:4px 0;color:#1a1a1a}
+.case-disclaimer{background:#fbe9e1;border-left:4px solid #c9542b;border-radius:0 8px 8px 0;padding:12px 16px;margin:24px 0;font-size:13px;color:#1a1a1a;line-height:1.6}
+.case-disclaimer strong{color:#c9542b}
+
+/* Case landing grid */
+.case-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:14px;margin:24px 0}
+.case-grid > a{display:block;padding:18px 22px;background:#fff;border:1px solid var(--line);border-radius:10px;text-decoration:none;color:var(--fg);transition:border-color .15s,transform .15s}
+.case-grid > a:hover{border-color:var(--accent);transform:translateY(-2px)}
+.case-grid .case-num{font-family:'Times New Roman',Georgia,serif;font-size:12px;color:var(--accent);letter-spacing:0.08em;display:block;margin-bottom:4px}
+.case-grid h3{margin:0 0 6px;font-size:16px;line-height:1.4;letter-spacing:-0.005em;font-weight:600}
+.case-grid p{margin:0;font-size:13px;color:var(--muted);line-height:1.55}
+.case-section-label{font-size:13px;color:var(--accent);letter-spacing:0.08em;text-transform:uppercase;font-weight:600;margin:32px 0 8px;border-bottom:2px solid var(--accent-soft);padding-bottom:6px}
+@media(max-width:600px){.case-grid{grid-template-columns:1fr}}
+
 /* SVG figure base styles (global - works for all articles) */
 svg.fig{display:block;width:100%;height:auto;max-width:720px;margin:20px auto;background:#fff;border:1px solid var(--line);border-radius:8px;transition:border-color .15s}
 svg.fig text{font-family:"Pretendard","Apple SD Gothic Neo","Noto Sans KR",sans-serif}
