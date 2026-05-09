@@ -1,23 +1,13 @@
-// Click-to-zoom for SVG figures (svg.fig)
+// Click-to-zoom for figures: svg.fig, figure.real-fig img, figure.paper-fig img
 (function(){
   if (!('querySelectorAll' in document)) return;
 
-  function openModal(svg, caption){
+  function openModal(content){
     var overlay = document.createElement('div');
     overlay.className = 'fig-modal-overlay';
     var box = document.createElement('div');
     box.className = 'fig-modal-box';
-    var clone = svg.cloneNode(true);
-    clone.removeAttribute('class');
-    clone.classList.add('fig-modal-svg');
-    clone.removeAttribute('style');
-    box.appendChild(clone);
-    if (caption) {
-      var cap = document.createElement('p');
-      cap.className = 'fig-modal-caption';
-      cap.textContent = caption;
-      box.appendChild(cap);
-    }
+    box.appendChild(content);
     var close = document.createElement('button');
     close.className = 'fig-modal-close';
     close.setAttribute('aria-label', '닫기');
@@ -41,20 +31,36 @@
     document.addEventListener('keydown', onKey);
   }
 
-  function init(){
-    var figs = document.querySelectorAll('svg.fig');
-    figs.forEach(function(svg){
-      svg.style.cursor = 'zoom-in';
-      svg.setAttribute('role', svg.getAttribute('role') || 'button');
-      svg.setAttribute('tabindex', '0');
-      var caption = '';
-      var next = svg.nextElementSibling;
-      if (next && next.classList && next.classList.contains('fig-caption')) {
-        caption = next.textContent || '';
+  function bindZoom(el, makeContent){
+    el.style.cursor = 'zoom-in';
+    el.setAttribute('role', el.getAttribute('role') || 'button');
+    el.setAttribute('tabindex', '0');
+    el.addEventListener('click', function(){ openModal(makeContent()); });
+    el.addEventListener('keydown', function(e){
+      if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault();
+        openModal(makeContent());
       }
-      svg.addEventListener('click', function(){ openModal(svg, caption); });
-      svg.addEventListener('keydown', function(e){
-        if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); openModal(svg, caption); }
+    });
+  }
+
+  function init(){
+    document.querySelectorAll('svg.fig').forEach(function(svg){
+      bindZoom(svg, function(){
+        var clone = svg.cloneNode(true);
+        clone.removeAttribute('class');
+        clone.classList.add('fig-modal-svg');
+        clone.removeAttribute('style');
+        return clone;
+      });
+    });
+    document.querySelectorAll('figure.real-fig img, figure.paper-fig img').forEach(function(img){
+      bindZoom(img, function(){
+        var big = document.createElement('img');
+        big.src = img.currentSrc || img.src;
+        big.alt = img.alt || '';
+        big.className = 'fig-modal-img';
+        return big;
       });
     });
   }

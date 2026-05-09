@@ -121,14 +121,15 @@
 svg.fig{display:block;width:100%;height:auto;max-width:720px;margin:20px auto;background:#fff;border:1px solid var(--line);border-radius:8px;transition:border-color .15s}
 svg.fig text{font-family:"Pretendard","Apple SD Gothic Neo","Noto Sans KR",sans-serif}
 svg.fig:hover{border-color:var(--accent)}
-.fig-caption{display:none}
-.fig-modal-overlay{position:fixed;inset:0;background:rgba(20,20,18,0.88);z-index:1000;display:flex;align-items:center;justify-content:center;padding:20px;animation:fadeIn .15s}
+.fig-caption,figure.real-fig figcaption,figure.paper-fig figcaption{display:none}
+.fig-modal-overlay{position:fixed;inset:0;background:rgba(20,20,18,0.92);z-index:1000;display:flex;align-items:center;justify-content:center;padding:20px;animation:fadeIn .15s}
 @keyframes fadeIn{from{opacity:0}to{opacity:1}}
-.fig-modal-box{position:relative;width:min(96vw,1400px);max-height:96vh;background:#fff;border-radius:12px;padding:32px 32px 24px;overflow:auto;box-shadow:0 30px 80px rgba(0,0,0,0.5)}
+.fig-modal-box{position:relative;width:min(98vw,1600px);max-height:98vh;background:#fff;border-radius:12px;padding:32px;overflow:auto;box-shadow:0 30px 80px rgba(0,0,0,0.5)}
 .fig-modal-svg{display:block;width:100%;height:auto}
 .fig-modal-svg text{font-size:140% !important}
+.fig-modal-img{display:block;max-width:100%;max-height:calc(98vh - 80px);width:auto;height:auto;margin:0 auto;cursor:zoom-out}
 .fig-modal-caption{font-size:13px;color:var(--muted);text-align:center;margin:14px 0 0;letter-spacing:0.01em;line-height:1.5}
-.fig-modal-close{position:absolute;top:8px;right:12px;background:transparent;border:none;font-size:30px;cursor:pointer;color:var(--muted);width:36px;height:36px;line-height:36px;padding:0;font-family:inherit}
+.fig-modal-close{position:absolute;top:8px;right:12px;background:rgba(255,255,255,0.95);border:1px solid var(--line);border-radius:50%;font-size:24px;cursor:pointer;color:var(--fg);width:40px;height:40px;line-height:36px;padding:0;font-family:inherit;font-weight:300;z-index:1}
 .fig-modal-close:hover{color:var(--fg)}
 @media (max-width:600px){
   .fig-modal-box{padding:16px 16px 12px}
