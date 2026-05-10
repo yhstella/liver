@@ -16,10 +16,11 @@
 .home-hero .photo::before{content:"";position:absolute;top:10px;left:10px;width:200px;height:200px;border:1.5px solid var(--accent);border-radius:14px;z-index:0;pointer-events:none;opacity:0.6}
 .home-hero .photo img{position:relative;width:200px;height:200px;border-radius:14px;object-fit:cover;object-position:center 22%;background:#f3f1ec;display:block;box-shadow:0 12px 32px rgba(15,26,22,0.12);z-index:1}
 @media (max-width:900px){
-  .home-hero{padding:32px 24px 30px;grid-template-columns:1fr !important;gap:0}
+  .home-hero{padding:36px 32px 32px;grid-template-columns:1fr !important;gap:0}
   .home-hero .text h1{font-size:26px;line-height:1.25}
   .home-hero .text .lede{font-size:14.5px;line-height:1.6;margin-bottom:14px}
-  .home-hero .text .byline{font-size:12.5px;line-height:1.65}
+  .home-hero .text .byline{font-size:12.5px;line-height:1.65;padding-left:30px}
+  .home-hero .text .byline::before{top:8px;width:20px}
   .home-hero::before,.home-hero::after{display:none}
   .home-hero .photo{display:none !important}
 }
@@ -58,9 +59,15 @@
 .topic-list a{display:flex;align-items:center;gap:14px;padding:18px 4px;color:var(--fg);text-decoration:none}
 .topic-list a:hover h3{color:var(--accent)}
 .topic-list .num{font-family:"Times New Roman",Georgia,serif;color:var(--muted);font-size:13.5px;min-width:50px;flex-shrink:0;letter-spacing:0.02em;text-align:right;white-space:nowrap}
-.topic-list .body{flex:1;min-width:0}
-.topic-list h3{margin:0 0 4px;font-size:16.5px;line-height:1.4;font-weight:600;letter-spacing:-0.005em}
-.topic-list p{margin:0;font-size:12.5px;color:var(--muted);line-height:1.5}
+.topic-list .body{flex:1;min-width:0;overflow-wrap:anywhere;word-break:keep-all}
+.topic-list h3{margin:0 0 4px;font-size:16.5px;line-height:1.4;font-weight:600;letter-spacing:-0.005em;overflow-wrap:anywhere;word-break:keep-all}
+.topic-list p{margin:0;font-size:12.5px;color:var(--muted);line-height:1.5;overflow-wrap:anywhere;word-break:keep-all}
+@media (max-width:600px){
+  .topic-list a{gap:10px;padding:14px 2px}
+  .topic-list .num{min-width:40px;font-size:12px}
+  .topic-list h3{font-size:15px}
+  .topic-list .status{font-size:10.5px}
+}
 .topic-list .status{font-size:11px;letter-spacing:0.06em;flex-shrink:0;font-weight:600}
 .topic-list .status.published{color:var(--accent)}
 .topic-list .status.draft{color:var(--muted);background:#f3f1ec;padding:3px 9px;border-radius:99px;font-weight:500}
