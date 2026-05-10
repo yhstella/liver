@@ -71,3 +71,26 @@
     init();
   }
 })();
+
+// Rewrite SNUH links to mobile variant on small screens.
+// Desktop: https://www.snuh.org/blog/...    Mobile: https://www.snuh.org/m/blog/...
+(function(){
+  function rewriteSnuh(){
+    var isMobile = window.matchMedia('(max-width: 768px)').matches;
+    document.querySelectorAll('a[href*="snuh.org"]').forEach(function(a){
+      var href = a.getAttribute('href');
+      if (!href) return;
+      var hasMobile = href.indexOf('snuh.org/m/') >= 0;
+      if (isMobile && !hasMobile) {
+        a.setAttribute('href', href.replace('snuh.org/blog/', 'snuh.org/m/blog/'));
+      } else if (!isMobile && hasMobile) {
+        a.setAttribute('href', href.replace('snuh.org/m/blog/', 'snuh.org/blog/'));
+      }
+    });
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', rewriteSnuh);
+  } else {
+    rewriteSnuh();
+  }
+})();
