@@ -383,29 +383,70 @@ def main():
             for url, cap in figs:
                 page_assigned[slug].append(figure_html(url, cap))
 
-    # Phase 3: hepatology-web-concepts greedy allocation
+    # Phase 3: hepatology-web-concepts greedy allocation with B형/C형 구분
+    def matches_subdomain(slug: str, fname: str) -> bool:
+        """Restrict viral-hepatitis figures by sub-virus type."""
+        n = fname.lower()
+        is_hcv = any(k in n for k in ["hepc", "hep-c", "hcv-", "hcv.", "hcv_", "hcv-structure", "hep-c-virus"])
+        is_hbv = any(k in n for k in ["hepatitis-b", "hbv-", "hbv.", "hbv_"])
+        is_hdv = any(k in n for k in ["hepatitis-d", "hdv-", "hdv.", "hepatiidi-d"])
+        is_hev = any(k in n for k in ["hepatitis-e", "hev-", "hev."])
+        is_other_virus = is_hcv or is_hdv or is_hev
+        if "B형간염" in slug or "가족-B형" in slug:
+            return not is_other_virus
+        if "C형간염" in slug or "anti-HCV" in slug:
+            return not (is_hbv or is_hdv or is_hev)
+        return True
+
+    def score_match(slug: str, fname: str) -> int:
+        """Higher score for tighter topical match."""
+        n = fname.lower()
+        if "B형간염" in slug or "가족-B형" in slug:
+            if any(k in n for k in ["hepatitis-b", "hbv-", "hbv."]):
+                return 10
+        if "C형간염" in slug:
+            if any(k in n for k in ["hepc", "hep-c", "hcv-", "hcv."]):
+                return 10
+        return 0
+
+    # Process hub topic pages BEFORE cases — hub pages get priority
+    # for limited subdomain-specific images (HBV, HCV, drug structures, etc.)
+    pages_ordered = (
+        [s for s in pages if not s.startswith(("케이스/", "updates/")) and s != "index"]
+        + [s for s in pages if s.startswith("updates/")]
+        + [s for s in pages if s.startswith("케이스/")]
+        + [s for s in pages if s == "index"]
+    )
+
     for pass_n in range(3):
-        for slug in pages:
+        for slug in pages_ordered:
             if slug in paper_assigned:
                 continue
             if len(page_assigned[slug]) >= 3:
                 continue
             cats = slug_concept_folders(slug)
-            picked = None
+            best = None
+            best_score = -1
             for cat in cats:
                 for item in pool.get(cat, []):
                     if item["sha1"] in used_sha1:
                         continue
-                    picked = item
+                    if not matches_subdomain(slug, item["fname"]):
+                        continue
+                    s = score_match(slug, item["fname"])
+                    if s > best_score:
+                        best = item
+                        best_score = s
+                    if best_score >= 10:
+                        break
+                if best_score >= 10:
                     break
-                if picked:
-                    break
-            if picked is None:
+            if best is None:
                 continue
-            used_sha1.add(picked["sha1"])
-            copy_to(picked["src_path"], ASSETS_CONCEPTS / picked["folder"], picked["fname"])
-            url = asset_url("assets", "img", "concepts", picked["folder"], picked["fname"])
-            page_assigned[slug].append(figure_html(url, picked["caption"]))
+            used_sha1.add(best["sha1"])
+            copy_to(best["src_path"], ASSETS_CONCEPTS / best["folder"], best["fname"])
+            url = asset_url("assets", "img", "concepts", best["folder"], best["fname"])
+            page_assigned[slug].append(figure_html(url, best["caption"]))
 
     # Inject
     n_pages = 0
