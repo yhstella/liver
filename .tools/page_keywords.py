@@ -175,6 +175,7 @@ PAGE_KEYWORDS: dict[str, list[str]] = {
     "updates/IMbrave150-atezolizumab-bevacizumab-NEJM-2020": ["atezolizumab+bevacizumab", "면역치료", "간세포암", "RCT", "BCLC"],
     "updates/PEth-알코올-바이오마커": ["지방간", "MASH", "MASLD", "ALT", "약물성간손상"],
     "updates/Pan-TDF-pregnancy-HBV-NEJM-2016": ["TDF", "B형간염", "임신·수유", "가족검사", "HBV DNA"],
+    "updates/Klausen-Semaglutide-AUD-Lancet-2026": ["GLP-1RA", "MASLD", "MASH", "RCT", "지방간"],
     "updates/preemptive-TIPS-식도정맥류-출혈": ["정맥류", "문맥압항진", "간경변", "비대상성", "Child-Pugh"],
 
     # === 간 양성종양 (대주제 8) ===

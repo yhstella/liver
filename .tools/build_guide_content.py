@@ -147,6 +147,14 @@ MAJOR_TOPICS = [
 
 UPDATES_LIST = [s for s in PAGE_KEYWORDS if s.startswith("updates/")]
 
+CC_LIST = [
+    "CC/검진-혹-발견", "CC/지방간-진단", "CC/지방간-심함", "CC/간-통증",
+    "CC/간수치-상승", "CC/황달", "CC/B형간염-진단", "CC/C형간염-진단",
+    "CC/자가면역간염-의심", "CC/간섬유화-진단", "CC/복부-팽만-복수",
+    "CC/AFP-상승", "CC/약물-간손상", "CC/가족-B형간염", "CC/음주-간걱정",
+    "CC/피로-식욕부진",
+]
+
 
 def render_topic_card(meta: dict) -> str:
     if not meta["exists"]:
