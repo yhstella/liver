@@ -117,7 +117,6 @@ def render_hub(slug, label, num, intro, topics, cases=None):
 {NAV}
 <main class="wrap">
 <nav class="crumb"><a href="/">홈</a> › <span>{esc(label)}</span></nav>
-<p class="series-label">대주제 {num}</p>
 <h1 style="font-family:'Times New Roman',Georgia,serif;font-size:34px;letter-spacing:-0.025em;font-weight:600;margin:0 0 12px">{esc(label)}</h1>
 <p class="series-intro">{intro}</p>
 <div class="series-meta">
