@@ -17,6 +17,7 @@ SERIES_GROUPS = [
     ("간수치 이상", "5", "/간수치/", []),
     ("C형 간염", "6", "/C형간염/", []),
     ("자가면역간염", "7", "/자가면역간염/", []),
+    ("간 양성종양", "8", "/간양성종양/", []),
 ]
 
 # Group 간암 cases (1-12 to 1-26)
@@ -48,6 +49,10 @@ SERIES_GROUPS[6][3].extend([
      "intro": "<p>32세 여성, ALT 380, IgG 28, ANA/ASMA 양성으로 AIH 진단.</p>", "page_id": "7-4"},
     {"slug": "AIH-약중단-재발", "title": "AIH 약 중단 시도 후 재발 — 재시작과 평생 유지 결정",
      "intro": "<p>45세 여성, AIH 진단 5년 후 약 중단 시도 → 6개월 시점 재발.</p>", "page_id": "7-5"},
+])
+SERIES_GROUPS[7][3].extend([
+    {"slug": "큰낭종-bleomycin-경화요법", "title": "12 cm 단순 낭종 — bleomycin 경화요법",
+     "intro": "<p>58세 여성, 12.5 cm 단순 낭종 + 압박 증상 → PAS(블레오마이신).</p>", "page_id": "8-5"},
 ])
 
 
@@ -121,7 +126,7 @@ def render_landing():
   var s = params.get('series');
   if (!s) return;
   var sections = document.querySelectorAll('.case-series-section');
-  var labels = {{'1':'간암','2':'간경화','3':'B형 간염','4':'지방간','5':'간수치 이상','6':'C형 간염','7':'자가면역간염'}};
+  var labels = {{'1':'간암','2':'간경화','3':'B형 간염','4':'지방간','5':'간수치 이상','6':'C형 간염','7':'자가면역간염','8':'간 양성종양'}};
   var visibleCount = 0;
   sections.forEach(function(sec){{
     if (sec.dataset.series === s) {{

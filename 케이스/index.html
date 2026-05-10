@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>임상 케이스 모음 — Hepatology Note</title>
-<meta name="description" content="외래에서 자주 만나는 임상 시나리오 39편. 간암·간경화·B형간염·지방간·간수치 이상 시리즈별 케이스 노트.">
+<meta name="description" content="외래에서 자주 만나는 임상 시나리오 40편. 간암·간경화·B형간염·지방간·간수치 이상 시리즈별 케이스 노트.">
 <link rel="canonical" href="https://drshin.kr/케이스/">
 <meta property="og:type" content="website">
 <meta property="og:title" content="임상 케이스 모음">
@@ -24,7 +24,7 @@
 <nav class="crumb"><a href="/">홈</a> › <span>케이스</span></nav>
 
 <h1 style="font-family:'Times New Roman',Georgia,serif;font-size:32px;letter-spacing:-0.02em;font-weight:600;margin:8px 0 8px">임상 사례 모음</h1>
-<p class="intro" id="introMsg">외래에서 자주 만나는 임상 사례를 단계별 결정 흐름과 함께 정리한 노트입니다. 총 39편.</p>
+<p class="intro" id="introMsg">외래에서 자주 만나는 임상 사례를 단계별 결정 흐름과 함께 정리한 노트입니다. 총 40편.</p>
 <div id="filterBar" style="display:none;margin:12px 0 24px;padding:10px 14px;background:var(--accent-soft);border-radius:8px;font-size:14px;color:var(--accent)">
   <span id="filterLabel"></span>
   <a href="/케이스/" style="margin-left:12px;color:var(--accent);text-decoration:underline">전체 보기</a>
@@ -62,7 +62,7 @@
 <a href="/케이스/독성간염-야생버섯/" class="case-row"><span class="page-id">5-13</span><div class="body"><h3>야생 버섯 식이 후 급성 간부전</h3></div></a>
 <a href="/케이스/보충제-ALT상승/" class="case-row"><span class="page-id">5-14</span><div class="body"><h3>보디빌딩 보충제 후 ALT 150</h3></div></a></div></section><section class="case-series-section" data-series="6" style="margin:32px 0"><h2 style="font-family:'Times New Roman',Georgia,serif;font-size:20px;letter-spacing:-0.01em;font-weight:600;margin:0 0 6px;border-bottom:1px solid var(--line);padding-bottom:8px"><a href="/C형간염/" style="color:var(--fg);text-decoration:none">C형 간염 사례</a><span style="font-size:12px;color:var(--muted);font-weight:400;margin-left:10px">2편</span></h2><div class="case-list" style="border-top:0;margin-top:14px"><a href="/케이스/anti-HCV양성-첫발견/" class="case-row"><span class="page-id">6-4</span><div class="body"><h3>anti-HCV 양성 첫 발견</h3></div></a>
 <a href="/케이스/C형간염-간경변-새결절/" class="case-row"><span class="page-id">6-5</span><div class="body"><h3>C형간염 DAA 완치 5년 후 새 결절 발견</h3></div></a></div></section><section class="case-series-section" data-series="7" style="margin:32px 0"><h2 style="font-family:'Times New Roman',Georgia,serif;font-size:20px;letter-spacing:-0.01em;font-weight:600;margin:0 0 6px;border-bottom:1px solid var(--line);padding-bottom:8px"><a href="/자가면역간염/" style="color:var(--fg);text-decoration:none">자가면역간염 사례</a><span style="font-size:12px;color:var(--muted);font-weight:400;margin-left:10px">2편</span></h2><div class="case-list" style="border-top:0;margin-top:14px"><a href="/케이스/AIH-첫진단-여성/" class="case-row"><span class="page-id">7-4</span><div class="body"><h3>젊은 여성의 AIH 첫 진단</h3></div></a>
-<a href="/케이스/AIH-약중단-재발/" class="case-row"><span class="page-id">7-5</span><div class="body"><h3>AIH 약 중단 시도 후 재발</h3></div></a></div></section>
+<a href="/케이스/AIH-약중단-재발/" class="case-row"><span class="page-id">7-5</span><div class="body"><h3>AIH 약 중단 시도 후 재발</h3></div></a></div></section><section class="case-series-section" data-series="8" style="margin:32px 0"><h2 style="font-family:'Times New Roman',Georgia,serif;font-size:20px;letter-spacing:-0.01em;font-weight:600;margin:0 0 6px;border-bottom:1px solid var(--line);padding-bottom:8px"><a href="/간양성종양/" style="color:var(--fg);text-decoration:none">간 양성종양 사례</a><span style="font-size:12px;color:var(--muted);font-weight:400;margin-left:10px">1편</span></h2><div class="case-list" style="border-top:0;margin-top:14px"><a href="/케이스/큰낭종-bleomycin-경화요법/" class="case-row"><span class="page-id">8-5</span><div class="body"><h3>12 cm 단순 낭종</h3></div></a></div></section>
 
 <script>
 (function(){
@@ -70,7 +70,7 @@
   var s = params.get('series');
   if (!s) return;
   var sections = document.querySelectorAll('.case-series-section');
-  var labels = {'1':'간암','2':'간경화','3':'B형 간염','4':'지방간','5':'간수치 이상','6':'C형 간염','7':'자가면역간염'};
+  var labels = {'1':'간암','2':'간경화','3':'B형 간염','4':'지방간','5':'간수치 이상','6':'C형 간염','7':'자가면역간염','8':'간 양성종양'};
   var visibleCount = 0;
   sections.forEach(function(sec){
     if (sec.dataset.series === s) {

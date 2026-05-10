@@ -138,6 +138,11 @@ MAJOR_TOPICS = [
     ], [
         "케이스/AIH-첫진단-여성", "케이스/AIH-약중단-재발",
     ]),
+    ("간 양성종양", "8", [
+        "간양성종양-진단", "간양성종양-낭종-관리", "간양성종양-혈관종", "간양성종양-FNH-Adenoma",
+    ], [
+        "케이스/큰낭종-bleomycin-경화요법",
+    ]),
 ]
 
 UPDATES_LIST = [s for s in PAGE_KEYWORDS if s.startswith("updates/")]
