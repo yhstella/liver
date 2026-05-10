@@ -35,15 +35,6 @@ for c in bc2.CASES:
     })
 
 
-def first_sentence(html_text: str) -> str:
-    import re
-    text = re.sub(r"<[^>]+>", "", html_text).strip()
-    sent = text.split(". ")[0]
-    if not sent.endswith("."):
-        sent += "."
-    return sent
-
-
 def render_landing():
     sections_html = ""
     total_cases = 0
@@ -53,12 +44,12 @@ def render_landing():
         total_cases += len(items)
         rows = []
         for c in items:
-            preview = first_sentence(c["intro"])
+            # Strip everything after em-dash for cleaner card title
+            clean_title = c["title"].split(" — ")[0].strip()
             rows.append(
                 f'<a href="/케이스/{c["slug"]}/" class="case-row">'
                 f'<span class="page-id">{c["page_id"]}</span>'
-                f'<div class="body"><h3>{esc(c["title"])}</h3>'
-                f'<p>{esc(preview)}</p></div></a>'
+                f'<div class="body"><h3>{esc(clean_title)}</h3></div></a>'
             )
         sections_html += (
             f'<section style="margin:32px 0">'
