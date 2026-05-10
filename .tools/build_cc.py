@@ -683,13 +683,28 @@ def render_cc_page(spec: dict) -> None:
 
 
 def render_cc_hub() -> None:
-    rows = "".join(
-        f'<a href="/CC/{c["slug"]}/" class="cc-row">'
-        f'<div class="cc-cite">"{esc(c["title"])}"</div>'
-        f'<p class="cc-sum">{esc(c["summary"])}</p>'
-        f'</a>'
-        for c in CC_LIST
-    )
+    # 5 카테고리 그룹핑 — 외래 환자 동선 기준
+    GROUPS = [
+        ("검진·우연 발견", ["검진-혹-발견", "지방간-진단", "지방간-심함", "간섬유화-진단"]),
+        ("검사 수치 이상", ["간수치-상승", "AFP-상승", "약물-간손상"]),
+        ("새로운 진단",  ["B형간염-진단", "C형간염-진단", "자가면역간염-의심"]),
+        ("증상",         ["간-통증", "황달", "복부-팽만-복수", "피로-식욕부진"]),
+        ("생활·가족",    ["가족-B형간염", "음주-간걱정"]),
+    ]
+    by_slug = {c["slug"]: c for c in CC_LIST}
+    parts = []
+    for label, slugs in GROUPS:
+        parts.append(f'<span class="cc-group-label">{esc(label)}</span>')
+        for slug in slugs:
+            c = by_slug.get(slug)
+            if not c: continue
+            parts.append(
+                f'<a href="/CC/{c["slug"]}/" class="cc-row">'
+                f'<div class="cc-cite">"{esc(c["title"])}"</div>'
+                f'<p class="cc-sum">{esc(c["summary"])}</p>'
+                f'</a>'
+            )
+    rows = "\n".join(parts)
     html = f'''<!doctype html>
 <html lang="ko">
 <head>
@@ -706,8 +721,11 @@ def render_cc_hub() -> None:
 <link rel="icon" href="/favicon.png">
 <link rel="stylesheet" href="/style.css">
 <style>
-.cc-list{{display:flex;flex-direction:column;gap:0;border-top:1px solid var(--line);margin:24px 0}}
+.cc-list{{display:flex;flex-direction:column;gap:0;border-top:1px solid var(--line);margin:8px 0 24px}}
+.cc-group-label{{display:block;font-size:11.5px;letter-spacing:0.1em;color:var(--accent);font-weight:600;text-transform:uppercase;margin:28px 0 4px;padding-bottom:4px}}
+.cc-group-label:first-child{{margin-top:8px}}
 .cc-row{{display:block;padding:18px 4px;border-bottom:1px solid var(--line);text-decoration:none;color:var(--fg);transition:background .12s}}
+.cc-row:first-of-type{{border-top:1px solid var(--line)}}
 .cc-row:hover{{background:#f9f8f3}}
 .cc-cite{{font-family:'Times New Roman',Georgia,serif;font-size:18px;font-weight:600;color:var(--fg);margin-bottom:4px;letter-spacing:-0.005em}}
 .cc-row:hover .cc-cite{{color:var(--accent)}}

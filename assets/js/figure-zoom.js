@@ -281,6 +281,38 @@
       }
     }
     walk(main);
+
+    // === Mobile/touch: tap an <abbr> to show inline popover ===
+    // Desktop hover already shows native title; touch devices need a tappable affordance.
+    if (!('ontouchstart' in window) && !navigator.maxTouchPoints) return;
+
+    var openPop = null;
+    function closePop(){
+      if (openPop) { openPop.remove(); openPop = null; }
+      document.removeEventListener('click', onDocClick, true);
+    }
+    function onDocClick(e){
+      if (openPop && !openPop.contains(e.target) && !e.target.matches('abbr[title]')) {
+        closePop();
+      }
+    }
+    main.addEventListener('click', function(e){
+      var ab = e.target.closest && e.target.closest('abbr[title]');
+      if (!ab) return;
+      // On touch devices, intercept and show popover
+      e.preventDefault();
+      e.stopPropagation();
+      closePop();
+      var pop = document.createElement('span');
+      pop.className = 'abbr-pop';
+      pop.textContent = ab.getAttribute('title') || '';
+      // Position below the abbr
+      ab.appendChild(pop);
+      openPop = pop;
+      setTimeout(function(){
+        document.addEventListener('click', onDocClick, true);
+      }, 0);
+    });
   }
 
   if (document.readyState === 'loading') {
