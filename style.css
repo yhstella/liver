@@ -181,6 +181,20 @@ ol.references li a:hover{text-decoration:underline}
   .site-footer .inner{grid-template-columns:1fr}
 }
 
+/* === Tag chips below h1 === */
+.tag-row{margin:6px 0 24px;display:flex;flex-wrap:wrap;gap:6px;font-size:12.5px}
+.tag-chip{display:inline-block;padding:3px 10px;background:#f3f1ec;border:1px solid var(--line);border-radius:99px;color:var(--muted);text-decoration:none;letter-spacing:0.01em;line-height:1.5}
+.tag-chip:hover{background:var(--accent-soft);border-color:var(--accent);color:var(--accent)}
+
+/* === Auto-generated related pages === */
+aside.related-auto{margin:48px 0 24px;padding:18px 20px;background:#fafaf7;border:1px solid var(--line);border-radius:8px}
+aside.related-auto h2{margin:0 0 10px;font-family:'Times New Roman',Georgia,serif;font-size:14px;letter-spacing:0.06em;color:var(--muted);text-transform:uppercase;font-weight:600;border:0;padding:0}
+aside.related-auto ul{margin:0;padding:0;list-style:none}
+aside.related-auto li{margin:4px 0;font-size:14.5px;line-height:1.55}
+aside.related-auto li a{color:var(--fg);text-decoration:none;border-bottom:1px solid transparent}
+aside.related-auto li a:hover{color:var(--accent);border-color:var(--accent)}
+aside.related-auto .rel-pid{display:inline-block;font-family:'JetBrains Mono','SF Mono',Consolas,monospace;font-size:11px;color:#8a6d3b;background:#fdf6e3;padding:1px 6px;border-radius:4px;margin-left:6px;letter-spacing:0.02em;border:1px solid #f0e3c0;font-weight:500;vertical-align:middle}
+
 /* === Page ID label === */
 .page-id{display:inline-block;font-family:'JetBrains Mono','SF Mono',Consolas,monospace;font-size:12px;color:#8a6d3b;background:#fdf6e3;padding:1px 7px;border-radius:4px;letter-spacing:0.02em;border:1px solid #f0e3c0;font-weight:500;vertical-align:middle}
 h1 .page-id,h3 .page-id{font-size:0.55em;margin-left:8px;vertical-align:middle}
