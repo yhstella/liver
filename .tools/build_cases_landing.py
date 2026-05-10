@@ -68,10 +68,10 @@ def render_landing():
                 f'<div class="body"><h3>{esc(clean_title)}</h3></div></a>'
             )
         sections_html += (
-            f'<section style="margin:32px 0">'
+            f'<section class="case-series-section" data-series="{num}" style="margin:32px 0">'
             f'<h2 style="font-family:\'Times New Roman\',Georgia,serif;font-size:20px;letter-spacing:-0.01em;font-weight:600;margin:0 0 6px;border-bottom:1px solid var(--line);padding-bottom:8px">'
-            f'<a href="{hub_url}" style="color:var(--fg);text-decoration:none">{esc(label)} 케이스</a>'
-            f'<span style="font-size:12px;color:var(--muted);font-weight:400;margin-left:10px">{len(items)}편 · {num}-시리즈</span>'
+            f'<a href="{hub_url}" style="color:var(--fg);text-decoration:none">{esc(label)} 사례</a>'
+            f'<span style="font-size:12px;color:var(--muted);font-weight:400;margin-left:10px">{len(items)}편</span>'
             f'</h2>'
             f'<div class="case-list" style="border-top:0;margin-top:14px">'
             + "\n".join(rows) +
@@ -106,10 +106,38 @@ def render_landing():
 <main class="wrap">
 <nav class="crumb"><a href="/">홈</a> › <span>케이스</span></nav>
 
-<h1 style="font-family:'Times New Roman',Georgia,serif;font-size:32px;letter-spacing:-0.02em;font-weight:600;margin:8px 0 8px">임상 케이스 모음</h1>
-<p class="intro">외래에서 자주 만나는 임상 시나리오를 풀어 정리한 케이스 노트입니다. 시리즈별로 진단부터 치료·합병증까지 단계별 결정 흐름을 따라갑니다. 총 {total_cases}편.</p>
+<h1 style="font-family:'Times New Roman',Georgia,serif;font-size:32px;letter-spacing:-0.02em;font-weight:600;margin:8px 0 8px">임상 사례 모음</h1>
+<p class="intro" id="introMsg">외래에서 자주 만나는 임상 사례를 단계별 결정 흐름과 함께 정리한 노트입니다. 총 {total_cases}편.</p>
+<div id="filterBar" style="display:none;margin:12px 0 24px;padding:10px 14px;background:var(--accent-soft);border-radius:8px;font-size:14px;color:var(--accent)">
+  <span id="filterLabel"></span>
+  <a href="/케이스/" style="margin-left:12px;color:var(--accent);text-decoration:underline">전체 보기</a>
+</div>
 
 {sections_html}
+
+<script>
+(function(){{
+  var params = new URLSearchParams(location.search);
+  var s = params.get('series');
+  if (!s) return;
+  var sections = document.querySelectorAll('.case-series-section');
+  var labels = {{'1':'간암','2':'간경화','3':'B형 간염','4':'지방간','5':'간수치 이상','6':'C형 간염','7':'자가면역간염'}};
+  var visibleCount = 0;
+  sections.forEach(function(sec){{
+    if (sec.dataset.series === s) {{
+      visibleCount++;
+    }} else {{
+      sec.style.display = 'none';
+    }}
+  }});
+  if (visibleCount > 0 && labels[s]) {{
+    var bar = document.getElementById('filterBar');
+    var lbl = document.getElementById('filterLabel');
+    lbl.textContent = labels[s] + ' 사례만 보고 있습니다.';
+    bar.style.display = 'block';
+  }}
+}})();
+</script>
 
 <p class="disclaimer" style="margin-top:48px">본 케이스들은 외래에서 자주 만나는 임상 시나리오를 익명화하여 재구성한 교육 자료입니다. 환자 식별 정보는 모두 변경되었으며, 임상 결정은 표준 가이드라인의 한 예시일 뿐 개별 환자에 그대로 적용되지 않습니다.</p>
 </main>

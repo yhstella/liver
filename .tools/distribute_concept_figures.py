@@ -30,6 +30,81 @@ CLOSE = "<!-- /fig -->"
 BLOCK_RE = re.compile(re.escape(OPEN) + r".*?" + re.escape(CLOSE), re.DOTALL)
 WEB_EXTS = (".png", ".jpg", ".jpeg", ".gif", ".webp")
 
+# Drug names — we exclude these molecule structure images (not patient-friendly)
+DRUG_NAMES = {
+    "entecavir", "tenofovir", "lamivudine", "adefovir", "telbivudine",
+    "sofosbuvir", "ledipasvir", "velpatasvir", "glecaprevir", "pibrentasvir", "ribavirin",
+    "sorafenib", "lenvatinib", "regorafenib", "cabozantinib", "tivantinib",
+    "doxorubicin", "cisplatin", "fluorouracil",
+    "acetaminophen", "n-acetylcysteine", "isoniazid", "rifampicin", "pyrazinamide",
+    "methotrexate", "amiodarone", "valproic", "azathioprine", "allopurinol", "fluconazole",
+    "alpha-amanitin", "aflatoxin", "ethanol", "acetaldehyde",
+    "resmetirom", "semaglutide", "liraglutide", "tirzepatide", "orforglipron",
+    "empagliflozin", "dapagliflozin", "canagliflozin", "pioglitazone",
+    "alpha-tocopherol", "obeticholic", "lanifibranor", "pemafibrate", "bezafibrate",
+    "ursodeoxycholic", "bilirubin", "cholic-acid", "chenodeoxycholic", "glycocholic",
+    "heme-breakdown",
+}
+
+# Filename keywords that indicate non-medical or off-topic images to skip
+SKIP_KEYWORDS = {
+    "alpl-krieglach", "alpl-umgebung", "alpl-strae", "alpl-waldkapelle",
+    "tierser-alpl",  # nature photos misclassified
+    "human-heart-diagram",  # heart not liver
+    "amebic-liver-abscess",  # parasite detail
+    "aflatoxin",
+    "ethanol", "acetaldehyde",
+    "aspartate-aminotransferase-dimer", "aspartate-aminotransferase-monomer",  # protein structure (too technical)
+}
+
+
+def is_useful_figure(fname: str) -> bool:
+    n = fname.lower()
+    if "_contact_sheet" in n:
+        return False
+    for drug in DRUG_NAMES:
+        if drug in n:
+            return False
+    for kw in SKIP_KEYWORDS:
+        if kw in n:
+            return False
+    # Heuristic 1: '015-cholesterol-HASH.png' (single lowercase word) → drug
+    if re.fullmatch(r"\d+-[a-z][a-z0-9]+-[0-9a-f]{6,}\.(png|jpg|jpeg)", n):
+        return False
+    # Heuristic 2: '019-amoxicillin-clavulanate-HASH.png' (2-3 lowercase hyphenated words) → drug
+    if re.fullmatch(r"\d+-[a-z][a-z0-9]*(-[a-z][a-z0-9]*){1,3}-[0-9a-f]{6,}\.(png|jpg|jpeg)", n):
+        return False
+    return True
+
+
+def is_relevant_for_folder(folder: str, fname: str) -> bool:
+    """Folder-specific allow rules — keep only image types likely useful per topic."""
+    n = fname.lower()
+    if folder == "viral-hepatitis":
+        # Keep only virus/replication/structure diagrams
+        return any(k in n for k in ["hepatitis", "hep-c", "hbv", "hcv", "hep-b",
+                                     "replication", "virus", "viiruse"])
+    if folder == "hcc-liver-cancer":
+        # Keep only HCC histology/imaging/biology — skip drug structures
+        return any(k in n for k in ["hepatocellular", "hcc", "fibrolamellar",
+                                     "tumor", "liver-directed", "carcinoma",
+                                     "ultrasound", "imaging"])
+    if folder == "dili-toxins":
+        # Skip ALL — purely drug structures, no patient-friendly figure
+        return False
+    if folder == "metabolic-therapeutics":
+        # Skip ALL — purely drug structures
+        return False
+    if folder == "liver-tests-biomarkers":
+        # Skip nature photos and pure molecule structures
+        if "alpl" in n or "tierser" in n:
+            return False
+        if any(k in n for k in ["aspartate-amino", "sodium-chloride", "iodixanol"]):
+            return False
+        return True
+    # liver-anatomy, liver-histology — keep all (they're medical illustrations)
+    return True
+
 sys.path.insert(0, str(ROOT / ".tools"))
 from page_keywords import PAGE_KEYWORDS
 
@@ -194,7 +269,8 @@ def inject(html_path: Path, fig_htmls: list[str]) -> bool:
 
 
 def build_concept_pool() -> dict[str, list[dict]]:
-    """Returns {folder: [items]} for hepatology-web-concepts."""
+    """Returns {folder: [items]} for hepatology-web-concepts.
+    Filters out drug-structure molecule images and off-topic photos."""
     pool: dict[str, list[dict]] = {}
     for folder in WEB_CONCEPTS.iterdir():
         if not folder.is_dir():
@@ -202,6 +278,10 @@ def build_concept_pool() -> dict[str, list[dict]]:
         items = []
         for f in sorted(folder.iterdir()):
             if f.suffix.lower() not in WEB_EXTS:
+                continue
+            if not is_useful_figure(f.name):
+                continue
+            if not is_relevant_for_folder(folder.name, f.name):
                 continue
             items.append({
                 "src_path": f,
@@ -275,12 +355,33 @@ def main():
             paper_count += 1
         paper_assigned[upd_slug] = htmls
 
-    # Phase 2: 지방간-음식 keeps Mediterranean diet pyramid (web-fetched)
-    if "지방간-음식" in pages:
-        page_assigned["지방간-음식"].append(figure_html(
-            "/assets/img/web/mediterranean-diet-pyramid.jpg",
-            "Mediterranean diet food pyramid (Fundación Dieta Mediterránea, CC0)"
-        ))
+    # Phase 2: hand-curated web-fetched images for specific pages
+    WEB_FETCHED = {
+        "지방간-음식": [
+            ("/assets/img/web/mediterranean-diet-pyramid.jpg",
+             "지중해식 식단 피라미드 (Fundación Dieta Mediterránea, CC0)"),
+        ],
+        "간경변-식도정맥류": [
+            ("/assets/img/web/esophageal-varices-banding.png",
+             "식도정맥류 내시경 결찰술 (Kel898, CC BY-SA 4.0)"),
+        ],
+        "케이스/첫-식도정맥류-출혈": [
+            ("/assets/img/web/esophageal-varices-banding.png",
+             "식도정맥류 내시경 결찰술 (Kel898, CC BY-SA 4.0)"),
+        ],
+        "간경변-복수": [
+            ("/assets/img/web/ascites-drainage.svg",
+             "복수 천자 모식도 (Cancer Research UK, CC BY-SA 4.0)"),
+        ],
+        "케이스/복수-SBP-진단치료": [
+            ("/assets/img/web/ascites-drainage.svg",
+             "복수 천자 모식도 (Cancer Research UK, CC BY-SA 4.0)"),
+        ],
+    }
+    for slug, figs in WEB_FETCHED.items():
+        if slug in pages:
+            for url, cap in figs:
+                page_assigned[slug].append(figure_html(url, cap))
 
     # Phase 3: hepatology-web-concepts greedy allocation
     for pass_n in range(3):

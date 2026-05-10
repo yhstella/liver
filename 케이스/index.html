@@ -23,10 +23,14 @@
 <main class="wrap">
 <nav class="crumb"><a href="/">홈</a> › <span>케이스</span></nav>
 
-<h1 style="font-family:'Times New Roman',Georgia,serif;font-size:32px;letter-spacing:-0.02em;font-weight:600;margin:8px 0 8px">임상 케이스 모음</h1>
-<p class="intro">외래에서 자주 만나는 임상 시나리오를 풀어 정리한 케이스 노트입니다. 시리즈별로 진단부터 치료·합병증까지 단계별 결정 흐름을 따라갑니다. 총 39편.</p>
+<h1 style="font-family:'Times New Roman',Georgia,serif;font-size:32px;letter-spacing:-0.02em;font-weight:600;margin:8px 0 8px">임상 사례 모음</h1>
+<p class="intro" id="introMsg">외래에서 자주 만나는 임상 사례를 단계별 결정 흐름과 함께 정리한 노트입니다. 총 39편.</p>
+<div id="filterBar" style="display:none;margin:12px 0 24px;padding:10px 14px;background:var(--accent-soft);border-radius:8px;font-size:14px;color:var(--accent)">
+  <span id="filterLabel"></span>
+  <a href="/케이스/" style="margin-left:12px;color:var(--accent);text-decoration:underline">전체 보기</a>
+</div>
 
-<section style="margin:32px 0"><h2 style="font-family:'Times New Roman',Georgia,serif;font-size:20px;letter-spacing:-0.01em;font-weight:600;margin:0 0 6px;border-bottom:1px solid var(--line);padding-bottom:8px"><a href="/간암/" style="color:var(--fg);text-decoration:none">간암 케이스</a><span style="font-size:12px;color:var(--muted);font-weight:400;margin-left:10px">15편 · 1-시리즈</span></h2><div class="case-list" style="border-top:0;margin-top:14px"><a href="/케이스/건강검진-우연발견-1cm결절/" class="case-row"><span class="page-id">1-12</span><div class="body"><h3>건강검진에서 우연히 발견된 1cm 결절</h3></div></a>
+<section class="case-series-section" data-series="1" style="margin:32px 0"><h2 style="font-family:'Times New Roman',Georgia,serif;font-size:20px;letter-spacing:-0.01em;font-weight:600;margin:0 0 6px;border-bottom:1px solid var(--line);padding-bottom:8px"><a href="/간암/" style="color:var(--fg);text-decoration:none">간암 사례</a><span style="font-size:12px;color:var(--muted);font-weight:400;margin-left:10px">15편</span></h2><div class="case-list" style="border-top:0;margin-top:14px"><a href="/케이스/건강검진-우연발견-1cm결절/" class="case-row"><span class="page-id">1-12</span><div class="body"><h3>건강검진에서 우연히 발견된 1cm 결절</h3></div></a>
 <a href="/케이스/B형간염-검진-새결절/" class="case-row"><span class="page-id">1-13</span><div class="body"><h3>B형간염 정기 검진에서 새로 발견된 2cm 결절</h3></div></a>
 <a href="/케이스/AFP상승-영상음성/" class="case-row"><span class="page-id">1-14</span><div class="body"><h3>AFP만 올라가는데 영상은 정상</h3></div></a>
 <a href="/케이스/LR3-모호결절-추적/" class="case-row"><span class="page-id">1-15</span><div class="body"><h3>LI-RADS 3 모호한 결절</h3></div></a>
@@ -40,25 +44,49 @@
 <a href="/케이스/문맥침범-AtezoBev/" class="case-row"><span class="page-id">1-23</span><div class="body"><h3>문맥 침범 BCLC C</h3></div></a>
 <a href="/케이스/정맥류출혈이력-STRIDE/" class="case-row"><span class="page-id">1-24</span><div class="body"><h3>정맥류 출혈 이력 + BCLC C</h3></div></a>
 <a href="/케이스/다운스테이징-이식전환/" class="case-row"><span class="page-id">1-25</span><div class="body"><h3>큰 종양 다운스테이징 → 이식 후보 전환</h3></div></a>
-<a href="/케이스/절제후-2년재발/" class="case-row"><span class="page-id">1-26</span><div class="body"><h3>절제 2년 후 새 결절</h3></div></a></div></section><section style="margin:32px 0"><h2 style="font-family:'Times New Roman',Georgia,serif;font-size:20px;letter-spacing:-0.01em;font-weight:600;margin:0 0 6px;border-bottom:1px solid var(--line);padding-bottom:8px"><a href="/간경화/" style="color:var(--fg);text-decoration:none">간경화 케이스</a><span style="font-size:12px;color:var(--muted);font-weight:400;margin-left:10px">5편 · 2-시리즈</span></h2><div class="case-list" style="border-top:0;margin-top:14px"><a href="/케이스/첫-식도정맥류-출혈/" class="case-row"><span class="page-id">2-11</span><div class="body"><h3>첫 식도정맥류 출혈</h3></div></a>
+<a href="/케이스/절제후-2년재발/" class="case-row"><span class="page-id">1-26</span><div class="body"><h3>절제 2년 후 새 결절</h3></div></a></div></section><section class="case-series-section" data-series="2" style="margin:32px 0"><h2 style="font-family:'Times New Roman',Georgia,serif;font-size:20px;letter-spacing:-0.01em;font-weight:600;margin:0 0 6px;border-bottom:1px solid var(--line);padding-bottom:8px"><a href="/간경화/" style="color:var(--fg);text-decoration:none">간경화 사례</a><span style="font-size:12px;color:var(--muted);font-weight:400;margin-left:10px">5편</span></h2><div class="case-list" style="border-top:0;margin-top:14px"><a href="/케이스/첫-식도정맥류-출혈/" class="case-row"><span class="page-id">2-11</span><div class="body"><h3>첫 식도정맥류 출혈</h3></div></a>
 <a href="/케이스/복수-SBP-진단치료/" class="case-row"><span class="page-id">2-12</span><div class="body"><h3>복수 + SBP</h3></div></a>
 <a href="/케이스/간성혼수-첫발생/" class="case-row"><span class="page-id">2-13</span><div class="body"><h3>간성혼수 첫 발생</h3></div></a>
 <a href="/케이스/ChildC-이식대기/" class="case-row"><span class="page-id">2-14</span><div class="body"><h3>Child-Pugh C 진행</h3></div></a>
-<a href="/케이스/간경변-새결절-평가/" class="case-row"><span class="page-id">2-15</span><div class="body"><h3>간경변 환자에서 새로 발견된 결절</h3></div></a></div></section><section style="margin:32px 0"><h2 style="font-family:'Times New Roman',Georgia,serif;font-size:20px;letter-spacing:-0.01em;font-weight:600;margin:0 0 6px;border-bottom:1px solid var(--line);padding-bottom:8px"><a href="/B형간염/" style="color:var(--fg);text-decoration:none">B형 간염 케이스</a><span style="font-size:12px;color:var(--muted);font-weight:400;margin-left:10px">5편 · 3-시리즈</span></h2><div class="case-list" style="border-top:0;margin-top:14px"><a href="/케이스/직장검진-HBsAg양성/" class="case-row"><span class="page-id">3-11</span><div class="body"><h3>직장 건강검진에서 HBsAg 양성 첫 발견</h3></div></a>
+<a href="/케이스/간경변-새결절-평가/" class="case-row"><span class="page-id">2-15</span><div class="body"><h3>간경변 환자에서 새로 발견된 결절</h3></div></a></div></section><section class="case-series-section" data-series="3" style="margin:32px 0"><h2 style="font-family:'Times New Roman',Georgia,serif;font-size:20px;letter-spacing:-0.01em;font-weight:600;margin:0 0 6px;border-bottom:1px solid var(--line);padding-bottom:8px"><a href="/B형간염/" style="color:var(--fg);text-decoration:none">B형 간염 사례</a><span style="font-size:12px;color:var(--muted);font-weight:400;margin-left:10px">5편</span></h2><div class="case-list" style="border-top:0;margin-top:14px"><a href="/케이스/직장검진-HBsAg양성/" class="case-row"><span class="page-id">3-11</span><div class="body"><h3>직장 건강검진에서 HBsAg 양성 첫 발견</h3></div></a>
 <a href="/케이스/임신중-HBsAg발견/" class="case-row"><span class="page-id">3-12</span><div class="body"><h3>임신 중 HBsAg 양성 발견</h3></div></a>
 <a href="/케이스/항암치료전-재활성화예방/" class="case-row"><span class="page-id">3-13</span><div class="body"><h3>항암치료 시작 전 HBV 재활성화 예방</h3></div></a>
 <a href="/케이스/ETV-TAF-전환/" class="case-row"><span class="page-id">3-14</span><div class="body"><h3>장기 ETV → TAF 전환</h3></div></a>
-<a href="/케이스/HBeAg-seroclearance-약중단/" class="case-row"><span class="page-id">3-15</span><div class="body"><h3>HBeAg seroclearance 후 약 중단 검토</h3></div></a></div></section><section style="margin:32px 0"><h2 style="font-family:'Times New Roman',Georgia,serif;font-size:20px;letter-spacing:-0.01em;font-weight:600;margin:0 0 6px;border-bottom:1px solid var(--line);padding-bottom:8px"><a href="/지방간/" style="color:var(--fg);text-decoration:none">지방간 케이스</a><span style="font-size:12px;color:var(--muted);font-weight:400;margin-left:10px">5편 · 4-시리즈</span></h2><div class="case-list" style="border-top:0;margin-top:14px"><a href="/케이스/검진ALT상승-MASLD진단/" class="case-row"><span class="page-id">4-11</span><div class="body"><h3>건강검진 ALT 65</h3></div></a>
+<a href="/케이스/HBeAg-seroclearance-약중단/" class="case-row"><span class="page-id">3-15</span><div class="body"><h3>HBeAg seroclearance 후 약 중단 검토</h3></div></a></div></section><section class="case-series-section" data-series="4" style="margin:32px 0"><h2 style="font-family:'Times New Roman',Georgia,serif;font-size:20px;letter-spacing:-0.01em;font-weight:600;margin:0 0 6px;border-bottom:1px solid var(--line);padding-bottom:8px"><a href="/지방간/" style="color:var(--fg);text-decoration:none">지방간 사례</a><span style="font-size:12px;color:var(--muted);font-weight:400;margin-left:10px">5편</span></h2><div class="case-list" style="border-top:0;margin-top:14px"><a href="/케이스/검진ALT상승-MASLD진단/" class="case-row"><span class="page-id">4-11</span><div class="body"><h3>건강검진 ALT 65</h3></div></a>
 <a href="/케이스/MASLD-F2-GLP1시작/" class="case-row"><span class="page-id">4-12</span><div class="body"><h3>MASLD F2 + 비만</h3></div></a>
 <a href="/케이스/MASH-F3-당뇨-종합관리/" class="case-row"><span class="page-id">4-13</span><div class="body"><h3>MASH F3 + 당뇨</h3></div></a>
 <a href="/케이스/lean-MASLD-비만없음/" class="case-row"><span class="page-id">4-14</span><div class="body"><h3>BMI 22의 lean MASLD</h3></div></a>
-<a href="/케이스/resmetirom-신약시작/" class="case-row"><span class="page-id">4-15</span><div class="body"><h3>MASH F2 + 비만</h3></div></a></div></section><section style="margin:32px 0"><h2 style="font-family:'Times New Roman',Georgia,serif;font-size:20px;letter-spacing:-0.01em;font-weight:600;margin:0 0 6px;border-bottom:1px solid var(--line);padding-bottom:8px"><a href="/간수치/" style="color:var(--fg);text-decoration:none">간수치 이상 케이스</a><span style="font-size:12px;color:var(--muted);font-weight:400;margin-left:10px">5편 · 5-시리즈</span></h2><div class="case-list" style="border-top:0;margin-top:14px"><a href="/케이스/검진ALT상승-원인감별/" class="case-row"><span class="page-id">5-10</span><div class="body"><h3>검진 ALT 95 / AST 80</h3></div></a>
+<a href="/케이스/resmetirom-신약시작/" class="case-row"><span class="page-id">4-15</span><div class="body"><h3>MASH F2 + 비만</h3></div></a></div></section><section class="case-series-section" data-series="5" style="margin:32px 0"><h2 style="font-family:'Times New Roman',Georgia,serif;font-size:20px;letter-spacing:-0.01em;font-weight:600;margin:0 0 6px;border-bottom:1px solid var(--line);padding-bottom:8px"><a href="/간수치/" style="color:var(--fg);text-decoration:none">간수치 이상 사례</a><span style="font-size:12px;color:var(--muted);font-weight:400;margin-left:10px">5편</span></h2><div class="case-list" style="border-top:0;margin-top:14px"><a href="/케이스/검진ALT상승-원인감별/" class="case-row"><span class="page-id">5-10</span><div class="body"><h3>검진 ALT 95 / AST 80</h3></div></a>
 <a href="/케이스/자가면역간염-첫진단/" class="case-row"><span class="page-id">5-11</span><div class="body"><h3>젊은 여성의 자가면역간염</h3></div></a>
 <a href="/케이스/약물성간손상-항결핵제/" class="case-row"><span class="page-id">5-12</span><div class="body"><h3>항결핵제 시작 후 ALT 300</h3></div></a>
 <a href="/케이스/독성간염-야생버섯/" class="case-row"><span class="page-id">5-13</span><div class="body"><h3>야생 버섯 식이 후 급성 간부전</h3></div></a>
-<a href="/케이스/보충제-ALT상승/" class="case-row"><span class="page-id">5-14</span><div class="body"><h3>보디빌딩 보충제 후 ALT 150</h3></div></a></div></section><section style="margin:32px 0"><h2 style="font-family:'Times New Roman',Georgia,serif;font-size:20px;letter-spacing:-0.01em;font-weight:600;margin:0 0 6px;border-bottom:1px solid var(--line);padding-bottom:8px"><a href="/C형간염/" style="color:var(--fg);text-decoration:none">C형 간염 케이스</a><span style="font-size:12px;color:var(--muted);font-weight:400;margin-left:10px">2편 · 6-시리즈</span></h2><div class="case-list" style="border-top:0;margin-top:14px"><a href="/케이스/anti-HCV양성-첫발견/" class="case-row"><span class="page-id">6-4</span><div class="body"><h3>anti-HCV 양성 첫 발견</h3></div></a>
-<a href="/케이스/C형간염-간경변-새결절/" class="case-row"><span class="page-id">6-5</span><div class="body"><h3>C형간염 DAA 완치 5년 후 새 결절 발견</h3></div></a></div></section><section style="margin:32px 0"><h2 style="font-family:'Times New Roman',Georgia,serif;font-size:20px;letter-spacing:-0.01em;font-weight:600;margin:0 0 6px;border-bottom:1px solid var(--line);padding-bottom:8px"><a href="/자가면역간염/" style="color:var(--fg);text-decoration:none">자가면역간염 케이스</a><span style="font-size:12px;color:var(--muted);font-weight:400;margin-left:10px">2편 · 7-시리즈</span></h2><div class="case-list" style="border-top:0;margin-top:14px"><a href="/케이스/AIH-첫진단-여성/" class="case-row"><span class="page-id">7-4</span><div class="body"><h3>젊은 여성의 AIH 첫 진단</h3></div></a>
+<a href="/케이스/보충제-ALT상승/" class="case-row"><span class="page-id">5-14</span><div class="body"><h3>보디빌딩 보충제 후 ALT 150</h3></div></a></div></section><section class="case-series-section" data-series="6" style="margin:32px 0"><h2 style="font-family:'Times New Roman',Georgia,serif;font-size:20px;letter-spacing:-0.01em;font-weight:600;margin:0 0 6px;border-bottom:1px solid var(--line);padding-bottom:8px"><a href="/C형간염/" style="color:var(--fg);text-decoration:none">C형 간염 사례</a><span style="font-size:12px;color:var(--muted);font-weight:400;margin-left:10px">2편</span></h2><div class="case-list" style="border-top:0;margin-top:14px"><a href="/케이스/anti-HCV양성-첫발견/" class="case-row"><span class="page-id">6-4</span><div class="body"><h3>anti-HCV 양성 첫 발견</h3></div></a>
+<a href="/케이스/C형간염-간경변-새결절/" class="case-row"><span class="page-id">6-5</span><div class="body"><h3>C형간염 DAA 완치 5년 후 새 결절 발견</h3></div></a></div></section><section class="case-series-section" data-series="7" style="margin:32px 0"><h2 style="font-family:'Times New Roman',Georgia,serif;font-size:20px;letter-spacing:-0.01em;font-weight:600;margin:0 0 6px;border-bottom:1px solid var(--line);padding-bottom:8px"><a href="/자가면역간염/" style="color:var(--fg);text-decoration:none">자가면역간염 사례</a><span style="font-size:12px;color:var(--muted);font-weight:400;margin-left:10px">2편</span></h2><div class="case-list" style="border-top:0;margin-top:14px"><a href="/케이스/AIH-첫진단-여성/" class="case-row"><span class="page-id">7-4</span><div class="body"><h3>젊은 여성의 AIH 첫 진단</h3></div></a>
 <a href="/케이스/AIH-약중단-재발/" class="case-row"><span class="page-id">7-5</span><div class="body"><h3>AIH 약 중단 시도 후 재발</h3></div></a></div></section>
+
+<script>
+(function(){
+  var params = new URLSearchParams(location.search);
+  var s = params.get('series');
+  if (!s) return;
+  var sections = document.querySelectorAll('.case-series-section');
+  var labels = {'1':'간암','2':'간경화','3':'B형 간염','4':'지방간','5':'간수치 이상','6':'C형 간염','7':'자가면역간염'};
+  var visibleCount = 0;
+  sections.forEach(function(sec){
+    if (sec.dataset.series === s) {
+      visibleCount++;
+    } else {
+      sec.style.display = 'none';
+    }
+  });
+  if (visibleCount > 0 && labels[s]) {
+    var bar = document.getElementById('filterBar');
+    var lbl = document.getElementById('filterLabel');
+    lbl.textContent = labels[s] + ' 사례만 보고 있습니다.';
+    bar.style.display = 'block';
+  }
+})();
+</script>
 
 <p class="disclaimer" style="margin-top:48px">본 케이스들은 외래에서 자주 만나는 임상 시나리오를 익명화하여 재구성한 교육 자료입니다. 환자 식별 정보는 모두 변경되었으며, 임상 결정은 표준 가이드라인의 한 예시일 뿐 개별 환자에 그대로 적용되지 않습니다.</p>
 </main>
