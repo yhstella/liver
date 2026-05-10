@@ -17,7 +17,7 @@ MARKER_START = "<!-- verify:auto:start -->"
 MARKER_END = "<!-- verify:auto:end -->"
 
 # === FILL IN AFTER REGISTRATION ===
-GOOGLE_CODE = ""   # e.g. "abc123XYZ..."
+GOOGLE_CODE = "x7NwlcpE-hA8N6Lf1h_i2wKk2RAiSDvv4wUXxV-CwRE"
 NAVER_CODE  = ""   # e.g. "xyz789ABC..."
 BING_CODE   = ""   # e.g. "1A2B3C..."
 
