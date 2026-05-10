@@ -57,7 +57,7 @@
 .topic-list li:last-child{border-bottom:1px solid var(--line)}
 .topic-list a{display:flex;align-items:center;gap:14px;padding:18px 4px;color:var(--fg);text-decoration:none}
 .topic-list a:hover h3{color:var(--accent)}
-.topic-list .num{font-family:"Times New Roman",Georgia,serif;color:var(--muted);font-size:14px;min-width:62px;flex-shrink:0;letter-spacing:0.04em;text-align:right;white-space:nowrap}
+.topic-list .num{font-family:"Times New Roman",Georgia,serif;color:var(--muted);font-size:13.5px;min-width:50px;flex-shrink:0;letter-spacing:0.02em;text-align:right;white-space:nowrap}
 .topic-list .body{flex:1;min-width:0}
 .topic-list h3{margin:0 0 4px;font-size:16.5px;line-height:1.4;font-weight:600;letter-spacing:-0.005em}
 .topic-list p{margin:0;font-size:12.5px;color:var(--muted);line-height:1.5}
