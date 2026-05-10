@@ -8,20 +8,20 @@
 .home-hero .text h1{font-family:"Times New Roman",Georgia,"Noto Serif KR",serif;font-size:44px;line-height:1.15;margin:0 0 18px;letter-spacing:-0.025em;font-weight:600;color:#0f1a16}
 .home-hero .text h1 em{font-style:normal;color:var(--accent);background:linear-gradient(180deg,transparent 65%,rgba(31,111,92,0.18) 65%);padding:0 4px}
 .home-hero .text .lede{font-size:16.5px;line-height:1.7;color:#2a3a32;margin:0 0 20px;max-width:520px}
-.home-hero .text .byline{font-size:13.5px;color:var(--muted);margin:0;letter-spacing:0.02em;display:flex;align-items:center;gap:10px}
-.home-hero .text .byline::before{content:"";display:inline-block;width:24px;height:1px;background:var(--accent)}
+.home-hero .text .byline{font-size:13.5px;color:var(--muted);margin:0;letter-spacing:0.02em;line-height:1.7;padding-left:34px;position:relative}
+.home-hero .text .byline::before{content:"";position:absolute;left:0;top:9px;width:24px;height:1px;background:var(--accent)}
 .home-hero .text .byline a{color:var(--accent);text-decoration:none;font-weight:500;border-bottom:1px solid transparent;transition:border-color .15s}
 .home-hero .text .byline a:hover{border-bottom-color:var(--accent)}
 .home-hero .photo{justify-self:end;position:relative;width:200px;height:200px}
 .home-hero .photo::before{content:"";position:absolute;top:10px;left:10px;width:200px;height:200px;border:1.5px solid var(--accent);border-radius:14px;z-index:0;pointer-events:none;opacity:0.6}
 .home-hero .photo img{position:relative;width:200px;height:200px;border-radius:14px;object-fit:cover;object-position:center 22%;background:#f3f1ec;display:block;box-shadow:0 12px 32px rgba(15,26,22,0.12);z-index:1}
-@media (max-width:680px){
-  .home-hero{padding:32px 24px 30px;grid-template-columns:1fr;gap:0}
+@media (max-width:900px){
+  .home-hero{padding:32px 24px 30px;grid-template-columns:1fr !important;gap:0}
   .home-hero .text h1{font-size:26px;line-height:1.25}
   .home-hero .text .lede{font-size:14.5px;line-height:1.6;margin-bottom:14px}
-  .home-hero .text .byline{font-size:12.5px}
+  .home-hero .text .byline{font-size:12.5px;line-height:1.65}
   .home-hero::before,.home-hero::after{display:none}
-  .home-hero .photo{display:none}
+  .home-hero .photo{display:none !important}
 }
 
 .series-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin:0 0 56px}
