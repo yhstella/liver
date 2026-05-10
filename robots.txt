@@ -1,0 +1,59 @@
+# https://drshin.kr/ — Hepatology Note
+# 일반적 의료 정보 제공 사이트, 모든 검색엔진 환영.
+
+User-agent: *
+Allow: /
+Disallow: /guide/
+Disallow: /.tools/
+
+# AI 크롤러 (LLM 학습 및 검색 인용 모두 허용)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# 한국 검색엔진
+User-agent: Yeti
+Allow: /
+
+User-agent: Daumoa
+Allow: /
+
+Sitemap: https://drshin.kr/sitemap.xml

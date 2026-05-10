@@ -303,6 +303,17 @@ abbr[title]{text-decoration:underline dotted var(--muted);text-decoration-thickn
 .fig-modal-overlay{cursor:zoom-out;touch-action:pan-y}
 .fig-modal-box{cursor:default}
 
+/* === Author mini box (auto-injected at bottom of every detail page) === */
+.author-mini{display:flex;gap:14px;align-items:center;margin:48px 0 24px;padding:14px 16px;background:#fff;border:1px solid var(--line);border-left:3px solid var(--accent);border-radius:0 8px 8px 0;font-size:13.5px}
+.author-mini img{width:48px;height:48px;border-radius:50%;object-fit:cover;object-position:center 22%;flex-shrink:0;background:#f3f1ec}
+.author-mini-text{display:flex;flex-direction:column;gap:1px;min-width:0;flex:1}
+.author-mini-text strong{font-size:14.5px;color:var(--fg);font-weight:600}
+.author-mini-text .role{color:var(--muted);font-size:12.5px}
+.author-mini-text .links{font-size:12.5px;color:var(--muted);margin-top:3px}
+.author-mini-text .links a{color:var(--accent);text-decoration:none}
+.author-mini-text .links a:hover{text-decoration:underline}
+@media (max-width:600px){.author-mini{padding:12px 14px;gap:12px}.author-mini img{width:42px;height:42px}}
+
 /* === abbr mobile popover (tap to show) === */
 abbr[title]{position:relative}
 .abbr-pop{position:absolute;top:calc(100% + 8px);left:50%;transform:translateX(-50%);background:#1a2622;color:#fff;font-size:13px;line-height:1.5;padding:8px 12px;border-radius:6px;box-shadow:0 6px 18px rgba(15,26,22,0.25);white-space:normal;width:max-content;max-width:min(280px,80vw);z-index:60;font-weight:400;letter-spacing:0;font-family:inherit;animation:abbrPopIn .14s ease-out}
