@@ -25,13 +25,20 @@
 .kw-tags{grid-column:1/-1;display:flex;flex-wrap:wrap;gap:5px}
 .kw-tags em{font-style:normal;font-size:11px;color:var(--muted);background:#f5f5ee;padding:2px 8px;border-radius:99px;border:1px solid var(--line)}
 .kw-empty{padding:32px 20px;text-align:center;color:var(--muted);font-size:14px}
+.kw-search{position:relative;margin:14px 0 18px;max-width:420px}
+.kw-search input{width:100%;box-sizing:border-box;padding:10px 36px 10px 14px;font-size:14px;font-family:inherit;color:var(--fg);background:#fff;border:1px solid var(--line);border-radius:8px;transition:border-color .12s,box-shadow .12s}
+.kw-search input:focus{outline:none;border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft)}
+.kw-search input::placeholder{color:var(--muted)}
+.kw-search-clear{position:absolute;right:8px;top:50%;transform:translateY(-50%);width:22px;height:22px;border:none;background:transparent;color:var(--muted);font-size:18px;line-height:1;cursor:pointer;border-radius:50%;display:none;padding:0}
+.kw-search-clear:hover{color:var(--fg);background:#f3f1ec}
+.kw-search.has-value .kw-search-clear{display:inline-flex;align-items:center;justify-content:center}
 </style>
 </head>
 <body>
 <header class="site-header">
   <div class="inner">
     <a href="/" class="brand-mark">Hepatology<em> Note</em></a>
-    <nav class="site-nav"><a href="/소개/">소개</a><a href="/연구/">연구</a><a href="/updates/">Updates</a></nav>
+    <nav class="site-nav"><a href="/소개/">소개</a><a href="/연구/">연구</a><a href="/updates/">Updates</a><a href="/keywords/">키워드</a></nav>
   </div>
 </header>
 
@@ -39,7 +46,12 @@
 <nav class="crumb"><a href="/">홈</a> › <span>키워드</span></nav>
 
 <h1 style="font-family:'Times New Roman',Georgia,serif;font-size:30px;font-weight:600;letter-spacing:-0.02em;margin:8px 0 8px">키워드 색인</h1>
-<p class="intro" style="margin:6px 0 18px">키워드를 클릭하면 그 키워드가 달린 페이지만 보입니다. 다시 클릭하면 전체 보기로 돌아갑니다.</p>
+<p class="intro" style="margin:6px 0 14px">키워드를 클릭하면 그 키워드가 달린 페이지만 보입니다. 다시 클릭하면 전체 보기로 돌아갑니다.</p>
+
+<div class="kw-search" id="kwSearch">
+  <input type="search" id="kwSearchInput" placeholder="페이지·키워드 검색…" aria-label="페이지·키워드 검색" autocomplete="off">
+  <button type="button" class="kw-search-clear" id="kwSearchClear" aria-label="검색어 지우기">×</button>
+</div>
 
 <div class="kw-chips" id="kwChips"><button class="kw-chip" data-kw="간세포암">간세포암<span class="kw-count">37</span></button><button class="kw-chip" data-kw="B형간염">B형간염<span class="kw-count">32</span></button><button class="kw-chip" data-kw="MASLD">MASLD<span class="kw-count">28</span></button><button class="kw-chip" data-kw="MASH">MASH<span class="kw-count">23</span></button><button class="kw-chip" data-kw="간경변">간경변<span class="kw-count">23</span></button><button class="kw-chip" data-kw="검진">검진<span class="kw-count">23</span></button><button class="kw-chip" data-kw="Fibroscan">Fibroscan<span class="kw-count">20</span></button><button class="kw-chip" data-kw="ALT">ALT<span class="kw-count">18</span></button><button class="kw-chip" data-kw="추적">추적<span class="kw-count">17</span></button><button class="kw-chip" data-kw="Child-Pugh">Child-Pugh<span class="kw-count">16</span></button><button class="kw-chip" data-kw="식이·운동">식이·운동<span class="kw-count">14</span></button><button class="kw-chip" data-kw="RCT">RCT<span class="kw-count">12</span></button><button class="kw-chip" data-kw="비대상성">비대상성<span class="kw-count">12</span></button><button class="kw-chip" data-kw="약물성간손상">약물성간손상<span class="kw-count">12</span></button><button class="kw-chip" data-kw="BCLC">BCLC<span class="kw-count">11</span></button><button class="kw-chip" data-kw="HBV DNA">HBV DNA<span class="kw-count">11</span></button><button class="kw-chip" data-kw="면역치료">면역치료<span class="kw-count">11</span></button><button class="kw-chip" data-kw="TDF">TDF<span class="kw-count">9</span></button><button class="kw-chip" data-kw="C형간염">C형간염<span class="kw-count">8</span></button><button class="kw-chip" data-kw="EOB-MRI">EOB-MRI<span class="kw-count">8</span></button><button class="kw-chip" data-kw="FIB-4">FIB-4<span class="kw-count">8</span></button><button class="kw-chip" data-kw="GLP-1RA">GLP-1RA<span class="kw-count">8</span></button><button class="kw-chip" data-kw="간이식">간이식<span class="kw-count">8</span></button><button class="kw-chip" data-kw="엔테카비르">엔테카비르<span class="kw-count">8</span></button><button class="kw-chip" data-kw="정맥류">정맥류<span class="kw-count">8</span></button><button class="kw-chip" data-kw="AST">AST<span class="kw-count">7</span></button><button class="kw-chip" data-kw="PMC OA">PMC OA<span class="kw-count">7</span></button><button class="kw-chip" data-kw="TAF">TAF<span class="kw-count">7</span></button><button class="kw-chip" data-kw="고주파열치료술">고주파열치료술<span class="kw-count">7</span></button><button class="kw-chip" data-kw="자가면역간염">자가면역간염<span class="kw-count">7</span></button><button class="kw-chip" data-kw="지방간">지방간<span class="kw-count">7</span></button><button class="kw-chip" data-kw="AFP">AFP<span class="kw-count">6</span></button><button class="kw-chip" data-kw="MELD">MELD<span class="kw-count">6</span></button><button class="kw-chip" data-kw="TACE">TACE<span class="kw-count">6</span></button><button class="kw-chip" data-kw="가족검사">가족검사<span class="kw-count">6</span></button><button class="kw-chip" data-kw="간생검">간생검<span class="kw-count">6</span></button><button class="kw-chip" data-kw="다운스테이징">다운스테이징<span class="kw-count">6</span></button><button class="kw-chip" data-kw="재발">재발<span class="kw-count">6</span></button><button class="kw-chip" data-kw="절제">절제<span class="kw-count">6</span></button><button class="kw-chip" data-kw="HBsAg">HBsAg<span class="kw-count">5</span></button><button class="kw-chip" data-kw="간양성종양">간양성종양<span class="kw-count">5</span></button><button class="kw-chip" data-kw="스테로이드">스테로이드<span class="kw-count">5</span></button><button class="kw-chip" data-kw="알부민">알부민<span class="kw-count">5</span></button><button class="kw-chip" data-kw="DAA">DAA<span class="kw-count">4</span></button><button class="kw-chip" data-kw="HBeAg">HBeAg<span class="kw-count">4</span></button><button class="kw-chip" data-kw="LDLT">LDLT<span class="kw-count">4</span></button><button class="kw-chip" data-kw="SGLT2">SGLT2<span class="kw-count">4</span></button><button class="kw-chip" data-kw="anti-HBs">anti-HBs<span class="kw-count">4</span></button><button class="kw-chip" data-kw="resmetirom">resmetirom<span class="kw-count">4</span></button><button class="kw-chip" data-kw="문맥압항진">문맥압항진<span class="kw-count">4</span></button><button class="kw-chip" data-kw="아자티오프린">아자티오프린<span class="kw-count">4</span></button><button class="kw-chip" data-kw="한국가이드라인">한국가이드라인<span class="kw-count">4</span></button><button class="kw-chip" data-kw="ALP">ALP<span class="kw-count">3</span></button><button class="kw-chip" data-kw="GGT">GGT<span class="kw-count">3</span></button><button class="kw-chip" data-kw="IgG">IgG<span class="kw-count">3</span></button><button class="kw-chip" data-kw="PIVKA-II">PIVKA-II<span class="kw-count">3</span></button><button class="kw-chip" data-kw="STRIDE">STRIDE<span class="kw-count">3</span></button><button class="kw-chip" data-kw="atezolizumab+bevacizumab">atezolizumab+bevacizumab<span class="kw-count">3</span></button><button class="kw-chip" data-kw="간낭종">간낭종<span class="kw-count">3</span></button><button class="kw-chip" data-kw="복수">복수<span class="kw-count">3</span></button><button class="kw-chip" data-kw="빌리루빈">빌리루빈<span class="kw-count">3</span></button><button class="kw-chip" data-kw="임신·수유">임신·수유<span class="kw-count">3</span></button><button class="kw-chip" data-kw="FNH">FNH<span class="kw-count">2</span></button><button class="kw-chip" data-kw="MR연구">MR연구<span class="kw-count">2</span></button><button class="kw-chip" data-kw="PT">PT<span class="kw-count">2</span></button><button class="kw-chip" data-kw="SBP">SBP<span class="kw-count">2</span></button><button class="kw-chip" data-kw="SBRT">SBRT<span class="kw-count">2</span></button><button class="kw-chip" data-kw="anti-HCV">anti-HCV<span class="kw-count">2</span></button><button class="kw-chip" data-kw="간성혼수">간성혼수<span class="kw-count">2</span></button><button class="kw-chip" data-kw="경화요법">경화요법<span class="kw-count">2</span></button><button class="kw-chip" data-kw="백신">백신<span class="kw-count">2</span></button><button class="kw-chip" data-kw="블레오마이신">블레오마이신<span class="kw-count">2</span></button><button class="kw-chip" data-kw="선종">선종<span class="kw-count">2</span></button><button class="kw-chip" data-kw="혈관종">혈관종<span class="kw-count">2</span></button><button class="kw-chip" data-kw="ANA">ANA<span class="kw-count">1</span></button><button class="kw-chip" data-kw="ASMA">ASMA<span class="kw-count">1</span></button><button class="kw-chip" data-kw="CT">CT<span class="kw-count">1</span></button><button class="kw-chip" data-kw="INR">INR<span class="kw-count">1</span></button><button class="kw-chip" data-kw="LI-RADS">LI-RADS<span class="kw-count">1</span></button><button class="kw-chip" data-kw="TARE">TARE<span class="kw-count">1</span></button><button class="kw-chip" data-kw="anti-HBe">anti-HBe<span class="kw-count">1</span></button><button class="kw-chip" data-kw="sofosbuvir">sofosbuvir<span class="kw-count">1</span></button><button class="kw-chip" data-kw="간신증후군">간신증후군<span class="kw-count">1</span></button><button class="kw-chip" data-kw="급성간부전">급성간부전<span class="kw-count">1</span></button><button class="kw-chip" data-kw="다학제">다학제<span class="kw-count">1</span></button><button class="kw-chip" data-kw="대상성">대상성<span class="kw-count">1</span></button><button class="kw-chip" data-kw="지중해식">지중해식<span class="kw-count">1</span></button><button class="kw-chip" data-kw="초음파">초음파<span class="kw-count">1</span></button><button class="kw-chip" data-kw="혈소판">혈소판<span class="kw-count">1</span></button></div>
 
@@ -63,38 +75,77 @@
   var chips = document.querySelectorAll('.kw-chip');
   var list = document.getElementById('kwList');
   var empty = document.getElementById('kwEmpty');
-  var current = null;
+  var searchWrap = document.getElementById('kwSearch');
+  var searchInput = document.getElementById('kwSearchInput');
+  var searchClear = document.getElementById('kwSearchClear');
+  var rows = Array.prototype.slice.call(list.querySelectorAll('.kw-page'));
 
-  function applyFilter(kw){
-    if (kw === current) { kw = null; }
-    current = kw;
+  // Cache lowercased searchable text for each row (title + keywords)
+  rows.forEach(function(r){
+    var title = (r.querySelector('a') ? r.querySelector('a').textContent : '') || '';
+    var kws = (r.dataset.keywords || '').replace(/\|/g, ' ');
+    r._search = (title + ' ' + kws).toLowerCase();
+  });
+
+  var currentKw = null;
+  var currentQuery = '';
+
+  function apply(){
     chips.forEach(function(c){
-      c.classList.toggle('active', kw && c.dataset.kw === kw);
+      c.classList.toggle('active', !!currentKw && c.dataset.kw === currentKw);
     });
-    var rows = list.querySelectorAll('.kw-page');
     var visible = 0;
     rows.forEach(function(r){
       var keywords = (r.dataset.keywords || '').split('|');
-      var match = !kw || keywords.indexOf(kw) >= 0;
+      var kwMatch = !currentKw || keywords.indexOf(currentKw) >= 0;
+      var qMatch = !currentQuery || r._search.indexOf(currentQuery) >= 0;
+      var match = kwMatch && qMatch;
       r.classList.toggle('hide', !match);
       if (match) visible++;
     });
-    empty.style.display = (kw && visible === 0) ? 'block' : 'none';
-    if (kw) {
-      history.replaceState(null, '', '?k=' + encodeURIComponent(kw));
-    } else {
-      history.replaceState(null, '', location.pathname);
-    }
+    empty.style.display = ((currentKw || currentQuery) && visible === 0) ? 'block' : 'none';
+    searchWrap.classList.toggle('has-value', !!currentQuery);
+
+    // URL sync — keyword in ?k=, query in ?q=
+    var params = new URLSearchParams();
+    if (currentKw) params.set('k', currentKw);
+    if (currentQuery) params.set('q', currentQuery);
+    var qs = params.toString();
+    history.replaceState(null, '', qs ? '?' + qs : location.pathname);
+  }
+
+  function setKw(kw){
+    if (kw === currentKw) kw = null;
+    currentKw = kw;
+    apply();
+  }
+
+  function setQuery(q){
+    currentQuery = (q || '').trim().toLowerCase();
+    apply();
   }
 
   chips.forEach(function(c){
-    c.addEventListener('click', function(){ applyFilter(c.dataset.kw); });
+    c.addEventListener('click', function(){ setKw(c.dataset.kw); });
   });
 
-  // Apply ?k= from URL on load
+  searchInput.addEventListener('input', function(){ setQuery(searchInput.value); });
+  searchInput.addEventListener('keydown', function(e){
+    if (e.key === 'Escape') { searchInput.value = ''; setQuery(''); }
+  });
+  searchClear.addEventListener('click', function(){
+    searchInput.value = '';
+    setQuery('');
+    searchInput.focus();
+  });
+
+  // Apply ?k= and ?q= from URL on load
   var params = new URLSearchParams(location.search);
-  var initial = params.get('k');
-  if (initial) applyFilter(initial);
+  var initialKw = params.get('k');
+  var initialQ = params.get('q');
+  if (initialKw) currentKw = initialKw;
+  if (initialQ) { currentQuery = initialQ.toLowerCase(); searchInput.value = initialQ; }
+  if (initialKw || initialQ) apply();
 })();
 </script>
 </body>

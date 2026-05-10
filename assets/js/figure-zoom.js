@@ -72,6 +72,66 @@
   }
 })();
 
+// === A11y: Skip-to-content link (auto-injected) ===
+(function(){
+  function inject(){
+    if (document.querySelector('.skip-link')) return;
+    var main = document.querySelector('main');
+    if (!main) return;
+    if (!main.id) main.id = 'main-content';
+    var link = document.createElement('a');
+    link.href = '#' + main.id;
+    link.className = 'skip-link';
+    link.textContent = '본문 바로가기';
+    document.body.insertBefore(link, document.body.firstChild);
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', inject);
+  } else { inject(); }
+})();
+
+// === Active nav state — highlight current section ===
+(function(){
+  function setActive(){
+    var path = location.pathname;
+    document.querySelectorAll('.site-nav a').forEach(function(a){
+      var href = a.getAttribute('href') || '';
+      if (href === '/' && path === '/') {
+        a.classList.add('active');
+      } else if (href !== '/' && path.indexOf(href) === 0) {
+        a.classList.add('active');
+      }
+    });
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', setActive);
+  } else { setActive(); }
+})();
+
+// === Back to top button ===
+(function(){
+  function init(){
+    var btn = document.createElement('button');
+    btn.className = 'back-to-top';
+    btn.type = 'button';
+    btn.setAttribute('aria-label', '맨 위로');
+    btn.innerHTML = '↑';
+    btn.addEventListener('click', function(){
+      window.scrollTo({top:0, behavior:'smooth'});
+    });
+    document.body.appendChild(btn);
+    function onScroll(){
+      if (window.scrollY > 600) btn.classList.add('visible');
+      else btn.classList.remove('visible');
+    }
+    window.addEventListener('scroll', onScroll, {passive:true});
+    onScroll();
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else { init(); }
+})();
+
 // Rewrite SNUH links to mobile variant on small screens.
 // Desktop: https://www.snuh.org/blog/...    Mobile: https://www.snuh.org/m/blog/...
 (function(){
