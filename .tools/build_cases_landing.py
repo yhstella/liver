@@ -12,9 +12,11 @@ def esc(s): return htmllib.escape(s or "")
 SERIES_GROUPS = [
     ("간암", "1", "/간암/", []),
     ("간경화", "2", "/간경화/", []),
-    ("B형간염", "3", "/B형간염/", []),
+    ("B형 간염", "3", "/B형간염/", []),
     ("지방간", "4", "/지방간/", []),
     ("간수치 이상", "5", "/간수치/", []),
+    ("C형 간염", "6", "/C형간염/", []),
+    ("자가면역간염", "7", "/자가면역간염/", []),
 ]
 
 # Group 간암 cases (1-12 to 1-26)
@@ -33,6 +35,20 @@ for c in bc2.CASES:
     SERIES_GROUPS[idx][3].append({
         "slug": c["slug"], "title": c["title"], "intro": c["intro"], "page_id": c["page_id"],
     })
+
+# C형 간염 + 자가면역간염 케이스 (manually listed since not in bc1/bc2)
+SERIES_GROUPS[5][3].extend([
+    {"slug": "anti-HCV양성-첫발견", "title": "anti-HCV 양성 첫 발견 — RNA 확인부터 DAA까지",
+     "intro": "<p>54세 여성, 직장 검진에서 anti-HCV(+) 첫 발견.</p>", "page_id": "6-4"},
+    {"slug": "C형간염-간경변-새결절", "title": "C형간염 DAA 완치 5년 후 새 결절 발견",
+     "intro": "<p>67세 남성, DAA SVR 5년 후 정기 EOB-MRI에서 1.4 cm 결절.</p>", "page_id": "6-5"},
+])
+SERIES_GROUPS[6][3].extend([
+    {"slug": "AIH-첫진단-여성", "title": "젊은 여성의 AIH 첫 진단 — induction과 첫 6개월",
+     "intro": "<p>32세 여성, ALT 380, IgG 28, ANA/ASMA 양성으로 AIH 진단.</p>", "page_id": "7-4"},
+    {"slug": "AIH-약중단-재발", "title": "AIH 약 중단 시도 후 재발 — 재시작과 평생 유지 결정",
+     "intro": "<p>45세 여성, AIH 진단 5년 후 약 중단 시도 → 6개월 시점 재발.</p>", "page_id": "7-5"},
+])
 
 
 def render_landing():
