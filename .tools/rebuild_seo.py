@@ -21,8 +21,9 @@ TOOLS = ROOT / ".tools"
 STEPS = [
     ("Inject author-box on detail pages",   "inject_author_box.py"),
     ("Inject JSON-LD on detail pages",      "inject_jsonld.py"),
+    ("Dedupe legacy JSON-LD blocks",        "dedupe_jsonld.py"),
     ("Inject verification meta (if any)",   "inject_verification.py"),
-    ("Generate sitemap.xml",                 "build_sitemap.py"),
+    ("Generate sitemap.xml index + children", "build_sitemap.py"),
     ("Generate llms.txt + llms-full.txt",    "build_llms.py"),
 ]
 
