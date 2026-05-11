@@ -127,7 +127,7 @@ def slug_to_topic(slug: str) -> list[str]:
 
 def load_manifest():
     rows = []
-    with MANIFEST.open(encoding='utf-8') as f:
+    with MANIFEST.open(encoding='utf-8-sig') as f:
         reader = csv.DictReader(f)
         for r in reader:
             rows.append(r)

@@ -7,7 +7,7 @@
 ```
 assets/img/
 ├── README.md            이 파일
-├── db/         33M  101  ← 메인 figure DB (Codex 큐레이션, canonical)
+├── db/         39M  130  ← 메인 figure DB (Codex 큐레이션, canonical)
 ├── papers/    3.6M   43  ← 논문 figure (Updates 페이지용)
 ├── concepts/  2.3M   10  ← 외부 CC 라이선스 stock 이미지 (Wikimedia 등)
 ├── web/       5.3M    3  ← 수동 추가 web figure (정맥류 결찰·복수 천자·식단)
@@ -53,4 +53,5 @@ Wikimedia Commons 등 CC 라이선스 stock 이미지. 10개만 유지 (3개 토
 ## 정리 이력
 
 - 2026-05-12: `topics/` (58M, 0 refs), `figures/` (30M, 0 refs) 완전 삭제. `concepts/` 168→10 슬림. dead script(`embed_page_figures.py`, `distribute_figures.py`, `distribute_concept_figures.py`, `embed_real_figures.py`) 제거. 총 142MB → 44MB (-69%).
+- 2026-05-12: open-license 보강분을 `db/`에 반영. 공개 DB 101→130장, 특히 `autoimmune_cholestatic`, `cirrhosis_portal_htn`, `masld_mash`, `imaging`, `hcc` 보강.
 - 2026-05-11: Codex curated `db/` 추가. `place_db_figures.py`로 101 페이지 자동 배치.
