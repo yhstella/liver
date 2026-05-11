@@ -4972,7 +4972,7 @@ Shin H, Lim GS, Yoon JW, et al. Metabolic Effects and Cardiovascular Disease Ris
 
 B형간염은 평생 항바이러스제를 복용하는 만성 질환이라 약물의 비-간 외 영향이 누적됩니다. TDF는 일부 환자에서 LDL 콜레스테롤 감소·체중 감소가 보고되는 반면, TAF는 그런 효과가 적거나 반대 방향이라는 데이터가 있어 임상에서 약 선택에 영향을 줄 수 있어요.
 
-Hepatitis E Virus in Pork Liver Sausage
+B형간염 바이러스 — 만성 감염 환자에서 항바이러스제 종류에 따른 대사·심혈관 영향을 평가한 한국 코호트 연구
 
 ## APPROACH접근 방식
 
@@ -5117,7 +5117,7 @@ Shin H, Hur MH, Baek YH, et al. Efficacy and Safety of Switching from Entecavir 
 
 ETV는 효과가 강력하지만 공복 복용 필요·라미부딘 내성에 약한 단점이 있어요. TAF는 식사 무관 복용·신·골 안전성 향상이 강점이지만 ETV에서 TAF로의 전환 효과는 RCT 데이터가 적었습니다. 후향 데이터는 일관적이지 않아 명확한 답이 필요했어요.
 
-Hepatiidi D viiruse struktuur
+B형간염 바이러스(HBV) — ETV·TAF는 HBV reverse transcriptase를 표적으로 하는 nucleos(t)ide analog
 
 ## APPROACH접근 방식
 
@@ -5259,7 +5259,7 @@ Shin H, Kim SU, Song BG, et al. Risk of hepatocellular carcinoma after curative 
 
 TDF에서 TAF로의 전환은 신·골 부담을 줄이려는 임상적 결정이지만, 일부 후향 연구에서 TDF 사용자의 HCC 위험이 더 낮을 가능성을 시사한 데이터가 있었어요. 이 "TAF 전환이 HCC 위험을 높이는가"는 환자에게 매일 답해야 하는 질문이 되었습니다. 특히 이미 간세포암 치료를 받은 고위험 환자에서 결정이 더 중요해요.
 
-HepC replication
+HBV 복제 주기 — TDF·ETV·TAF는 모두 reverse transcriptase 단계를 차단하는 핵심 단계 표적
 
 ## APPROACH접근 방식
 
@@ -5486,8 +5486,6 @@ Grade 1–2
 Grade 3–4
 Child-Pugh 5개 항목 — 채점 합계로 A/B/C 분류
 
-Liver 04 Couinaud classification animation
-
 ## MELD — 사망 위험을 수치로 보는 점수
 
 2002년 미국에서 간이식 우선순위를 객관화하기 위해 도입되었습니다. 빌리루빈·INR·크레아티닌 세 가지 검사 수치를 로그 변환한 공식으로 6–40점을 산출합니다. 2016년부터는 나트륨을 추가한 MELD-Na가 표준이며, 2023년부터 미국은 성별 보정한 MELD 3.0을 사용합니다.
@@ -5647,8 +5645,6 @@ Grade
 
 자극에 반응 없음
 외래에서 자주 마주치는 단계는 1–2 — 가족 관찰이 결정적
-
-Biliary system multilingual
 
 ## 외래에서 가족이 먼저 알아채는 변화
 
@@ -6672,8 +6668,6 @@ NSAIDs(비스테로이드성 항염제)
 
 약물성 간 손상
 외래에서 처방·복용 점검 시 우선 확인 카테고리
-
-Mallory body high mag cropped
 
 ## 절대 피해야 할 약 — NSAIDs
 
@@ -8321,8 +8315,6 @@ BCLC는 한 가지 점수가 아니라 세 가지 축의 조합으로 단계를 
 
 이 세 축이 모두 좋아야 적극적 치료의 후보가 되고, 한 축이라도 크게 떨어지면 단계가 뒤로 밀립니다. 작은 종양이어도 간 기능이 너무 나빠 수술을 견딜 수 없으면 절제 대상에서 제외되는 이유입니다.
 
-Fibrolamellar hepatocellular carcinoma high mag
-
 ## 5단계 정의와 표준치료
 
 단계정의1차 표준치료
@@ -8840,7 +8832,7 @@ Y-90 주입
 
 크게 두 종류가 있어요 — 유리(glass) 미세구체(TheraSphere)와 수지(resin) 미세구체(SIR-Spheres). 유리는 더 큰 단일 선량을 줄 때 유리하고, 수지는 더 많은 미세구체로 분산이 잘 됩니다. 시술 의료기관·종양 특성에 따라 선택합니다.
 
-Human Anatomy NIH BioArt 519 657946
+간 혈관 해부 — TARE는 간동맥을 통해 Y-90 미세구체를 종양에 전달. 정상 간은 문맥 우세 혈류라 비교적 보존됨
 
 ## 적응증 — 누가 후보인가
 
@@ -8966,8 +8958,6 @@ _간암 환자가 치료 중·후 알아둘 영양 권고, 운동, 회피할 약
 • 벤조다이아제핀·진정제
 • 알코올 (한 잔도 X)
 흔히 "치료에 도움"으로 권유받는 것 중 다수가 위험
-
-Human Anatomy NIH BioArt 519 657942
 
 ## "무엇을 피해야 하나" — 약·영양제·민간요법
 
@@ -9472,8 +9462,6 @@ A·B·일부 C
 
 외래 통원
 단일 우열은 없음 — 종양·간기능·환자에 따라 결정
-
-Fibrolamellar hepatocellular carcinoma intermed mag
 
 ## 경동맥화학색전술 (TACE) — 중간기 표준
 
