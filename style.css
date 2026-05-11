@@ -340,27 +340,4 @@ abbr[title]{position:relative}
 .cc-filter-bar.scrolled{box-shadow:0 4px 14px rgba(15,26,22,0.06)}
 @media (max-width:600px){.cc-filter-bar{margin:0 -16px 14px;padding:9px 16px}}
 
-/* Page photo assets */
-.page-photo {
-  margin: 22px 0 30px;
-  overflow: hidden;
-  border: 1px solid var(--line);
-  border-radius: 12px;
-  background: #111820;
-  box-shadow: 0 12px 30px rgba(17, 24, 32, 0.08);
-}
-
-.page-photo img {
-  display: block;
-  width: 100%;
-  aspect-ratio: 1200 / 630;
-  object-fit: cover;
-}
-
-@media (max-width: 640px) {
-  .page-photo {
-    margin: 18px 0 24px;
-    border-radius: 10px;
-  }
-}
 
