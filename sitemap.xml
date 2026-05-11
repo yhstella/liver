@@ -223,6 +223,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://drshin.kr/%EC%95%8C%EC%BD%94%EC%98%AC%EC%84%B1-%EA%B0%84%EC%A7%88%ED%99%98/</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://drshin.kr/%EC%95%8C%ED%8C%8C%ED%83%9C%EC%95%84%EB%8B%A8%EB%B0%B1/</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
@@ -569,6 +575,12 @@
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://drshin.kr/A%ED%98%95%EA%B0%84%EC%97%BC/</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://drshin.kr/ALP-GGT-%EB%8B%B4%EB%8F%84-%EA%B0%84%EC%84%B8%ED%8F%AC/</loc>
