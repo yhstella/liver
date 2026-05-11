@@ -19,7 +19,7 @@ from pathlib import Path
 from urllib.parse import quote
 
 ROOT = Path(__file__).resolve().parent.parent
-MANIFEST = ROOT / 'private-figures' / 'db' / 'manifest.csv'
+MANIFEST = ROOT / 'private-figures' / 'manifest.csv'
 ASSETS_DIR = ROOT / 'assets' / 'img' / 'db'
 
 MARK_START = '<!-- db-figure:auto:start -->'

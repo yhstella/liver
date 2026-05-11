@@ -5,7 +5,7 @@ import io
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-SRC = ROOT / 'private-figures' / 'db' / 'manifest.csv'
+SRC = ROOT / 'private-figures' / 'manifest.csv'
 
 text = SRC.read_text(encoding='utf-8-sig')
 lines = text.splitlines()
