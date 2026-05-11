@@ -651,7 +651,7 @@ def render_cc_page(spec: dict) -> None:
 <body>
 {NAV}
 <main class="wrap">
-<nav class="crumb"><a href="/">홈</a> › <a href="/CC/">주호소</a> › <span>{esc(title)}</span></nav>
+<nav class="crumb"><a href="/">홈</a> › <a href="/CC/">증상별 안내</a> › <span>{esc(title)}</span></nav>
 <article>
 <h1 style="font-size:24px;line-height:1.4">"{esc(title)}"</h1>
 <div class="tldr"><strong>한 줄 안내</strong>{summary}</div>
@@ -710,11 +710,11 @@ def render_cc_hub() -> None:
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>주호소 안내 — Hepatology Note</title>
-<meta name="description" content="외래에서 자주 듣는 주호소별 단계별 진료 흐름 안내.">
+<title>증상별 안내 — Hepatology Note</title>
+<meta name="description" content="환자분들이 자주 호소하는 증상·상황별로 외래에서 어떻게 진료가 진행되는지 안내합니다.">
 <link rel="canonical" href="https://drshin.kr/CC/">
 <meta property="og:type" content="website">
-<meta property="og:title" content="주호소 안내">
+<meta property="og:title" content="증상별 안내">
 <meta property="og:url" content="https://drshin.kr/CC/">
 <meta property="og:locale" content="ko_KR">
 <meta property="og:site_name" content="Hepatology Note">
@@ -735,9 +735,9 @@ def render_cc_hub() -> None:
 <body>
 {NAV}
 <main class="wrap">
-<nav class="crumb"><a href="/">홈</a> › <span>주호소 안내</span></nav>
-<h1 style="font-family:'Times New Roman',Georgia,serif;font-size:32px;letter-spacing:-0.02em;font-weight:600;margin:8px 0 8px">주호소 안내 (Chief Complaints)</h1>
-<p class="intro">외래에서 자주 듣는 주호소를 정리하였습니다. 각 페이지에서 외래 진료가 어떻게 진행되는지, 무엇을 가져오시면 좋은지 안내합니다.</p>
+<nav class="crumb"><a href="/">홈</a> › <span>증상별 안내</span></nav>
+<h1 style="font-family:'Times New Roman',Georgia,serif;font-size:32px;letter-spacing:-0.02em;font-weight:600;margin:8px 0 8px">증상별 안내</h1>
+<p class="intro">환자분들이 자주 호소하는 증상·상황을 정리했습니다. 각 페이지에서 외래 진료가 어떻게 진행되는지, 무엇을 준비해 오시면 좋은지 안내합니다.</p>
 
 <div class="cc-list">{rows}</div>
 </main>

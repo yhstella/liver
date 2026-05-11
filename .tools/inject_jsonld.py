@@ -163,7 +163,7 @@ def determine_hub(rel_dir: Path, html: str):
     # Section hub
     if first in SECTION_HUBS:
         names = {
-            "CC": "주호소 안내",
+            "CC": "증상별 안내",
             "updates": "최신 지견",
             "케이스": "케이스",
             "소개": "소개",

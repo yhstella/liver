@@ -177,7 +177,7 @@ def render_llms_txt(pages):
         "> 서울대학교병원 소화기내과·간암센터 신현재 교수의 간질환 가이드와 임상 노트.",
         "> 환자용 가이드와 의료진용 임상 노트를 한 자리에 둡니다.",
         "> 8 대주제(간암·간경화·B형간염·C형간염·지방간·간수치·자가면역간염·간양성종양)와",
-        "> 외래 주호소(Chief Complaints)·최신 지견(Updates)·케이스로 구성됩니다.",
+        "> 증상별 안내·최신 지견(Updates)·케이스로 구성됩니다.",
         "",
         "본 사이트의 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다.",
         "",
@@ -222,9 +222,9 @@ def render_llms_txt(pages):
             lines.append("")
 
     # CC
-    lines.append("## 주호소 (Chief Complaints)")
+    lines.append("## 증상별 안내")
     lines.append("")
-    lines.append("외래에서 자주 듣는 첫 진료 시나리오별 안내.")
+    lines.append("환자분들이 자주 호소하는 증상·상황에서 외래 진료가 어떻게 진행되는지 안내.")
     lines.append("")
     cc_hub = by_cat.get("section_hub:CC", [])
     cc_detail = by_cat.get("section_detail:CC", [])
