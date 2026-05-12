@@ -69,6 +69,20 @@ def main():
         counts[slug] = (n_detail, n_cases)
         print(f'  {slug}: 세부주제 {n_detail}편 · 사례 {n_cases}편')
 
+    # ── Update 케이스 landing intro "총 N편" ──────────────────────────
+    n_cases_total = sum(c[1] for c in counts.values())
+    cases_landing_path = ROOT / '케이스' / 'index.html'
+    cases_text = cases_landing_path.read_text(encoding='utf-8')
+    new_cases_text = re.sub(
+        r'(<p class="intro"[^>]*>[^<]*?총\s*)\d+(편[^<]*</p>)',
+        rf'\g<1>{n_cases_total}\g<2>',
+        cases_text,
+        count=1,
+    )
+    if new_cases_text != cases_text:
+        cases_landing_path.write_text(new_cases_text, encoding='utf-8')
+        print(f'케이스 landing intro: 총 {n_cases_total}편')
+
     # ── Update each hub's series-meta ─────────────────────────────────
     for slug, _ in HUBS:
         n_detail, n_cases = counts[slug]
