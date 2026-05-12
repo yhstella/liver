@@ -269,6 +269,11 @@ ol.references li a:hover{text-decoration:underline}
 .tag-chip:hover{background:var(--accent-soft);border-color:var(--accent);color:var(--accent)}
 .tag-row-bottom{margin:32px 0 0;border-top:1px solid var(--line);padding-top:18px;font-size:12px;gap:5px}
 .tag-row-bottom .tag-chip{padding:3px 9px;font-size:11.5px;background:transparent}
+.case-pearl{margin:28px 0;padding:16px 20px;border-left:3px solid #b8650a;background:#fdf6ec;border-radius:0 8px 8px 0;font-size:15px;line-height:1.7}
+.case-pearl .case-pearl-label{display:block;color:#b8650a;font-size:11px;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;margin-bottom:6px}
+.case-pearl p{margin:0;color:#2a2a2a}
+.case-pearl em,.case-pearl strong{color:#8a4400}
+@media (max-width:600px){.case-pearl{padding:14px 16px;font-size:14px}}
 .series-nav{display:grid;grid-template-columns:1fr auto 1fr;gap:10px;margin:48px 0 32px;padding:14px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
 .series-nav-link,.series-nav-hub{display:flex;flex-direction:column;gap:3px;padding:10px 14px;border-radius:8px;text-decoration:none;color:var(--fg);transition:background .12s;min-width:0}
 .series-nav-link:hover,.series-nav-hub:hover{background:var(--accent-soft)}
