@@ -92,6 +92,14 @@ a:focus-visible,button:focus-visible,input:focus-visible,details:focus-visible,s
 .about-hero .role strong{color:var(--fg);font-weight:600}
 .about-hero .lede{font-size:16px;line-height:1.7;color:#2a2a2a;margin:0;max-width:540px}
 
+.practice-gallery{margin:32px 0}
+.practice-gallery h2{font-size:14px;letter-spacing:0.1em;color:var(--accent);text-transform:uppercase;margin:0 0 14px;border-bottom:1px solid var(--line);padding:0 0 8px 12px;font-weight:600;position:relative}
+.practice-gallery h2::before{content:"";position:absolute;left:0;top:2px;bottom:11px;width:3px;background:var(--accent);border-radius:2px}
+.practice-gallery .gallery{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.practice-gallery figure{margin:0}
+.practice-gallery img{width:100%;height:auto;display:block;border-radius:8px;aspect-ratio:3/4;object-fit:cover;box-shadow:0 6px 18px rgba(15,26,22,0.08)}
+.practice-gallery figcaption{font-size:13px;color:var(--muted);margin-top:8px;text-align:center;letter-spacing:0.02em}
+@media (max-width:600px){.practice-gallery .gallery{gap:10px}.practice-gallery figcaption{font-size:12px}}
 .cv-block{margin:32px 0}
 .cv-block h2{font-size:14px;letter-spacing:0.1em;color:var(--accent);text-transform:uppercase;margin:0 0 12px;border-bottom:1px solid var(--line);padding:0 0 8px 12px;font-weight:600;position:relative}
 .cv-block h2::before{content:"";position:absolute;left:0;top:2px;bottom:11px;width:3px;background:var(--accent);border-radius:2px}
