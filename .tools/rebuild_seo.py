@@ -23,7 +23,9 @@ STEPS = [
     ("Inject JSON-LD on detail pages",      "inject_jsonld.py"),
     ("Dedupe legacy JSON-LD blocks",        "dedupe_jsonld.py"),
     ("Inject verification meta (if any)",   "inject_verification.py"),
+    ("Recount homepage & hub series-meta",  "update_homepage_counts.py"),
     ("Generate sitemap.xml index + children", "build_sitemap.py"),
+    ("Generate Atom feed for /updates/",     "build_updates_rss.py"),
     ("Generate llms.txt + llms-full.txt",    "build_llms.py"),
 ]
 
