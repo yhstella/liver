@@ -56,7 +56,8 @@ def updates_min_date(slug):
 
 
 def korean_date(d):
-    return f"{d.year}년 {d.month}월 {d.day}일"
+    # Year wrapped in <span class="y"> so mobile CSS can hide it
+    return f'<span class="y">{d.year}년 </span>{d.month}월 {d.day}일'
 
 
 def collect_pages():
