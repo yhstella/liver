@@ -395,6 +395,7 @@ def pmc_candidates(cfg: dict, delay: float, article_limit: int) -> list[Candidat
             doi = xml_text(root.find(".//article-id[@pub-id-type='doi']"))
             license_text = pmc_license(root)
             article_url = PMC_ARTICLE.format(pmcid=pmcid)
+            instance_bin = f"https://pmc.ncbi.nlm.nih.gov/articles/instance/{pmcid_num}/bin/"
             for fig in root.findall(".//fig"):
                 label = xml_text(fig.find("label"))
                 caption = xml_text(fig.find("caption"))
@@ -405,7 +406,8 @@ def pmc_candidates(cfg: dict, delay: float, article_limit: int) -> list[Candidat
                     href = graphic.attrib.get("{http://www.w3.org/1999/xlink}href", "")
                     if not href:
                         continue
-                    image_urls = [f"{article_url}bin/{href}{ext}" for ext in ["", ".jpg", ".jpeg", ".png", ".gif", ".tif", ".tiff"]]
+                    href_stem = re.sub(r"\.(jpg|jpeg|png|gif|tif|tiff)$", "", href, flags=re.I)
+                    image_urls = [f"{instance_bin}{href_stem}{ext}" for ext in [".jpg", ".jpeg", ".png", ".gif", ".tif", ".tiff"]]
                     out.append(
                         Candidate(
                             source_kind="pmc_open_access",
