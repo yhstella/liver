@@ -17,9 +17,26 @@ Design: brand green (#1f6f5c) 배경 + simplified liver silhouette (white).
   - assets/img/brand/liver-mark.svg   (inline SVG, currentColor)
 """
 from pathlib import Path
-from PIL import Image, ImageDraw
+from PIL import Image, ImageDraw, ImageFont
 
 ROOT = Path(__file__).resolve().parent.parent
+
+FONT_CANDIDATES = [
+    "C:/Windows/Fonts/timesbd.ttf",
+    "C:/Windows/Fonts/times.ttf",
+    "C:/Windows/Fonts/georgiab.ttf",
+    "C:/Windows/Fonts/georgia.ttf",
+]
+
+
+def find_font(size):
+    for path in FONT_CANDIDATES:
+        try:
+            return ImageFont.truetype(path, size)
+        except Exception:
+            pass
+    return ImageFont.load_default()
+
 BRAND_GREEN = (31, 111, 92)   # #1f6f5c — kept for theme-color/manifest
 LIVER_RED   = (166, 74, 58)   # #a64a3a — anatomical warm red-brown
 LIVER_DEEP  = (130, 54, 42)   # #82362a — subtle darker shade for left-lobe accent
@@ -89,28 +106,50 @@ def liver_svg_path(scale: float = 1.0, ox: float = 0.0, oy: float = 0.0) -> str:
     return " ".join(parts)
 
 
-def make_liver_mark(size: int, rounded: bool = False, scale: float = 0.74) -> Image.Image:
-    """Cream tile + warm red liver silhouette. Supersampled then downscaled."""
+def make_liver_mark(size: int, rounded: bool = False, scale: float = 0.20) -> Image.Image:
+    """Cream tile + serif 'H' (brand green) + small red liver stamp (≥32px).
+
+    `scale` controls the size of the small liver stamp (fraction of tile width).
+    """
     big = size * SUPER
     img = Image.new("RGBA", (big, big), (0, 0, 0, 0))
     draw = ImageDraw.Draw(img)
-    # Tile background — warm cream, with a thin brand-green hairline ring for cohesion
+    # Tile background — warm cream
+    radius = max(int(big * 0.20), 4)
     if rounded:
-        radius = max(int(big * 0.20), 4)
         draw.rounded_rectangle((0, 0, big - 1, big - 1), radius=radius, fill=TILE_CREAM)
-        # subtle brand-green ring (only on rounded/large versions, would be invisible at 16px)
-        if size >= 96:
-            ring_w = max(int(big * 0.012), 2)
-            draw.rounded_rectangle(
-                (ring_w // 2, ring_w // 2, big - 1 - ring_w // 2, big - 1 - ring_w // 2),
-                radius=radius - ring_w // 2,
-                outline=BRAND_GREEN,
-                width=ring_w,
-            )
     else:
         draw.rectangle((0, 0, big - 1, big - 1), fill=TILE_CREAM)
-    poly = liver_polygon(big, scale=scale, dy=big * 0.005)
-    draw.polygon(poly, fill=LIVER_RED)
+
+    # Serif "H" — brand green, optically centered
+    font_size = int(big * 0.74)
+    font = find_font(font_size)
+    bbox = draw.textbbox((0, 0), "H", font=font)
+    tw = bbox[2] - bbox[0]
+    th = bbox[3] - bbox[1]
+    tx = (big - tw) / 2 - bbox[0]
+    ty = (big - th) / 2 - bbox[1] - int(big * 0.04)
+    draw.text((tx, ty), "H", font=font, fill=BRAND_GREEN)
+
+    # Small red liver stamp in bottom-right — only on sizes that can render it cleanly
+    if size >= 32:
+        liver_box = big * scale
+        bx = big - liver_box - big * 0.08
+        by = big - liver_box - big * 0.08
+        raw_poly = liver_polygon(liver_box, scale=1.0)
+        poly = [(x + bx, y + by) for x, y in raw_poly]
+        draw.polygon(poly, fill=LIVER_RED)
+
+    # Brand-green hairline ring on rounded (≥96 only — invisible at small)
+    if rounded and size >= 96:
+        ring_w = max(int(big * 0.012), 2)
+        draw.rounded_rectangle(
+            (ring_w // 2, ring_w // 2, big - 1 - ring_w // 2, big - 1 - ring_w // 2),
+            radius=radius - ring_w // 2,
+            outline=BRAND_GREEN,
+            width=ring_w,
+        )
+
     return img.resize((size, size), Image.LANCZOS)
 
 
@@ -118,22 +157,22 @@ def write_pngs():
     sizes_round = [(180, "apple-touch-icon.png"), (192, "favicon-192.png"), (512, "favicon-512.png")]
     sizes_square = [(16, "favicon-16.png"), (32, "favicon-32.png")]
 
-    # Tiny sizes need a slightly bigger silhouette for legibility
+    # `scale` here = size of the small red liver stamp (fraction of tile width)
     for size, name in sizes_round:
-        img = make_liver_mark(size, rounded=True, scale=0.68)
+        img = make_liver_mark(size, rounded=True, scale=0.22)
         img.save(ROOT / name, optimize=True)
         print(f"  wrote {name} ({size}x{size})")
 
     for size, name in sizes_square:
-        img = make_liver_mark(size, rounded=False, scale=0.74)
+        img = make_liver_mark(size, rounded=False, scale=0.26)
         img.save(ROOT / name, optimize=True)
         print(f"  wrote {name} ({size}x{size})")
 
-    # ICO with 16/32/48
+    # ICO with 16/32/48 — 16 has no liver stamp (handled inside make_liver_mark)
     ico_imgs = [
-        make_liver_mark(16, rounded=False, scale=0.78),
-        make_liver_mark(32, rounded=False, scale=0.74),
-        make_liver_mark(48, rounded=False, scale=0.72),
+        make_liver_mark(16, rounded=False, scale=0.30),
+        make_liver_mark(32, rounded=False, scale=0.28),
+        make_liver_mark(48, rounded=False, scale=0.26),
     ]
     ico_imgs[0].save(
         ROOT / "favicon.ico",
