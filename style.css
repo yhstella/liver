@@ -367,3 +367,35 @@ abbr[title]{position:relative}
   .recent-date{order:4;flex-shrink:0;font-size:11.5px}
 }
 /* end 작성일 / 최근 작성글 */
+
+/* === UX improvements 2026-05-12 === */
+/* TLDR: visually anchor with larger leading, slightly bigger font on desktop */
+.tldr{font-size:16.5px;line-height:1.78}
+@media (min-width:760px){.tldr{font-size:17px}}
+@media (max-width:480px){.tldr{font-size:15.5px;line-height:1.7;padding:14px 16px}}
+
+/* DB figure: less prominent border, breathing room from TLDR above */
+figure.db-fig{margin-top:8px}
+figure.db-fig img{transition:transform .2s ease}
+@media (hover:hover){figure.db-fig:hover img{transform:scale(1.01)}}
+
+/* Hub series-intro: clear, friendly anchor before topic-list */
+p.series-intro{font-size:15.5px;line-height:1.75;color:#3a3a3a;margin:8px 0 28px;max-width:680px}
+@media (max-width:600px){p.series-intro{font-size:14.5px;line-height:1.7}}
+
+/* Detail page publish-date moved to bottom — smaller, less prominent */
+article > p.publish-date{margin:32px 0 8px;text-align:right;font-size:12px;color:var(--muted);letter-spacing:0.02em}
+
+/* Tag chips: slightly more breathing on mobile for thumb tap */
+@media (max-width:600px){
+  .tag-chip{padding:6px 12px;font-size:12.5px}
+  .tag-row{gap:7px}
+}
+
+/* Topic list status arrow: align consistently */
+.topic-list .status.published::after{content:"";display:inline-block;width:0;height:0}
+@media (max-width:600px){
+  .topic-list a{padding:16px 4px}
+  .topic-list .body p{display:none}
+}
+/* end UX improvements 2026-05-12 */

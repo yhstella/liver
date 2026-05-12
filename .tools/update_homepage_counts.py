@@ -120,6 +120,14 @@ def main():
         flags=re.DOTALL,
     )
 
+    # Update CC count "증상별 안내 · N편" in cc-section
+    text = re.sub(
+        r'(증상별 안내\s*·\s*)\d+(편)',
+        lambda m: f'{m.group(1)}{n_cc}{m.group(2)}',
+        text,
+        count=1,
+    )
+
     home.write_text(text, encoding='utf-8')
     print(f'\nupdated homepage hub cards (8) + updates count → {n_updates}편')
 
