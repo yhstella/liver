@@ -90,7 +90,7 @@ def render_group(title, items):
 
 NAV = '''<header class="site-header">
   <div class="inner">
-    <a href="/" class="brand-mark">Hepatology<em> Note</em></a>
+    <a href="/" class="brand-mark">Hepatology Note</a>
     <nav class="site-nav">
       <a href="/소개/">소개</a>
       <a href="/연구/" class="active">연구</a>

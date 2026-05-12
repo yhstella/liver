@@ -63,7 +63,7 @@ HEAD = """<!doctype html>
 <meta name="naver-site-verification" content="a978f4b99a9b45749c235f674d9ab6d31950470a">
 <!-- verify:auto:end -->
 </head><body>
-<header class="site-header"><div class="inner"><a href="/" class="brand-mark">Hepatology<em> Note</em></a><nav class="site-nav"><a href="/소개/">소개</a><a href="/연구/">연구</a><a href="/updates/">Updates</a><a href="/keywords/">키워드</a></nav></div></header>
+<header class="site-header"><div class="inner"><a href="/" class="brand-mark">Hepatology Note</a><nav class="site-nav"><a href="/소개/">소개</a><a href="/연구/">연구</a><a href="/updates/">Updates</a><a href="/keywords/">키워드</a></nav></div></header>
 <main class="wrap">
 """
 
