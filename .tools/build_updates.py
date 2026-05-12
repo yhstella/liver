@@ -127,7 +127,12 @@ def render_update(spec):
 <meta property="article:modified_time" content="{published}">
 <meta property="article:section" content="최신 지견">
 <meta name="twitter:card" content="summary_large_image">
-<link rel="icon" href="/favicon.png">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<meta name="theme-color" content="#1f6f5c">
 <link rel="stylesheet" href="/style.css">
 <script src="/assets/js/figure-zoom.js" defer></script>
 <script type="application/ld+json">

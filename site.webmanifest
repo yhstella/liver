@@ -1,0 +1,14 @@
+{
+  "name": "Hepatology Note",
+  "short_name": "Hepatology",
+  "description": "신현재(서울대학교병원 소화기내과·간암센터)의 간질환 가이드와 임상 노트",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fafaf7",
+  "theme_color": "#1f6f5c",
+  "lang": "ko",
+  "icons": [
+    {"src": "/favicon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "/favicon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}

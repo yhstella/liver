@@ -48,7 +48,12 @@ def render_topic_page(slug, title, page_id, series_label, series_url, tldr, sect
 <meta property="og:site_name" content="Hepatology Note">
 <meta property="og:image" content="https://drshin.kr/assets/img/author/drshin.jpg">
 <meta name="twitter:card" content="summary_large_image">
-<link rel="icon" href="/favicon.png">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<meta name="theme-color" content="#1f6f5c">
 <link rel="stylesheet" href="/style.css">
 <script src="/assets/js/figure-zoom.js" defer></script>
 </head>
@@ -109,7 +114,12 @@ def render_hub(slug, label, num, intro, topics, cases=None):
 <meta property="og:url" content="{canon}">
 <meta property="og:locale" content="ko_KR">
 <meta property="og:site_name" content="Hepatology Note">
-<link rel="icon" href="/favicon.png">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<meta name="theme-color" content="#1f6f5c">
 <link rel="stylesheet" href="/style.css">
 <script src="/assets/js/figure-zoom.js" defer></script>
 </head>
@@ -163,7 +173,12 @@ def render_case(slug, title, page_id, series_label, series_url, intro, sections,
 <meta property="og:url" content="{canon}">
 <meta property="og:locale" content="ko_KR">
 <meta property="og:site_name" content="Hepatology Note">
-<link rel="icon" href="/favicon.png">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<meta name="theme-color" content="#1f6f5c">
 <link rel="stylesheet" href="/style.css">
 <script src="/assets/js/figure-zoom.js" defer></script>
 </head>

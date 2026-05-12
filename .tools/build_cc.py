@@ -644,7 +644,12 @@ def render_cc_page(spec: dict) -> None:
 <meta property="og:locale" content="ko_KR">
 <meta property="og:site_name" content="Hepatology Note">
 <meta property="og:image" content="https://drshin.kr/assets/img/author/drshin.jpg">
-<link rel="icon" href="/favicon.png">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<meta name="theme-color" content="#1f6f5c">
 <link rel="stylesheet" href="/style.css">
 <script src="/assets/js/figure-zoom.js" defer></script>
 </head>
@@ -718,7 +723,12 @@ def render_cc_hub() -> None:
 <meta property="og:url" content="https://drshin.kr/CC/">
 <meta property="og:locale" content="ko_KR">
 <meta property="og:site_name" content="Hepatology Note">
-<link rel="icon" href="/favicon.png">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<meta name="theme-color" content="#1f6f5c">
 <link rel="stylesheet" href="/style.css">
 <style>
 .cc-list{{display:flex;flex-direction:column;gap:0;border-top:1px solid var(--line);margin:8px 0 24px}}
