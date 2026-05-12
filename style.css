@@ -13,6 +13,8 @@ a:focus-visible,button:focus-visible,input:focus-visible,details:focus-visible,s
 .home-hero > *{position:relative;z-index:1}
 .home-hero .text h1{font-family:"Times New Roman",Georgia,"Noto Serif KR",serif;font-size:44px;line-height:1.18;margin:0 0 18px;letter-spacing:-0.025em;font-weight:600;color:#0f1a16}
 .home-hero .text h1 em{font-style:normal;color:var(--accent);background:linear-gradient(180deg,transparent 65%,rgba(31,111,92,0.18) 65%);padding:0 4px}
+.home-hero .text h1 .mobile-br{display:none}
+@media (max-width:700px){.home-hero .text h1 .mobile-br{display:inline}}
 .home-hero .text .lede{font-size:16.5px;line-height:1.7;color:#2a3a32;margin:0 0 20px;max-width:520px}
 .home-hero .text .byline{font-size:13.5px;color:var(--muted);margin:0;letter-spacing:0.02em;line-height:1.7;padding-left:34px;position:relative}
 .home-hero .text .byline::before{content:"";position:absolute;left:0;top:9px;width:24px;height:1px;background:var(--accent)}
