@@ -820,7 +820,7 @@ def render_landing(cases, start_page_id=12):
 {rows_html}
 </div>
 
-<p class="disclaimer" style="margin-top:48px">본 케이스들은 환자 식별 익명화를 위해 모두 변경되었으며, 임상 결정은 표준 가이드라인의 한 예시일 뿐 개별 환자에 그대로 적용되지 않습니다.</p>
+<p class="disclaimer" style="margin-top:48px">환자 정보는 익명화 처리되었습니다. 임상 결정은 표준 가이드라인 적용의 한 예시이며, 개별 환자에게 그대로 적용되지는 않습니다.</p>
 </main>
 
 {FOOTER}
