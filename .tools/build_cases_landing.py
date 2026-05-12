@@ -92,7 +92,7 @@ def render_landing():
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>임상 케이스 모음 — Hepatology Note</title>
-<meta name="description" content="외래에서 자주 만나는 임상 시나리오 {total_cases}편. 간암·간경화·B형간염·지방간·간수치 이상 시리즈별 케이스 노트.">
+<meta name="description" content="외래에서 자주 만나는 임상 케이스 {total_cases}편. 간암·간경화·B형간염·지방간·간수치 이상 시리즈별 케이스 노트.">
 <link rel="canonical" href="https://drshin.kr/케이스/">
 <meta property="og:type" content="website">
 <meta property="og:title" content="임상 케이스 모음 — {total_cases}편">
@@ -144,7 +144,7 @@ def render_landing():
 }})();
 </script>
 
-<p class="disclaimer" style="margin-top:48px">본 케이스들은 외래에서 자주 만나는 임상 시나리오를 익명화하여 재구성한 교육 자료입니다. 환자 식별 정보는 모두 변경되었으며, 임상 결정은 표준 가이드라인의 한 예시일 뿐 개별 환자에 그대로 적용되지 않습니다.</p>
+<p class="disclaimer" style="margin-top:48px">본 케이스들은 환자 식별 익명화를 위해 모두 변경되었으며, 임상 결정은 표준 가이드라인의 한 예시일 뿐 개별 환자에 그대로 적용되지 않습니다.</p>
 </main>
 
 {FOOTER}

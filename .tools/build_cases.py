@@ -17,7 +17,7 @@ NAV = '''<header class="site-header"><div class="inner"><a href="/" class="brand
 FOOTER = '''<footer class="site-footer"><div class="inner"><div class="col"><strong>Hepatology Note</strong><p style="margin:4px 0 0;color:var(--muted);font-size:13px;line-height:1.6">간질환 가이드와 임상 노트 · 서울대학교병원 소화기내과 · 간암센터</p></div><div class="col"><strong>안내</strong><a href="/소개/">소개</a><a href="/연구/">연구</a><a href="/updates/">Updates</a></div><div class="col"><strong>외부 링크</strong><a href="https://www.snuh.org/blog/83759/philosophy.do" target="_blank" rel="noopener">SNUH 의료진 소개 ↗</a></div><div class="copy" style="grid-column:1/-1">© 2026 drshin.kr</div></div></footer>'''
 
 ANONYMIZATION_NOTE = (
-    '<p class="disclaimer" style="margin-top:48px">본 케이스는 외래에서 자주 만나는 임상 시나리오를 '
+    '<p class="disclaimer" style="margin-top:48px">본 케이스는 외래에서 자주 만나는 임상 케이스를 '
     '익명화하여 재구성한 교육 자료입니다. 환자 식별 정보는 모두 변경되었으며, 임상 결정은 표준 가이드라인의 한 예시일 뿐 '
     '개별 환자에 그대로 적용되지 않습니다.</p>'
 )
@@ -820,7 +820,7 @@ def render_landing(cases, start_page_id=12):
 {rows_html}
 </div>
 
-<p class="disclaimer" style="margin-top:48px">본 케이스들은 외래에서 자주 만나는 임상 시나리오를 익명화하여 재구성한 교육 자료입니다. 환자 식별 정보는 모두 변경되었으며, 임상 결정은 표준 가이드라인의 한 예시일 뿐 개별 환자에 그대로 적용되지 않습니다.</p>
+<p class="disclaimer" style="margin-top:48px">본 케이스들은 환자 식별 익명화를 위해 모두 변경되었으며, 임상 결정은 표준 가이드라인의 한 예시일 뿐 개별 환자에 그대로 적용되지 않습니다.</p>
 </main>
 
 {FOOTER}

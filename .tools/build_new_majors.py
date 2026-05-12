@@ -181,7 +181,7 @@ def render_case(slug, title, page_id, series_label, series_url, intro, sections,
 <ul>{teach}</ul>
 </div>
 <aside class="related"><h2>관련 가이드</h2><ul>{rel}</ul></aside>
-<p class="disclaimer" style="margin-top:48px">본 케이스는 외래에서 자주 만나는 임상 시나리오를 익명화하여 재구성한 교육 자료입니다.</p>
+<p class="disclaimer" style="margin-top:48px">본 케이스는 환자 식별 익명화를 위해 모두 변경되었으며, 임상 결정은 표준 가이드라인의 한 예시일 뿐 개별 환자에 그대로 적용되지 않습니다.</p>
 </main>
 {FOOTER}
 </body>
