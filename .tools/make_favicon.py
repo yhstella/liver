@@ -107,32 +107,37 @@ def liver_svg_path(scale: float = 1.0, ox: float = 0.0, oy: float = 0.0) -> str:
 
 
 def make_liver_mark(size: int, rounded: bool = False, scale: float = 0.20) -> Image.Image:
-    """Cream tile + serif 'H' (brand green) + small red liver stamp (≥32px).
-
-    `scale` controls the size of the small liver stamp (fraction of tile width).
+    """Two-tier design:
+      - size ≤ 48 (browser tab): brand-green tile + cream serif 'H' (high contrast)
+      - size ≥ 96 (home screen): cream tile + green 'H' + small red liver stamp + green ring
     """
     big = size * SUPER
     img = Image.new("RGBA", (big, big), (0, 0, 0, 0))
     draw = ImageDraw.Draw(img)
-    # Tile background — warm cream
     radius = max(int(big * 0.20), 4)
-    if rounded:
-        draw.rounded_rectangle((0, 0, big - 1, big - 1), radius=radius, fill=TILE_CREAM)
-    else:
-        draw.rectangle((0, 0, big - 1, big - 1), fill=TILE_CREAM)
 
-    # Serif "H" — brand green, optically centered
-    font_size = int(big * 0.74)
+    small = size <= 48
+    tile_fill = BRAND_GREEN if small else TILE_CREAM
+    h_fill = TILE_CREAM if small else BRAND_GREEN
+
+    # Tile background
+    if rounded:
+        draw.rounded_rectangle((0, 0, big - 1, big - 1), radius=radius, fill=tile_fill)
+    else:
+        draw.rectangle((0, 0, big - 1, big - 1), fill=tile_fill)
+
+    # Serif "H"
+    font_size = int(big * (0.78 if small else 0.74))
     font = find_font(font_size)
     bbox = draw.textbbox((0, 0), "H", font=font)
     tw = bbox[2] - bbox[0]
     th = bbox[3] - bbox[1]
     tx = (big - tw) / 2 - bbox[0]
     ty = (big - th) / 2 - bbox[1] - int(big * 0.04)
-    draw.text((tx, ty), "H", font=font, fill=BRAND_GREEN)
+    draw.text((tx, ty), "H", font=font, fill=h_fill)
 
-    # Small red liver stamp in bottom-right — only on sizes that can render it cleanly
-    if size >= 32:
+    # Small red liver stamp — only on large sizes
+    if not small:
         liver_box = big * scale
         bx = big - liver_box - big * 0.08
         by = big - liver_box - big * 0.08
@@ -140,7 +145,7 @@ def make_liver_mark(size: int, rounded: bool = False, scale: float = 0.20) -> Im
         poly = [(x + bx, y + by) for x, y in raw_poly]
         draw.polygon(poly, fill=LIVER_RED)
 
-    # Brand-green hairline ring on rounded (≥96 only — invisible at small)
+    # Brand-green hairline ring (only on rounded large sizes for cohesion)
     if rounded and size >= 96:
         ring_w = max(int(big * 0.012), 2)
         draw.rounded_rectangle(

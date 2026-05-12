@@ -21,7 +21,7 @@ ARTICLE_SLUGS = [
 
 NEW_HEADER = '''<header class="site-header">
   <div class="inner">
-    <a href="/" class="brand-mark">Hepatology Note</a>
+    <a href="/" class="brand-mark">Hepatology<em> Note</em></a>
     <nav class="site-nav">
       <a href="/소개/">소개</a>
       <a href="/논문/">논문</a>

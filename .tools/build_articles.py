@@ -10,7 +10,7 @@ ROOT = Path(__file__).resolve().parent.parent
 
 NAV = '''<header class="site-header">
   <div class="inner">
-    <a href="/" class="brand-mark">Hepatology Note</a>
+    <a href="/" class="brand-mark">Hepatology<em> Note</em></a>
     <nav class="site-nav">
       <a href="/소개/">소개</a>
       <a href="/연구/">연구</a>
@@ -154,11 +154,11 @@ def render_article(spec):
 <meta property="article:modified_time" content="{published}">
 <meta property="article:section" content="{esc(section_label)}">
 <meta name="twitter:card" content="summary_large_image">
-<link rel="icon" href="/favicon.ico" sizes="any">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png">
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="manifest" href="/site.webmanifest">
+<link rel="icon" href="/favicon.ico?v=3" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png?v=3">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png?v=3">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=3">
+<link rel="manifest" href="/site.webmanifest?v=3">
 <meta name="theme-color" content="#1f6f5c">
 <link rel="stylesheet" href="/style.css">
 <script src="/assets/js/figure-zoom.js" defer></script>

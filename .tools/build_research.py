@@ -90,7 +90,7 @@ def render_group(title, items):
 
 NAV = '''<header class="site-header">
   <div class="inner">
-    <a href="/" class="brand-mark">Hepatology Note</a>
+    <a href="/" class="brand-mark">Hepatology<em> Note</em></a>
     <nav class="site-nav">
       <a href="/소개/">소개</a>
       <a href="/연구/" class="active">연구</a>
@@ -162,11 +162,11 @@ html = f'''<!doctype html>
 <meta property="og:site_name" content="Hepatology Note">
 <meta property="og:image" content="https://drshin.kr/assets/img/author/drshin.jpg">
 <meta name="twitter:card" content="summary">
-<link rel="icon" href="/favicon.ico" sizes="any">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png">
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="manifest" href="/site.webmanifest">
+<link rel="icon" href="/favicon.ico?v=3" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png?v=3">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png?v=3">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=3">
+<link rel="manifest" href="/site.webmanifest?v=3">
 <meta name="theme-color" content="#1f6f5c">
 <link rel="stylesheet" href="/style.css">
 <script type="application/ld+json">
