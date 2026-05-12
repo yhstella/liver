@@ -20,31 +20,33 @@ from pathlib import Path
 from PIL import Image, ImageDraw
 
 ROOT = Path(__file__).resolve().parent.parent
-ACCENT = (31, 111, 92)        # #1f6f5c brand green
-WHITE = (255, 255, 255)
+BRAND_GREEN = (31, 111, 92)   # #1f6f5c — kept for theme-color/manifest
+LIVER_RED   = (166, 74, 58)   # #a64a3a — anatomical warm red-brown
+LIVER_DEEP  = (130, 54, 42)   # #82362a — subtle darker shade for left-lobe accent
+TILE_CREAM  = (250, 246, 238) # #faf6ee — warm cream tile bg
 SUPER = 4                      # supersampling factor for smooth edges
 
 # --- Liver silhouette path (quadratic Beziers, normalized 0..100) ---
-# 정면(anterior) 시점 — 화면 좌측이 환자의 우엽(큰 lobe, ~70% 폭), 우측이 좌엽(작은 lobe).
-# 위쪽 능선: 큰 봉우리 → V notch (falciform) → 작은 봉우리 → 우측면.
+# 아이콘 스타일 wedge: 좌상단 near-right-angle, 우측으로 tapering tip,
+# 위쪽에 작은 falciform V-notch. 좌측 edge는 거의 수직, 상단은 거의 수평.
 # Each segment: (start, control, end) — chained head-to-tail.
 LIVER_PATH = [
-    # 1) 좌측 끝(우엽 외측 뾰족한 점) → 위로 큰 곡선 → 우엽 정상
-    ((4, 56), (8, 14), (44, 16)),
-    # 2) 우엽 정상 → notch 좌측면 (서서히 내려옴)
-    ((44, 16), (52, 22), (54, 30)),
-    # 3) Falciform V-notch (좁고 또렷하게)
-    ((54, 30), (58, 40), (62, 30)),
-    # 4) notch 우측 → 좌엽 정상 (작은 봉우리)
-    ((62, 30), (70, 18), (80, 24)),
-    # 5) 좌엽 정상 → 우측 어깨 (더 빨리 떨어짐)
-    ((80, 24), (94, 30), (92, 48)),
-    # 6) 우측면 → 우하단 (커브 안쪽으로)
-    ((92, 48), (86, 68), (68, 78)),
-    # 7) 하단 곡선 (우→좌, 살짝 처짐)
-    ((68, 78), (38, 86), (14, 74)),
-    # 8) 좌하단 → 좌측 끝 복귀
-    ((14, 74), (0, 66), (4, 56)),
+    # 1) 상단 좌측 edge — 거의 수평
+    ((6, 18), (28, 17), (52, 18)),
+    # 2) Falciform V-notch (좁고 또렷하게)
+    ((52, 18), (58, 26), (64, 19)),
+    # 3) Notch 우측 → 우엽 어깨로 상승
+    ((64, 19), (74, 21), (84, 28)),
+    # 4) 우측 어깨 곡선
+    ((84, 28), (94, 40), (94, 56)),
+    # 5) 우측 tapering tip (좌엽 끝)
+    ((94, 56), (90, 70), (76, 78)),
+    # 6) 하단 곡선 (우→좌)
+    ((76, 78), (44, 84), (22, 78)),
+    # 7) 좌하단 둥글게
+    ((22, 78), (10, 70), (8, 52)),
+    # 8) 좌측 edge — 거의 수직, 상단 복귀
+    ((8, 52), (6, 34), (6, 18)),
 ]
 
 
@@ -87,18 +89,28 @@ def liver_svg_path(scale: float = 1.0, ox: float = 0.0, oy: float = 0.0) -> str:
     return " ".join(parts)
 
 
-def make_liver_mark(size: int, rounded: bool = False, scale: float = 0.66) -> Image.Image:
-    """Render brand-green tile with white liver silhouette, supersampled then downscaled."""
+def make_liver_mark(size: int, rounded: bool = False, scale: float = 0.74) -> Image.Image:
+    """Cream tile + warm red liver silhouette. Supersampled then downscaled."""
     big = size * SUPER
     img = Image.new("RGBA", (big, big), (0, 0, 0, 0))
     draw = ImageDraw.Draw(img)
+    # Tile background — warm cream, with a thin brand-green hairline ring for cohesion
     if rounded:
-        radius = max(int(big * 0.18), 4)
-        draw.rounded_rectangle((0, 0, big - 1, big - 1), radius=radius, fill=ACCENT)
+        radius = max(int(big * 0.20), 4)
+        draw.rounded_rectangle((0, 0, big - 1, big - 1), radius=radius, fill=TILE_CREAM)
+        # subtle brand-green ring (only on rounded/large versions, would be invisible at 16px)
+        if size >= 96:
+            ring_w = max(int(big * 0.012), 2)
+            draw.rounded_rectangle(
+                (ring_w // 2, ring_w // 2, big - 1 - ring_w // 2, big - 1 - ring_w // 2),
+                radius=radius - ring_w // 2,
+                outline=BRAND_GREEN,
+                width=ring_w,
+            )
     else:
-        draw.rectangle((0, 0, big - 1, big - 1), fill=ACCENT)
-    poly = liver_polygon(big, scale=scale, dy=big * 0.01)  # slight optical lift
-    draw.polygon(poly, fill=WHITE)
+        draw.rectangle((0, 0, big - 1, big - 1), fill=TILE_CREAM)
+    poly = liver_polygon(big, scale=scale, dy=big * 0.005)
+    draw.polygon(poly, fill=LIVER_RED)
     return img.resize((size, size), Image.LANCZOS)
 
 
