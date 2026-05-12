@@ -36,11 +36,21 @@
 <meta name="google-site-verification" content="x7NwlcpE-hA8N6Lf1h_i2wKk2RAiSDvv4wUXxV-CwRE">
 <meta name="naver-site-verification" content="a978f4b99a9b45749c235f674d9ab6d31950470a">
 <!-- verify:auto:end -->
+<script src="/assets/js/search.js" defer></script>
 </head>
 <body>
 <header class="site-header">
   <div class="inner">
     <a href="/" class="brand-mark">Hepatology<em> Note</em></a>
+    <form id="site-search" role="search" autocomplete="off" onsubmit="return false">
+        <span class="search-icon" aria-hidden="true">⌕</span>
+        <input class="search-input" type="search" placeholder="검색  (/, ⌘K)" aria-label="사이트 검색">
+        <div class="search-panel">
+          <div class="search-hits"></div>
+          <ul class="search-results" role="listbox"></ul>
+          <div class="search-status">↑↓ 이동 · Enter 열기 · Esc 닫기</div>
+        </div>
+      </form>
     <nav class="site-nav">
       <a href="/소개/">소개</a>
       <a href="/연구/">연구</a>
@@ -63,51 +73,7 @@
 <p class="series-intro">NAFLD에서 MASLD로 명명이 바뀐 지방간의 진단·정밀검사·생활습관·약물(resmetirom·GLP-1·SGLT2)을 다룹니다. lean MASLD, MetALD 같은 새 분류와 한국 진료 현장의 결정 흐름.</p>
 
 <ul class="topic-list">
-  <li class="published">
-    <a href="/대사이상지방간-MASLD/"><span class="num">01</span>
-      <div class="body">
-        <h3>NAFLD가 MASLD로 바뀐 이유</h3>
-        <p>MASLD·대사이상지방간염(MASH) 새 명칭 배경, 진단 기준 변화</p>
-      </div>
-      <span class="status published">읽기 →</span>
-    </a>
-  </li>
-  <li class="published">
-    <a href="/술-안마셔도-지방간/"><span class="num">02</span>
-      <div class="body">
-        <h3>술을 전혀 안 마시는데 지방간이라고요?</h3>
-        <p>인슐린 저항성, 과당, 수면 무호흡 등</p>
-      </div>
-      <span class="status published">읽기 →</span>
-    </a>
-  </li>
-  <li class="published">
-    <a href="/지방간-치료/"><span class="num">03</span>
-      <div class="body">
-        <h3>지방간 치료</h3>
-        <p>체중 5%·7%·10% 감량의 효과 차이, 약물 옵션</p>
-      </div>
-      <span class="status published">읽기 →</span>
-    </a>
-  </li>
-  <li class="published">
-    <a href="/지방간-음식/"><span class="num">04</span>
-      <div class="body">
-        <h3>지방간에 좋은 음식·피해야 할 음식</h3>
-        <p>지중해식 식단, 커피·오메가-3 효과</p>
-      </div>
-      <span class="status published">읽기 →</span>
-    </a>
-  </li>
-  <li class="published">
-    <a href="/지방간-회복-6개월/"><span class="num">05</span>
-      <div class="body">
-        <h3>지방간 회복, 6개월 후 어떻게 달라지나</h3>
-        <p>체중 감량에 따른 지방 감소 시점, 섬유화 역전 가능성</p>
-      </div>
-      <span class="status published">읽기 →</span>
-    </a>
-  </li>
+  <h3 class="cluster-header">진단·용어</h3>
   <li class="published">
     <a href="/지방간-정밀검사/"><span class="num">06</span>
       <div class="body">
@@ -118,10 +84,38 @@
     </a>
   </li>
   <li class="published">
-    <a href="/지방간-lean-MASLD/"><span class="num">07</span>
+    <a href="/대사이상지방간-MASLD/"><span class="num">01</span>
       <div class="body">
-        <h3>lean MASLD</h3>
-        <p>정상 BMI(체질량지수)에서의 지방간, 동양인 cut-off, 위험 인자 점검</p>
+        <h3>NAFLD가 MASLD로 바뀐 이유</h3>
+        <p>MASLD·대사이상지방간염(MASH) 새 명칭 배경, 진단 기준 변화</p>
+      </div>
+      <span class="status published">읽기 →</span>
+    </a>
+  </li>
+  <li class="published">
+    <a href="/지방간-MetALD/"><span class="num">13</span>
+      <div class="body">
+        <h3>MetALD — 대사 + 알코올 동반</h3>
+        <p>두 원인 동시 관리</p>
+      </div>
+      <span class="status published">읽기 →</span>
+    </a>
+  </li>
+  <li class="published">
+    <a href="/지방간염-MASH/"><span class="num">09</span>
+      <div class="body">
+        <h3>지방간염(MASH)</h3>
+        <p>조직 변화, 진행 위험, 진단·치료의 분기점</p>
+      </div>
+      <span class="status published">읽기 →</span>
+    </a>
+  </li>
+  <h3 class="cluster-header">치료</h3>
+  <li class="published">
+    <a href="/지방간-치료/"><span class="num">03</span>
+      <div class="body">
+        <h3>지방간 치료</h3>
+        <p>체중 5%·7%·10% 감량의 효과 차이, 약물 옵션</p>
       </div>
       <span class="status published">읽기 →</span>
     </a>
@@ -136,19 +130,56 @@
     </a>
   </li>
   <li class="published">
-    <a href="/지방간염-MASH/"><span class="num">09</span>
+    <a href="/지방간-SGLT2-GLP1/"><span class="num">10</span>
       <div class="body">
-        <h3>지방간염(MASH)</h3>
-        <p>조직 변화, 진행 위험, 진단·치료의 분기점</p>
+        <h3>SGLT2·GLP-1 작용제와 지방간</h3>
+        <p>당뇨 동반 환자의 지방간 호전, 비당뇨 환자에서의 가능성</p>
       </div>
       <span class="status published">읽기 →</span>
     </a>
   </li>
   <li class="published">
-    <a href="/지방간-SGLT2-GLP1/"><span class="num">10</span>
+    <a href="/지방간-비만수술/"><span class="num">15</span>
       <div class="body">
-        <h3>SGLT2·GLP-1 작용제와 지방간</h3>
-        <p>당뇨 동반 환자의 지방간 호전, 비당뇨 환자에서의 가능성</p>
+        <h3>비만 수술과 MASH 호전</h3>
+        <p>고도 비만 + MASH의 가장 강력한 옵션</p>
+      </div>
+      <span class="status published">읽기 →</span>
+    </a>
+  </li>
+  <li class="published">
+    <a href="/지방간-회복-6개월/"><span class="num">05</span>
+      <div class="body">
+        <h3>지방간 회복, 6개월 후 어떻게 달라지나</h3>
+        <p>체중 감량에 따른 지방 감소 시점, 섬유화 역전 가능성</p>
+      </div>
+      <span class="status published">읽기 →</span>
+    </a>
+  </li>
+  <li class="published">
+    <a href="/지방간-음식/"><span class="num">04</span>
+      <div class="body">
+        <h3>지방간에 좋은 음식·피해야 할 음식</h3>
+        <p>지중해식 식단, 커피·오메가-3 효과</p>
+      </div>
+      <span class="status published">읽기 →</span>
+    </a>
+  </li>
+  <h3 class="cluster-header">특수상황</h3>
+  <li class="published">
+    <a href="/술-안마셔도-지방간/"><span class="num">02</span>
+      <div class="body">
+        <h3>술을 전혀 안 마시는데 지방간이라고요?</h3>
+        <p>인슐린 저항성, 과당, 수면 무호흡 등</p>
+      </div>
+      <span class="status published">읽기 →</span>
+    </a>
+  </li>
+  <li class="published">
+    <a href="/지방간-lean-MASLD/"><span class="num">07</span>
+      <div class="body">
+        <h3>lean MASLD</h3>
+        <p>정상 BMI(체질량지수)에서의 지방간, 동양인 cut-off, 위험 인자 점검</p>
       </div>
       <span class="status published">읽기 →</span>
     </a>
@@ -172,28 +203,10 @@
     </a>
   </li>
   <li class="published">
-    <a href="/지방간-MetALD/"><span class="num">13</span>
-      <div class="body">
-        <h3>MetALD — 대사 + 알코올 동반</h3>
-        <p>두 원인 동시 관리</p>
-      </div>
-      <span class="status published">읽기 →</span>
-    </a>
-  </li>
-  <li class="published">
     <a href="/지방간-심혈관-CVD/"><span class="num">14</span>
       <div class="body">
         <h3>지방간과 심혈관 질환</h3>
         <p>MASLD 환자의 가장 흔한 사망 원인은 심혈관</p>
-      </div>
-      <span class="status published">읽기 →</span>
-    </a>
-  </li>
-  <li class="published">
-    <a href="/지방간-비만수술/"><span class="num">15</span>
-      <div class="body">
-        <h3>비만 수술과 MASH 호전</h3>
-        <p>고도 비만 + MASH의 가장 강력한 옵션</p>
       </div>
       <span class="status published">읽기 →</span>
     </a>

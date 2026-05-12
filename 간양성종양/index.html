@@ -27,9 +27,18 @@
 <!-- verify:auto:end -->
   <meta property="og:image" content="https://drshin.kr/assets/img/author/drshin.jpg">
   <meta name="twitter:image" content="https://drshin.kr/assets/img/author/drshin.jpg">
+<script src="/assets/js/search.js" defer></script>
 </head>
 <body>
-<header class="site-header"><div class="inner"><a href="/" class="brand-mark">Hepatology<em> Note</em></a><nav class="site-nav"><a href="/소개/">소개</a><a href="/연구/">연구</a><a href="/updates/">Updates</a>
+<header class="site-header"><div class="inner"><a href="/" class="brand-mark">Hepatology<em> Note</em></a><form id="site-search" role="search" autocomplete="off" onsubmit="return false">
+        <span class="search-icon" aria-hidden="true">⌕</span>
+        <input class="search-input" type="search" placeholder="검색  (/, ⌘K)" aria-label="사이트 검색">
+        <div class="search-panel">
+          <div class="search-hits"></div>
+          <ul class="search-results" role="listbox"></ul>
+          <div class="search-status">↑↓ 이동 · Enter 열기 · Esc 닫기</div>
+        </div>
+      </form><nav class="site-nav"><a href="/소개/">소개</a><a href="/연구/">연구</a><a href="/updates/">Updates</a>
       <a href="/keywords/">키워드</a></nav></div></header>
 <!-- hub-bar:auto:start -->
 <nav class="hub-bar" aria-label="주제별 메뉴">
@@ -43,16 +52,8 @@
 <p class="series-intro">검진에서 우연히 발견되는 간 결절의 가장 흔한 4가지(혈관종·낭종·FNH·HCA) 감별과 추적·시술 결정. 영상으로 대부분 진단되지만 함정도 있습니다.</p>
 
 <ul class="topic-list">
-<li class="published"><a href="/간양성종양-진단/"><span class="num">01</span><div class="body"><h3>간 양성종양 진단</h3><p>혈관종·낭종·FNH·선종의 영상 감별, 위험 인자가 없으면 대부분 양성</p></div><span class="status published">읽기 →</span></a></li><li class="published"><a href="/간양성종양-낭종-관리/"><span class="num">02</span><div class="body"><h3>간 낭종 관리</h3><p>관찰부터 흡인·경화요법까지, 큰 증상 낭종의 시술 적응증</p></div><span class="status published">읽기 →</span></a></li><li class="published"><a href="/간양성종양-혈관종/"><span class="num">03</span><div class="body"><h3>간 혈관종</h3><p>가장 흔한 양성종양, 영상으로 거의 모두 감별, 추적 종료 기준</p></div><span class="status published">읽기 →</span></a></li><li class="published"><a href="/간양성종양-FNH-Adenoma/"><span class="num">04</span><div class="body"><h3>FNH와 선종</h3><p>FNH는 안전, 선종은 5cm/남성/β-catenin 시 절제 검토</p></div><span class="status published">읽기 →</span></a></li>
-  <li class="published">
-    <a href="/간양성종양-담관과오종/"><span class="num">05</span>
-      <div class="body">
-        <h3>담관 과오종(Von Meyenburg)</h3>
-        <p>다발 작은 양성 결절, MRCP로 진단</p>
-      </div>
-      <span class="status published">읽기 →</span>
-    </a>
-  </li>
+  <h3 class="cluster-header">진단</h3>
+  <li class="published"><a href="/간양성종양-진단/"><span class="num">01</span><div class="body"><h3>간 양성종양 진단</h3><p>혈관종·낭종·FNH·선종의 영상 감별, 위험 인자가 없으면 대부분 양성</p></div><span class="status published">읽기 →</span></a></li>
   <li class="published">
     <a href="/간양성종양-국소지방-변화/"><span class="num">06</span>
       <div class="body">
@@ -63,6 +64,18 @@
     </a>
   </li>
   <li class="published">
+    <a href="/간양성종양-담관과오종/"><span class="num">05</span>
+      <div class="body">
+        <h3>담관 과오종(Von Meyenburg)</h3>
+        <p>다발 작은 양성 결절, MRCP로 진단</p>
+      </div>
+      <span class="status published">읽기 →</span>
+    </a>
+  </li>
+  <h3 class="cluster-header">종양 종류</h3>
+  <li class="published"><a href="/간양성종양-혈관종/"><span class="num">03</span><div class="body"><h3>간 혈관종</h3><p>가장 흔한 양성종양, 영상으로 거의 모두 감별, 추적 종료 기준</p></div><span class="status published">읽기 →</span></a></li>
+  <li class="published"><a href="/간양성종양-FNH-Adenoma/"><span class="num">04</span><div class="body"><h3>FNH와 선종</h3><p>FNH는 안전, 선종은 5cm/남성/β-catenin 시 절제 검토</p></div><span class="status published">읽기 →</span></a></li>
+  <li class="published">
     <a href="/간양성종양-NRH/"><span class="num">07</span>
       <div class="body">
         <h3>결절성 재생 과형성(NRH)</h3>
@@ -71,6 +84,8 @@
       <span class="status published">읽기 →</span>
     </a>
   </li>
+  <li class="published"><a href="/간양성종양-낭종-관리/"><span class="num">02</span><div class="body"><h3>간 낭종 관리</h3><p>관찰부터 흡인·경화요법까지, 큰 증상 낭종의 시술 적응증</p></div><span class="status published">읽기 →</span></a></li>
+  <h3 class="cluster-header">특수상황</h3>
   <li class="published">
     <a href="/간양성종양-임신중/"><span class="num">08</span>
       <div class="body">

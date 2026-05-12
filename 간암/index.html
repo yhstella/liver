@@ -36,11 +36,21 @@
 <meta name="google-site-verification" content="x7NwlcpE-hA8N6Lf1h_i2wKk2RAiSDvv4wUXxV-CwRE">
 <meta name="naver-site-verification" content="a978f4b99a9b45749c235f674d9ab6d31950470a">
 <!-- verify:auto:end -->
+<script src="/assets/js/search.js" defer></script>
 </head>
 <body>
 <header class="site-header">
   <div class="inner">
     <a href="/" class="brand-mark">Hepatology<em> Note</em></a>
+    <form id="site-search" role="search" autocomplete="off" onsubmit="return false">
+        <span class="search-icon" aria-hidden="true">⌕</span>
+        <input class="search-input" type="search" placeholder="검색  (/, ⌘K)" aria-label="사이트 검색">
+        <div class="search-panel">
+          <div class="search-hits"></div>
+          <ul class="search-results" role="listbox"></ul>
+          <div class="search-status">↑↓ 이동 · Enter 열기 · Esc 닫기</div>
+        </div>
+      </form>
     <nav class="site-nav">
       <a href="/소개/">소개</a>
       <a href="/연구/">연구</a>
@@ -63,6 +73,7 @@
 <p class="series-intro">간세포암(HCC) 환자와 가족이 알아야 할 진단·병기·치료 흐름을 정리합니다. BCLC 병기에서 시작해 절제·소작·면역치료·이식까지, 한국 KLCA-NCC 가이드라인을 임상 현장의 결정과 함께 다룹니다.</p>
 
 <ul class="topic-list">
+  <h3 class="cluster-header">진단·평가</h3>
   <li class="published">
     <a href="/간암-진단-첫외래/"><span class="num">01</span>
       <div class="body">
@@ -81,6 +92,43 @@
       <span class="status published">읽기 →</span>
     </a>
   </li>
+  <li class="published">
+    <a href="/알파태아단백/"><span class="num">06</span>
+      <div class="body">
+        <h3>알파태아단백(AFP)</h3>
+        <p>AFP(알파태아단백) 단독 상승의 의미, 간암 검진에서의 역할</p>
+      </div>
+      <span class="status published">읽기 →</span>
+    </a>
+  </li>
+  <li class="published">
+    <a href="/B형간염-간암검진/"><span class="num">07</span>
+      <div class="body">
+        <h3>B형간염 환자가 6개월마다 간암 검진을 받아야 하는 이유</h3>
+        <p>종양 배가시간과 6개월 주기의 근거, 초음파+AFP+PIVKA-II(des-γ-carboxy prothrombin) 조합</p>
+      </div>
+      <span class="status published">읽기 →</span>
+    </a>
+  </li>
+  <li class="published">
+    <a href="/간암-가족력-검진/"><span class="num">16</span>
+      <div class="body">
+        <h3>가족력 있는 사람의 간암 검진</h3>
+        <p>본인 위험 평가와 검진 시점·주기</p>
+      </div>
+      <span class="status published">읽기 →</span>
+    </a>
+  </li>
+  <li class="published">
+    <a href="/지방간-간암/"><span class="num">08</span>
+      <div class="body">
+        <h3>지방간에서 간암까지</h3>
+        <p>대사이상지방간질환(MASLD)-대사이상지방간염(MASH)-간경변-간암 경로와 검진 시작 시점</p>
+      </div>
+      <span class="status published">읽기 →</span>
+    </a>
+  </li>
+  <h3 class="cluster-header">치료</h3>
   <li class="published">
     <a href="/간암-치료-선택/"><span class="num">03</span>
       <div class="body">
@@ -109,60 +157,6 @@
     </a>
   </li>
   <li class="published">
-    <a href="/알파태아단백/"><span class="num">06</span>
-      <div class="body">
-        <h3>알파태아단백(AFP)</h3>
-        <p>AFP(알파태아단백) 단독 상승의 의미, 간암 검진에서의 역할</p>
-      </div>
-      <span class="status published">읽기 →</span>
-    </a>
-  </li>
-  <li class="published">
-    <a href="/B형간염-간암검진/"><span class="num">07</span>
-      <div class="body">
-        <h3>B형간염 환자가 6개월마다 간암 검진을 받아야 하는 이유</h3>
-        <p>종양 배가시간과 6개월 주기의 근거, 초음파+AFP+PIVKA-II(des-γ-carboxy prothrombin) 조합</p>
-      </div>
-      <span class="status published">읽기 →</span>
-    </a>
-  </li>
-  <li class="published">
-    <a href="/지방간-간암/"><span class="num">08</span>
-      <div class="body">
-        <h3>지방간에서 간암까지</h3>
-        <p>대사이상지방간질환(MASLD)-대사이상지방간염(MASH)-간경변-간암 경로와 검진 시작 시점</p>
-      </div>
-      <span class="status published">읽기 →</span>
-    </a>
-  </li>
-  <li class="published">
-    <a href="/간암-재발-추적/"><span class="num">09</span>
-      <div class="body">
-        <h3>간암 재발 추적</h3>
-        <p>치료 후 영상·종양표지자 일정, 재발 패턴별 대응</p>
-      </div>
-      <span class="status published">읽기 →</span>
-    </a>
-  </li>
-  <li class="published">
-    <a href="/간암-식이-일상/"><span class="num">10</span>
-      <div class="body">
-        <h3>간암 환자가 알아야 할 식이·일상</h3>
-        <p>치료 중 영양 관리, 술·약·영양제 점검</p>
-      </div>
-      <span class="status published">읽기 →</span>
-    </a>
-  </li>
-  <li class="published">
-    <a href="/간암-방사선색전술/"><span class="num">11</span>
-      <div class="body">
-        <h3>방사선색전술(경동맥방사선색전술(TARE))</h3>
-        <p>TACE와 무엇이 다른가, 적응증·용량 개별화·간이식 다리 역할</p>
-      </div>
-      <span class="status published">읽기 →</span>
-    </a>
-  </li>
-  <li class="published">
     <a href="/간암-소작술-RFA-MWA/"><span class="num">12</span>
       <div class="body">
         <h3>간암 소작술 — RFA와 MWA</h3>
@@ -176,6 +170,15 @@
       <div class="body">
         <h3>TACE — cTACE와 DEB-TACE</h3>
         <p>중간기 간암의 표준, 두 색전 방식 비교</p>
+      </div>
+      <span class="status published">읽기 →</span>
+    </a>
+  </li>
+  <li class="published">
+    <a href="/간암-방사선색전술/"><span class="num">11</span>
+      <div class="body">
+        <h3>방사선색전술(경동맥방사선색전술(TARE))</h3>
+        <p>TACE와 무엇이 다른가, 적응증·용량 개별화·간이식 다리 역할</p>
       </div>
       <span class="status published">읽기 →</span>
     </a>
@@ -198,11 +201,21 @@
       <span class="status published">읽기 →</span>
     </a>
   </li>
+  <h3 class="cluster-header">추적·일상</h3>
   <li class="published">
-    <a href="/간암-가족력-검진/"><span class="num">16</span>
+    <a href="/간암-재발-추적/"><span class="num">09</span>
       <div class="body">
-        <h3>가족력 있는 사람의 간암 검진</h3>
-        <p>본인 위험 평가와 검진 시점·주기</p>
+        <h3>간암 재발 추적</h3>
+        <p>치료 후 영상·종양표지자 일정, 재발 패턴별 대응</p>
+      </div>
+      <span class="status published">읽기 →</span>
+    </a>
+  </li>
+  <li class="published">
+    <a href="/간암-식이-일상/"><span class="num">10</span>
+      <div class="body">
+        <h3>간암 환자가 알아야 할 식이·일상</h3>
+        <p>치료 중 영양 관리, 술·약·영양제 점검</p>
       </div>
       <span class="status published">읽기 →</span>
     </a>

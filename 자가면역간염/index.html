@@ -27,9 +27,18 @@
 <!-- verify:auto:end -->
   <meta property="og:image" content="https://drshin.kr/assets/img/author/drshin.jpg">
   <meta name="twitter:image" content="https://drshin.kr/assets/img/author/drshin.jpg">
+<script src="/assets/js/search.js" defer></script>
 </head>
 <body>
-<header class="site-header"><div class="inner"><a href="/" class="brand-mark">Hepatology<em> Note</em></a><nav class="site-nav"><a href="/소개/">소개</a><a href="/연구/">연구</a><a href="/updates/">Updates</a>
+<header class="site-header"><div class="inner"><a href="/" class="brand-mark">Hepatology<em> Note</em></a><form id="site-search" role="search" autocomplete="off" onsubmit="return false">
+        <span class="search-icon" aria-hidden="true">⌕</span>
+        <input class="search-input" type="search" placeholder="검색  (/, ⌘K)" aria-label="사이트 검색">
+        <div class="search-panel">
+          <div class="search-hits"></div>
+          <ul class="search-results" role="listbox"></ul>
+          <div class="search-status">↑↓ 이동 · Enter 열기 · Esc 닫기</div>
+        </div>
+      </form><nav class="site-nav"><a href="/소개/">소개</a><a href="/연구/">연구</a><a href="/updates/">Updates</a>
       <a href="/keywords/">키워드</a></nav></div></header>
 <!-- hub-bar:auto:start -->
 <nav class="hub-bar" aria-label="주제별 메뉴">
@@ -43,7 +52,8 @@
 <p class="series-intro">자가면역간염(AIH)의 4축 진단(ALT·IgG·자가항체·조직), 표준 면역억제 치료, 약 중단 결정, PBC overlap·임신·소아 등 특수 상황까지.</p>
 
 <ul class="topic-list">
-<li class="published"><a href="/자가면역간염-진단/"><span class="num">01</span><div class="body"><h3>AIH 진단</h3><p>ALT·IgG·자가항체·조직 4축, 다른 원인 배제, PBC·PSC overlap</p></div><span class="status published">읽기 →</span></a></li><li class="published"><a href="/자가면역간염-치료/"><span class="num">02</span><div class="body"><h3>표준 치료</h3><p>Induction → maintenance → 감량, 부작용 모니터링</p></div><span class="status published">읽기 →</span></a></li><li class="published"><a href="/자가면역간염-약중단/"><span class="num">03</span><div class="body"><h3>약 중단</h3><p>2년 안정 + 조직 호전 시 검토, 재발 50-80%</p></div><span class="status published">읽기 →</span></a></li>
+  <h3 class="cluster-header">진단</h3>
+  <li class="published"><a href="/자가면역간염-진단/"><span class="num">01</span><div class="body"><h3>AIH 진단</h3><p>ALT·IgG·자가항체·조직 4축, 다른 원인 배제, PBC·PSC overlap</p></div><span class="status published">읽기 →</span></a></li>
   <li class="published">
     <a href="/자가면역간염-PBC-overlap/"><span class="num">04</span>
       <div class="body">
@@ -53,20 +63,24 @@
       <span class="status published">읽기 →</span>
     </a>
   </li>
-  <li class="published">
-    <a href="/자가면역간염-임신/"><span class="num">05</span>
-      <div class="body">
-        <h3>AIH와 임신</h3>
-        <p>AZA 유지, MMF 금기, 산후 30~50% 재발</p>
-      </div>
-      <span class="status published">읽기 →</span>
-    </a>
-  </li>
+  <h3 class="cluster-header">치료</h3>
+  <li class="published"><a href="/자가면역간염-치료/"><span class="num">02</span><div class="body"><h3>표준 치료</h3><p>Induction → maintenance → 감량, 부작용 모니터링</p></div><span class="status published">읽기 →</span></a></li>
+  <li class="published"><a href="/자가면역간염-약중단/"><span class="num">03</span><div class="body"><h3>약 중단</h3><p>2년 안정 + 조직 호전 시 검토, 재발 50-80%</p></div><span class="status published">읽기 →</span></a></li>
   <li class="published">
     <a href="/자가면역간염-스테로이드-부작용/"><span class="num">06</span>
       <div class="body">
         <h3>스테로이드 부작용 관리</h3>
         <p>Budesonide 전환과 모니터 일정</p>
+      </div>
+      <span class="status published">읽기 →</span>
+    </a>
+  </li>
+  <h3 class="cluster-header">특수상황</h3>
+  <li class="published">
+    <a href="/자가면역간염-임신/"><span class="num">05</span>
+      <div class="body">
+        <h3>AIH와 임신</h3>
+        <p>AZA 유지, MMF 금기, 산후 30~50% 재발</p>
       </div>
       <span class="status published">읽기 →</span>
     </a>
