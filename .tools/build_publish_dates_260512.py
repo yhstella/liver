@@ -152,16 +152,14 @@ def extract_title(html_path):
 
 
 def build_recent_posts_box(top5):
-    """top5: list of (cat, slug, title, date)"""
+    """top5: list of (cat, slug, title, date). NEW 뱃지는 JS가 datetime 기준 ≤31일에 동적 부여."""
     items = []
-    for i, (cat, slug, title, d) in enumerate(top5):
+    for cat, slug, title, d in top5:
         href = CATEGORY_HREF_PREFIX[cat].format(slug=slug)
-        is_new = i < 2  # Top 2 get NEW badge
-        new_html = '<span class="recent-new">NEW</span>' if is_new else ""
         cat_html = f'<span class="recent-cat recent-cat-{cat}">{CATEGORY_LABEL[cat]}</span>'
         date_html = f'<time class="recent-date" datetime="{d.isoformat()}">{korean_date(d)}</time>'
         items.append(
-            f'  <li>{new_html}{cat_html}<a class="recent-link" href="{href}">{title}</a>{date_html}</li>'
+            f'  <li>{cat_html}<a class="recent-link" href="{href}">{title}</a>{date_html}</li>'
         )
     body = "\n".join(items)
     return f"""<section class="recent-posts" aria-label="최근 작성글">
@@ -169,6 +167,31 @@ def build_recent_posts_box(top5):
   <ul class="recent-posts-list">
 {body}
   </ul>
+  <script>
+  (function(){{
+    var NOW = Date.now();
+    var WINDOW_MS = 31 * 24 * 60 * 60 * 1000;
+    document.querySelectorAll('.recent-posts-list li').forEach(function(li){{
+      var t = li.querySelector('time.recent-date');
+      if(!t) return;
+      var iso = t.getAttribute('datetime');
+      if(!iso) return;
+      var d = new Date(iso + 'T00:00:00').getTime();
+      if(isNaN(d)) return;
+      if(NOW - d <= WINDOW_MS){{
+        if(!li.querySelector('.recent-new')){{
+          var span = document.createElement('span');
+          span.className = 'recent-new';
+          span.textContent = 'NEW';
+          var link = li.querySelector('.recent-link');
+          if(link && link.nextSibling){{
+            link.parentNode.insertBefore(span, link.nextSibling);
+          }}
+        }}
+      }}
+    }});
+  }})();
+  </script>
 </section>
 """
 
