@@ -8,7 +8,7 @@ ROOT = Path(__file__).resolve().parent.parent
 # Marker for search box (inside site-nav)
 SEARCH_HTML = '''<form id="site-search" role="search" autocomplete="off" onsubmit="return false">
         <span class="search-icon" aria-hidden="true">⌕</span>
-        <input class="search-input" type="search" placeholder="검색  (/, ⌘K)" aria-label="사이트 검색">
+        <input class="search-input" type="search" placeholder="검색" aria-label="사이트 검색">
         <div class="search-panel">
           <div class="search-hits"></div>
           <ul class="search-results" role="listbox"></ul>
