@@ -61,49 +61,18 @@
 <h2>Fibroscan은 무엇을 측정하나</h2>
 <p>저주파 진동을 간에 보내고, 그 전파 속도로 강직도(LSM, kPa 단위)를 계산합니다. 동시에 초음파 신호 감쇠로 지방량(CAP(controlled attenuation parameter), dB/m)을 측정합니다. 비침습이고 5–10분, 결과를 즉시 확인할 수 있다는 점이 가장 큰 장점입니다.</p>
 
-<svg class="fig" viewBox="0 0 720 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="원인별 임계값이 다름 - 단일 cutoff 사용 금지">
-<text x="20" y="28" class="title" font-size="15" font-weight="600" fill="#1f6f5c">Fibroscan kPa 해석 (원인 질환별)</text>
-<rect x="0" y="50" width="180" height="32" fill="#f3f1ec" stroke="#e5e3dc"/>
-<text x="90" y="71" text-anchor="middle" font-size="13" font-weight="600" fill="#1a1a1a">원인</text>
-<rect x="180" y="50" width="180" height="32" fill="#f3f1ec" stroke="#e5e3dc"/>
-<text x="270" y="71" text-anchor="middle" font-size="13" font-weight="600" fill="#1a1a1a">안전</text>
-<rect x="360" y="50" width="180" height="32" fill="#f3f1ec" stroke="#e5e3dc"/>
-<text x="450" y="71" text-anchor="middle" font-size="13" font-weight="600" fill="#1a1a1a">진행 의심</text>
-<rect x="540" y="50" width="180" height="32" fill="#f3f1ec" stroke="#e5e3dc"/>
-<text x="630" y="71" text-anchor="middle" font-size="13" font-weight="600" fill="#1a1a1a">간경변 의심</text>
-<rect x="0" y="82" width="180" height="32" fill="#fff" stroke="#e5e3dc"/>
-<text x="90" y="103" text-anchor="middle" font-size="12.5" fill="#2a2a2a">MASLD</text>
-<rect x="180" y="82" width="180" height="32" fill="#fff" stroke="#e5e3dc"/>
-<text x="270" y="103" text-anchor="middle" font-size="12.5" fill="#2a2a2a">&lt; 8 kPa</text>
-<rect x="360" y="82" width="180" height="32" fill="#fff" stroke="#e5e3dc"/>
-<text x="450" y="103" text-anchor="middle" font-size="12.5" fill="#2a2a2a">8-12</text>
-<rect x="540" y="82" width="180" height="32" fill="#fff" stroke="#e5e3dc"/>
-<text x="630" y="103" text-anchor="middle" font-size="12.5" fill="#2a2a2a">&gt; 12-15</text>
-<rect x="0" y="114" width="180" height="32" fill="#fff" stroke="#e5e3dc"/>
-<text x="90" y="135" text-anchor="middle" font-size="12.5" fill="#2a2a2a">만성 B형간염</text>
-<rect x="180" y="114" width="180" height="32" fill="#fff" stroke="#e5e3dc"/>
-<text x="270" y="135" text-anchor="middle" font-size="12.5" fill="#2a2a2a">&lt; 7</text>
-<rect x="360" y="114" width="180" height="32" fill="#fff" stroke="#e5e3dc"/>
-<text x="450" y="135" text-anchor="middle" font-size="12.5" fill="#2a2a2a">7-11</text>
-<rect x="540" y="114" width="180" height="32" fill="#fff" stroke="#e5e3dc"/>
-<text x="630" y="135" text-anchor="middle" font-size="12.5" fill="#2a2a2a">&gt; 11</text>
-<rect x="0" y="146" width="180" height="32" fill="#fff" stroke="#e5e3dc"/>
-<text x="90" y="167" text-anchor="middle" font-size="12.5" fill="#2a2a2a">만성 C형간염</text>
-<rect x="180" y="146" width="180" height="32" fill="#fff" stroke="#e5e3dc"/>
-<text x="270" y="167" text-anchor="middle" font-size="12.5" fill="#2a2a2a">&lt; 7</text>
-<rect x="360" y="146" width="180" height="32" fill="#fff" stroke="#e5e3dc"/>
-<text x="450" y="167" text-anchor="middle" font-size="12.5" fill="#2a2a2a">7-12.5</text>
-<rect x="540" y="146" width="180" height="32" fill="#fff" stroke="#e5e3dc"/>
-<text x="630" y="167" text-anchor="middle" font-size="12.5" fill="#2a2a2a">&gt; 12.5</text>
-<rect x="0" y="178" width="180" height="32" fill="#fff" stroke="#e5e3dc"/>
-<text x="90" y="199" text-anchor="middle" font-size="12.5" fill="#2a2a2a">알코올성</text>
-<rect x="180" y="178" width="180" height="32" fill="#fff" stroke="#e5e3dc"/>
-<text x="270" y="199" text-anchor="middle" font-size="12.5" fill="#2a2a2a">&lt; 9.5</text>
-<rect x="360" y="178" width="180" height="32" fill="#fff" stroke="#e5e3dc"/>
-<text x="450" y="199" text-anchor="middle" font-size="12.5" fill="#2a2a2a">9.5-17</text>
-<rect x="540" y="178" width="180" height="32" fill="#fff" stroke="#e5e3dc"/>
-<text x="630" y="199" text-anchor="middle" font-size="12.5" fill="#2a2a2a">&gt; 17-20</text>
-</svg><p class="fig-caption">원인별 임계값이 다름 - 단일 cutoff 사용 금지</p>
+<table>
+<thead>
+<tr><th>원인</th><th>안전</th><th>진행 의심</th><th>간경변 의심</th></tr>
+</thead>
+<tbody>
+<tr><td>MASLD</td><td>&lt; 8 kPa</td><td>8-12</td><td>&gt; 12-15</td></tr>
+<tr><td>만성 B형간염</td><td>&lt; 7</td><td>7-11</td><td>&gt; 11</td></tr>
+<tr><td>만성 C형간염</td><td>&lt; 7</td><td>7-12.5</td><td>&gt; 12.5</td></tr>
+<tr><td>알코올성</td><td>&lt; 9.5</td><td>9.5-17</td><td>&gt; 17-20</td></tr>
+</tbody>
+</table>
+<p class="fig-caption" style="font-size:12.5px;color:var(--muted);margin-top:-8px">원인별 임계값이 다름 - 단일 cutoff 사용 금지</p>
 <h2>kPa 수치 해석 (원인 질환별)</h2>
 <p>원인 질환마다 임계값이 다릅니다. 아래는 EASL(유럽간질환학회)/AASLD(미국간질환학회) 2021–2023 가이드라인을 참고한 대략적 구간입니다.</p>
 <table>
