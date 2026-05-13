@@ -49,6 +49,16 @@ a:focus-visible,button:focus-visible,input:focus-visible,details:focus-visible,s
   #site-search:focus-within ~ nav.site-nav,
   #site-search.open ~ nav.site-nav{display:none}
 }
+/* 모바일 (≤600): 상단 nav (소개·연구·Updates·키워드)을 둘째 줄로 wrap — 우측 짤림 방지 */
+@media (max-width:600px){
+  .site-header{padding:10px 14px}
+  .site-header .inner{flex-wrap:wrap;row-gap:6px;column-gap:10px}
+  .site-header nav.site-nav{flex:1 1 100%;justify-content:space-around;gap:0;width:100%;padding-top:2px;border-top:1px solid var(--line);margin-top:2px}
+  .site-header nav.site-nav a{padding:8px 10px;font-size:13.5px;flex:0 1 auto}
+  /* 검색 열린 상태에서도 nav 유지 (둘째 줄에 있어서 첫째 줄 공간 차지 안 함) */
+  #site-search:focus-within ~ nav.site-nav,
+  #site-search.open ~ nav.site-nav{display:flex}
+}
 .hub-bar{background:var(--accent-soft);border-bottom:1px solid var(--line);font-size:13.5px;line-height:1}
 .hub-bar .inner{max-width:var(--max-wide);margin:0 auto;padding:7px 16px;display:flex;gap:2px;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none}
 .hub-bar .inner::-webkit-scrollbar{display:none}
