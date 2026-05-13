@@ -1,0 +1,65 @@
+#!/usr/bin/env bash
+# .tools/hooks/pre-commit
+#
+# 자동 SEO/GEO 자산 갱신 훅.
+# HTML 콘텐츠가 변경된 커밋에서 rebuild_seo.py를 자동 실행하고
+# 갱신된 자산(sitemap, llms.txt, search-index, 홈 '최근 작성글' 등)을
+# 같은 커밋에 자동 포함시킵니다.
+#
+# 설치 방법 (한 번만):
+#   git config core.hooksPath .tools/hooks
+#
+# 우회 (긴급 시):
+#   git commit --no-verify
+#
+# 동작 조건:
+#   - staged 변경 사항에 .html 파일이 1개 이상 있을 때만 rebuild 실행
+#   - .tools/, assets/ 안의 변경은 트리거하지 않음 (rebuild 자산 자체의 회귀 방지)
+#   - rebuild 실패 시 커밋 차단
+
+set -e
+
+# Git 자체에서 정의한 변수가 있을 수 있으므로 안전하게 처리
+REPO_ROOT="$(git rev-parse --show-toplevel)"
+cd "$REPO_ROOT"
+
+# staged 변경에서 .html 파일만 추출 (콘텐츠 변경 감지)
+CHANGED_HTML=$(git diff --cached --name-only --diff-filter=ACMR \
+  | grep -E '\.html$' \
+  | grep -v '^\.tools/' \
+  | grep -v '^assets/' \
+  || true)
+
+# 추가로 검사: 새 디렉토리 추가 시 새 페이지 생성 가능
+NEW_DIRS=$(git diff --cached --name-only --diff-filter=A \
+  | grep -E '/index\.html$' \
+  || true)
+
+if [ -z "$CHANGED_HTML" ] && [ -z "$NEW_DIRS" ]; then
+  exit 0  # HTML 콘텐츠 변경 없음 — 패스
+fi
+
+echo "[pre-commit] HTML 콘텐츠 변경 감지 — rebuild_seo.py 실행…"
+echo ""
+
+# rebuild 실행 (실패 시 커밋 중단)
+if ! python .tools/rebuild_seo.py > /tmp/rebuild-seo.log 2>&1; then
+  echo ""
+  echo "[pre-commit] FAILED: rebuild_seo.py 실패. 로그:"
+  echo ""
+  tail -40 /tmp/rebuild-seo.log
+  echo ""
+  echo "수정 후 다시 commit 하시거나, --no-verify로 우회하세요."
+  exit 1
+fi
+
+# 마지막 줄만 보고: All SEO/GEO assets rebuilt 성공
+tail -8 /tmp/rebuild-seo.log | sed 's/^/  /'
+
+# rebuild가 수정한 파일을 자동 스테이징 (같은 커밋에 포함)
+# 단, 새 파일은 자동으로 추가하지 않음 (의도하지 않은 추가 방지)
+git add -u
+
+echo ""
+echo "[pre-commit] OK — 갱신된 자산이 같은 커밋에 포함됩니다."
+exit 0
