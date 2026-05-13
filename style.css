@@ -58,6 +58,12 @@ a:focus-visible,button:focus-visible,input:focus-visible,details:focus-visible,s
   /* 검색 열린 상태에서도 nav 유지 (둘째 줄에 있어서 첫째 줄 공간 차지 안 함) */
   #site-search:focus-within ~ nav.site-nav,
   #site-search.open ~ nav.site-nav{display:flex}
+  /* 검색 열림 시 brand 숨김 — search가 row 1 전체를 차지하여 둘째 줄로 wrap되지 않도록 */
+  .site-header .inner:has(#site-search:focus-within) .brand-mark,
+  .site-header .inner:has(#site-search.open) .brand-mark{display:none}
+  /* 검색 search element 자체도 row 1 전체 사용 */
+  #site-search:focus-within,
+  #site-search.open{flex:1 1 100%;min-width:0}
 }
 .hub-bar{background:var(--accent-soft);border-bottom:1px solid var(--line);font-size:13.5px;line-height:1}
 .hub-bar .inner{max-width:var(--max-wide);margin:0 auto;padding:7px 16px;display:flex;gap:2px;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none}
