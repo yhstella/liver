@@ -23,6 +23,7 @@ STEPS = [
     ("Inject JSON-LD on detail pages",           "inject_jsonld.py"),
     ("Dedupe legacy JSON-LD blocks",             "dedupe_jsonld.py"),
     ("Inject verification meta (if any)",        "inject_verification.py"),
+    ("Inject skip-to-content link (a11y)",       "inject_skip_link.py"),
     ("Inject hub-bar (site-wide sub-nav)",       "inject_hub_bar.py"),
     ("Inject site search box + script tag",      "inject_search_box.py"),
     ("Inject series prev/next nav (detail)",     "inject_series_nav.py"),
