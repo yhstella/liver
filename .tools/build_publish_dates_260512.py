@@ -240,17 +240,21 @@ CSS_BLOCK = """
 def update_css():
     css_path = ROOT / "style.css"
     css = css_path.read_text(encoding="utf-8")
-    # Remove existing block (guarded by markers)
+    # Remove existing block (guarded by markers) — surrounding whitespace 같이 정리
     css = re.sub(
-        r'\n/\* publish-date \(작성일\)[\s\S]*?/\* end 작성일 / 최근 작성글 \*/\n',
-        "\n",
+        r'\n*/\* publish-date \(작성일\)[\s\S]*?/\* end 작성일 / 최근 작성글 \*/\n*',
+        '\n',
         css,
     )
-    # Append new block
-    if not css.endswith("\n"):
-        css += "\n"
+    # 끝의 trailing newlines 정리
+    css = css.rstrip() + "\n"
     css += CSS_BLOCK
-    css_path.write_text(css, encoding="utf-8")
+    # 결과물도 한 줄 trailing newline 유지
+    css = css.rstrip() + "\n"
+    new_text = css
+    # 이미 동일하면 write skip (mtime 보존 + commit noise 방지)
+    if css_path.read_text(encoding="utf-8") != new_text:
+        css_path.write_text(new_text, encoding="utf-8")
 
 
 EXISTING_DATE_RE = re.compile(

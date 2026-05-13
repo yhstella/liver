@@ -114,9 +114,10 @@ def main():
         if entry['t']:
             out.append(entry)
 
-    # Sort: hub > detail > case > cc > update > page, by category then title
+    # Sort: hub > detail > case > cc > update > page, by category then title then URL
+    # URL을 tertiary key로 추가 — 같은 (cat, title) 항목의 안정적 정렬 (rglob 순서 의존 제거)
     cat_order = {'hub': 0, 'detail': 1, 'case': 2, 'cc': 3, 'update': 4, 'page': 5, 'home': 6}
-    out.sort(key=lambda e: (cat_order.get(e['c'], 9), e['t']))
+    out.sort(key=lambda e: (cat_order.get(e['c'], 9), e['t'], e['u']))
 
     dst = ROOT / 'search-index.json'
     dst.write_text(json.dumps(out, ensure_ascii=False, separators=(',', ':')), encoding='utf-8')

@@ -23,15 +23,17 @@ set -e
 REPO_ROOT="$(git rev-parse --show-toplevel)"
 cd "$REPO_ROOT"
 
-# staged 변경에서 .html 파일만 추출 (콘텐츠 변경 감지)
-CHANGED_HTML=$(git diff --cached --name-only --diff-filter=ACMR \
+# core.quotepath=false: 한글 파일명을 octal escape 없이 그대로 출력
+# (이 설정이 없으면 git이 "\354\236\220..." 같은 escape 시퀀스를 반환해서
+#  .html grep이 매칭되지 않음)
+CHANGED_HTML=$(git -c core.quotepath=false diff --cached --name-only --diff-filter=ACMR \
   | grep -E '\.html$' \
   | grep -v '^\.tools/' \
   | grep -v '^assets/' \
   || true)
 
 # 추가로 검사: 새 디렉토리 추가 시 새 페이지 생성 가능
-NEW_DIRS=$(git diff --cached --name-only --diff-filter=A \
+NEW_DIRS=$(git -c core.quotepath=false diff --cached --name-only --diff-filter=A \
   | grep -E '/index\.html$' \
   || true)
 

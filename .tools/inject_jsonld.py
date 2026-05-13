@@ -312,17 +312,46 @@ def build_jsonld(rel_dir: Path, html: str):
     return json.dumps(payload, ensure_ascii=False, separators=(",", ":"))
 
 
+_VOLATILE_FIELDS_RE = re.compile(
+    r'"(?:dateModified|lastReviewed)":"[^"]*"'
+)
+
+
+def _strip_volatile(jsonld_str: str) -> str:
+    """JSON-LD에서 매 빌드마다 바뀌는 timestamp 필드를 normalize.
+
+    같은 콘텐츠라면 dateModified/lastReviewed만 다른 경우 동일한 것으로 취급.
+    """
+    return _VOLATILE_FIELDS_RE.sub('""', jsonld_str)
+
+
 def inject(html: str, jsonld: str) -> str:
-    """Insert or replace marker block before </head>."""
+    """Insert or replace marker block before </head>.
+
+    Idempotent: 콘텐츠가 같고 dateModified/lastReviewed만 바뀌었다면
+    기존 블록을 그대로 두어 commit noise 방지.
+    """
     block = f"{MARKER_START}\n<script type=\"application/ld+json\">{jsonld}</script>\n{MARKER_END}"
     if MARKER_START in html and MARKER_END in html:
-        # Replace existing marker block
+        # 기존 JSON-LD 추출해서 콘텐츠 비교 (volatile 필드 제외)
+        existing_match = re.search(
+            re.escape(MARKER_START)
+            + r"\s*<script[^>]*>(.*?)</script>\s*"
+            + re.escape(MARKER_END),
+            html, re.S,
+        )
+        if existing_match:
+            existing_jsonld = existing_match.group(1)
+            if _strip_volatile(existing_jsonld) == _strip_volatile(jsonld):
+                # 콘텐츠 동일 — 기존 블록 유지 (dateModified 보존)
+                return html
+        # 콘텐츠가 실제로 다름 — 새 블록으로 교체
         return re.sub(
             re.escape(MARKER_START) + r".*?" + re.escape(MARKER_END),
             block,
             html, count=1, flags=re.S,
         )
-    # Insert before </head>
+    # 마커 없음 — </head> 직전에 새로 삽입
     return html.replace("</head>", f"{block}\n</head>", 1)
 
 
