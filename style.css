@@ -38,11 +38,16 @@ a:focus-visible,button:focus-visible,input:focus-visible,details:focus-visible,s
   #site-search .search-input{padding:0;font-size:0;width:44px;height:38px;border:1px solid var(--line);background:var(--accent-soft);border-radius:8px;cursor:pointer;text-align:center}
   #site-search .search-input::placeholder{color:transparent}
   #site-search .search-input:hover{background:#dceae5}
-  #site-search .search-input:focus{font-size:14px;width:220px;padding:0 14px 0 38px;text-align:left;border-color:var(--accent);background:#fff;box-shadow:0 0 0 3px rgba(31,111,92,0.12)}
-  #site-search.open .search-input{font-size:14px;width:220px;padding:0 14px 0 38px;text-align:left;background:#fff;border-color:var(--accent)}
+  #site-search .search-input:focus{font-size:14px;width:100%;padding:0 14px 0 38px;text-align:left;border-color:var(--accent);background:#fff;box-shadow:0 0 0 3px rgba(31,111,92,0.12)}
+  #site-search.open .search-input{font-size:14px;width:100%;padding:0 14px 0 38px;text-align:left;background:#fff;border-color:var(--accent)}
   #site-search:focus-within .search-icon,#site-search.open .search-icon{left:14px;transform:translateY(-50%)}
   #site-search:focus-within .search-icon svg,#site-search.open .search-icon svg{width:16px;height:16px}
   #site-search .search-panel{width:min(320px,calc(100vw - 28px));right:-4px}
+  /* 검색 열림 시 nav 숨김 — input 확장이 nav를 밀어내지 않도록 */
+  #site-search:focus-within{flex:1 1 auto;min-width:0}
+  #site-search.open{flex:1 1 auto;min-width:0}
+  #site-search:focus-within ~ nav.site-nav,
+  #site-search.open ~ nav.site-nav{display:none}
 }
 .hub-bar{background:var(--accent-soft);border-bottom:1px solid var(--line);font-size:13.5px;line-height:1}
 .hub-bar .inner{max-width:var(--max-wide);margin:0 auto;padding:7px 16px;display:flex;gap:2px;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none}
