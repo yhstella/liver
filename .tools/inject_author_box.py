@@ -11,7 +11,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 
-HUBS_8 = {"간암", "간경화", "B형간염", "C형간염", "지방간", "간수치", "자가면역간염", "간양성종양"}
+HUBS_8 = {"간암", "간경화", "B형간염", "C형간염", "지방간", "간수치", "자가면역간질환", "간양성종양"}
 SECTION_HUBS = {"updates", "케이스", "CC", "keywords", "소개", "연구"}
 EXCLUDE_DIRS = {".git", ".tools", "node_modules", "assets", "guide", "논문"}
 

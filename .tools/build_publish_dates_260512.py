@@ -20,7 +20,7 @@ END = date(2026, 5, 10)
 
 HUB_SLUGS = {
     "간암", "간경화", "B형간염", "지방간", "간수치",
-    "C형간염", "자가면역간염", "간양성종양",
+    "C형간염", "자가면역간질환", "간양성종양",
     "CC", "케이스", "updates", "keywords", "guide",
     "소개", "논문", "연구",
     "assets", "private-figures", "tag", ".tools", ".git",

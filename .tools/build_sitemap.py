@@ -27,7 +27,8 @@ ROOT = Path(__file__).resolve().parent.parent
 SITE = "https://drshin.kr"
 
 EXCLUDE_DIRS = {".git", ".tools", "node_modules", "assets", "guide", "논문"}
-HUBS_8 = {"간암", "간경화", "B형간염", "C형간염", "지방간", "간수치", "자가면역간염", "간양성종양"}
+EXCLUDE_SLUGS = {"자가면역간염"}  # legacy redirect — sitemap에서 제외
+HUBS_8 = {"간암", "간경화", "B형간염", "C형간염", "지방간", "간수치", "자가면역간질환", "간양성종양"}
 SECTION_LANDINGS = {"updates", "케이스", "CC", "keywords", "소개", "연구"}
 
 
@@ -100,6 +101,9 @@ def collect_pages():
         if any(p in EXCLUDE_DIRS for p in parts):
             continue
         if any(p.startswith(".") for p in parts):
+            continue
+        # legacy redirect 페이지는 sitemap에서 제외
+        if len(parts) == 2 and parts[0] in EXCLUDE_SLUGS:
             continue
         rel_dir = path.parent.relative_to(ROOT)
         url = url_for(rel_dir)

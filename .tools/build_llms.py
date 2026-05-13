@@ -7,7 +7,7 @@ llms.txt 표준: https://llmstxt.org/
 - /llms-full.txt — 모든 detail 페이지의 본문(plain markdown)을 한 파일로 합침
 
 drshin.kr 구조:
-- 8 대주제 hub (간암·간경화·B형간염·C형간염·지방간·간수치·자가면역간염·간양성종양)
+- 8 대주제 hub (간암·간경화·B형간염·C형간염·지방간·간수치·자가면역간질환·간양성종양)
 - CC (Chief Complaints, 16 항목)
 - Updates (최신 지견 20+편)
 - 케이스 (15+편)
@@ -20,7 +20,7 @@ from urllib.parse import quote
 ROOT = Path(__file__).resolve().parent.parent
 SITE = "https://drshin.kr"
 
-HUBS_8 = ["간암", "간경화", "B형간염", "C형간염", "지방간", "간수치", "자가면역간염", "간양성종양"]
+HUBS_8 = ["간암", "간경화", "B형간염", "C형간염", "지방간", "간수치", "자가면역간질환", "간양성종양"]
 HUB_TITLES = {
     "간암": "간암 (Hepatocellular Carcinoma)",
     "간경화": "간경화 (Liver Cirrhosis)",
@@ -28,10 +28,11 @@ HUB_TITLES = {
     "C형간염": "C형 간염 (Chronic Hepatitis C)",
     "지방간": "지방간·MASLD",
     "간수치": "간수치 이상 (Abnormal LFT)",
-    "자가면역간염": "자가면역간염 (Autoimmune Hepatitis)",
+    "자가면역간질환": "자가면역간질환 (Autoimmune Liver Diseases — AIH·PBC)",
     "간양성종양": "간 양성종양 (Benign Liver Tumors)",
 }
 EXCLUDE_DIRS = {".git", ".tools", "node_modules", "assets", "guide", "논문"}
+LEGACY_REDIRECTS = {"자가면역간염"}  # llms.txt에서 제외
 
 
 class TextExtractor(HTMLParser):
@@ -138,6 +139,9 @@ def collect_pages():
             continue
         if any(p.startswith(".") for p in parts):
             continue
+        # legacy redirect 페이지는 llms.txt에서 제외
+        if len(parts) == 2 and parts[0] in LEGACY_REDIRECTS:
+            continue
         rel_dir = path.parent.relative_to(ROOT)
         slug = "/".join(rel_dir.parts) if str(rel_dir) != "." else ""
         url = url_for_dir(rel_dir)
@@ -161,6 +165,9 @@ def categorize_page(slug: str) -> str:
     for hub in HUBS_8:
         if slug.startswith(hub + "-") or slug == hub:
             return f"detail:{hub}"
+    # 자가면역간질환 hub은 AIH(자가면역간염-*)와 PBC를 함께 포함
+    if slug.startswith("자가면역간염-") or slug.startswith("PBC-") or slug == "PBC":
+        return "detail:자가면역간질환"
     # Section hubs
     if first in {"updates", "케이스", "CC", "keywords", "소개", "연구"}:
         if len(parts) == 1:
@@ -176,7 +183,7 @@ def render_llms_txt(pages):
         "",
         "> 서울대학교병원 소화기내과·간암센터 신현재 교수의 간질환 가이드와 임상 노트.",
         "> 환자용 가이드와 의료진용 임상 노트를 한 자리에 둡니다.",
-        "> 8 대주제(간암·간경화·B형간염·C형간염·지방간·간수치·자가면역간염·간양성종양)와",
+        "> 8 대주제(간암·간경화·B형간염·C형간염·지방간·간수치·자가면역간질환·간양성종양)와",
         "> 증상별 안내·최신 지견(Updates)·케이스로 구성됩니다.",
         "",
         "본 사이트의 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다.",

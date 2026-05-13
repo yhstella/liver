@@ -24,7 +24,8 @@ from urllib.parse import quote
 ROOT = Path(__file__).resolve().parent.parent
 SITE = "https://drshin.kr"
 
-HUBS_8 = {"간암", "간경화", "B형간염", "C형간염", "지방간", "간수치", "자가면역간염", "간양성종양"}
+HUBS_8 = {"간암", "간경화", "B형간염", "C형간염", "지방간", "간수치", "자가면역간질환", "간양성종양"}
+LEGACY_REDIRECTS = {"자가면역간염"}  # 옛 hub. redirect-only — JSON-LD 주입 안 함.
 SECTION_HUBS = {"updates", "케이스", "CC", "keywords", "소개", "연구"}
 EXCLUDE_DIRS = {".git", ".tools", "node_modules", "assets", "guide", "논문"}
 
@@ -97,11 +98,14 @@ def extract_breadcrumb_hub(html: str) -> tuple[str, str] | None:
     if not m:
         return None
     crumb = m.group(0)
-    # Find last <a href="/.../"> before final span
-    links = re.findall(r'<a href="(/[^"]+/)"[^>]*>([^<]+)</a>', crumb)
-    if len(links) < 2:
+    # Find all internal <a> links (including home href="/")
+    links = re.findall(r'<a href="(/[^"]*)"[^>]*>([^<]+)</a>', crumb)
+    # Exclude home (href="/") from hub candidates
+    hub_links = [(h, n) for (h, n) in links if h != "/"]
+    if not hub_links:
         return None
-    href, name = links[-1]
+    # Last hub link is the immediate parent (hub)
+    href, name = hub_links[-1]
     return name.strip(), SITE + href
 
 
@@ -142,6 +146,9 @@ def is_detail_page(rel_dir: Path) -> bool:
         return False
     # Section hubs themselves — skip
     if len(parts) == 1 and first in SECTION_HUBS:
+        return False
+    # Legacy hub redirects — skip
+    if len(parts) == 1 and first in LEGACY_REDIRECTS:
         return False
     # Section sub pages: include (CC/X, updates/X, 케이스/X)
     if first in SECTION_HUBS:

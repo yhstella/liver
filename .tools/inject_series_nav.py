@@ -12,7 +12,7 @@ from urllib.parse import quote
 
 ROOT = Path(__file__).resolve().parent.parent
 EXCLUDE = {
-    '간암','간경화','B형간염','지방간','간수치','C형간염','자가면역간염','간양성종양',
+    '간암','간경화','B형간염','지방간','간수치','C형간염','자가면역간질환','간양성종양',
     '케이스','CC','updates','keywords','assets','guide','소개','연구','논문','search',
     '.tools','.git','.github','private-figures','node_modules',
 }

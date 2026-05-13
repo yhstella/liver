@@ -14,7 +14,7 @@ ROOT = Path(__file__).resolve().parent.parent
 DISC_DETAIL = '<p class="disclaimer">본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.</p>'
 DISC_CASE = '<p class="disclaimer" style="margin-top:48px">본 케이스의 환자 정보는 식별을 위해 모두 변경되었으며, 임상 결정은 표준 가이드라인의 한 예시일 뿐 개별 환자에게 그대로 적용되지 않습니다.</p>'
 
-HUB_DIRS = {'간암','간경화','B형간염','지방간','간수치','C형간염','자가면역간염','간양성종양','케이스','CC','updates','keywords','assets','guide','소개','연구','논문','search','.tools','.git','.github','private-figures','node_modules'}
+HUB_DIRS = {'간암','간경화','B형간염','지방간','간수치','C형간염','자가면역간질환','간양성종양','케이스','CC','updates','keywords','assets','guide','소개','연구','논문','search','.tools','.git','.github','private-figures','node_modules'}
 
 
 def detail_pages():

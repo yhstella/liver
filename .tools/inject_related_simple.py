@@ -16,9 +16,9 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 random.seed(42)  # 결정론적 출력
 
-HUB_DIRS = {'간암','간경화','B형간염','지방간','간수치','C형간염','자가면역간염','간양성종양','케이스','CC','updates','keywords','assets','guide','소개','연구','논문','search','.tools','.git','.github','private-figures','node_modules'}
+HUB_DIRS = {'간암','간경화','B형간염','지방간','간수치','C형간염','자가면역간질환','간양성종양','케이스','CC','updates','keywords','assets','guide','소개','연구','논문','search','.tools','.git','.github','private-figures','node_modules'}
 HUB_BY_HREF = {'/간암/': '간암', '/간경화/': '간경화', '/B형간염/': 'B형간염', '/지방간/': '지방간',
-               '/간수치/': '간수치', '/C형간염/': 'C형간염', '/자가면역간염/': '자가면역간염', '/간양성종양/': '간양성종양'}
+               '/간수치/': '간수치', '/C형간염/': 'C형간염', '/자가면역간질환/': '자가면역간질환', '/간양성종양/': '간양성종양'}
 
 CRUMB_RE = re.compile(r'<nav class="crumb">.*?<a href="(/[^/]+/)"[^>]*>[^<]*</a>', re.DOTALL)
 H1_RE = re.compile(r'<h1[^>]*>([^<]+)</h1>')

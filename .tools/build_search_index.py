@@ -19,8 +19,9 @@ from html import unescape
 
 ROOT = Path(__file__).resolve().parent.parent
 
-HUB_SLUGS = {'간암','간경화','B형간염','지방간','간수치','C형간염','자가면역간염','간양성종양'}
+HUB_SLUGS = {'간암','간경화','B형간염','지방간','간수치','C형간염','자가면역간질환','간양성종양'}
 SKIP_DIRS = {'.git','.tools','node_modules','private-figures','assets','guide','search'}
+LEGACY_REDIRECTS = {'자가면역간염'}  # search index에서 제외
 
 H1_RE = re.compile(r'<h1[^>]*>(.+?)</h1>', re.DOTALL)
 CRUMB_LABEL_RE = re.compile(r'<nav class="crumb">.*?›\s*<span>([^<]+)</span>', re.DOTALL)
@@ -75,6 +76,10 @@ def main():
         if any(part in SKIP_DIRS for part in p.relative_to(ROOT).parts[:-1]):
             continue
         if any(part.startswith('.') for part in p.relative_to(ROOT).parts):
+            continue
+        # legacy redirect 페이지는 search index에서 제외
+        rel_parts = p.relative_to(ROOT).parts
+        if len(rel_parts) == 2 and rel_parts[0] in LEGACY_REDIRECTS:
             continue
         txt = p.read_text(encoding='utf-8')
         cat = categorize(p)
