@@ -1,26 +1,30 @@
 """Build 작성일 (publish dates) for all 세부주제/사례/최신지견 pages + add 최근 작성글 box to main index.
 
-- Date range: 2025-01-01 to 2026-05-10 (random per page, deterministic seeded by slug)
+- 기존 페이지: article:published_time 메타가 있으면 그것을 사용
+- 신규 페이지 (article:published_time 없음): TODAY 사용
+  → 새 글 작성 시 자동으로 홈 '최근 작성글' 상단에 올라감
 - Updates pages: 작성일 must be after paper publication year (parsed from slug suffix)
 - Updates published_time meta + JSON-LD datePublished + visible 작성일 markup
-- Main index.html gets top-5 recent posts box with 'New' badges (top 2)
+- Main index.html gets top-5 recent posts box with 'New' badges (top 2, dynamic by JS)
+
+레거시: 한 번 backfill로 채워진 page는 article:published_time이 이미 있으므로 안정.
 """
 import os
 import re
 import json
-import random
 import hashlib
 from datetime import date, timedelta
 from pathlib import Path
 
-ROOT = Path(r"C:\Users\R\Dropbox\drshin.kr")
+ROOT = Path(__file__).resolve().parent.parent
 
-START = date(2025, 1, 1)
-END = date(2026, 5, 10)
+# 신규 페이지 fallback 날짜 — 스크립트 실행 시점의 오늘
+TODAY = date.today()
 
 HUB_SLUGS = {
     "간암", "간경화", "B형간염", "지방간", "간수치",
     "C형간염", "자가면역간질환", "간양성종양",
+    "자가면역간염",  # legacy redirect — '최근 작성글'에 노출 금지
     "CC", "케이스", "updates", "keywords", "guide",
     "소개", "논문", "연구",
     "assets", "private-figures", "tag", ".tools", ".git",
@@ -32,27 +36,6 @@ CATEGORY_HREF_PREFIX = {
     "사례": "/케이스/{slug}/",
     "최신지견": "/updates/{slug}/",
 }
-
-
-def page_seed(slug):
-    return int(hashlib.md5(slug.encode("utf-8")).hexdigest()[:8], 16)
-
-
-def random_date(slug, min_date=START, max_date=END):
-    rng = random.Random(page_seed(slug))
-    span = max(0, (max_date - min_date).days)
-    return min_date + timedelta(days=rng.randint(0, span))
-
-
-def updates_min_date(slug):
-    """For updates pages, constrain 작성일 >= paper year (Jan 1)."""
-    m = re.search(r"-(\d{4})$", slug)
-    if not m:
-        return START
-    year = int(m.group(1))
-    if year < 2025:
-        return START
-    return date(min(year, END.year), 1, 1)
 
 
 def korean_date(d):
@@ -301,7 +284,7 @@ def main():
         print(f"  {k}: {v}")
 
     # Inject dates — 기존 article:published_time이 있으면 그것을 사용,
-    # 없으면(신규 페이지일 가능성 등) random_date 생성·삽입.
+    # 없으면 (신규 페이지) TODAY로 자동 설정 → 홈 '최근 작성글' 상단에 자동 노출.
     results = []
     new_dates_assigned = 0
     for cat, slug, path in pages:
@@ -313,12 +296,12 @@ def main():
             if 'class="publish-date"' not in text:
                 inject_date(path, d)
         else:
-            min_d = updates_min_date(slug) if cat == "최신지견" else START
-            d = random_date(slug, min_date=min_d, max_date=END)
+            d = TODAY  # 신규 페이지: 오늘 날짜 자동 부여
             inject_date(path, d)
             new_dates_assigned += 1
+            print(f"  [NEW] {cat}/{slug} → {d} (today)")
         results.append((cat, slug, path, d))
-    print(f"  (new dates assigned to {new_dates_assigned} pages without prior date)")
+    print(f"  ({new_dates_assigned} pages newly tagged with today's date)")
 
     # Top 5 by date desc (with title)
     results.sort(key=lambda x: x[3], reverse=True)
