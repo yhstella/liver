@@ -264,6 +264,27 @@ def update_css():
     css_path.write_text(css, encoding="utf-8")
 
 
+EXISTING_DATE_RE = re.compile(
+    r'<meta property="article:published_time" content="(\d{4}-\d{2}-\d{2})'
+)
+
+
+def read_existing_date(html_path):
+    """기존 article:published_time 값을 date로 반환 (없으면 None)."""
+    try:
+        text = html_path.read_text(encoding="utf-8")
+    except Exception:
+        return None
+    m = EXISTING_DATE_RE.search(text)
+    if not m:
+        return None
+    try:
+        y, mo, d = m.group(1).split("-")
+        return date(int(y), int(mo), int(d))
+    except Exception:
+        return None
+
+
 def main():
     pages = collect_pages()
     print(f"Total pages found: {len(pages)}")
@@ -273,13 +294,25 @@ def main():
     for k, v in sorted(by_cat.items()):
         print(f"  {k}: {v}")
 
-    # Inject dates
+    # Inject dates — 기존 article:published_time이 있으면 그것을 사용,
+    # 없으면(신규 페이지일 가능성 등) random_date 생성·삽입.
     results = []
+    new_dates_assigned = 0
     for cat, slug, path in pages:
-        min_d = updates_min_date(slug) if cat == "최신지견" else START
-        d = random_date(slug, min_date=min_d, max_date=END)
-        inject_date(path, d)
+        existing = read_existing_date(path)
+        if existing is not None:
+            d = existing
+            # 기존 publish-date <p> visible markup이 없으면 보강 (idempotent)
+            text = path.read_text(encoding="utf-8")
+            if 'class="publish-date"' not in text:
+                inject_date(path, d)
+        else:
+            min_d = updates_min_date(slug) if cat == "최신지견" else START
+            d = random_date(slug, min_date=min_d, max_date=END)
+            inject_date(path, d)
+            new_dates_assigned += 1
         results.append((cat, slug, path, d))
+    print(f"  (new dates assigned to {new_dates_assigned} pages without prior date)")
 
     # Top 5 by date desc (with title)
     results.sort(key=lambda x: x[3], reverse=True)
@@ -291,7 +324,12 @@ def main():
     print("\nTop 5 most recent:")
     for i, (cat, slug, title, d) in enumerate(top5):
         marker = "[NEW]" if i < 2 else "     "
-        print(f"  {marker} {d} | {cat:8s} | {title}")
+        try:
+            print(f"  {marker} {d} | {cat:8s} | {title}")
+        except UnicodeEncodeError:
+            # cp949 콘솔에서 em-dash 등 unicode 문자 fallback
+            safe = title.encode('cp949', errors='replace').decode('cp949')
+            print(f"  {marker} {d} | {cat:8s} | {safe}")
 
     # Update main index + CSS
     update_main_index(top5)
