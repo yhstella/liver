@@ -3557,7 +3557,7 @@ SOF/VEL/VOX = sofosbuvir/velpatasvir/voxilaprevir, GLE/PIB = glecaprevir/pibrent
 
 ## References
 
-AASLD-IDSA HCV Guidance: retreatment.
+Bhattacharya D, Aronsohn A, Price J, Lo Re V, et al. Hepatitis C Guidance 2023 Update: AASLD-IDSA Recommendations for Testing, Managing, and Treating Hepatitis C Virus Infection. Clin Infect Dis. 2023. (재치료 — Sofosbuvir/Velpatasvir/Voxilaprevir 12주 권고)
 
 Bourliere M, et al. Sofosbuvir-velpatasvir-voxilaprevir for previously treated HCV (POLARIS-1, -4). NEJM 2017.
 
@@ -3617,7 +3617,9 @@ HIV·HCV 모두 RNA 음성이 가능한가요?두 바이러스의 "음성"은 �
 
 ## References
 
-AASLD-IDSA HCV Guidance: HIV/HCV coinfection.
+Bhattacharya D, Aronsohn A, Price J, Lo Re V, et al. Hepatitis C Guidance 2023 Update: AASLD-IDSA Recommendations for Testing, Managing, and Treating Hepatitis C Virus Infection. Clin Infect Dis. 2023.
+
+IDSA. Guidelines for the Prevention and Treatment of Opportunistic Infections in Adults and Adolescents With HIV. 2025 update.
 
 Sulkowski MS. Outcomes for patients coinfected with HCV and HIV. NEJM 2014.
 
@@ -3673,7 +3675,7 @@ DAA 치료 중 신기능이 변하나요?DAA 자체로 인한 신기능 악화�
 
 ## References
 
-AASLD-IDSA HCV Guidance: HCV in patients with renal impairment.
+Bhattacharya D, Aronsohn A, Price J, Lo Re V, et al. Hepatitis C Guidance 2023 Update: AASLD-IDSA Recommendations for Testing, Managing, and Treating Hepatitis C Virus Infection. Clin Infect Dis. 2023. (Glecaprevir/Pibrentasvir 모든 신기능·투석 환자 가능, Sofosbuvir/Velpatasvir도 모든 단계 승인)
 
 Gane EJ, et al. Glecaprevir/pibrentasvir in patients with HCV and severe renal impairment (EXPEDITION-4). NEJM 2017.
 
@@ -3764,13 +3766,33 @@ _C형간염 직접 작용 항바이러스제(DAA) 마비렛·엡클루사 치료
  SVR12 확인 후 C형간염 바이러스는 사라집니다. 그러나 C형간염으로 이미 간에 손상이 생긴 경우에는 다음이 필요합니다.
 
  
- 간경변이 있는 경우: 완치 후에도 6개월마다 간암 검진(초음파+알파태아단백(AFP)) 지속
+ 간경변이 있는 경우: 완치 후에도 6개월마다 간암 검진(초음파+알파태아단백(AFP)) 지속, 식도정맥류 추적 위해 2~3년마다 위내시경
 
  간경변이 없는 경우: 완치 후 위험도가 크게 낮아지지만 5년간 경과 관찰 권고
 
  음주, 비만 관리로 간 건강 유지
 
  
+
+ 
+
+## SVR 달성이 가져오는 이득
+
+ SVR12 달성은 바이러스 박멸 그 자체 외에도 임상 결과를 의미 있게 개선합니다 (AASLD-IDSA 2023 update).
+
+ 
+ 전체 사망률 약 57% 감소
+
+ 간세포암 발생률 약 52% 감소
+
+ 당뇨·만성콩팥병·심혈관 질환 위험 감소
+
+ 크리오글로불린혈증 등 간외 증상 호전 (간외 증상은 환자의 약 74%에서 동반 가능)
+
+ 삶의 질·근로 생산성 개선
+
+ 
+ "DAA 완치 = 바이러스 음성"에서 그치지 않고, 장기 합병증 발생률 자체를 낮춥니다. 그래서 KASL·AASLD-IDSA 모두 진단된 모든 C형간염 환자에게 보편 치료를 권장합니다.
 
  
 
@@ -3787,6 +3809,8 @@ C형간염 치료 받으면 부작용은 어떤가요?DAA는 인터페론 시대
 C형간염 백신은 없나요?2026년 현재 C형간염 예방 백신은 없습니다. HCV는 RNA 바이러스로 변이가 빠르고 6개 주요 유전자형이 있어 백신 개발이 어렵습니다. 여러 임상시험이 진행 중이지만 임상 적용까지는 시간이 더 필요합니다. 따라서 예방은 노출 회피에 의존: 안전한 의료 시술(소독 철저), 주삿바늘·문신·피어싱 도구 공유 금지, 면도기·칫솔 공유 금지, 안전한 성행위(콘돔), 헌혈자 검사로 수혈 안전성 확보. 다행히 DAA로 완치가 가능해져 "감염 → 완치" 사이클이 짧아졌고 국내에서 신규 감염은 의미 있게 감소. 위험 행위 후 또는 의심 노출 시 즉시 검사·평가가 권장됩니다.
 
 ## References
+
+Bhattacharya D, Aronsohn A, Price J, Lo Re V, et al. Hepatitis C Guidance 2023 Update: AASLD-IDSA Recommendations for Testing, Managing, and Treating Hepatitis C Virus Infection. Clin Infect Dis. 2023.
 
 AASLD-IDSA HCV Guidance Panel. Hepatitis C Guidance 2018 Update: AASLD-IDSA Recommendations for Testing, Managing, and Treating Hepatitis C Virus Infection. Clin Infect Dis. 2018;67(10):1477–1492. DOI · PMID 30215672
 
@@ -3930,6 +3954,8 @@ Kanwal F, et al. Risk of HCC after SVR with DAA therapy. Gastroenterology 2017;1
 
 EASL Recommendations on Treatment of Hepatitis C. J Hepatol 2020;73:1170-1218.
 
+Bhattacharya D, Aronsohn A, Price J, Lo Re V, et al. Hepatitis C Guidance 2023 Update: AASLD-IDSA Recommendations for Testing, Managing, and Treating Hepatitis C Virus Infection. Clin Infect Dis. 2023. (SVR 후 보상성 간경변 환자에서 식도정맥류 추적을 위해 위내시경 2~3년 간격, 6개월 초음파+AFP 평생 권고)
+
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
 C형간염DAA검진간세포암간경변
@@ -3990,7 +4016,7 @@ DAA로 완치된 후 임신해도 되나요?SVR12(치료 종료 12주 후 RNA �
 
 ## References
 
-AASLD-IDSA HCV Guidance: pregnancy.
+Bhattacharya D, Aronsohn A, Price J, Lo Re V, et al. Hepatitis C Guidance 2023 Update: AASLD-IDSA Recommendations for Testing, Managing, and Treating Hepatitis C Virus Infection. Clin Infect Dis. 2023. (매 임신마다 anti-HCV 선별검사 권고)
 
 Hughes BL, et al. Hepatitis C in pregnancy. Obstet Gynecol 2017.
 
@@ -4050,7 +4076,7 @@ DAA로 완치 후 헌혈할 수 있나요?국내에서는 anti-HCV 양성 이력
 
 ## References
 
-AASLD-IDSA HCV Guidance.
+Bhattacharya D, Aronsohn A, Price J, Lo Re V, et al. Hepatitis C Guidance 2023 Update: AASLD-IDSA Recommendations for Testing, Managing, and Treating Hepatitis C Virus Infection. Clin Infect Dis. 2023.
 
 Midgard H, et al. HCV reinfection rates after successful treatment. J Hepatol 2016.
 
@@ -4089,6 +4115,8 @@ HCV RNA (PCR) 검사 활동성 감염의 결정적 지표
 만성 감염 — 치료 평가 Genotype + Fibroscan + HBV/HIV 평가 → DAA 8-12주자연회복 또는 과거 치료 완치 추가 치료 불필요. 위험 행동 지속 시 재감염 가능
 
 ## 국내에서 누가 anti-HCV를 검사받게 되는가
+
+해외 가이드라인(USPSTF 2020, CDC 2020, AASLD-IDSA 2023)은 18세 이상 모든 성인에게 평생 1회 보편 선별검사를 권장합니다. 위험 노출이 지속되는 경우 정기 재검도 포함됩니다. 임신 중에도 매 임신마다 anti-HCV 검사가 권고됩니다.
 
 한국은 2025년부터 56세·66세에 일회성 anti-HCV 검사를 국가검진에 추가했습니다. 이 변경 이후 50대 후반에서 우연 발견이 크게 늘고 있습니다. 검진 대상이 아니어도 다음 항목 중 해당이 있으면 한 번은 검사해 보시는 게 좋습니다.
 
@@ -4215,13 +4243,15 @@ DAA 치료 중 술은 절대 마시면 안 되나요?치료 중 금주를 강하
 
 ## References
 
-AASLD-IDSA HCV Guidance Panel. Hepatitis C Guidance: Recommendations for Testing, Managing, and Treating Hepatitis C. 최신 업데이트 — hcvguidelines.org
+Bhattacharya D, Aronsohn A, Price J, Lo Re V, et al. Hepatitis C Guidance 2023 Update: AASLD-IDSA Recommendations for Testing, Managing, and Treating Hepatitis C Virus Infection. Clin Infect Dis. 2023. hcvguidelines.org
+
+US Preventive Services Task Force. Screening for Hepatitis C Virus Infection in Adolescents and Adults: Recommendation Statement. JAMA. 2020;323(10):970–975.
+
+Schillie S, Wester C, Osborne M, et al. CDC Recommendations for Hepatitis C Screening Among Adults — United States, 2020. MMWR Recomm Rep. 2020;69(2):1–17.
 
 대한간학회. C형간염 진료 가이드라인. Clin Mol Hepatol 최신판.
 
 EASL Recommendations on Treatment of Hepatitis C. J Hepatol 2020;73:1170-1218.
-
-Lim YS, et al. Universal anti-HCV screening and the cost-effectiveness in Korea. Korean J Intern Med (관련 한국 데이터).
 
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
