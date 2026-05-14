@@ -688,6 +688,12 @@ Wedemeyer H, et al. A phase 3, randomized trial of bulevirtide in chronic hepati
 
 Negro F. Hepatitis D virus coinfection and superinfection. Cold Spring Harb Perspect Med 2014.
 
+Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026.
+
+Jeng WJ, Yip TC, Lok AS. Hepatitis B. JAMA. 2026. (CHB 5 phases 정의·자연사·NA 1차 치료·HCC 감시 종합)
+
+Jeng WJ, Papatheodoridis GV, Lok ASF. Hepatitis B. Lancet. 2023.
+
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
@@ -781,6 +787,12 @@ Yuen MF, Lim SG, Plesniak R, et al. Efficacy and Safety of Bepirovirsen in Chron
 Cornberg M, Lok AS, Terrault NA, Zoulim F; 2019 EASL-AASLD HBV Treatment Endpoints Conference Faculty. Guidance for design and endpoints of clinical trials in chronic hepatitis B - Report from the 2019 EASL-AASLD HBV Treatment Endpoints Conference. J Hepatol. 2020;72(3):539-557. DOI · PMID 31730789
 
 Korean Association for the Study of the Liver (KASL). KASL clinical practice guidelines for management of chronic hepatitis B. Clin Mol Hepatol. 2022;28(2):276-331. DOI
+
+Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026.
+
+Jeng WJ, Yip TC, Lok AS. Hepatitis B. JAMA. 2026. (CHB 5 phases 정의·자연사·NA 1차 치료·HCC 감시 종합)
+
+Jeng WJ, Papatheodoridis GV, Lok ASF. Hepatitis B. Lancet. 2023.
 
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
@@ -959,6 +971,12 @@ Occult HBV 환자도 평생 항바이러스제를 먹어야 하나요?아닙니�
 Raimondo G, et al. Update of the statement on occult hepatitis B virus infection. J Hepatol 2019.
 
 Hwang JP, et al. Hepatitis B virus screening for patients with cancer before therapy: ASCO Provisional Clinical Opinion update. J Clin Oncol 2020.
+
+Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026.
+
+Jeng WJ, Yip TC, Lok AS. Hepatitis B. JAMA. 2026. (CHB 5 phases 정의·자연사·NA 1차 치료·HCC 감시 종합)
+
+Jeng WJ, Papatheodoridis GV, Lok ASF. Hepatitis B. Lancet. 2023.
 
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
@@ -1284,6 +1302,12 @@ Terrault NA, Lok ASF, McMahon BJ, et al. AASLD 2018 hepatitis B guidance. Hepato
 European Association for the Study of the Liver. EASL 2017 Clinical Practice Guidelines on the management of hepatitis B. J Hepatol. 2017;67(2):370–398. DOI
 
 Liaw YF, Chu CM. Hepatitis B virus infection. Lancet. 2009;373(9663):582–592. DOI · PMID 19217993
+
+Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026.
+
+Jeng WJ, Yip TC, Lok AS. Hepatitis B. JAMA. 2026. (CHB 5 phases 정의·자연사·NA 1차 치료·HCC 감시 종합)
+
+Jeng WJ, Papatheodoridis GV, Lok ASF. Hepatitis B. Lancet. 2023.
 
 의학적 고지: 이 글은 일반적인 의학 정보 제공을 목적으로 하며, 개인별 진료·처방을 대체하지 않습니다. 검사 결과 해석은 반드시 담당 의사와 함께 하십시오.
 
@@ -1651,6 +1675,12 @@ European Association for the Study of the Liver. EASL 2017 Clinical Practice Gui
 
 Bruce MG, Bruden D, Hurlburt D, et al. Antibody Levels and Protection After Hepatitis B Vaccine: Results of a 30-Year Follow-up Study and Response to a Booster Dose. J Infect Dis. 2016;214(1):16–22. DOI · PMID 26802139
 
+Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026.
+
+Jeng WJ, Yip TC, Lok AS. Hepatitis B. JAMA. 2026. (CHB 5 phases 정의·자연사·NA 1차 치료·HCC 감시 종합)
+
+Jeng WJ, Papatheodoridis GV, Lok ASF. Hepatitis B. Lancet. 2023.
+
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
 백신B형간염anti-HBs가족검사HBsAg
@@ -1713,6 +1743,12 @@ KASL Korean Pediatric Hepatology Guideline.
 
 Sokal EM, et al. Management of chronic hepatitis B in childhood. J Hepatol 2013.
 
+Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026.
+
+Jeng WJ, Yip TC, Lok AS. Hepatitis B. JAMA. 2026. (CHB 5 phases 정의·자연사·NA 1차 치료·HCC 감시 종합)
+
+Jeng WJ, Papatheodoridis GV, Lok ASF. Hepatitis B. Lancet. 2023.
+
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
@@ -1762,6 +1798,12 @@ Hwang JP, et al. Hepatitis B virus screening before therapy: ASCO update. J Clin
 
 Loomba R, Liang TJ. Hepatitis B reactivation associated with immune suppressive and biological modifier therapies. Gastroenterology 2017.
 
+Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026.
+
+Jeng WJ, Yip TC, Lok AS. Hepatitis B. JAMA. 2026. (CHB 5 phases 정의·자연사·NA 1차 치료·HCC 감시 종합)
+
+Jeng WJ, Papatheodoridis GV, Lok ASF. Hepatitis B. Lancet. 2023.
+
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
@@ -1807,6 +1849,12 @@ CrCl이 50인데 TDF에서 TAF로 바꿔야 하나요?CrCl 50 mL/min은 신기�
 KASL 만성 B형간염 가이드라인.
 
 Marcellin P, et al. Tenofovir alafenamide versus tenofovir disoproxil fumarate in chronic HBV. Lancet Gastroenterol Hepatol 2016.
+
+Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026.
+
+Jeng WJ, Yip TC, Lok AS. Hepatitis B. JAMA. 2026. (CHB 5 phases 정의·자연사·NA 1차 치료·HCC 감시 종합)
+
+Jeng WJ, Papatheodoridis GV, Lok ASF. Hepatitis B. Lancet. 2023.
 
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
@@ -1926,6 +1974,12 @@ Korean Association for the Study of the Liver (KASL). KASL clinical practice gui
 Hwang JP, Feld JJ, Hammond SP, et al. Hepatitis B Virus Screening and Management for Patients With Cancer Prior to Therapy: ASCO Provisional Clinical Opinion Update. J Clin Oncol. 2020;38(31):3698-3715. DOI · PMID 32716741
 
 Loomba R, Liang TJ. Hepatitis B Reactivation Associated With Immune Suppressive and Biological Modifier Therapies: Current Concepts, Management Strategies, and Future Directions. Gastroenterology. 2017;152(6):1297-1309. DOI · PMID 28219691
+
+Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026.
+
+Jeng WJ, Yip TC, Lok AS. Hepatitis B. JAMA. 2026. (CHB 5 phases 정의·자연사·NA 1차 치료·HCC 감시 종합)
+
+Jeng WJ, Papatheodoridis GV, Lok ASF. Hepatitis B. Lancet. 2023.
 
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
@@ -9038,6 +9092,12 @@ Schillie S, Vellozzi C, Reingold A, et al. Prevention of Hepatitis B Virus Infec
 Korean Association for the Study of the Liver (KASL). KASL clinical practice guidelines for management of chronic hepatitis B. Clin Mol Hepatol. 2022;28(2):276–331. DOI
 
 Terrault NA, Lok ASF, McMahon BJ, et al. AASLD 2018 hepatitis B guidance. Hepatology. 2018;67(4):1560–1599. DOI · PMID 29405329
+
+Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026.
+
+Jeng WJ, Yip TC, Lok AS. Hepatitis B. JAMA. 2026. (CHB 5 phases 정의·자연사·NA 1차 치료·HCC 감시 종합)
+
+Jeng WJ, Papatheodoridis GV, Lok ASF. Hepatitis B. Lancet. 2023.
 
 의학적 고지: 이 글은 일반적인 의학 정보 제공을 목적으로 하며, 개인별 진료·처방을 대체하지 않습니다. 노출 후 예방 처치는 즉시 의료기관을 방문하십시오.
 
