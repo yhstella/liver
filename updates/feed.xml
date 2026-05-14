@@ -4,11 +4,19 @@
   <link href="https://drshin.kr/updates/" rel="alternate" type="text/html"/>
   <link href="https://drshin.kr/updates/feed.xml" rel="self" type="application/atom+xml"/>
   <id>https://drshin.kr/updates/</id>
-  <updated>2026-05-14T02:43:57.389034+00:00</updated>
+  <updated>2026-05-14T09:18:13.295002+00:00</updated>
   <subtitle>주요 저널의 hepatology 최신 논문 요약 — 신현재(서울대학교병원 소화기내과·간암센터)</subtitle>
   <author><name>신현재</name><uri>https://drshin.kr/소개/</uri></author>
   <generator>build_updates_rss.py</generator>
   <icon>https://drshin.kr/favicon.png</icon>
+  <entry>
+    <title>TDF for HBV in pregnancy</title>
+    <link href="https://drshin.kr/updates/Pan-TDF-pregnancy-HBV-NEJM-2016/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/Pan-TDF-pregnancy-HBV-NEJM-2016/</id>
+    <updated>2026-05-14T11:43:31+09:00</updated>
+    <summary>Pan CQ et al. NEJM 2016. RCT, 200명 HBV DNA 고농도 임산부, 임신 30주부터 TDF가 영아 HBV 감염을 0%로 감소시킨 결정적 시험.</summary>
+    <author><name>신현재</name></author>
+  </entry>
   <entry>
     <title>HIMALAYA</title>
     <link href="https://drshin.kr/updates/HIMALAYA-durvalumab-tremelimumab-NEJM-Evid-2022/" rel="alternate" type="text/html"/>
@@ -47,14 +55,6 @@
     <id>https://drshin.kr/updates/Newsome-semaglutide-NASH-NEJM-2021/</id>
     <updated>2026-05-14T10:55:45+09:00</updated>
     <summary>Newsome PN et al. NEJM 2021. Phase 2 RCT, 320명 NASH 환자, semaglutide 0.4 mg 매일이 NASH 해결 59% vs placebo 17% - GLP-1 작용제 MASH 효과의 결정적 첫 RCT.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>TDF for HBV in pregnancy</title>
-    <link href="https://drshin.kr/updates/Pan-TDF-pregnancy-HBV-NEJM-2016/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/Pan-TDF-pregnancy-HBV-NEJM-2016/</id>
-    <updated>2026-05-14T10:55:45+09:00</updated>
-    <summary>Pan CQ et al. NEJM 2016. RCT, 200명 HBV DNA 고농도 임산부, 임신 30주부터 TDF가 영아 HBV 감염을 0%로 감소시킨 결정적 시험.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>

@@ -884,6 +884,8 @@ Korean Association for the Study of the Liver (KASL). KASL clinical practice gui
 
 Terrault NA, Lok ASF, McMahon BJ, et al. Update on prevention, diagnosis, and treatment of chronic hepatitis B: AASLD 2018 hepatitis B guidance. Hepatology. 2018;67(4):1560-1599. DOI · PMID 29405329
 
+Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026.
+
 European Association for the Study of the Liver. EASL 2017 Clinical Practice Guidelines on the management of hepatitis B virus infection. J Hepatol. 2017;67(2):370-398. DOI
 
 Funk ML, Rosenberg DM, Lok AS. World-wide epidemiology of HBeAg-negative chronic hepatitis B and associated precore and core promoter variants. J Viral Hepat. 2002;9(1):52-61. DOI · PMID 11851903
@@ -1013,7 +1015,23 @@ PIVKA-IIAFP와 보완와파린 복용 시 위양성
  PIVKA-II (DCP)AFP와 상호 보완, AFP 음성 HCC에서 양성 가능비타민 K 결핍 등에서 위양성 가능
  
  
- 대한간학회(대한간학회(KASL))와 대한간암학회(KLCA) 가이드라인은 B형간염 보균자와 간경변 환자에게 6개월마다 복부초음파와 AFP를 권고합니다. PIVKA-II는 AFP와 보완적으로 사용하면 검진 민감도를 높일 수 있습니다.
+ 대한간학회(KASL)와 대한간암학회(KLCA) 가이드라인은 B형간염 보균자와 간경변 환자에게 6개월마다 복부초음파와 AFP를 권고합니다. PIVKA-II는 AFP와 보완적으로 사용하면 검진 민감도를 높일 수 있습니다.
+
+ AGA 2026 임상 update (Rich et al., Gastroenterology)에 따르면 초음파 + AFP 조합의 간암 검출 민감도는 약 63%로, 초음파 단독(약 51%)보다 의미 있게 높습니다. 초음파 가시성이 떨어지거나 결절이 의심되면 동적 CT 또는 MRI로 대체·보완합니다.
+
+## 간경변 없는 B형간염에서의 검진 시작
+
+간경변이 없어도 B형간염은 그 자체로 간암의 독립 위험인자이기 때문에 다음 그룹에서 정기 감시가 권장됩니다 (AASLD 2023 HCC 가이드, AASLD 2026 HBV 가이드 갱신 반영).
+
+ 풍토 지역(아시아·서태평양) 출신 만성 B형간염 남성 40세 이상 또는 여성 50세 이상
+
+ 아프리카·하위 사하라 출신은 더 이른 나이부터 시작
+
+ 간세포암 1촌 가족력 동반
+
+ PAGE-B 점수 ≥ 10 — 나이·성별·혈소판으로 계산하는 간세포암 위험 점수. 10점 이상이면 간경변이 없어도 정기 감시군에 포함
+
+한국인은 풍토 지역 분포에 해당하며 KASL·KLCA-NCC 권고도 동일한 기조입니다. 외래에서는 위 기준에 본인 위험 인자(B형간염 바이러스(HBV) DNA 수준, ALT, HBeAg, 음주, 대사 위험, 가족력)를 종합해 시작 시점·주기를 정합니다.
 
 ## 초음파의 한계: 이런 경우 CT·MRI를 고려합니다
 
@@ -1097,6 +1115,12 @@ Singal AG, Llovet JM, Yarchoan M, et al. AASLD Practice Guidance on prevention, 
 Korean Association for the Study of the Liver (KASL). KASL clinical practice guidelines for management of chronic hepatitis B. Clin Mol Hepatol. 2022;28(2):276–331. DOI
 
 Park JW, Chen M, Colombo M, et al. Global patterns of hepatocellular carcinoma management from diagnosis to death: the BRIDGE Study. Liver Int. 2015;35(9):2155–2166. DOI · PMID 25752327
+
+Rich NE, Villanueva A, Marrero JA, Kanwal F. AGA Clinical Practice Update on Risk Stratification and Emerging Surveillance Strategies for Hepatocellular Carcinoma: Expert Review. Gastroenterology. 2026.
+
+Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026.
+
+Papatheodoridis G, Dalekos G, Sypsa V, et al. PAGE-B predicts the risk of developing hepatocellular carcinoma in Caucasians with chronic hepatitis B on 5-year antiviral therapy. J Hepatol. 2016;64(4):800–806. DOI · PMID 26678008
 
 의학적 고지: 이 글은 일반적인 의학 정보 제공을 목적으로 하며, 개인별 진료·처방을 대체하지 않습니다. 검진 일정과 항목은 담당 의사와 함께 결정하십시오.
 
@@ -1503,6 +1527,8 @@ Korean Association for the Study of the Liver (KASL). KASL clinical practice gui
 Brown RS Jr, McMahon BJ, Lok AS, et al. Antiviral therapy in chronic hepatitis B viral infection during pregnancy: A systematic review and meta-analysis. Hepatology. 2016;63(1):319–333. DOI · PMID 26565396
 
 Terrault NA, Lok ASF, McMahon BJ, et al. AASLD 2018 hepatitis B guidance. Hepatology. 2018;67(4):1560–1599. DOI · PMID 29405329
+
+Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026.
 
 의학적 고지: 이 글은 일반적인 의학 정보 제공을 목적으로 하며, 개인별 진료·처방을 대체하지 않습니다. 임신·분만 중 약물 사용과 관리 계획은 반드시 담당 의사와 상의하십시오.
 
@@ -2040,6 +2066,8 @@ European Association for the Study of the Liver. EASL 2017 Clinical Practice Gui
 
 Buti M, Riveiro-Barciela M, Esteban R. Long-term safety and efficacy of nucleos(t)ide analogue therapy in hepatitis B. Liver Int. 2018;38 Suppl 1:84–89. DOI · PMID 29427498
 
+Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026.
+
 의학적 고지: 이 글은 일반적인 의학 정보 제공을 목적으로 하며, 개인별 진료·처방을 대체하지 않습니다. 치료 시작·변경·중단은 반드시 담당 의사와 상의하십시오.
 
  
@@ -2173,6 +2201,8 @@ Chang TT, Liaw YF, Wu SS, et al. Long-term entecavir therapy results in the reve
 Pan CQ, Duan Z, Dai E, et al. Tenofovir to Prevent Hepatitis B Transmission in Mothers with High Viral Load. N Engl J Med. 2016;374(24):2324-2334. DOI · PMID 27305192
 
 Terrault NA, Lok ASF, McMahon BJ, et al. Update on prevention, diagnosis, and treatment of chronic hepatitis B: AASLD 2018 hepatitis B guidance. Hepatology. 2018;67(4):1560-1599. DOI · PMID 29405329
+
+Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026.
 
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
@@ -12773,6 +12803,8 @@ KLCA-NCCModified UCSF + AFP·PIVKA-II 동적 평가~70%국내 LDLT 환경 반영
 
  French AFP score — AFP, 종양 크기, 개수의 통합 점수로 등록 적합성 평가합니다.
 
+ UNOS 정책 (미국, 2017 이후 시행) — Milan 기준 내라도 AFP > 1,000 ng/mL이면 MELD 가산점이 보류되며, 국소치료·다운스테이징 후 AFP가 < 500 ng/mL로 감소해야 가산점이 회복됩니다. 한국 한국 장기이식관리센터(KONOS)는 절대 cutoff은 두지 않지만 다학제에서 AFP 추세와 PIVKA-II를 함께 평가하는 것이 표준입니다.
+
  한국 — 절대 cutoff은 없지만 임상에서 AFP 추세를 다학제적 논의에서 평가합니다. PIVKA-II도 함께.
 
 ## Bridging therapy — 대기 중 종양 진행 막기
@@ -12833,6 +12865,10 @@ Mazzaferro V, Citterio D, Bhoori S, et al. Liver transplantation in hepatocellul
 
 Lee SG. A complete treatment of adult living donor liver transplantation: a review of surgical technique and current updates from 1991 initial experiences. Am J Transplant. 2015;15(1):17–38. DOI · PMID 25358749
 
+Mehta N, Dodge JL, Roberts JP, Yao FY. Validation of the prognostic power of the RETREAT score for hepatocellular carcinoma recurrence using the UNOS database. Am J Transplant. 2018;18(5):1206–1213. DOI · PMID 29068145
+
+Singal AG, Llovet JM, Yarchoan M, et al. AASLD Practice Guidance on prevention, diagnosis, and treatment of hepatocellular carcinoma. Hepatology. 2023;78(6):1922–1965. DOI · PMID 37199193
+
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
 간이식LDLT간세포암다운스테이징Child-Pugh
@@ -12860,14 +12896,27 @@ _진행성 간세포암(BCLC C)의 1차 표준치료로 자리 잡은 면역치�
 객관적 반응률 30% vs 11%
 이 결과로 진행성 간암의 1차가 거의 8년 만에 바뀌었습니다.
 
-요법조합주요 시험특징
+요법조합주요 시험특징·우선 고려
 
-Atezo + BevPD-L1 + VEGFIMbrave1501차 표준, 출혈 위험 평가 필수
-STRIDEDurva + Treme×1HIMALAYA출혈 위험 환자의 대안
-SorafenibTKI(티로신 키나아제 억제제) 단독SHARP면역치료 부적합 시
-LenvatinibTKI 단독REFLECTSorafenib 대안 (TKI)
+Atezo + BevPD-L1 + VEGFIMbrave150가장 오래 검증된 1차. 출혈 위험·정맥류 사전 평가 필수
+STRIDEDurva + Treme×1HIMALAYA출혈 위험·정맥류 동반 환자의 대안, 4년 생존 약 25%
+Ipi + NivoCTLA-4 + PD-1CheckMate 9DW2024년 1차 승인. 첫 6개월 면역 매개 부작용 모니터링 강화 권고
+Tislelizumab 단독PD-1RATIONALE-301Sorafenib 대비 비열등성, 단일 면역제 옵션
+Durvalumab 단독PD-L1HIMALAYASorafenib 대비 비열등, STRIDE보다 부작용 부담 적음
+LenvatinibTKI(티로신 키나아제 억제제)REFLECT면역치료 부적합 환자의 TKI 옵션
+SorafenibTKISHARP면역치료·렌바티닙 부적합 시
 
-진행성 BCLC C 환자의 옵션 — 환자별 동반 질환과 출혈 위험으로 결정
+진행성 BCLC C 환자의 옵션 — 환자별 동반 질환과 출혈 위험으로 결정 (NCCN 2026 기준 모두 Category 1)
+
+## 2024–2026년에 추가된 1차 옵션
+
+NCCN 가이드라인 2026 업데이트로 1차 옵션이 다음과 같이 넓어졌습니다.
+
+ Ipilimumab + Nivolumab (CheckMate 9DW) — 2024년 미국 식품의약국(FDA) 1차 승인. 두 면역제 병용으로 객관적 반응률이 높지만, 첫 6개월 면역 매개 부작용·조기 사망 위험이 보고되어 사전 카운슬링과 강화 모니터링이 필요합니다.
+
+ Tislelizumab 단독 (RATIONALE-301) — Sorafenib 대비 전체 생존에서 비열등성이 입증된 단독 면역치료. 베바시주맙·CTLA-4 추가 부담 없이 단일 약제로 갈 수 있는 옵션입니다.
+
+ Durvalumab 단독 (HIMALAYA 2nd arm) — STRIDE에서 트레멜리무맙 priming을 제외한 단독 PD-L1 차단. Sorafenib 대비 비열등하며 면역 부작용 부담이 STRIDE보다 적어 고령·동반 질환 환자에서 고려됩니다.
 
 ## 두 번째 1차 옵션 — HIMALAYA / STRIDE 요법
 
@@ -12922,7 +12971,7 @@ LenvatinibTKI 단독REFLECTSorafenib 대안 (TKI)
 
  매 3주 IV — Atezolizumab 1200 mg + Bevacizumab 15 mg/kg.
 
- 치료 시작 전 EGD 필수 — 정맥류 평가합니다. 중·대형 정맥류·적색징후 → 결찰술 또는 NSBB로 사전 처치 후 시작합니다. 활동성 정맥류 출혈 6개월 이내는 일반적으로 STRIDE 또는 다른 옵션입니다.
+ 치료 시작 전 6개월 이내 EGD 필수 — 정맥류 평가합니다. 중·대형 정맥류·적색징후 → 결찰술 또는 NSBB로 사전 처치 후 시작합니다. 활동성 정맥류 출혈 6개월 이내는 일반적으로 STRIDE 또는 다른 옵션입니다.
 
  혈압·단백뇨 매 사이클 점검 — 베바시주맙 부작용. 단백뇨 ≥ 2+ 시 24시간 소변 확인, > 2g/일이면 약 보류.
 
@@ -12957,9 +13006,14 @@ LenvatinibTKI 단독REFLECTSorafenib 대안 (TKI)
 
 면역치료 1차에 진행하면 2차로 다음을 고려합니다.
 
-경구 표적 — 소라페닙, 렌바티닙, 카보잔티닙
-다른 면역치료 — pembrolizumab, ramucirumab
-임상시험 — 새 조합·표적
+ 경구 표적 — 카보잔티닙·레고라페닙(Category 1), 소라페닙, 렌바티닙
+
+ VEGFR 표적 — 라무시루맙 (AFP ≥ 400 ng/mL에서 Category 1)
+
+ 분자표적 (드물지만 확인 시 우선) — MSI-H/dMMR이면 도스타리맙, RET 융합이면 셀퍼카티닙, NTRK 융합이면 라로트렉티닙·엔트렉티닙·레포트렉티닙
+
+ 임상시험 — 새 조합·표적
+
 현재 활발한 임상시험: 면역치료 + 국소치료(경동맥화학색전술(TACE)/정위적 체부 방사선치료(SBRT)) 결합, 1차 후 maintenance, 더 일찍 이식·절제와 결합하는 시도. 향후 5년 안에 1차 지형이 또 바뀔 가능성이 큽니다.
 
 ## 자주 묻는 질문
@@ -12985,6 +13039,14 @@ Singal AG, Llovet JM, Yarchoan M, et al. AASLD Practice Guidance on prevention, 
 Korean Liver Cancer Association (KLCA), National Cancer Center (NCC). 2022 KLCA-NCC Korea Practice Guidelines for the Management of Hepatocellular Carcinoma. J Liver Cancer. 2023;23(1):1–120. DOI
 
 Cheng AL, Qin S, Ikeda M, et al. Updated efficacy and safety data from IMbrave150: Atezolizumab plus bevacizumab vs. sorafenib for unresectable hepatocellular carcinoma. J Hepatol. 2022;76(4):862–873. DOI · PMID 34902530
+
+Qin S, Kudo M, Meyer T, et al. Tislelizumab vs Sorafenib as First-Line Treatment for Unresectable Hepatocellular Carcinoma (RATIONALE-301): A Phase 3 Randomized Clinical Trial. JAMA Oncol. 2023;9(12):1651–1659. DOI · PMID 37796520
+
+Galle PR, Decaens T, Kudo M, et al. Nivolumab plus ipilimumab versus lenvatinib or sorafenib as first-line treatment for unresectable hepatocellular carcinoma (CheckMate 9DW). Presented at ESMO Congress 2024 / NCCN HCC Guideline v.2.2026 Category 1 update.
+
+Vogel A, Meyer T, Sapisochin G, Salem R, Saborowski A. Hepatocellular carcinoma. Lancet. 2022;400(10360):1345–1362. DOI
+
+National Comprehensive Cancer Network. Clinical Practice Guidelines in Oncology: Hepatocellular Carcinoma. v.2.2026 (Updated 2026-03-10). NCCN
 
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
@@ -13411,6 +13473,16 @@ SBRT/양성자치료 영역 내 재발, 영역 외 새 결절, 폐 전이동적 
 TARE (Y-90)치료 영역 외 재발, 진행동적 영상, AFP/PIVKA
 간이식간 외 (폐·뼈·림프절·부신), 일부 이식간 내흉부 CT, 골 스캔(증상 시), AFP/PIVKA, 이식간 영상
 면역치료 (BCLC C)간 내·외 진행 동시동적 영상 8~12주 간격, AFP/PIVKA
+
+## 골스캔과 흉부 영상 시행 기준
+
+기본 추적은 동적 CT/MRI + AFP·PIVKA-II이지만, 다음 상황에서는 무증상이라도 골스캔과 흉부 CT를 추가 검토합니다 (AASLD 2023, NCCN HCC 2026).
+
+ 골스캔 — 골격 통증·골절·고칼슘혈증 같은 증상이 있을 때 우선이며, 다음 한 가지라도 있으면 무증상이라도 검토: AFP > 1,000 ng/mL, 거대혈관 침범, 양엽성 다발 종양.
+
+ 흉부 CT — 종양 ≥ 2 cm, 진행 병기, 또는 면역치료·전신치료 중일 때 정기 시행. 단순 흉부 X-ray는 폐 미세전이 발견에 부족합니다.
+
+ 뇌 영상 — 두통·신경 증상·시야 변화 등 의심 증상 동반 시. 무증상 routine은 아니지만 면역치료 중 새 신경 증상은 즉시 평가.
 
 ## 적정 추적 강도 — 위험에 따라 조정
 
