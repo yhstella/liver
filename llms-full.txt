@@ -15143,6 +15143,12 @@ Rinella ME, Neuschwander-Tetri BA, Siddiqui MS, et al. AASLD Practice Guidance o
 
 European Association for the Study of the Liver, et al. EASL-EASD-EASO Clinical Practice Guidelines on the management of MASLD. J Hepatol. 2024;81(3):492–542. DOI
 
+Tilg H, Petta S, Stefan N, Targher G. Metabolic Dysfunction–Associated Steatotic Liver Disease in Adults. JAMA. 2026.
+
+American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만/심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
+
+Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
+
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
 MASLDMASHFibroscanFIB-4식이·운동
@@ -15530,6 +15536,12 @@ Younossi ZM, Koenig AB, Abdelatif D, et al. Global epidemiology of nonalcoholic 
 Rinella ME, Lazarus JV, Ratziu V, et al. A multisociety Delphi consensus statement on new fatty liver disease nomenclature. J Hepatol. 2023;79(6):1542–1556. DOI · PMID 37364790
 
 Eslam M, El-Serag HB, Francque S, et al. Metabolic (dysfunction)-associated fatty liver disease in individuals of normal weight. Nat Rev Gastroenterol Hepatol. 2022;19(10):638–651. DOI · PMID 35710982
+
+Tilg H, Petta S, Stefan N, Targher G. Metabolic Dysfunction–Associated Steatotic Liver Disease in Adults. JAMA. 2026.
+
+American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만/심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
+
+Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
 
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
@@ -17685,6 +17697,12 @@ Wong VW, Wong GL, Yeung DK, et al. Incidence of non-alcoholic fatty liver diseas
 
 Rinella ME, Neuschwander-Tetri BA, Siddiqui MS, et al. AASLD Practice Guidance on the clinical assessment and management of nonalcoholic fatty liver disease. Hepatology. 2023;77(5):1797-1835. DOI · PMID 36727674
 
+Tilg H, Petta S, Stefan N, Targher G. Metabolic Dysfunction–Associated Steatotic Liver Disease in Adults. JAMA. 2026.
+
+American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만/심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
+
+Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
+
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
 MASLD지방간FIB-4식이·운동MASH
@@ -17743,6 +17761,12 @@ NAFLD (이전 명칭)유의미한 음주 배제요구 안 됨
 ## References
 
 Rinella ME, et al. A multisociety Delphi consensus statement on new fatty liver disease nomenclature (MASLD/MetALD). Hepatology 2023.
+
+Tilg H, Petta S, Stefan N, Targher G. Metabolic Dysfunction–Associated Steatotic Liver Disease in Adults. JAMA. 2026.
+
+American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만/심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
+
+Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
 
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
@@ -17855,6 +17879,12 @@ Rinella ME, Neuschwander-Tetri BA, Siddiqui MS, et al. AASLD Practice Guidance o
 
 ElSayed NA, Aleppo G, Aroda VR, et al. 9. Pharmacologic Approaches to Glycemic Treatment: Standards of Care in Diabetes-2023. Diabetes Care. 2023;46(Suppl 1):S140-S157. DOI · PMID 36507650
 
+Tilg H, Petta S, Stefan N, Targher G. Metabolic Dysfunction–Associated Steatotic Liver Disease in Adults. JAMA. 2026.
+
+American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만/심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
+
+Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
+
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
 SGLT2GLP-1RAMASLDMASH식이·운동
@@ -17952,6 +17982,12 @@ Korean Liver Cancer Association (KLCA), National Cancer Center (NCC). 2022 KLCA-
 
 Singal AG, Llovet JM, Yarchoan M, et al. AASLD Practice Guidance on prevention, diagnosis, and treatment of hepatocellular carcinoma. Hepatology. 2023;78(6):1922–1965. DOI · PMID 37199193
 
+Tilg H, Petta S, Stefan N, Targher G. Metabolic Dysfunction–Associated Steatotic Liver Disease in Adults. JAMA. 2026.
+
+American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만/심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
+
+Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
+
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
 MASLDMASH간세포암검진Fibroscan
@@ -18013,6 +18049,12 @@ NASH·섬유화 추적 — Fibroscan 1년 후
 ## References
 
 Lassailly G, et al. Bariatric surgery provides long-term resolution of nonalcoholic steatohepatitis. Gastroenterology 2020.
+
+Tilg H, Petta S, Stefan N, Targher G. Metabolic Dysfunction–Associated Steatotic Liver Disease in Adults. JAMA. 2026.
+
+American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만/심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
+
+Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
 
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
@@ -18077,6 +18119,12 @@ NASPGHAN MASLD guidelines pediatric.
 
 KASL Korean pediatric NAFLD guidelines.
 
+Tilg H, Petta S, Stefan N, Targher G. Metabolic Dysfunction–Associated Steatotic Liver Disease in Adults. JAMA. 2026.
+
+American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만/심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
+
+Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
+
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
@@ -18137,6 +18185,12 @@ CPAP을 쓰면 간 수치가 좋아지나요?CPAP을 꾸준히 사용한 일부 
 ## References
 
 Mesarwi OA, et al. Sleep disordered breathing and NAFLD. Hepatology 2019.
+
+Tilg H, Petta S, Stefan N, Targher G. Metabolic Dysfunction–Associated Steatotic Liver Disease in Adults. JAMA. 2026.
+
+American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만/심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
+
+Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
 
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
@@ -18247,6 +18301,12 @@ Sanyal AJ, Bedossa P, Fraessdorf M, et al. A Phase 2 Randomized Trial of Survodu
 
 Rinella ME, Neuschwander-Tetri BA, Siddiqui MS, et al. AASLD Practice Guidance on the clinical assessment and management of nonalcoholic fatty liver disease. Hepatology. 2023;77(5):1797-1835. DOI · PMID 36727674
 
+Tilg H, Petta S, Stefan N, Targher G. Metabolic Dysfunction–Associated Steatotic Liver Disease in Adults. JAMA. 2026.
+
+American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만/심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
+
+Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
+
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
 resmetiromMASHMASLDFibroscanRCT
@@ -18307,6 +18367,12 @@ Statin — MASLD에서 안전합니다. ALT 상승은 일과성·치료 중단 �
 ## References
 
 AHA Statement: Nonalcoholic Fatty Liver Disease and Cardiovascular Risk. Hepatology 2017.
+
+Tilg H, Petta S, Stefan N, Targher G. Metabolic Dysfunction–Associated Steatotic Liver Disease in Adults. JAMA. 2026.
+
+American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만/심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
+
+Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
 
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
@@ -18437,6 +18503,12 @@ Wijarnpreecha K, Thongprayoon C, Ungprasert P. Coffee consumption and risk of no
 
 European Association for the Study of the Liver, et al. EASL-EASD-EASO Clinical Practice Guidelines on the management of MASLD. J Hepatol. 2024;81(3):492–542. DOI
 
+Tilg H, Petta S, Stefan N, Targher G. Metabolic Dysfunction–Associated Steatotic Liver Disease in Adults. JAMA. 2026.
+
+American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만/심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
+
+Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
+
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
 식이·운동MASLDMASH지중해식지방간
@@ -18539,6 +18611,12 @@ Castera L, Friedrich-Rust M, Loomba R. Noninvasive Assessment of Liver Disease i
 
 Rinella ME, Neuschwander-Tetri BA, Siddiqui MS, et al. AASLD Practice Guidance on the clinical assessment and management of nonalcoholic fatty liver disease. Hepatology. 2023;77(5):1797–1835. DOI · PMID 36727674
 
+Tilg H, Petta S, Stefan N, Targher G. Metabolic Dysfunction–Associated Steatotic Liver Disease in Adults. JAMA. 2026.
+
+American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만/심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
+
+Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
+
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
 FIB-4FibroscanMASLDMASH간생검
@@ -18635,6 +18713,12 @@ Harrison SA, Bedossa P, Guy CD, et al. A Phase 3, Randomized, Controlled Trial o
 Rinella ME, Neuschwander-Tetri BA, Siddiqui MS, et al. AASLD Practice Guidance on the clinical assessment and management of 비알코올성 지방간질환(NAFLD). Hepatology. 2023;77(5):1797–1835. DOI · PMID 36727674
 
 Newsome PN, Buchholtz K, Cusi K, et al. A Placebo-Controlled Trial of Subcutaneous Semaglutide in Nonalcoholic Steatohepatitis. N Engl J Med. 2021;384(12):1113–1124. DOI · PMID 33185364
+
+Tilg H, Petta S, Stefan N, Targher G. Metabolic Dysfunction–Associated Steatotic Liver Disease in Adults. JAMA. 2026.
+
+American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만/심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
+
+Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
 
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
@@ -18738,6 +18822,12 @@ Vilar-Gomez E, Martinez-Perez Y, Calzadilla-Bertot L, et al. Weight Loss Through
 Promrat K, Kleiner DE, Niemeier HM, et al. Randomized controlled trial testing the effects of weight loss on nonalcoholic steatohepatitis. Hepatology. 2010;51(1):121–129. DOI · PMID 19827166
 
 Romero-Gómez M, Zelber-Sagi S, Trenell M. Treatment of 비알코올성 지방간질환(NAFLD) with diet, physical activity and exercise. J Hepatol. 2017;67(4):829–846. DOI · PMID 28545937
+
+Tilg H, Petta S, Stefan N, Targher G. Metabolic Dysfunction–Associated Steatotic Liver Disease in Adults. JAMA. 2026.
+
+American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만/심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
+
+Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
 
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
@@ -18852,6 +18942,12 @@ Harrison SA, Bedossa P, Guy CD, et al. A Phase 3, Randomized, Controlled Trial o
 European Association for the Study of the Liver, European Association for the Study of Diabetes, European Association for the Study of Obesity. EASL-EASD-EASO Clinical Practice Guidelines on the management of metabolic dysfunction-associated steatotic liver disease (MASLD). J Hepatol. 2024;81(3):492–542. DOI
 
 Vilar-Gomez E, Martinez-Perez Y, Calzadilla-Bertot L, et al. Weight loss through lifestyle modification significantly reduces features of nonalcoholic steatohepatitis. Gastroenterology. 2015;149(2):367–378. DOI · PMID 25865049
+
+Tilg H, Petta S, Stefan N, Targher G. Metabolic Dysfunction–Associated Steatotic Liver Disease in Adults. JAMA. 2026.
+
+American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만/심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
+
+Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
 
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
