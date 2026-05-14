@@ -4681,6 +4681,10 @@ Hirschfield GM, et al. Seladelpar in adults with primary biliary cholangitis (RE
 
 대한간학회. 자가면역간염 진료 가이드라인. 2022.
 
+Mack CL, Adams D, Assis DN, et al. Diagnosis and Management of Autoimmune Hepatitis in Adults and Children: 2019 Practice Guidance and Guidelines From the American Association for the Study of Liver Diseases. Hepatology. 2020. PMID
+
+Muratori L, Lohse AW, Lenzi M. Diagnosis and Management of Autoimmune Hepatitis. BMJ. 2023.
+
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
@@ -9504,6 +9508,8 @@ MELD 점수 (높을수록 우선)
 혈액형 일치
 MELD 15 이상이면 이식 이득(survival benefit)이 약물·관찰보다 명확해지는 일반 임계값입니다. 그 미만에서는 이식 위험이 이득을 상회할 수 있어 평가만 하고 등록은 미루기도 합니다.
 
+미국 UNOS는 2023년부터 MELD 3.0를 표준으로 사용합니다. 기존 MELD-Na에 성별과 알부민이 추가되어, 여성 환자의 이식 대기 중 사망 과소평가를 보정합니다. AASLD-AST 2025 가이드라인은 비대상성 합병증(복수·간성혼수·정맥류 출혈)이 발생하거나 MELD ≥ 15에 도달하면 이식 의뢰를 권고합니다. 한국 KONOS는 단계적으로 MELD 3.0 도입을 검토 중입니다.
+
 ## 뇌사자 이식 vs 생체 이식
 
 두 경로의 비교:
@@ -9619,6 +9625,10 @@ MELD가 14인데 이식 평가를 시작해도 되나요?네, 평가는 시작�
 간이식 후 다시 술을 마실 수 있나요?알코올성 간경변으로 이식받은 환자는 절대 금주가 권고됩니다. 음주 재개 시 이식간이 빠르게 손상되고 재이식 후보가 되기 어렵습니다. 알코올 외 원인으로 이식받은 환자도 "안전한 음주량"은 없습니다 — 이식 면역억제제와 알코올의 상호작용, 간 회복기의 취약성, 심혈관·종양 위험 가산을 고려할 때 모든 이식 환자에서 절제 또는 절대 금주를 권합니다. 사회적 행사 등 불가피한 상황에서는 무알코올 옵션을 미리 준비하고, 가족·친지의 이해를 구하는 것이 도움이 됩니다.
 
 ## References
+
+Dove L, Chadha RM, Lai JC, et al. AASLD-AST Practice Guideline on Adult Liver Transplantation: Candidate Evaluation. Hepatology. 2025. (MELD 3.0 — sex·albumin 보정 포함; MELD ≥ 15을 평가 시작 임계값으로 권고)
+
+Lucey MR, Furuya KN, Foley DP. Liver Transplantation. N Engl J Med. 2023. (1년 환자 생존 94%, 5년 75-80%, 10년 58-68%)
 
 Martin P, DiMartini A, Feng S, Brown R Jr, Fallon M. Evaluation for liver transplantation in adults: 2013 practice guideline by the AASLD and the American Society of Transplantation. Hepatology. 2014;59(3):1144–1165. DOI · PMID 24716201
 
@@ -16568,6 +16578,10 @@ Overlap 환자도 약 중단이 가능한가요?Overlap 환자분에서 약 중�
 
 Boberg KM, et al. Overlap syndromes: the International Autoimmune Hepatitis Group position statement on a controversial issue. J Hepatol 2011.
 
+Mack CL, Adams D, Assis DN, et al. Diagnosis and Management of Autoimmune Hepatitis in Adults and Children: 2019 Practice Guidance and Guidelines From the American Association for the Study of Liver Diseases. Hepatology. 2020. PMID
+
+Muratori L, Lohse AW, Lenzi M. Diagnosis and Management of Autoimmune Hepatitis. BMJ. 2023.
+
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
@@ -16626,6 +16640,10 @@ King's College criteria 등 이식 적응증 평가
 Stravitz RT, Lee WM. Acute liver failure. Lancet 2019.
 
 Czaja AJ. Acute and acute severe (fulminant) autoimmune hepatitis. Dig Dis Sci 2013.
+
+Mack CL, Adams D, Assis DN, et al. Diagnosis and Management of Autoimmune Hepatitis in Adults and Children: 2019 Practice Guidance and Guidelines From the American Association for the Study of Liver Diseases. Hepatology. 2020. PMID
+
+Muratori L, Lohse AW, Lenzi M. Diagnosis and Management of Autoimmune Hepatitis. BMJ. 2023.
 
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
@@ -16687,6 +16705,10 @@ ASC 동반 시 UDCA 추가
 
 Mieli-Vergani G, et al. Autoimmune hepatitis in children: an update. J Pediatr Gastroenterol Nutr 2018.
 
+Mack CL, Adams D, Assis DN, et al. Diagnosis and Management of Autoimmune Hepatitis in Adults and Children: 2019 Practice Guidance and Guidelines From the American Association for the Study of Liver Diseases. Hepatology. 2020. PMID
+
+Muratori L, Lohse AW, Lenzi M. Diagnosis and Management of Autoimmune Hepatitis. BMJ. 2023.
+
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
@@ -16747,6 +16769,10 @@ Budesonide가 prednisolone보다 무조건 좋나요?환자분 상태에 따라 
 EASL Clinical Practice Guidelines: AIH.
 
 Manns MP, et al. Budesonide induces remission more effectively than prednisone in a controlled trial of patients with autoimmune hepatitis. Gastroenterology 2010.
+
+Mack CL, Adams D, Assis DN, et al. Diagnosis and Management of Autoimmune Hepatitis in Adults and Children: 2019 Practice Guidance and Guidelines From the American Association for the Study of Liver Diseases. Hepatology. 2020. PMID
+
+Muratori L, Lohse AW, Lenzi M. Diagnosis and Management of Autoimmune Hepatitis. BMJ. 2023.
 
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
@@ -16871,6 +16897,10 @@ van Gerven NM, et al. Relapse is almost universal after withdrawal of immunosupp
 
 Czaja AJ. Autoimmune hepatitis: focusing on treatments other than steroids. Can J Gastroenterol 2012.
 
+Mack CL, Adams D, Assis DN, et al. Diagnosis and Management of Autoimmune Hepatitis in Adults and Children: 2019 Practice Guidance and Guidelines From the American Association for the Study of Liver Diseases. Hepatology. 2020. PMID
+
+Muratori L, Lohse AW, Lenzi M. Diagnosis and Management of Autoimmune Hepatitis. BMJ. 2023.
+
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
 자가면역간염스테로이드아자티오프린재발추적
@@ -16935,6 +16965,10 @@ MMF를 먹고 있는데 임신해도 되나요?MMF(mycophenolate mofetil)는 임
 EASL Clinical Practice Guidelines: AIH. J Hepatol 2015.
 
 Westbrook RH, et al. Outcomes of pregnancy in women with AIH. J Hepatol 2012.
+
+Mack CL, Adams D, Assis DN, et al. Diagnosis and Management of Autoimmune Hepatitis in Adults and Children: 2019 Practice Guidance and Guidelines From the American Association for the Study of Liver Diseases. Hepatology. 2020. PMID
+
+Muratori L, Lohse AW, Lenzi M. Diagnosis and Management of Autoimmune Hepatitis. BMJ. 2023.
 
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
@@ -17091,6 +17125,10 @@ Mack CL, et al. Diagnosis and Management of Autoimmune Hepatitis in Adults and C
 EASL Clinical Practice Guidelines: Autoimmune hepatitis. J Hepatol 2015;63:971-1004.
 
 Czaja AJ. Diagnosis and Management of Autoimmune Hepatitis: Current Status and Future Directions. Gut Liver 2016;10:177-203.
+
+Mack CL, Adams D, Assis DN, et al. Diagnosis and Management of Autoimmune Hepatitis in Adults and Children: 2019 Practice Guidance and Guidelines From the American Association for the Study of Liver Diseases. Hepatology. 2020. PMID
+
+Muratori L, Lohse AW, Lenzi M. Diagnosis and Management of Autoimmune Hepatitis. BMJ. 2023.
 
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
@@ -17258,6 +17296,10 @@ EASL Clinical Practice Guidelines: Autoimmune hepatitis. J Hepatol 2015;63:971-1
 Manns MP, et al. Diagnosis and management of autoimmune hepatitis. Hepatology 2010;51:2193-2213.
 
 Yoo JJ, et al. Korean clinical practice guidelines for autoimmune hepatitis. Korean J Gastroenterol (most recent KASL update).
+
+Mack CL, Adams D, Assis DN, et al. Diagnosis and Management of Autoimmune Hepatitis in Adults and Children: 2019 Practice Guidance and Guidelines From the American Association for the Study of Liver Diseases. Hepatology. 2020. PMID
+
+Muratori L, Lohse AW, Lenzi M. Diagnosis and Management of Autoimmune Hepatitis. BMJ. 2023.
 
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
