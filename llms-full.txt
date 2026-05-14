@@ -142,6 +142,8 @@ Newsome PN, Cramb R, Davison SM, et al. Guidelines on the management of abnormal
 
 Whitfield JB. Gamma glutamyl transferase. Crit Rev Clin Lab Sci. 2001;38(4):263-355. DOI · PMID 11563810
 
+Tapper EB, Parikh ND. Diagnosis and Management of Cirrhosis and Its Complications: A Review. JAMA. 2023;329(18):1589–1602.
+
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ALPGGT간경변빌리루빈약물성간손상
@@ -11293,6 +11295,10 @@ Bedossa P, Patel K. Biopsy and Noninvasive Methods to Assess Progression of Nona
 
 Berzigotti A, Tsochatzis E, Boursier J, et al. EASL Clinical Practice Guidelines on non-invasive tests for evaluation of liver disease severity and prognosis. J Hepatol. 2021;75(3):659-689. DOI · PMID 34166721
 
+Tilg H, Petta S, Stefan N, Targher G. Metabolic Dysfunction–Associated Steatotic Liver Disease in Adults. JAMA. 2026.
+
+Tapper EB, Parikh ND. Diagnosis and Management of Cirrhosis and Its Complications: A Review. JAMA. 2023;329(18):1589–1602.
+
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
 간생검MASH약물성간손상자가면역간염Fibroscan
@@ -11743,6 +11749,8 @@ Cohen JA, Kaplan MM. The SGOT/SGPT ratio--an indicator of alcoholic liver diseas
 
 Diehl AM, et al. Alcohol-like liver disease in nonalcoholics. Gastroenterology 1988.
 
+Tapper EB, Parikh ND. Diagnosis and Management of Cirrhosis and Its Complications: A Review. JAMA. 2023;329(18):1589–1602.
+
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
@@ -11788,6 +11796,8 @@ B형간염 + 위험 (가족력·40세↑·남)6개월좌동
 ## References
 
 대한간암학회·국립암센터. 2022 한국 간세포암종 진료 가이드라인.
+
+Tapper EB, Parikh ND. Diagnosis and Management of Cirrhosis and Its Complications: A Review. JAMA. 2023;329(18):1589–1602.
 
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
@@ -11890,6 +11900,8 @@ Korean Association for the Study of the Liver (KASL). KASL clinical practice gui
 
 European Association for the Study of the Liver, et al. EASL-EASD-EASO Clinical Practice Guidelines on the management of metabolic dysfunction-associated steatotic liver disease (MASLD). J Hepatol. 2024;81(3):492–542. DOI
 
+Tapper EB, Parikh ND. Diagnosis and Management of Cirrhosis and Its Complications: A Review. JAMA. 2023;329(18):1589–1602.
+
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ALTASTGGT약물성간손상MASLD
@@ -11940,6 +11952,8 @@ _소아·청소년 ALT 상한은 성인보다 낮음(남아 26, 여아 22 U/L). 
 
 Schwimmer JB, et al. SAFETY study: alanine aminotransferase cutoff values are set too high for reliable detection of pediatric chronic liver disease. Gastroenterology 2010.
 
+Tapper EB, Parikh ND. Diagnosis and Management of Cirrhosis and Its Complications: A Review. JAMA. 2023;329(18):1589–1602.
+
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
@@ -11982,6 +11996,8 @@ AST와 ALT는 간뿐 아니라 근육에도 존재. AST는 근육에 더 풍부.
 ## References
 
 Pettersson J, et al. Muscular exercise can cause highly pathological liver function tests in healthy men. Br J Clin Pharmacol 2008.
+
+Tapper EB, Parikh ND. Diagnosis and Management of Cirrhosis and Its Complications: A Review. JAMA. 2023;329(18):1589–1602.
 
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
@@ -12026,6 +12042,8 @@ AST와 ALT는 임신 중에도 정상 범위로 유지됩니다.
 ## References
 
 EASL Clinical Practice Guidelines on pregnancy-related liver disease. J Hepatol 2023.
+
+Tapper EB, Parikh ND. Diagnosis and Management of Cirrhosis and Its Complications: A Review. JAMA. 2023;329(18):1589–1602.
 
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
@@ -12122,6 +12140,8 @@ Botros M, Sikaris KA. The De Ritis ratio: the test of time. Clin Biochem Rev. 20
 Newsome PN, Cramb R, Davison SM, et al. Guidelines on the management of abnormal liver blood tests. Gut. 2018;67(1):6–19. DOI · PMID 29122851
 
 Lala V, Zubair M, Minter DA. Liver Function Tests. StatPearls. 2024. Treasure Island (FL): StatPearls Publishing. PMID 29494096
+
+Tapper EB, Parikh ND. Diagnosis and Management of Cirrhosis and Its Complications: A Review. JAMA. 2023;329(18):1589–1602.
 
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
@@ -13724,9 +13744,9 @@ _간암 진단 직후 첫 외래에서 결정되는 5가지 — 병기 평가, �
 
 ## 진단이 어떻게 확정되었는지 다시 확인
 
-간암(간세포암, HCC)은 국내에서 발생률이 높은 흔한 암 중 하나이지만, 다른 암과는 달리 영상만으로 진단이 가능하다는 특징이 있습니다. 대한간암학회(KLCA)-국립암센터(NCC) 가이드라인 기준으로, 역동적 CT 또는 MRI에서 동맥기 조영 증강과 정맥기·지연기 washout 패턴이 함께 보이면 조직검사 없이 진단할 수 있습니다. 첫 외래에서 가장 먼저 하는 일은, 환자분이 가지고 오신 영상이 이 기준을 충족하는지 다시 한 번 확인해 보는 것입니다.
+간세포암(HCC)은 원발성 간암의 약 90%를 차지하며 세계적으로 6번째로 흔한 암이자 암 관련 사망의 3번째 원인입니다(Vogel Lancet 2022). 한국은 B형간염 유병률 영향으로 발생률이 특히 높습니다. 다른 암과 달리 위험군에서 영상만으로 진단이 가능한 점이 특징입니다. 대한간암학회(KLCA)-국립암센터(NCC) 가이드라인 기준으로, 역동적 CT 또는 MRI에서 동맥기 조영 증강과 정맥기·지연기 washout 패턴이 함께 보이면 조직검사 없이 진단할 수 있습니다. 첫 외래에서 가장 먼저 하는 일은, 환자분이 가지고 오신 영상이 이 기준을 충족하는지 다시 한 번 확인해 보는 것입니다.
 
-패턴이 모호하면 조영초음파(CEUS), MRI, 또는 조직검사를 추가로 시행합니다.
+패턴이 모호하면 조영초음파(CEUS), MRI, 또는 조직검사를 추가로 시행합니다. 진행성 병기에서 전신치료를 시작하기 전에는 약 7%에서 담관세포암 등 대안 진단이 확인되기도 하므로 조직검사가 권장될 수 있습니다(NCCN 2026).
 
 ## 병기 평가 — 무엇이 어디까지 퍼졌나
 
@@ -13857,6 +13877,10 @@ Singal AG, Llovet JM, Yarchoan M, et al. AASLD Practice Guidance on prevention, 
 European Association for the Study of the Liver. EASL Clinical Practice Guidelines: Management of hepatocellular carcinoma. J Hepatol. 2018;69(1):182–236. DOI
 
 Reig M, Forner A, Rimola J, et al. BCLC strategy for prognosis prediction and treatment recommendation: The 2022 update. J Hepatol. 2022;76(3):681–693. DOI · PMID 34801630
+
+Vogel A, Meyer T, Sapisochin G, Salem R, Saborowski A. Hepatocellular carcinoma. Lancet. 2022;400(10360):1345–1362.
+
+National Comprehensive Cancer Network. Clinical Practice Guidelines in Oncology: Hepatocellular Carcinoma. v.2.2026 (Updated 2026-03-10).
 
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
@@ -15449,6 +15473,8 @@ European Association for the Study of the Liver. EASL Clinical Practice Guidelin
 
 Newsome PN, Cramb R, Davison SM, et al. Guidelines on the management of abnormal liver blood tests. Gut. 2018;67(1):6–19. DOI · PMID 29122851
 
+Tapper EB, Parikh ND. Diagnosis and Management of Cirrhosis and Its Complications: A Review. JAMA. 2023;329(18):1589–1602.
+
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
 빌리루빈ALTALP간경변약물성간손상
@@ -15818,6 +15844,8 @@ Garcia-Tsao G, Friedman S, Iredale J, Pinzani M. Now there are many (stages) whe
 Tripodi A, Mannucci PM. The coagulopathy of chronic liver disease. N Engl J Med. 2011;365(2):147-156. DOI · PMID 21751907
 
 Korean Association for the Study of the Liver. KASL clinical practice guidelines for liver cirrhosis. Clin Mol Hepatol. 2020;26(2):83-127. DOI
+
+Tapper EB, Parikh ND. Diagnosis and Management of Cirrhosis and Its Complications: A Review. JAMA. 2023;329(18):1589–1602.
 
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
@@ -16219,6 +16247,8 @@ Suk KT, Kim DJ, Kim CH, et al. A prospective nationwide study of drug-induced li
 Danan G, Teschke R. RUCAM in Drug and Herb Induced Liver Injury: The Update. Int J Mol Sci. 2016;17(1):14. DOI · PMID 26712744
 
 LiverTox: Clinical and Research Information on Drug-Induced Liver Injury. Bethesda (MD): National Institute of Diabetes and Digestive and Kidney Diseases. PMID 31643176
+
+Tapper EB, Parikh ND. Diagnosis and Management of Cirrhosis and Its Complications: A Review. JAMA. 2023;329(18):1589–1602.
 
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
 
