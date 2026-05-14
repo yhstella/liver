@@ -106,6 +106,41 @@
   </div>
 </section>
 
+<section class="recent-posts" aria-label="최근 작성글">
+  <h2 class="recent-posts-title">최근 작성글</h2>
+  <ul class="recent-posts-list">
+  <li><span class="recent-cat recent-cat-세부주제">세부주제</span><a class="recent-link" href="/C형간염-2025-KASL-가이드라인/">2025 대한간학회 C형간염 진료 가이드라인</a><time class="recent-date" datetime="2026-05-13"><span class="y">2026년 </span>5월 13일</time></li>
+  <li><span class="recent-cat recent-cat-세부주제">세부주제</span><a class="recent-link" href="/PBC-원발성담즙성담관염/">원발성담즙성담관염(PBC) — 진단과 치료</a><time class="recent-date" datetime="2026-05-13"><span class="y">2026년 </span>5월 13일</time></li>
+  <li><span class="recent-cat recent-cat-사례">사례</span><a class="recent-link" href="/케이스/절제후-2년재발/">절제 2년 후 새 결절</a><time class="recent-date" datetime="2026-05-10"><span class="y">2026년 </span>5월 10일</time></li>
+  <li><span class="recent-cat recent-cat-세부주제">세부주제</span><a class="recent-link" href="/간암-소작술-RFA-MWA/">간암 소작술 — 고주파(RFA) vs 마이크로웨이브(MWA)</a><time class="recent-date" datetime="2026-05-09"><span class="y">2026년 </span>5월 9일</time></li>
+  <li><span class="recent-cat recent-cat-사례">사례</span><a class="recent-link" href="/케이스/첫-식도정맥류-출혈/">첫 식도정맥류 출혈</a><time class="recent-date" datetime="2026-05-06"><span class="y">2026년 </span>5월 6일</time></li>
+  </ul>
+  <script>
+  (function(){
+    var NOW = Date.now();
+    var WINDOW_MS = 31 * 24 * 60 * 60 * 1000;
+    document.querySelectorAll('.recent-posts-list li').forEach(function(li){
+      var t = li.querySelector('time.recent-date');
+      if(!t) return;
+      var iso = t.getAttribute('datetime');
+      if(!iso) return;
+      var d = new Date(iso + 'T00:00:00').getTime();
+      if(isNaN(d)) return;
+      if(NOW - d <= WINDOW_MS){
+        if(!li.querySelector('.recent-new')){
+          var span = document.createElement('span');
+          span.className = 'recent-new';
+          span.textContent = 'NEW';
+          var link = li.querySelector('.recent-link');
+          if(link && link.nextSibling){
+            link.parentNode.insertBefore(span, link.nextSibling);
+          }
+        }
+      }
+    });
+  })();
+  </script>
+</section>
 <nav class="series-grid five-cols" aria-label="대주제별 안내">
 
   <a href="/간암/" class="series-tile">

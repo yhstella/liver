@@ -4,11 +4,59 @@
   <link href="https://drshin.kr/updates/" rel="alternate" type="text/html"/>
   <link href="https://drshin.kr/updates/feed.xml" rel="self" type="application/atom+xml"/>
   <id>https://drshin.kr/updates/</id>
-  <updated>2026-05-14T01:56:10.508859+00:00</updated>
+  <updated>2026-05-14T01:58:53.004979+00:00</updated>
   <subtitle>주요 저널의 hepatology 최신 논문 요약 — 신현재(서울대학교병원 소화기내과·간암센터)</subtitle>
   <author><name>신현재</name><uri>https://drshin.kr/소개/</uri></author>
   <generator>build_updates_rss.py</generator>
   <icon>https://drshin.kr/favicon.png</icon>
+  <entry>
+    <title>HIMALAYA</title>
+    <link href="https://drshin.kr/updates/HIMALAYA-durvalumab-tremelimumab-NEJM-Evid-2022/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/HIMALAYA-durvalumab-tremelimumab-NEJM-Evid-2022/</id>
+    <updated>2026-05-14T10:55:45+09:00</updated>
+    <summary>Abou-Alfa GK et al. NEJM Evid 2022. Phase 3 RCT, 1171명 진행성 HCC, durva+treme 단회 priming(STRIDE)이 sorafenib보다 OS 우월. 출혈 위험 환자의 atezo+bev 대안.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>IMbrave150</title>
+    <link href="https://drshin.kr/updates/IMbrave150-atezolizumab-bevacizumab-NEJM-2020/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/IMbrave150-atezolizumab-bevacizumab-NEJM-2020/</id>
+    <updated>2026-05-14T10:55:45+09:00</updated>
+    <summary>Finn SA et al. NEJM 2020. Phase 3 RCT, 501명 진행성 간세포암, atezo+bev이 sorafenib보다 OS·PFS 우월 - 8년간 1차 표준이었던 sorafenib을 교체.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>Semaglutide for AUD</title>
+    <link href="https://drshin.kr/updates/Klausen-Semaglutide-AUD-Lancet-2026/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/Klausen-Semaglutide-AUD-Lancet-2026/</id>
+    <updated>2026-05-14T10:55:45+09:00</updated>
+    <summary>Klausen 2026 Lancet — semaglutide가 알코올 사용 장애 환자(비만 동반)의 음주를 줄였다는 RCT.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>MAESTRO-NASH</title>
+    <link href="https://drshin.kr/updates/MAESTRO-NASH-resmetirom-NEJM-2024/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/MAESTRO-NASH-resmetirom-NEJM-2024/</id>
+    <updated>2026-05-14T10:55:45+09:00</updated>
+    <summary>Harrison SA et al. NEJM 2024;390:497-509. Phase 3 RCT, 966명 F2-F3 MASH 환자, 52주 시점 NASH 해결과 섬유화 호전을 동시에 달성한 첫 약물 — 노트 요약.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>Semaglutide for NASH</title>
+    <link href="https://drshin.kr/updates/Newsome-semaglutide-NASH-NEJM-2021/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/Newsome-semaglutide-NASH-NEJM-2021/</id>
+    <updated>2026-05-14T10:55:45+09:00</updated>
+    <summary>Newsome PN et al. NEJM 2021. Phase 2 RCT, 320명 NASH 환자, semaglutide 0.4 mg 매일이 NASH 해결 59% vs placebo 17% - GLP-1 작용제 MASH 효과의 결정적 첫 RCT.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>TDF for HBV in pregnancy</title>
+    <link href="https://drshin.kr/updates/Pan-TDF-pregnancy-HBV-NEJM-2016/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/Pan-TDF-pregnancy-HBV-NEJM-2016/</id>
+    <updated>2026-05-14T10:55:45+09:00</updated>
+    <summary>Pan CQ et al. NEJM 2016. RCT, 200명 HBV DNA 고농도 임산부, 임신 30주부터 TDF가 영아 HBV 감염을 0%로 감소시킨 결정적 시험.</summary>
+    <author><name>신현재</name></author>
+  </entry>
   <entry>
     <title>아스피린과 MASLD 환자의 간세포암 위험</title>
     <link href="https://drshin.kr/updates/Ahn-Aspirin-HCC-MASLD-CMH-2026/" rel="alternate" type="text/html"/>
@@ -98,35 +146,11 @@
     <author><name>신현재</name></author>
   </entry>
   <entry>
-    <title>HIMALAYA</title>
-    <link href="https://drshin.kr/updates/HIMALAYA-durvalumab-tremelimumab-NEJM-Evid-2022/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/HIMALAYA-durvalumab-tremelimumab-NEJM-Evid-2022/</id>
-    <updated>2026-05-13T17:13:29+09:00</updated>
-    <summary>Abou-Alfa GK et al. NEJM Evid 2022. Phase 3 RCT, 1171명 진행성 HCC, durva+treme 단회 priming(STRIDE)이 sorafenib보다 OS 우월. 출혈 위험 환자의 atezo+bev 대안.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
     <title>IMbrave050</title>
     <link href="https://drshin.kr/updates/IMbrave050-adjuvant-atezo-bev-Lancet-2023/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/IMbrave050-adjuvant-atezo-bev-Lancet-2023/</id>
     <updated>2026-05-13T17:13:29+09:00</updated>
     <summary>고위험 절제·소작 후 atezolizumab + bevacizumab 12개월이 재발 없는 생존(RFS)을 의미 있게 연장한 첫 양성 보조 면역치료 시험. Lancet 2023.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>IMbrave150</title>
-    <link href="https://drshin.kr/updates/IMbrave150-atezolizumab-bevacizumab-NEJM-2020/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/IMbrave150-atezolizumab-bevacizumab-NEJM-2020/</id>
-    <updated>2026-05-13T17:13:29+09:00</updated>
-    <summary>Finn SA et al. NEJM 2020. Phase 3 RCT, 501명 진행성 간세포암, atezo+bev이 sorafenib보다 OS·PFS 우월 - 8년간 1차 표준이었던 sorafenib을 교체.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>Semaglutide for AUD</title>
-    <link href="https://drshin.kr/updates/Klausen-Semaglutide-AUD-Lancet-2026/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/Klausen-Semaglutide-AUD-Lancet-2026/</id>
-    <updated>2026-05-13T17:13:29+09:00</updated>
-    <summary>Klausen 2026 Lancet — semaglutide가 알코올 사용 장애 환자(비만 동반)의 음주를 줄였다는 RCT.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>
@@ -146,35 +170,11 @@
     <author><name>신현재</name></author>
   </entry>
   <entry>
-    <title>MAESTRO-NASH</title>
-    <link href="https://drshin.kr/updates/MAESTRO-NASH-resmetirom-NEJM-2024/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/MAESTRO-NASH-resmetirom-NEJM-2024/</id>
-    <updated>2026-05-13T17:13:29+09:00</updated>
-    <summary>Harrison SA et al. NEJM 2024;390:497-509. Phase 3 RCT, 966명 F2-F3 MASH 환자, 52주 시점 NASH 해결과 섬유화 호전을 동시에 달성한 첫 약물 — 노트 요약.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
     <title>MASLD 새 명명</title>
     <link href="https://drshin.kr/updates/MASLD-nomenclature-AASLD-EASL-2023/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/MASLD-nomenclature-AASLD-EASL-2023/</id>
     <updated>2026-05-13T17:13:29+09:00</updated>
     <summary>AASLD·EASL·ALEH의 Delphi 합의로 NAFLD → MASLD, NASH → MASH로 명명 변경. MetALD 새 카테고리 도입.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>Semaglutide for NASH</title>
-    <link href="https://drshin.kr/updates/Newsome-semaglutide-NASH-NEJM-2021/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/Newsome-semaglutide-NASH-NEJM-2021/</id>
-    <updated>2026-05-13T17:13:29+09:00</updated>
-    <summary>Newsome PN et al. NEJM 2021. Phase 2 RCT, 320명 NASH 환자, semaglutide 0.4 mg 매일이 NASH 해결 59% vs placebo 17% - GLP-1 작용제 MASH 효과의 결정적 첫 RCT.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>TDF for HBV in pregnancy</title>
-    <link href="https://drshin.kr/updates/Pan-TDF-pregnancy-HBV-NEJM-2016/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/Pan-TDF-pregnancy-HBV-NEJM-2016/</id>
-    <updated>2026-05-13T17:13:29+09:00</updated>
-    <summary>Pan CQ et al. NEJM 2016. RCT, 200명 HBV DNA 고농도 임산부, 임신 30주부터 TDF가 영아 HBV 감염을 0%로 감소시킨 결정적 시험.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>

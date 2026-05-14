@@ -190,9 +190,10 @@ def update_main_index(top5):
         "",
         html,
     )
-    # Insert before <div class="series-grid ...">
+    # Insert before <div|nav class="series-grid ...">
+    # (nav 형태는 2026-05-14 aria-label 추가로 도입)
     html, n = re.subn(
-        r'(<div class="series-grid[^"]*">)',
+        r'(<(?:div|nav) class="series-grid[^"]*"[^>]*>)',
         box + r"\1",
         html,
         count=1,
