@@ -81,42 +81,32 @@
   </div>
 </section>
 
-<section class="recent-posts" aria-label="최근 작성글">
-  <h2 class="recent-posts-title">최근 작성글</h2>
-  <ul class="recent-posts-list">
-  <li><span class="recent-cat recent-cat-세부주제">세부주제</span><a class="recent-link" href="/C형간염-2025-KASL-가이드라인/">2025 대한간학회 C형간염 진료 가이드라인</a><time class="recent-date" datetime="2026-05-13"><span class="y">2026년 </span>5월 13일</time></li>
-  <li><span class="recent-cat recent-cat-세부주제">세부주제</span><a class="recent-link" href="/PBC-원발성담즙성담관염/">원발성담즙성담관염(PBC) — 진단과 치료</a><time class="recent-date" datetime="2026-05-13"><span class="y">2026년 </span>5월 13일</time></li>
-  <li><span class="recent-cat recent-cat-사례">사례</span><a class="recent-link" href="/케이스/절제후-2년재발/">절제 2년 후 새 결절</a><time class="recent-date" datetime="2026-05-10"><span class="y">2026년 </span>5월 10일</time></li>
-  <li><span class="recent-cat recent-cat-세부주제">세부주제</span><a class="recent-link" href="/간암-소작술-RFA-MWA/">간암 소작술 — 고주파(RFA) vs 마이크로웨이브(MWA)</a><time class="recent-date" datetime="2026-05-09"><span class="y">2026년 </span>5월 9일</time></li>
-  <li><span class="recent-cat recent-cat-사례">사례</span><a class="recent-link" href="/케이스/첫-식도정맥류-출혈/">첫 식도정맥류 출혈</a><time class="recent-date" datetime="2026-05-06"><span class="y">2026년 </span>5월 6일</time></li>
-  </ul>
-  <script>
-  (function(){
-    var NOW = Date.now();
-    var WINDOW_MS = 31 * 24 * 60 * 60 * 1000;
-    document.querySelectorAll('.recent-posts-list li').forEach(function(li){
-      var t = li.querySelector('time.recent-date');
-      if(!t) return;
-      var iso = t.getAttribute('datetime');
-      if(!iso) return;
-      var d = new Date(iso + 'T00:00:00').getTime();
-      if(isNaN(d)) return;
-      if(NOW - d <= WINDOW_MS){
-        if(!li.querySelector('.recent-new')){
-          var span = document.createElement('span');
-          span.className = 'recent-new';
-          span.textContent = 'NEW';
-          var link = li.querySelector('.recent-link');
-          if(link && link.nextSibling){
-            link.parentNode.insertBefore(span, link.nextSibling);
-          }
-        }
-      }
-    });
-  })();
-  </script>
+<section class="start-here" aria-label="처음 오신 분 안내">
+  <div class="start-here-text">
+    <strong class="start-here-eyebrow">처음 오셨다면</strong>
+    <h2>어디서부터 보시면 좋을까요?</h2>
+    <p>건강검진 결과지를 받으셨거나, 처음 진단을 들으셨거나, 증상이 있으시다면 — 가장 가까운 입구를 골라보세요.</p>
+  </div>
+  <div class="start-here-cards">
+    <a href="/CC/" class="start-card">
+      <strong>증상·호소가 있다면</strong>
+      <span>"이런 문제로 외래에 오시면…" 21편</span>
+      <span class="arr">→</span>
+    </a>
+    <a href="/간수치/" class="start-card">
+      <strong>검진 결과지가 있다면</strong>
+      <span>AST·ALT·AFP·Fibroscan 수치 해석 15편</span>
+      <span class="arr">→</span>
+    </a>
+    <a href="/CC/검진-혹-발견/" class="start-card">
+      <strong>초음파에서 혹이 보였다면</strong>
+      <span>위험인자·결절 패턴별 첫 평가 안내</span>
+      <span class="arr">→</span>
+    </a>
+  </div>
 </section>
-<div class="series-grid five-cols">
+
+<nav class="series-grid five-cols" aria-label="대주제별 안내">
 
   <a href="/간암/" class="series-tile">
     <h3>간암</h3>
@@ -158,21 +148,9 @@
     <span class="count">세부주제 9편 · 사례 6편</span>
   </a>
 
-</div>
+</nav>
 
-<section class="cc-section" style="margin:32px 0;padding:20px 24px;background:#fff;border:1px solid var(--accent);border-radius:12px">
-  <a href="/CC/" style="display:block;text-decoration:none;color:var(--fg)">
-    <div style="display:flex;justify-content:space-between;align-items:center;gap:14px">
-      <div>
-        <strong style="display:block;color:var(--accent);font-size:12px;letter-spacing:0.08em;text-transform:uppercase;margin-bottom:4px">증상별 안내 · 21편</strong>
-        <h2 style="margin:0;font-size:18px;font-family:'Times New Roman',Georgia,serif;letter-spacing:-0.01em;color:var(--fg);line-height:1.4">"이런 문제로 외래에 오시면…"</h2>
-      </div>
-      <span style="color:var(--accent);font-size:20px;font-weight:600;flex-shrink:0">→</span>
-    </div>
-  </a>
-</section>
-
-<section class="updates-section">
+<section class="updates-section" aria-label="최신 지견 (논문 노트)">
   <a href="/updates/" class="updates-tile">
     <div class="updates-tile-text">
       <h3>최신 지견 <span class="updates-arrow">→</span></h3>
