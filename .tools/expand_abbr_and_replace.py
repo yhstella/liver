@@ -25,6 +25,8 @@ ABBR = {
     # Hepatitis virus
     'HBV': 'B형간염 바이러스',
     'HCV': 'C형간염 바이러스',
+    'HAV': 'A형간염 바이러스',
+    'HDV': 'D형간염 바이러스',
     'HBsAg': 'B형간염 표면항원',
     'HBeAg': 'B형간염 e항원',
     'HBIG': 'B형간염 면역글로불린',
@@ -32,7 +34,10 @@ ABBR = {
     'TAF': '테노포비르 알라페나미드',
     'ETV': '엔테카비르',
     'DAA': '직접 작용 항바이러스제',
+    'SVR12': '치료 종료 12주 후 지속 바이러스 반응',
     'SVR': '지속 바이러스 반응',
+    'SOF': '소포스부비르',
+    'HIV': '인간면역결핍 바이러스',
     # Tumor markers
     'AFP': '알파태아단백',
     'PIVKA-II': 'des-γ-carboxy prothrombin',
@@ -58,6 +63,11 @@ ABBR = {
     'MRI': '자기공명 영상',
     'MRE': '자기공명 탄성영상',
     'CAP': 'controlled attenuation parameter',
+    'LSM': '간 경도 측정',
+    'cACLD': '대상성 진행성 만성 간질환',
+    'MRCP': '자기공명 담췌관조영',
+    'EOB-MRI': '간세포 특이 조영 자기공명',
+    'ULN': '정상 상한치',
     # Complications
     'SBP': '자발성 세균성 복막염',
     'HRS': '간신증후군',
@@ -67,9 +77,20 @@ ABBR = {
     'PBC': '원발성 담즙성 담관염',
     'PSC': '원발성 경화성 담관염',
     'DILI': '약물성 간 손상',
+    'AIH': '자가면역간염',
+    'ANA': '항핵항체',
+    'ASMA': '평활근 항체',
+    'AZA': '아자티오프린',
+    'UDCA': '우르소데옥시콜산',
+    'IgG': '면역글로불린 G',
+    # Benign liver lesions
+    'FNH': '국소 결절성 과형성',
+    'HCA': '간세포 선종',
+    'NRH': '결절성 재생성 과형성',
     # Alcohol
     'ALD': '알코올성 간 질환',
     'AUD': '알코올 사용 장애',
+    'MetALD': '대사이상-알코올 복합 지방간',
     'PEth': 'phosphatidylethanol',
     # Diabetes / metabolic
     'SGLT2': '나트륨-포도당 공동수송체-2',
@@ -103,7 +124,7 @@ ABBR = {
 ABBR_KEYS = sorted(ABBR.keys(), key=len, reverse=True)
 
 def mask_blocks(text):
-    """Mask out script, style, references-block, title, and code spans."""
+    """Mask out blocks where acronym expansion would corrupt structure or UI labels."""
     blocks = []
     def replace_block(m):
         idx = len(blocks)
@@ -115,6 +136,15 @@ def mask_blocks(text):
     masked = re.sub(r'<section class="references-block">.*?</section>', replace_block, masked, flags=re.S)
     masked = re.sub(r'<title[^>]*>.*?</title>', replace_block, masked, flags=re.S)
     masked = re.sub(r'<code[^>]*>.*?</code>', replace_block, masked, flags=re.S)
+    # UI/nav blocks where acronym should stay short
+    masked = re.sub(r'<nav\b[^>]*>.*?</nav>', replace_block, masked, flags=re.S)
+    masked = re.sub(r'<aside\b[^>]*class="[^"]*\brelated[^"]*"[^>]*>.*?</aside>', replace_block, masked, flags=re.S)
+    # Tag chips: <a class="tag-chip">…</a>
+    masked = re.sub(r'<a\b[^>]*class="[^"]*\btag-chip\b[^"]*"[^>]*>.*?</a>', replace_block, masked, flags=re.S)
+    # Headings (h1–h4) — page titles look bad with parenthetical
+    masked = re.sub(r'<h[1-4]\b[^>]*>.*?</h[1-4]>', replace_block, masked, flags=re.S)
+    # FAQ summary text (the question line) — keep concise; expand only in answers
+    masked = re.sub(r'<summary\b[^>]*>.*?</summary>', replace_block, masked, flags=re.S)
     return masked, blocks
 
 def restore(text, blocks):
@@ -130,7 +160,14 @@ def expand(html):
     # Then: per-page first-occurrence abbreviation expansion
     masked, blocks = mask_blocks(html)
     parts = re.split(r'(<[^>]*>|\x00BLK\d+\x00)', masked)
+    # Pre-seed `seen` with acronyms whose Korean expansion already appears on the page,
+    # whether as "ABBR(expansion)" or as "expansion(ABBR)" — both indicate the page
+    # already informs the reader, so we shouldn't add another parenthetical elsewhere.
     seen = set()
+    plain_text = re.sub(r'<[^>]+>', ' ', html)
+    for abbr, exp in ABBR.items():
+        if f'{abbr}({exp})' in plain_text or f'{exp}({abbr})' in plain_text:
+            seen.add(abbr)
     for i, part in enumerate(parts):
         if not part:
             continue
@@ -140,8 +177,13 @@ def expand(html):
         for abbr in ABBR_KEYS:
             if abbr in seen:
                 continue
-            # Match: not preceded by alphanumeric, not followed by alphanumeric, not followed by '('
-            pattern = re.compile(r'(?<![A-Za-z0-9])' + re.escape(abbr) + r'(?![A-Za-z0-9])(?!\s*\()')
+            # Match: not preceded by alphanumeric, not followed by alphanumeric or '(' or ')'.
+            # The ')' guard prevents double-expansion when the acronym is already inside
+            # a clarifier like "간세포 선종(HCA)" — there the '(' precedes the token and
+            # ')' follows it, so the previous "(" rule alone wasn't enough.
+            pattern = re.compile(
+                r'(?<![A-Za-z0-9(])' + re.escape(abbr) + r'(?![A-Za-z0-9])(?!\s*[()])'
+            )
             m = pattern.search(part)
             if m:
                 exp = ABBR[abbr]
