@@ -935,10 +935,10 @@ occult HBVanti-HBc재활성화
 Occult B형간염(OBI) — 진단·임상 의의
 항목내용
 
-정의HBsAg 음성 + 혈청/간 HBV DNA 양성
+정의HBsAg 음성 + 혈청·간 HBV DNA 양성
 혈청학 흔한 패턴anti-HBc 양성 (anti-HBs ±)
 검출 한계혈청 HBV DNA <200 IU/mL — 고감도 PCR 필요
-임상 위험면역억제 시 재활성화, 수혈/장기이식 시 감염원
+임상 위험면역억제 시 재활성화, 수혈·장기이식 시 감염원
 모니터링 대상항암·rituximab·이식 환자에서 HBV DNA + ALT 추적
 예방 약물고위험 면역억제 시 TDF/ETV 사전 투여
 
@@ -1663,7 +1663,7 @@ anti-HBs < 10 mIU/mL — 무반응. 추가 시리즈 필요
 
 ## 자주 묻는 질문
 
-어렸을 때 맞은 B형간염 백신, 지금도 효과 있나요?대부분의 경우 평생 면역 기억이 유지되는 것으로 봅니다. 한국은 1995년부터 신생아 국가 예방접종에 포함되어 있어 1995년 이후 출생자는 거의 모두 백신 면역을 가지고 있습니다. 항체(anti-HBs) 수치가 시간이 지나면서 떨어져 검사상 음성으로 보일 수 있지만, B형간염 바이러스 노출 시 빠른 부스트 반응으로 보호됩니다(Bruce J Infect Dis 2016, 30년 추적 연구). 다만 다음 환자는 항체 검사로 확인이 필요합니다: 의료기관 종사자, 혈액투석 환자, 면역저하 환자(HIV, 항암치료, 장기이식 후), B형간염 환자의 가족·성 파트너. 일반인은 검사 없이도 안심할 수 있습니다.
+어렸을 때 맞은 B형간염 백신, 지금도 효과 있나요?대부분의 경우 평생 면역 기억이 유지되는 것으로 봅니다. 한국은 1995년부터 신생아 국가 예방접종에 포함되어 있어 1995년 이후 출생자는 거의 모두 백신 면역이 있습니다. 항체(anti-HBs) 수치가 시간이 지나면서 떨어져 검사상 음성으로 보일 수 있지만, B형간염 바이러스 노출 시 빠른 부스트 반응으로 보호됩니다(Bruce J Infect Dis 2016, 30년 추적 연구). 다만 다음 환자는 항체 검사로 확인이 필요합니다: 의료기관 종사자, 혈액투석 환자, 면역저하 환자(HIV, 항암치료, 장기이식 후), B형간염 환자의 가족·성 파트너. 일반인은 검사 없이도 안심할 수 있습니다.
 
 3차까지 다 맞았는데 항체가 안 생겨요. 어떻게 하나요?무반응자(non-responder)는 약 5-10%에서 발생합니다. 위험 인자: 고령, 비만(피하지방 두꺼우면 백신 효과 ↓), 흡연, 면역저하, 혈액투석, 만성 질환 동반됩니다. 다음 단계: 1) 한 차례 더 3회 시리즈 반복(0/1/6개월) — 두 번째 시리즈에서 약 30-50%가 추가로 반응, 2) 여전히 무반응이면 2배 용량 백신(40 μg) 시도, 3) 새로운 보조제 백신(HepB-CpG 또는 Heplisav-B) 시도, 4) 면역저하가 원인이면 면역 회복 후 재시도. 두 차례 시리즈 후에도 무반응이면 "true non-responder"로 분류되며 노출 시 면역글로불린(HBIG)으로 보호합니다. 진료의와 상의해 시기·방법을 결정합니다.
 
@@ -1779,7 +1779,7 @@ _비활동성 B형간염 보균자가 큰 수술·면역억제 시술을 앞두�
 
 ## 위험 단계 분류
 
-위험약/시술권고고위험 (>10%)Rituximab, 골수이식, 고용량 스테로이드 ≥ 4주예방 항바이러스제 필수중위험 (1-10%)항암화학요법, anti-TNF, JAK 억제제예방 권장저위험 (<1%)짧은 스테로이드, MTX, 일반 수술모니터, 재활성화 시 즉시 약
+위험약·시술권고고위험 (>10%)Rituximab, 골수이식, 고용량 스테로이드 ≥ 4주예방 항바이러스제 필수중위험 (1-10%)항암화학요법, anti-TNF, JAK 억제제예방 권장저위험 (<1%)짧은 스테로이드, MTX, 일반 수술모니터, 재활성화 시 즉시 약
 
 ## 평가 흐름
 
@@ -1921,7 +1921,7 @@ HBsAg 양성 또는 (HBsAg 음성 + anti-HBc 양성)이면 다음 단계로 갑�
 
 위험에 따라 시작 시점·약물·기간이 결정됩니다.
 
-HBsAg 양성 + 고/중위험 약물 - 면역억제 시작 1–2주 전 또는 동시에 항바이러스제 시작 (테노포비어 DF(TDF)·테노포비어 AF(TAF)·엔테카비어(ETV) 1선)
+HBsAg 양성 + 고·중위험 약물 - 면역억제 시작 1–2주 전 또는 동시에 항바이러스제 시작 (테노포비어 DF(TDF)·테노포비어 AF(TAF)·엔테카비어(ETV) 1선)
 HBsAg 음성 + anti-HBc 양성 + 고위험 약물 - 예방적 약물 또는 1–3개월마다 HBsAg/HBV DNA 추적
 중단 시점 - 면역억제 종료 후 6–12개월 (리툭시맙·조혈모세포이식 후엔 12개월 이상)
 중단 후 추적 - 6–12개월 동안 ALT·HBV DNA 매월 - 지연 재활성화 감시
@@ -1955,7 +1955,7 @@ IL-6 억제제Tocilizumab중간낮음
 
  혈액종양내과·소화기내과 협진 트리거 — 림프종·다발성골수종 진단 시 자동으로 HBsAg/anti-HBc 검사합니다. 양성이면 간내과 의뢰가 표준 워크플로우.
 
- 예방 약 1차 선택 — 국내에서는 entecavir(바라크루드) 또는 tenofovir(비리어드/베믈리디)가 가장 자주 처방합니다. 보험 심사는 면역억제·항암 적응증으로 가능합니다.
+ 예방 약 1차 선택 — 국내에서는 entecavir(바라크루드) 또는 tenofovir(비리어드·베믈리디)가 가장 자주 처방합니다. 보험 심사는 면역억제·항암 적응증으로 가능합니다.
 
  장기 면역억제 + 신기능 우려 — 류마티스·이식 환자에서 TAF가 신기능 보존 측면에서 선호됩니다.
 
@@ -2092,7 +2092,7 @@ _B형간염 항바이러스제(TDF·TAF·엔테카비르)를 언제 시작하고
 ## 장기 복용 시 점검할 것 (1년에 한 번)
 
  
- 신기능 — eGFR, 단백뇨/혈뇨. TDF 사용 시 매 6~12개월. eGFR < 60 또는 단백뇨 진행 시 TAF·ETV 전환 검토.
+ 신기능 — eGFR, 단백뇨·혈뇨. TDF 사용 시 매 6~12개월. eGFR < 60 또는 단백뇨 진행 시 TAF·ETV 전환 검토.
 
  골밀도(DEXA) — TDF 장기 복용·고령·폐경 후 여성에서 2~3년에 1회. T-score < -2.5이면 TAF 전환 검토 + 칼슘·비타민 D 보충.
 
@@ -2334,7 +2334,7 @@ HBsAg 양성으로 "보균자"이지만 모두가 즉시 치료가 필요한 것
 
 1단계 — HBV 활동성 평가HBeAg, anti-HBe, HBV DNA, ALT 추세
 2단계 — 간 손상 정도혈소판, 알부민, Fibroscan, 초음파
-3단계 — 치료 적응증 결정활동성 + DNA ≥ 2,0 IU/mL0 IU/mL0 또는 진행 섬유화·간경변 시 항바이러스제(엔테카비어/테노포비어 DF/AF)
+3단계 — 치료 적응증 결정활동성 + DNA ≥ 2,0 IU/mL0 IU/mL0 또는 진행 섬유화·간경변 시 항바이러스제(엔테카비어·테노포비어 DF/AF)
 4단계 — 가족 검사 권유부모·형제·배우자·자녀에게 HBsAg/anti-HBs 검사
 5단계 — 간암 검진 시작40세 이상 남성/50세 이상 여성, 또는 진행 섬유화 시 6개월마다 초음파+AFP+PIVKA-II
 
@@ -2750,7 +2750,7 @@ _건강검진 초음파에서 혹이 보였어요 — 외래에서 어떻게 진
 
 ## 자주 묻는 질문
 
-간에 혹이 보였다는 말을 들으면 무조건 암을 의심해야 하나요?아닙니다. 위험 인자가 없는 분에서 우연히 발견된 간 결절의 70~90%는 양성이며, 가장 흔한 양성 결절은 혈관종(약 5%), 단순 낭종(약 5%), FNH(국소 결절성 과증식, 0.5~1%), 선종(드뭄) 순입니다. 다만 영상 종류와 화질에 따라 양성/악성 감별이 모호한 경우가 있어 한 번은 정밀 영상으로 확인이 필요합니다. 외래에서 표준은 가돌리늄 조영 MRI로, 동맥기·문맥기·지연기 패턴을 보면서 거의 모든 양성 종양이 영상 패턴만으로 진단됩니다. B형간염·C형간염·간경변·만성 음주력 같은 위험 인자가 있는 환자분에서 발견된 1 cm 이상의 결절은 간세포암 가능성을 더 적극적으로 의심하므로 영상 + AFP/PIVKA-II로 빠른 정리가 필요합니다.
+간에 혹이 보였다는 말을 들으면 무조건 암을 의심해야 하나요?아닙니다. 위험 인자가 없는 분에서 우연히 발견된 간 결절의 70~90%는 양성이며, 가장 흔한 양성 결절은 혈관종(약 5%), 단순 낭종(약 5%), FNH(국소 결절성 과증식, 0.5~1%), 선종(드뭄) 순입니다. 다만 영상 종류와 화질에 따라 양성·악성 감별이 모호한 경우가 있어 한 번은 정밀 영상으로 확인이 필요합니다. 외래에서 표준은 가돌리늄 조영 MRI로, 동맥기·문맥기·지연기 패턴을 보면서 거의 모든 양성 종양이 영상 패턴만으로 진단됩니다. B형간염·C형간염·간경변·만성 음주력 같은 위험 인자가 있는 환자분에서 발견된 1 cm 이상의 결절은 간세포암 가능성을 더 적극적으로 의심하므로 영상 + AFP/PIVKA-II로 빠른 정리가 필요합니다.
 
 CT를 꼭 찍어야 하나요?초음파만으로 결절의 성격을 명확히 가리기는 어려운 경우가 많아 동적 CT 또는 EOB-MRI 같은 정밀 영상이 표준입니다. 위험 인자가 없고 영상 패턴이 명확한 양성종양(예: 혈관종)이라면 추적 영상만으로도 충분할 수 있습니다.
 
@@ -3241,7 +3241,7 @@ _황달이 생겼어요 — 외래에서 어떻게 진료받게 되는지 단계
 
 황달이 보이면 무조건 응급실에 가야 하나요?급격히 진행하거나 발열·복통·의식 변화가 동반되면 즉시 응급실로 가야 합니다. 서서히 진행되고 동반 증상이 없는 경증 황달은 며칠 내 외래 평가도 가능하지만 빠르게 진료받는 것이 안전합니다.
 
-바닐라 아이스크림처럼 보일 정도의 옅은 황달도 의미가 있나요?네, 옅게라도 보이는 황달은 항상 평가 대상입니다. 정상 총빌리루빈 상한이 약 1.2 mg/dL인데 피부·공막에서 눈으로 황달을 인지하려면 2~3 mg/dL 이상이 되어야 합니다. 즉 "색이 좀 변한 것 같다"는 인상부터 이미 정상의 2~3배 수치라는 뜻이며, 단순히 무시할 만한 수준이 아닙니다. 황달은 (1) 간세포 손상(바이러스 간염·약물성·자가면역), (2) 담즙 흐름 장애(담석·종양·PBC·PSC), (3) 적혈구 파괴 증가(용혈), (4) 빌리루빈 처리 결함(길버트 증후군) 등 매우 다양한 원인에서 나타나므로 첫 외래에서 직접/간접 빌리루빈 분획, ALT·AST·ALP·GGT, 복부 초음파를 한 번에 진행해 원인을 분류합니다. 가렵거나 갈색 소변·점토색 대변이 동반되면 담즙 흐름 장애를 더 강하게 의심합니다.
+바닐라 아이스크림처럼 보일 정도의 옅은 황달도 의미가 있나요?네, 옅게라도 보이는 황달은 항상 평가 대상입니다. 정상 총빌리루빈 상한이 약 1.2 mg/dL인데 피부·공막에서 눈으로 황달을 인지하려면 2~3 mg/dL 이상이 되어야 합니다. 즉 "색이 좀 변한 것 같다"는 인상부터 이미 정상의 2~3배 수치라는 뜻이며, 단순히 무시할 만한 수준이 아닙니다. 황달은 (1) 간세포 손상(바이러스 간염·약물성·자가면역), (2) 담즙 흐름 장애(담석·종양·PBC·PSC), (3) 적혈구 파괴 증가(용혈), (4) 빌리루빈 처리 결함(길버트 증후군) 등 매우 다양한 원인에서 나타나므로 첫 외래에서 직접·간접 빌리루빈 분획, ALT·AST·ALP·GGT, 복부 초음파를 한 번에 진행해 원인을 분류합니다. 가렵거나 갈색 소변·점토색 대변이 동반되면 담즙 흐름 장애를 더 강하게 의심합니다.
 
 본 페이지는 외래 진료의 일반적 흐름을 안내합니다. 실제 진료는 환자 개별 상황에 따라 달라질 수 있습니다.
 
@@ -3960,7 +3960,7 @@ HCV 동반 간외 합병증은 SVR 후 대체로 호전되나 일부는 잔존�
 시점F0~F2F3~F4
 
 SVR12 확인RNA 음성 확인 후 일반 추적으로 전환RNA 음성 확인 + Fibroscan 베이스라인
-6개월증상 점검만 (검사 필수 아님)초음파 + AFP, ALT/AST/혈소판/알부민/PT
+6개월증상 점검만 (검사 필수 아님)초음파 + AFP, ALT/AST/혈소판·알부민/PT
 12개월ALT 1회, 위험군이면 RNA 1회위와 동일 + Fibroscan
 이후 평생일반 검진. 위험군은 매년 RNA매 6개월 초음파+AFP, 매 1~3년 EGD, 매 2년 Fibroscan
 
@@ -4218,7 +4218,7 @@ HCV RNA (PCR) 검사 활동성 감염의 결정적 지표
 
  신기능 (eGFR) — 일부 DAA는 eGFR < 30에서 사용 데이터가 제한적이었으나, 최근에는 안전성 데이터가 축적되고 있습니다.
 
- 간기능 (ALT/AST/ALP/빌리루빈/알부민/INR/혈소판) — Child-Pugh 점수 산출. Child-Pugh B 이상은 protease inhibitor 회피합니다.
+ 간기능 (ALT/AST/ALP/빌리루빈·알부민/INR/혈소판) — Child-Pugh 점수 산출. Child-Pugh B 이상은 protease inhibitor 회피합니다.
 
  간 영상 — 초음파(우선). 간경변 동반 가능성 있으면 CT/MRI로 HCC 동반 여부 확인합니다.
 
@@ -7085,7 +7085,7 @@ SLC5A2 유전자(SGLT2 표적) 변이를 도구로 사용해 평생 SGLT2 활성
 SGLT2 억제제 — Mendelian randomization 인과 추정
 
 SGLT2 표적 변이
-유전적 instrument
+유전 instrument
 →
 
 대사·당뇨 표지
@@ -7093,7 +7093,7 @@ HbA1c·BMI·혈압
 →
 
 간 결과
-MASLD↓ · 간경변·간세포암(HCC)↓
+MASLD↓ · 간경변·HCC↓
 → 인과 효과: SGLT2 억제 ≈ 간 보호 시그널
 관찰 confounding을 줄인 추정. 실제 SGLT2i 사용군 RCT와 일관됨.
 
@@ -7254,7 +7254,7 @@ peptide · 보관 까다로움
 
 Orforglipron — 경구 small-molecule
 매일 1회 알약
-단백질 분해 영향 적음 · 음식·물 자유
+분해 영향 적음 · 음식·물 자유
 
 phase 3 결과 체중·HbA1c 감소가 주사형과 비슷한 수준 — MASLD/MASH 적용 가능성
 
@@ -8231,7 +8231,7 @@ Newsome PN, Buchholtz K, Cusi K, et al. A Placebo-Controlled Trial of Subcutaneo
 
 대상: 조직학적 확진 NASH (NAS ≥4) + F1-F3 섬유화
 n: 320명 (semaglutide 0.1, 0.2, 0.4 mg/일 + 위약, 3:3:3:1)
-투약: 피하 매일 72주 (현재 위고비/오젬픽은 주 1회)
+투약: 피하 매일 72주 (현재 위고비·오젬픽은 주 1회)
 주된 평가지표: 72주 시점 NASH 해결 + 섬유화 악화 없음
 주요 2차: ≥1단계 섬유화 호전 + NASH 악화 없음, 체중 변화
 
@@ -8984,7 +8984,7 @@ HBV 복제 주기 — TDF·ETV·TAF는 모두 reverse transcriptase 단계를 �
 
 항바이러스제 switch와 HCC 위험
 
-ETV 또는 TAF 유지
+ETV·TAF 유지
 기준
 HCC 위험
 →
@@ -9814,7 +9814,7 @@ _간경변에서 대상성과 비대상성을 가르는 4가지 합병증(복수
 
 비대상성이면 5년 생존율이 어떻게 되나요?단계에 따라 큰 차이가 납니다. 대상성 간경변은 5년 생존율 80-90%로 비교적 안정적이지만 비대상성으로 진입하면 50% 이하로 떨어지고, 반복 합병증이 누적되면 30% 미만이 됩니다. 어떤 합병증이 첫 신호였는지에 따라서도 차이가 납니다 — 복수가 첫 합병증인 경우 5년 생존 약 50%, 정맥류 출혈이 첫 합병증인 경우 약 35%, 간성혼수나 황달이 첫 신호이면 더 낮습니다. 또한 첫 합병증 발생 시점부터 두 번째 합병증까지의 시간이 짧을수록 예후가 나쁩니다. 다만 이 수치는 평균이며, 원인 질환 치료가 잘 되거나 간이식을 받으면 개별 환자 예후는 크게 달라집니다.
 
-식도정맥류 출혈은 위험한 신호인가요?매우 위험한 신호입니다. 한 번 출혈하면 6주 이내 사망률이 약 15-20%, 1년 이내 재출혈 위험이 60% 이상으로 보고됩니다. 응급실에서 첫 24시간이 가장 중요하며, 혈역학적 안정화·내시경 결찰술·테르리프레신/옥트레오타이드 같은 vasoactive 약물·예방적 항생제(세프트리악손)가 표준 1차 처치입니다. 출혈에서 회복된 후에는 비선택적 베타차단제(카베디롤·프로프라놀롤)와 내시경 결찰술의 병합으로 2차 예방을 시행하며, 둘 중 하나만 사용하는 것보다 재출혈을 의미 있게 줄입니다. 고위험 환자에서는 경경정맥 간내 문맥대정맥 단락술(TIPS)를 조기에 고려합니다.
+식도정맥류 출혈은 위험한 신호인가요?매우 위험한 신호입니다. 한 번 출혈하면 6주 이내 사망률이 약 15-20%, 1년 이내 재출혈 위험이 60% 이상으로 보고됩니다. 응급실에서 첫 24시간이 가장 중요하며, 혈역학적 안정화·내시경 결찰술·테르리프레신·옥트레오타이드 같은 vasoactive 약물·예방적 항생제(세프트리악손)가 표준 1차 처치입니다. 출혈에서 회복된 후에는 비선택적 베타차단제(카베디롤·프로프라놀롤)와 내시경 결찰술의 병합으로 2차 예방을 시행하며, 둘 중 하나만 사용하는 것보다 재출혈을 의미 있게 줄입니다. 고위험 환자에서는 경경정맥 간내 문맥대정맥 단락술(TIPS)를 조기에 고려합니다.
 
 간경변인데 합병증이 한 번도 없었어요. 그래도 추적이 필요한가요?필요합니다. 대상성 단계에서도 정기 추적이 비대상성 진입을 늦추고 합병증을 조기 발견하는 핵심입니다. 표준 추적 일정: 6개월마다 간암 검진(복부 초음파 + AFP, B형간염·간경변 환자는 PIVKA-II 추가), 1-3년마다 식도정맥류 평가 내시경(LSM ≤20 kPa + 혈소판 ≥150,000이면 Baveno VII 기준에 따라 생략 가능), 매년 간 기능 검사·영양 평가·약물 점검합니다. 동시에 원인 질환 치료(B형간염 항바이러스제, C형간염 DAA 완치, 알코올 금주, MASH 체중 관리), 백신(A형간염·폐렴구균·인플루엔자), 약물 회피(NSAIDs·일부 한약·진정제)도 함께 합니다.
 
@@ -9893,7 +9893,7 @@ Grade 3 (중증) — 배가 팽팽하게 늘어나고 호흡 곤란. 즉시 치�
 스피로놀락톤푸로세미드체중 감소 목표
 
 100 mg40 mg0.5 kg/일 (부종 시 1 kg)
-200 mg80 mg유지/증량 결정
+200 mg80 mg유지·증량 결정
 300 mg120 mg최대 용량 근접
 400 mg160 mg최대치 — 난치성 평가
 
@@ -12073,7 +12073,7 @@ ALT가 가장 "간 특이적"이라는 사실이 핵심입니다. AST가 단독�
 
 ## AST/ALT 비율로 보는 패턴
 
-ALT > AST: 비알코올성/대사이상 지방간(MASLD) 패턴이 가장 흔합니다.
+ALT > AST: 비알코올성·대사이상 지방간(MASLD) 패턴이 가장 흔합니다.
 
 AST > 2 × ALT (De Ritis ratio > 2): 알코올성 간질환의 전형 패턴입니다. 진행된 간경변에서도 동일 패턴이 나타날 수 있습니다.
 
@@ -13033,7 +13033,7 @@ Milan 기준 밖에서 직접 이식중간~고위험
 
  표준 군 — 첫 2년 6개월 간격, 이후 매년.
 
- 면역억제 조정 — mTOR 억제제(시롤리무스/에베롤리무스) 전환을 고위험 환자에서 검토합니다. 종양 재발 감소 가능성이 있습니다.
+ 면역억제 조정 — mTOR 억제제(시롤리무스·에베롤리무스) 전환을 고위험 환자에서 검토합니다. 종양 재발 감소 가능성이 있습니다.
 
  재발 시 — 위치·범위에 따라 절제·SBRT·SRT·면역치료 검토합니다. 이식 후 면역억제 중에도 면역치료 사용 가능 (다학제 결정).
 
@@ -13830,7 +13830,7 @@ LR-5에서는 영상만으로 HCC 진단이 확정되어 조직검사 없이 치
 
 종양 평가4상 동적 CT 또는 MRI, AFP, PIVKA-II(DCP)BCLC 단계 결정, 치료 옵션 좁히기
 전이 평가흉부 CT, 뼈 스캔(증상 있을 때), PET-CT(필요 시)BCLC C 여부, 면역치료 결정
-간 기능AST/ALT/ALP/GGT/총·직접 빌리루빈/알부민/INR/혈소판Child-Pugh 점수, 절제·이식 가능성
+간 기능AST/ALT/ALP/GGT/총·직접 빌리루빈·알부민/INR/혈소판Child-Pugh 점수, 절제·이식 가능성
 HBV·HCV 평가HBsAg, anti-HBs, anti-HBc, HBV DNA, anti-HCV (필요 시 HCV RNA)항바이러스제 시작·조정, 재활성화 예방
 신·심장 평가eGFR, 심초음파 (절제·이식·전신치료 예정 시), 심전도치료 안전성, ICI 심독성 베이스라인
 출혈·정맥류EGD (베바시주맙·LDLT 평가 시 필수), 혈소판·INR면역치료 옵션 결정, 출혈 위험 평가
@@ -13942,7 +13942,7 @@ SBRT (체부 정위 방사선) — 3–5회 고선량 분할. 절제 곤란한 �
 
 한 환자에서 어느 옵션이 적합한가는 다음으로 결정됩니다.
 
-종양 — 단일/다발, 크기, 위치(중심부 vs 표면), 혈관 침범
+종양 — 단일·다발, 크기, 위치(중심부 vs 표면), 혈관 침범
 간 기능 — Child-Pugh, ALBI, 빌리루빈, HVPG
 잔여 간 부피 (절제 후 간부전 예측)
 환자 — 나이, 동반 질환, 출혈 위험, 환자 선호
@@ -14629,7 +14629,7 @@ _간 낭종 관리 — 관찰부터 흡인·경화요법까지 — 간 양성종
 
 작성일 2025년 12월 17일
 
-핵심 요약대부분의 단순 낭종은 무증상으로 추적만 합니다. 크기 ≥ 5~10 cm + 압박 증상(복부 팽만·소화불량·우상복부 통증)이 있으면 시술을 검토합니다. 단순 천자만 하면 100% 재발하므로 경피적 흡인 후 경화요법(PAS)이 표준이며, 경화제는 ethanol·bleomycin·minocycline·polidocanol 등을 씁니다. 다낭성 간질환(PCLD), 낭선종/낭선암(cystadenoma/cystadenocarcinoma), echinococcal cyst는 별개의 접근이 필요합니다.
+핵심 요약대부분의 단순 낭종은 무증상으로 추적만 합니다. 크기 ≥ 5~10 cm + 압박 증상(복부 팽만·소화불량·우상복부 통증)이 있으면 시술을 검토합니다. 단순 천자만 하면 100% 재발하므로 경피적 흡인 후 경화요법(PAS)이 표준이며, 경화제는 ethanol·bleomycin·minocycline·polidocanol 등을 씁니다. 다낭성 간질환(PCLD), 낭선종·낭선암(cystadenoma/cystadenocarcinoma), echinococcal cyst는 별개의 접근이 필요합니다.
 
 ## 먼저 가르기 — 단순 낭종 vs 복잡 낭종 vs 낭성 종양
 
@@ -14676,7 +14676,7 @@ Echinococcal cyst (포낭성)딸 낭종, 석회화, 위험 노출력 있음혈�
 
  안전한 접근 경로 — 주요 혈관·담관과 떨어진 위치, 시술 가능한 깊이.
 
-복합 낭종, 낭선종/낭선암 의심, echinococcal 의심 시에는 시술 전 정밀 평가(MRI/CT, 혈청 검사, 종양 표지자)가 필요합니다. 낭선종에 PAS를 시행하면 종양 파종으로 매우 위험합니다.
+복합 낭종, 낭선종·낭선암 의심, echinococcal 의심 시에는 시술 전 정밀 평가(MRI/CT, 혈청 검사, 종양 표지자)가 필요합니다. 낭선종에 PAS를 시행하면 종양 파종으로 매우 위험합니다.
 
 ## PAS (Percutaneous Aspiration-Sclerotherapy) — 표준 시술
 
@@ -14773,7 +14773,7 @@ PCLD는 종종 ADPKD(autosomal dominant polycystic kidney disease)와 동반됩�
 
 시술 후 다시 커지지 않나요?일부 환자(약 10~30%)에서 시술 후 일부 재발이 있습니다. 대부분 처음 크기보다 작은 부분 재발이며, 증상이 다시 생기면 PAS 추가 또는 fenestration 검토합니다. 매우 큰 낭종이나 다낭성 환자분은 절제 또는 fenestration이 더 효과적일 수 있습니다.
 
-낭종이 암으로 변할 수 있나요?전형적 단순 낭종은 악성 변화를 거의 하지 않습니다. 다만 영상에서 격막·결절·벽 두꺼워짐·조영 증강이 보이면 낭선종/낭선암을 감별해야 합니다. 낭선종은 악성 변화 위험이 있어 표준 치료가 전절제입니다. 첫 영상에서 단순 낭종으로 명확히 분류되면 매년 종양 검진은 필요하지 않습니다.
+낭종이 암으로 변할 수 있나요?전형적 단순 낭종은 악성 변화를 거의 하지 않습니다. 다만 영상에서 격막·결절·벽 두꺼워짐·조영 증강이 보이면 낭선종·낭선암을 감별해야 합니다. 낭선종은 악성 변화 위험이 있어 표준 치료가 전절제입니다. 첫 영상에서 단순 낭종으로 명확히 분류되면 매년 종양 검진은 필요하지 않습니다.
 
 낭종이 있어도 임신할 수 있나요?네, 대부분 안전합니다. 임신 중 호르몬으로 약간 커지는 경우는 있으나 의미 있는 합병증은 드뭅니다. 다낭성 간질환·매우 큰 단일 낭종(15 cm 이상)은 산부인과·간내과 협진으로 추적합니다.
 
@@ -15003,7 +15003,7 @@ HCA6~12개월 영상 + 위험 요인 제거 (경구피임약 중단, 체중 감�
 
  건강검진 초음파에서 "간 혹" — 보고서에 결절 크기와 모양만 적힌 경우입니다. 영상 자체를 보거나 동적 영상(CT·MRI) 추가가 필요합니다. 1~2개월 내 외래 의뢰 권유.
 
- 대학병원 의뢰 후 MRI 검사 — 보통 한 번에 양성/악성 분류가 가능합니다. 결과 외래에서 추적 일정 결정합니다.
+ 대학병원 의뢰 후 MRI 검사 — 보통 한 번에 양성·악성 분류가 가능합니다. 결과 외래에서 추적 일정 결정합니다.
 
  "악성 가능성 0%인지 확신해 주세요" — 영상 진단의 신뢰도가 매우 높지만 100%는 아닙니다. 전형적 영상이면 99%+ 양성입니다. 환자에게는 "비전형적 변화가 보이면 다시 평가한다"는 약속으로 설명합니다.
 
@@ -15293,7 +15293,7 @@ MASLD에서 진행을 가속하는 주된 인자는 — 2형 당뇨, 비만(특�
 
 MASLD는 NAFLD보다 더 위험한가요?아니요, 같은 질환의 새 이름입니다. 임상 진행 위험·치료 권고는 동일합니다. 새 명명은 다음 이유로 도입되었습니다: 1) "비-알코올성"이라는 부정형 정의가 "음주 환자에서 대사 이상도 있는" 환자(MetALD) 평가를 어렵게 함, 2) "지방"이라는 단어의 stigma 우려, 3) "대사 양성형" 정의로 진단·연구를 명확히 함. MASLD 진단 기준은 NAFLD보다 약간 다릅니다 — 영상에서 지방간 + 대사 위험 1개 이상입니다. 따라서 일부 환자(영상 지방간이지만 대사 위험 없는)는 NAFLD였다가 MASLD가 아닌 다른 카테고리("단순 지방간")로 분류되기도 합니다.
 
-술도 마시고 당뇨도 있는데 어떤 진단인가요?MetALD(MASLD with increased alcohol intake)에 해당합니다. 새 명명에서 "적당한 음주 + 대사 이상" 환자를 위한 별도 카테고리로 추가되었습니다. 기준: MASLD 진단(영상 지방간 + 대사 위험) + 음주(남자 일주일 140-350g, 여자 70-210g, 약 7-25 잔/주). 그 이상 음주는 ALD(alcohol-related liver disease)로 분류합니다. MetALD는 두 원인이 동시에 작용하므로 진행·간암 위험이 높을 수 있어 양쪽 모두 적극 관리: 음주 줄이기/끊기, 체중 감량, 동반 당뇨·이상지질혈증 치료합니다. "음주 적당량인데 당뇨 있음" 환자가 일상에서 흔히 마주치는 상황입니다.
+술도 마시고 당뇨도 있는데 어떤 진단인가요?MetALD(MASLD with increased alcohol intake)에 해당합니다. 새 명명에서 "적당한 음주 + 대사 이상" 환자를 위한 별도 카테고리로 추가되었습니다. 기준: MASLD 진단(영상 지방간 + 대사 위험) + 음주(남자 일주일 140-350g, 여자 70-210g, 약 7-25 잔/주). 그 이상 음주는 ALD(alcohol-related liver disease)로 분류합니다. MetALD는 두 원인이 동시에 작용하므로 진행·간암 위험이 높을 수 있어 양쪽 모두 적극 관리: 음주 줄이기·끊기, 체중 감량, 동반 당뇨·이상지질혈증 치료합니다. "음주 적당량인데 당뇨 있음" 환자가 일상에서 흔히 마주치는 상황입니다.
 
 MetALD는 치료가 다른가요?치료 원칙은 비슷하지만 음주 관리가 추가로 중요합니다. MASLD 표준 권고(체중 감량 7-10%, 지중해식, 운동, 동반 질환 치료) + 음주 절제 또는 금주. 음주가 간 진행에 추가 위험을 만들기 때문입니다. 일부 약물(GLP-1, resmetirom)의 효과·안전성에 대한 MetALD 특이 데이터는 누적 중입니다. 진행 평가는 더 적극적으로 — Fibroscan 1년 간격, 진행 신호 시 정밀 평가합니다. 음주 패턴 평가에는 AUDIT 설문이 도움이 되며, 의존도가 있다면 정신건강의학·중독 전문 협진을 권합니다.
 
@@ -15309,7 +15309,7 @@ European Association for the Study of the Liver, et al. EASL-EASD-EASO Clinical 
 
 Tilg H, Petta S, Stefan N, Targher G. Metabolic Dysfunction–Associated Steatotic Liver Disease in Adults. JAMA. 2026.
 
-American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만/심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
+American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만·심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
 
 Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
 
@@ -15705,7 +15705,7 @@ Eslam M, El-Serag HB, Francque S, et al. Metabolic (dysfunction)-associated fatt
 
 Tilg H, Petta S, Stefan N, Targher G. Metabolic Dysfunction–Associated Steatotic Liver Disease in Adults. JAMA. 2026.
 
-American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만/심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
+American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만·심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
 
 Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
 
@@ -15825,7 +15825,7 @@ EVL (정맥류 결찰)일반적으로 안전—
 
 ## 자주 묻는 질문
 
-알부민이 3.0인데 위험한가요?의미 있는 감소이지만 해석은 환자 맥락에 따라 다릅니다. 알부민 감소의 원인은 여러 가지입니다: 간 합성능 저하(만성 간 질환), 단백 손실(단백뇨·장 단백 손실), 영양실조, 만성 염증, 심부전·간경변에 동반된 dilution(체액 과다). 따라서 알부민 단독으로 "간이 나쁘다"고 단정하지 않고, 함께 봐야 할 검사: 소변 단백/크레아티닌 비, 신기능, 간 효소, 영양 평가(체중 변화·식이 일지·근감소증 평가), 만성 염증 마커. 간질환 환자에서 알부민 < 3.5는 Child-Pugh 점수에 반영되며 진행 신호로 평가됩니다.
+알부민이 3.0인데 위험한가요?의미 있는 감소이지만 해석은 환자 맥락에 따라 다릅니다. 알부민 감소의 원인은 여러 가지입니다: 간 합성능 저하(만성 간 질환), 단백 손실(단백뇨·장 단백 손실), 영양실조, 만성 염증, 심부전·간경변에 동반된 dilution(체액 과다). 따라서 알부민 단독으로 "간이 나쁘다"고 단정하지 않고, 함께 봐야 할 검사: 소변 단백·크레아티닌 비, 신기능, 간 효소, 영양 평가(체중 변화·식이 일지·근감소증 평가), 만성 염증 마커. 간질환 환자에서 알부민 < 3.5는 Child-Pugh 점수에 반영되며 진행 신호로 평가됩니다.
 
 간경변인데 알부민이 정상이면 안심해도 되나요?대상성 단계라는 좋은 신호이지만 완전한 안심은 어렵습니다. 알부민이 정상이어도 간경변 합병증(정맥류·간세포암 등)은 별도로 발생할 수 있어 정기 추적이 필요합니다. 또한 알부민은 반감기가 약 20일로 "느린" 지표라 갑작스런 변화는 즉시 반영되지 않습니다. 종합 평가 항목: AST·ALT·빌리루빈·PT(INR), 혈소판, 영상(초음파·Fibroscan), 6개월 간암 검진합니다. 한 검사가 정상이어도 다른 신호(혈소판 < 150K, FIB-4 ≥ 2.67, 영상 변화)가 있으면 진행 단계 평가가 필요합니다.
 
@@ -17080,7 +17080,7 @@ IgG> 정상상한 (× 1.0)1
 
 첫 외래에서 한 번에 다음을 다 나가야 두 번째 외래까지 시간을 벌 수 있습니다.
 
- 간기능 — AST/ALT/ALP/GGT/총·직접 빌리루빈/알부민/PT(INR)
+ 간기능 — AST/ALT/ALP/GGT/총·직접 빌리루빈·알부민/PT(INR)
 
  면역 — IgG(정량), ANA, ASMA, anti-LKM-1, AMA(PBC overlap 평가), anti-SLA/LP
 
@@ -17887,7 +17887,7 @@ BMI보다 허리둘레·복부 지방이 더 의미
 
 ## 자주 묻는 질문
 
-BMI가 22인데 지방간이 있을 수 있나요?네, 가능합니다. 동양인 lean MASLD 기준(BMI < 23)에 해당하며, 약 10-25%의 lean 한국인에서 영상에서 지방간이 발견됩니다. 정상 BMI라도 복부 비만(허리둘레 남 ≥ 90 cm, 여 ≥ 85 cm), 인슐린 저항성, 지질대사 이상, PNPLA3 등 유전 변이가 있으면 지방간이 생깁니다. 한국 식단 특성상 정제 탄수화물·과당 비율이 높은 것도 기여 인자입니다. "마르니까 지방간 아니다"는 인식이 가장 흔한 오해이며, 50세 이상 + 당뇨/고지혈증 동반 시 평가가 권장됩니다.
+BMI가 22인데 지방간이 있을 수 있나요?네, 가능합니다. 동양인 lean MASLD 기준(BMI < 23)에 해당하며, 약 10-25%의 lean 한국인에서 영상에서 지방간이 발견됩니다. 정상 BMI라도 복부 비만(허리둘레 남 ≥ 90 cm, 여 ≥ 85 cm), 인슐린 저항성, 지질대사 이상, PNPLA3 등 유전 변이가 있으면 지방간이 생깁니다. 한국 식단 특성상 정제 탄수화물·과당 비율이 높은 것도 기여 인자입니다. "마르니까 지방간 아니다"는 인식이 가장 흔한 오해이며, 50세 이상 + 당뇨·고지혈증 동반 시 평가가 권장됩니다.
 
 체중을 빼야 하나요? 지금도 마른데?이미 정상 체중이면 적극적 감량보다 식이 질 개선·운동·근육량 유지가 우선입니다. 정상 BMI에서 7-10% 감량은 영양실조·근감소증 위험이 있어 권장되지 않습니다. 대신 다음에 집중하세요: 정제 탄수화물·과당 음료 줄이기, 지중해식 식단 패턴(채소·통곡물·올리브유·생선), 근력 운동 주 2-3회(저항 운동으로 근육량 보존), 동반 당뇨·이상지질혈증 적극 치료합니다. 식이 질·근육량 개선만으로도 lean MASLD가 호전된 사례가 임상에서 흔합니다. 영양사 상담이 도움이 됩니다.
 
@@ -17909,7 +17909,7 @@ Rinella ME, Neuschwander-Tetri BA, Siddiqui MS, et al. AASLD Practice Guidance o
 
 Tilg H, Petta S, Stefan N, Targher G. Metabolic Dysfunction–Associated Steatotic Liver Disease in Adults. JAMA. 2026.
 
-American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만/심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
+American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만·심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
 
 Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
 
@@ -17974,7 +17974,7 @@ Rinella ME, et al. A multisociety Delphi consensus statement on new fatty liver 
 
 Tilg H, Petta S, Stefan N, Targher G. Metabolic Dysfunction–Associated Steatotic Liver Disease in Adults. JAMA. 2026.
 
-American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만/심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
+American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만·심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
 
 Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
 
@@ -18040,7 +18040,7 @@ MASH 진행 또는 섬유화 의심
 환자 특성권장 옵션
 
 비만 + MASH 의심GLP-1 (세마글루타이드 등)
-심부전 동반SGLT2 (다파/엠파)
+심부전 동반SGLT2 (다파·엠파)
 만성 신장 질환SGLT2 우선
 둘 다 적응조합 사용 검토
 체중 정상 + 단순 당뇨메트포르민 + DPP-4 또는 SU
@@ -18091,7 +18091,7 @@ ElSayed NA, Aleppo G, Aroda VR, et al. 9. Pharmacologic Approaches to Glycemic T
 
 Tilg H, Petta S, Stefan N, Targher G. Metabolic Dysfunction–Associated Steatotic Liver Disease in Adults. JAMA. 2026.
 
-American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만/심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
+American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만·심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
 
 Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
 
@@ -18194,7 +18194,7 @@ Singal AG, Llovet JM, Yarchoan M, et al. AASLD Practice Guidance on prevention, 
 
 Tilg H, Petta S, Stefan N, Targher G. Metabolic Dysfunction–Associated Steatotic Liver Disease in Adults. JAMA. 2026.
 
-American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만/심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
+American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만·심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
 
 Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
 
@@ -18227,7 +18227,7 @@ _고도 비만 MASLD 환자에서 비만 수술의 효과 — 체중 25~30% 감�
 대표 적응 BMI≥35 + MASH/섬유화 또는 ≥40
 주의 사항간경변 환자에서 출혈·간기능 악화 위험 ↑ → Child-Pugh A에 한정 검토
 수술 종류슬리브 위절제 (가장 흔함), 위우회 (당뇨 동반 시 우선)
-장기 약물 단축당뇨·고혈압 약 감량/중단 흔함
+장기 약물 단축당뇨·고혈압 약 감량·중단 흔함
 
 ## 적응증
 
@@ -18262,7 +18262,7 @@ Lassailly G, et al. Bariatric surgery provides long-term resolution of nonalcoho
 
 Tilg H, Petta S, Stefan N, Targher G. Metabolic Dysfunction–Associated Steatotic Liver Disease in Adults. JAMA. 2026.
 
-American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만/심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
+American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만·심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
 
 Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
 
@@ -18331,7 +18331,7 @@ KASL Korean pediatric NAFLD guidelines.
 
 Tilg H, Petta S, Stefan N, Targher G. Metabolic Dysfunction–Associated Steatotic Liver Disease in Adults. JAMA. 2026.
 
-American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만/심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
+American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만·심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
 
 Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
 
@@ -18398,7 +18398,7 @@ Mesarwi OA, et al. Sleep disordered breathing and NAFLD. Hepatology 2019.
 
 Tilg H, Petta S, Stefan N, Targher G. Metabolic Dysfunction–Associated Steatotic Liver Disease in Adults. JAMA. 2026.
 
-American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만/심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
+American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만·심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
 
 Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
 
@@ -18513,7 +18513,7 @@ Rinella ME, Neuschwander-Tetri BA, Siddiqui MS, et al. AASLD Practice Guidance o
 
 Tilg H, Petta S, Stefan N, Targher G. Metabolic Dysfunction–Associated Steatotic Liver Disease in Adults. JAMA. 2026.
 
-American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만/심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
+American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만·심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
 
 Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
 
@@ -18541,9 +18541,9 @@ MASLD — 심혈관 위험도 stratification
 위험 단계지표관리 전략
 
 저위험F0–F1, 대사위험 0–1개, 정상 지질생활습관 + 1년 추적
-중간위험F2 + 당뇨/고혈압 동반스타틴 시작, BP·HbA1c 목표 강화
+중간위험F2 + 당뇨·고혈압 동반스타틴 시작, BP·HbA1c 목표 강화
 고위험F3–F4 또는 ASCVD 점수 ≥7.5%스타틴 강화, GLP-1·SGLT2 (당뇨), 아스피린 검토
-매우 고위험이전 심근경색/뇌졸중 또는 F4 + 당뇨LDL <55 목표, PCSK9 검토
+매우 고위험이전 심근경색·뇌졸중 또는 F4 + 당뇨LDL <55 목표, PCSK9 검토
 스타틴 안전성MASLD에서 안전 (오히려 간 위험 ↓)ALT <3× ULN이면 시작·지속
 주된 사망원인MASLD 환자에서 심혈관 사망 > 간 사망심혈관 관리가 더 큰 영향
 
@@ -18580,7 +18580,7 @@ AHA Statement: Nonalcoholic Fatty Liver Disease and Cardiovascular Risk. Hepatol
 
 Tilg H, Petta S, Stefan N, Targher G. Metabolic Dysfunction–Associated Steatotic Liver Disease in Adults. JAMA. 2026.
 
-American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만/심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
+American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만·심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
 
 Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
 
@@ -18715,7 +18715,7 @@ European Association for the Study of the Liver, et al. EASL-EASD-EASO Clinical 
 
 Tilg H, Petta S, Stefan N, Targher G. Metabolic Dysfunction–Associated Steatotic Liver Disease in Adults. JAMA. 2026.
 
-American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만/심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
+American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만·심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
 
 Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
 
@@ -18735,7 +18735,7 @@ _FIB-4부터 Fibroscan, MRE, 간생검까지 — 단순 지방간과 진행성 �
 
 작성일 2025년 1월 2일
 
-핵심 요약지방간 + 비만/당뇨/고지혈증/ALT(알라닌 아미노전이효소) 상승 중 하나 이상이면 단순 지방간이 아닌 섬유화 단계까지 평가해야 합니다. FIB-4(Fibrosis-4)가 1차 선별 도구이며, 1.30 미만이면 안전, 2.67 초과면 정밀검사 대상입니다.
+핵심 요약지방간 + 비만·당뇨·고지혈증/ALT(알라닌 아미노전이효소) 상승 중 하나 이상이면 단순 지방간이 아닌 섬유화 단계까지 평가해야 합니다. FIB-4(Fibrosis-4)가 1차 선별 도구이며, 1.30 미만이면 안전, 2.67 초과면 정밀검사 대상입니다.
 
 ## 단순 지방간 vs 지방간염 vs 섬유화
 
@@ -18823,7 +18823,7 @@ Rinella ME, Neuschwander-Tetri BA, Siddiqui MS, et al. AASLD Practice Guidance o
 
 Tilg H, Petta S, Stefan N, Targher G. Metabolic Dysfunction–Associated Steatotic Liver Disease in Adults. JAMA. 2026.
 
-American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만/심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
+American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만·심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
 
 Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
 
@@ -18926,7 +18926,7 @@ Newsome PN, Buchholtz K, Cusi K, et al. A Placebo-Controlled Trial of Subcutaneo
 
 Tilg H, Petta S, Stefan N, Targher G. Metabolic Dysfunction–Associated Steatotic Liver Disease in Adults. JAMA. 2026.
 
-American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만/심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
+American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만·심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
 
 Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
 
@@ -19035,7 +19035,7 @@ Romero-Gómez M, Zelber-Sagi S, Trenell M. Treatment of 비알코올성 지방�
 
 Tilg H, Petta S, Stefan N, Targher G. Metabolic Dysfunction–Associated Steatotic Liver Disease in Adults. JAMA. 2026.
 
-American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만/심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
+American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만·심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
 
 Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
 
@@ -19157,7 +19157,7 @@ Vilar-Gomez E, Martinez-Perez Y, Calzadilla-Bertot L, et al. Weight loss through
 
 Tilg H, Petta S, Stefan N, Targher G. Metabolic Dysfunction–Associated Steatotic Liver Disease in Adults. JAMA. 2026.
 
-American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만/심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
+American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (당뇨·전당뇨 + 비만·심대사 위험인자 환자에서 FIB-4 ≥ 1.3시 elastography·ELF 평가, 위험군은 간 전문의 의뢰 권고)
 
 Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
 
@@ -19700,7 +19700,7 @@ anti-C형간염 바이러스(HCV) 양성 = "과거에 한 번이라도 노출됐
 
 HCV RNA(C형간염 바이러스 양) 정량 (활동성 감염 확인) + genotype
 
-간기능 — AST/ALT/ALP/GGT/총·직접 빌리루빈/알부민/INR/혈소판
+간기능 — AST/ALT/ALP/GGT/총·직접 빌리루빈·알부민/INR/혈소판
 
 B형간염 바이러스(HBV)·HIV — HBsAg(B형간염 표면 항원), anti-HBs(B형간염 보호 항체), anti-HBc(B형간염 core 항체), HIV Ag/Ab
 
@@ -22795,7 +22795,7 @@ ALT/AST 상승 — 첫 외래 감별 패널ALT 95 / AST 80바이러스HBsAg, ant
 
 카테고리검사이유
 
-간 효소 풀AST/ALT/ALP/GGT/총·직접 빌리루빈/알부민/INR/혈소판간세포성 vs 담도성 분류, 합성능 평가
+간 효소 풀AST/ALT/ALP/GGT/총·직접 빌리루빈·알부민/INR/혈소판간세포성 vs 담도성 분류, 합성능 평가
 바이러스HBsAg(B형간염 표면 항원), anti-HBs(B형간염 보호 항체), anti-HBc(B형간염 core 항체), anti-C형간염 바이러스(HCV), anti-HAV IgM, anti-HEV IgM국내 흔한 원인. 한국 56·66세 검진 anti-HCV(C형간염 항체) 도입(2025)
 자가면역ANA(항핵항체), ASMA(항평활근항체), anti-LKM-1, AMA(항미토콘드리아 항체), IgG, IgM자가면역간염(AIH)·원발성담즙성담관염(PBC) overlap 평가
 대사공복 혈당, HbA1c, 지질(LDL·HDL·TG), 체중·허리둘레대사이상지방간(MASLD) 평가
@@ -23912,7 +23912,7 @@ HBeAg(-) 활동성 간염음성중간 (≥ 2,000)상승경계 (현재 ALT 정상
 
 HBeAg(B형간염 e 항원)(+) — DNA ≥ 20,00 IU/mL0 IU/mL + ALT > 2× ULNX (HBeAg 음성)
 HBeAg(-) — DNA ≥ 2,00 IU/mL0 IU/mL + ALT > ULN (지속)경계 (DNA 8,000, ALT 정상이지만 1회만 측정)
-간경변 (보상성/비대상성)X (Fibroscan 5.5 kPa)
+간경변 (보상성·비대상성)X (Fibroscan 5.5 kPa)
 진행 섬유화 (F2 이상)X (현재 평가)
 간암 가족력 (1촌)가족력 미상 — 부모 검사 권유
 면역억제·항암 시작 예정X
