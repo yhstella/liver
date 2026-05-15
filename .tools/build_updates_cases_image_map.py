@@ -4,9 +4,7 @@ import json, pathlib, re, sys, io, os
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-with open(ROOT / 'assets/img/page-generated/manifest.json', encoding='utf-8') as f:
-    pass  # placeholder
-with open(ROOT / '.tools/page_image_mapping.json', encoding='utf-8') as f:
+with open(ROOT / '.tools/page_image_mapping_v2.json', encoding='utf-8') as f:
     base = json.load(f)
 
 
@@ -166,15 +164,25 @@ print(f'\nCases: {len(cases_map)} matched, {len(unmatched_cases)} unmatched')
 for u in unmatched_cases:
     print(f'  UNMATCHED: {u}')
 
-# Combine into final map
+# Combine into final map — but ONLY include if target detail page has v2 images
 combined = {}
+dropped = []
 for url, target_url in {**updates_map, **cases_map}.items():
     if target_url in base:
         combined[url] = {
             'top': base[target_url]['top'],
-            'lower': base[target_url]['lower'],
+            'lower': base[target_url].get('lower'),  # may be None
             'source': target_url,
         }
+    else:
+        dropped.append((url, target_url))
+
+if dropped:
+    print(f'\nDropped (target detail has no v2 image): {len(dropped)}')
+    for u, t in dropped[:5]:
+        print(f'  {u} → {t}')
+    if len(dropped) > 5:
+        print(f'  ... and {len(dropped)-5} more')
 
 with open(ROOT / '.tools/updates_cases_image_mapping.json', 'w', encoding='utf-8') as f:
     json.dump(combined, f, ensure_ascii=False, indent=2)

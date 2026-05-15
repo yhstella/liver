@@ -4,64 +4,16 @@
   <link href="https://drshin.kr/updates/" rel="alternate" type="text/html"/>
   <link href="https://drshin.kr/updates/feed.xml" rel="self" type="application/atom+xml"/>
   <id>https://drshin.kr/updates/</id>
-  <updated>2026-05-15T08:14:08.258740+00:00</updated>
+  <updated>2026-05-15T08:30:00.575291+00:00</updated>
   <subtitle>주요 저널의 hepatology 최신 논문 요약 — 신현재(서울대학교병원 소화기내과·간암센터)</subtitle>
   <author><name>신현재</name><uri>https://drshin.kr/소개/</uri></author>
   <generator>build_updates_rss.py</generator>
   <icon>https://drshin.kr/favicon.png</icon>
   <entry>
-    <title>TDF for HBV in pregnancy</title>
-    <link href="https://drshin.kr/updates/Pan-TDF-pregnancy-HBV-NEJM-2016/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/Pan-TDF-pregnancy-HBV-NEJM-2016/</id>
-    <updated>2026-05-14T11:43:31+09:00</updated>
-    <summary>Pan CQ et al. NEJM 2016. RCT, 200명 HBV DNA 고농도 임산부, 임신 30주부터 TDF가 영아 HBV 감염을 0%로 감소시킨 결정적 시험.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>HIMALAYA</title>
-    <link href="https://drshin.kr/updates/HIMALAYA-durvalumab-tremelimumab-NEJM-Evid-2022/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/HIMALAYA-durvalumab-tremelimumab-NEJM-Evid-2022/</id>
-    <updated>2026-05-14T10:55:45+09:00</updated>
-    <summary>Abou-Alfa GK et al. NEJM Evid 2022. Phase 3 RCT, 1171명 진행성 HCC, durva+treme 단회 priming(STRIDE)이 sorafenib보다 OS 우월. 출혈 위험 환자의 atezo+bev 대안.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>IMbrave150</title>
-    <link href="https://drshin.kr/updates/IMbrave150-atezolizumab-bevacizumab-NEJM-2020/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/IMbrave150-atezolizumab-bevacizumab-NEJM-2020/</id>
-    <updated>2026-05-14T10:55:45+09:00</updated>
-    <summary>Finn SA et al. NEJM 2020. Phase 3 RCT, 501명 진행성 간세포암, atezo+bev이 sorafenib보다 OS·PFS 우월 - 8년간 1차 표준이었던 sorafenib을 교체.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>Semaglutide for AUD</title>
-    <link href="https://drshin.kr/updates/Klausen-Semaglutide-AUD-Lancet-2026/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/Klausen-Semaglutide-AUD-Lancet-2026/</id>
-    <updated>2026-05-14T10:55:45+09:00</updated>
-    <summary>Klausen 2026 Lancet — semaglutide가 알코올 사용 장애 환자(비만 동반)의 음주를 줄였다는 RCT.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>MAESTRO-NASH</title>
-    <link href="https://drshin.kr/updates/MAESTRO-NASH-resmetirom-NEJM-2024/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/MAESTRO-NASH-resmetirom-NEJM-2024/</id>
-    <updated>2026-05-14T10:55:45+09:00</updated>
-    <summary>Harrison SA et al. NEJM 2024;390:497-509. Phase 3 RCT, 966명 F2-F3 MASH 환자, 52주 시점 NASH 해결과 섬유화 호전을 동시에 달성한 첫 약물 — 노트 요약.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>Semaglutide for NASH</title>
-    <link href="https://drshin.kr/updates/Newsome-semaglutide-NASH-NEJM-2021/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/Newsome-semaglutide-NASH-NEJM-2021/</id>
-    <updated>2026-05-14T10:55:45+09:00</updated>
-    <summary>Newsome PN et al. NEJM 2021. Phase 2 RCT, 320명 NASH 환자, semaglutide 0.4 mg 매일이 NASH 해결 59% vs placebo 17% - GLP-1 작용제 MASH 효과의 결정적 첫 RCT.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
     <title>아스피린과 MASLD 환자의 간세포암 위험</title>
     <link href="https://drshin.kr/updates/Ahn-Aspirin-HCC-MASLD-CMH-2026/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/Ahn-Aspirin-HCC-MASLD-CMH-2026/</id>
-    <updated>2026-05-13T17:13:29+09:00</updated>
+    <updated>2026-05-15T17:13:29+09:00</updated>
     <summary>Ahn J, Hur MH, Shin H et al. Clin Mol Hepatol 2026. MASLD 환자에서 아스피린 사용과 HCC 위험의 nationwide cohort + 유전 위험 분석.</summary>
     <author><name>신현재</name></author>
   </entry>
@@ -69,7 +21,7 @@
     <title>AI 기반 CT 간세포암 진단</title>
     <link href="https://drshin.kr/updates/AI-CT-HCC-validation-Hepatology-2024/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/AI-CT-HCC-validation-Hepatology-2024/</id>
-    <updated>2026-05-13T17:13:29+09:00</updated>
+    <updated>2026-05-15T17:13:29+09:00</updated>
     <summary>동적 CT 영상에서 HCC를 자동 진단하는 AI 알고리즘의 대규모 다기관·다국가 검증. 영상 전문의 수준 진단 정확도.</summary>
     <author><name>신현재</name></author>
   </entry>
@@ -77,7 +29,7 @@
     <title>Baveno VII</title>
     <link href="https://drshin.kr/updates/Baveno-VII-portal-hypertension-J-Hepatol-2022/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/Baveno-VII-portal-hypertension-J-Hepatol-2022/</id>
-    <updated>2026-05-13T17:13:29+09:00</updated>
+    <updated>2026-05-15T17:13:29+09:00</updated>
     <summary>de Franchis R et al. J Hepatol 2022. Baveno VII 합의 - clinically significant portal hypertension(CSPH) 비침습 진단 기준, 식도정맥류 검진 생략 기준, 임상적 재대상화(recompensation) 정의 등을 표준화한 결정적 합의.</summary>
     <author><name>신현재</name></author>
   </entry>
@@ -85,7 +37,7 @@
     <title>Baveno VII</title>
     <link href="https://drshin.kr/updates/Baveno-VII-recompensation-2024/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/Baveno-VII-recompensation-2024/</id>
-    <updated>2026-05-13T17:13:29+09:00</updated>
+    <updated>2026-05-15T17:13:29+09:00</updated>
     <summary>Baveno VII 합의에서 처음으로 </summary>
     <author><name>신현재</name></author>
   </entry>
@@ -93,7 +45,7 @@
     <title>Bepirovirsen</title>
     <link href="https://drshin.kr/updates/Bepirovirsen-HBV-Lancet-2024/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/Bepirovirsen-HBV-Lancet-2024/</id>
-    <updated>2026-05-13T17:13:29+09:00</updated>
+    <updated>2026-05-15T17:13:29+09:00</updated>
     <summary>HBV RNA를 분해하는 antisense oligonucleotide bepirovirsen. B-Clear 시험에서 HBsAg 소실 약 9~10%, 새 시대의 첫 후보.</summary>
     <author><name>신현재</name></author>
   </entry>
@@ -101,7 +53,7 @@
     <title>CheckMate 9DW</title>
     <link href="https://drshin.kr/updates/CheckMate-9DW-nivo-ipi-Lancet-2024/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/CheckMate-9DW-nivo-ipi-Lancet-2024/</id>
-    <updated>2026-05-13T17:13:29+09:00</updated>
+    <updated>2026-05-15T17:13:29+09:00</updated>
     <summary>진행기 간세포암 1차 치료로 nivolumab + ipilimumab이 sorafenib/lenvatinib 대비 OS 우월. Lancet 2024/2025.</summary>
     <author><name>신현재</name></author>
   </entry>
@@ -109,7 +61,7 @@
     <title>SGLT2 억제제와 간 합병증</title>
     <link href="https://drshin.kr/updates/Chung-SGLT2-Liver-MR-Hepatology-2024/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/Chung-SGLT2-Liver-MR-Hepatology-2024/</id>
-    <updated>2026-05-13T17:13:29+09:00</updated>
+    <updated>2026-05-15T17:13:29+09:00</updated>
     <summary>Chung SW, Moon HS, Shin H et al. Hepatology 2024. SGLT2 억제와 간질환 관련 합병증의 인과관계를 mendelian randomization과 인구 기반 코호트로 분석.</summary>
     <author><name>신현재</name></author>
   </entry>
@@ -117,7 +69,7 @@
     <title>EMERALD-1</title>
     <link href="https://drshin.kr/updates/EMERALD-1-TACE-durva-bev-Lancet-2024/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/EMERALD-1-TACE-durva-bev-Lancet-2024/</id>
-    <updated>2026-05-13T17:13:29+09:00</updated>
+    <updated>2026-05-15T17:13:29+09:00</updated>
     <summary>중간기 간세포암(BCLC B)의 표준이 TACE 단독에서 TACE + durvalumab + bevacizumab로 바뀌는 출발점. Lancet 2024.</summary>
     <author><name>신현재</name></author>
   </entry>
@@ -125,7 +77,7 @@
     <title>Survodutide</title>
     <link href="https://drshin.kr/updates/ESSENCE-survodutide-MASH-Lancet-2024/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/ESSENCE-survodutide-MASH-Lancet-2024/</id>
-    <updated>2026-05-13T17:13:29+09:00</updated>
+    <updated>2026-05-15T17:13:29+09:00</updated>
     <summary>GLP-1과 글루카곤 수용체를 동시 작용하는 survodutide의 MASH 2상 — 위약 대비 NASH 호전과 섬유화 호전 모두 보임.</summary>
     <author><name>신현재</name></author>
   </entry>
@@ -133,7 +85,7 @@
     <title>GLP-1 RA 경구 small molecule</title>
     <link href="https://drshin.kr/updates/GLP1RA-small-molecule-orforglipron/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/GLP1RA-small-molecule-orforglipron/</id>
-    <updated>2026-05-13T17:13:29+09:00</updated>
+    <updated>2026-05-15T17:13:29+09:00</updated>
     <summary>Orforglipron 등 경구 small molecule GLP-1 RA가 phase 3 임상에서 주사형과 유사한 체중 감량·혈당 조절 효과를 보고하며 비만·당뇨·MASH 치료에 새 옵션이 되고 있습니다.</summary>
     <author><name>신현재</name></author>
   </entry>
@@ -141,23 +93,47 @@
     <title>GLP-1 RA와 알코올성 간 질환</title>
     <link href="https://drshin.kr/updates/GLP1RA-%EC%95%8C%EC%BD%94%EC%98%AC%EC%84%B1-%EA%B0%84%EC%A7%88%ED%99%98-ALD/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/GLP1RA-%EC%95%8C%EC%BD%94%EC%98%AC%EC%84%B1-%EA%B0%84%EC%A7%88%ED%99%98-ALD/</id>
-    <updated>2026-05-13T17:13:29+09:00</updated>
+    <updated>2026-05-15T17:13:29+09:00</updated>
     <summary>GLP-1 작용제가 음주 행동·알코올성 간 질환에 미치는 영향이 활발히 연구되고 있습니다. 음주 욕구 감소·간 보호 효과의 가능성과 현재 임상 진전.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>HIMALAYA</title>
+    <link href="https://drshin.kr/updates/HIMALAYA-durvalumab-tremelimumab-NEJM-Evid-2022/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/HIMALAYA-durvalumab-tremelimumab-NEJM-Evid-2022/</id>
+    <updated>2026-05-15T17:13:29+09:00</updated>
+    <summary>Abou-Alfa GK et al. NEJM Evid 2022. Phase 3 RCT, 1171명 진행성 HCC, durva+treme 단회 priming(STRIDE)이 sorafenib보다 OS 우월. 출혈 위험 환자의 atezo+bev 대안.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>
     <title>IMbrave050</title>
     <link href="https://drshin.kr/updates/IMbrave050-adjuvant-atezo-bev-Lancet-2023/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/IMbrave050-adjuvant-atezo-bev-Lancet-2023/</id>
-    <updated>2026-05-13T17:13:29+09:00</updated>
+    <updated>2026-05-15T17:13:29+09:00</updated>
     <summary>고위험 절제·소작 후 atezolizumab + bevacizumab 12개월이 재발 없는 생존(RFS)을 의미 있게 연장한 첫 양성 보조 면역치료 시험. Lancet 2023.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>IMbrave150</title>
+    <link href="https://drshin.kr/updates/IMbrave150-atezolizumab-bevacizumab-NEJM-2020/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/IMbrave150-atezolizumab-bevacizumab-NEJM-2020/</id>
+    <updated>2026-05-15T17:13:29+09:00</updated>
+    <summary>Finn SA et al. NEJM 2020. Phase 3 RCT, 501명 진행성 간세포암, atezo+bev이 sorafenib보다 OS·PFS 우월 - 8년간 1차 표준이었던 sorafenib을 교체.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>Semaglutide for AUD</title>
+    <link href="https://drshin.kr/updates/Klausen-Semaglutide-AUD-Lancet-2026/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/Klausen-Semaglutide-AUD-Lancet-2026/</id>
+    <updated>2026-05-15T17:13:29+09:00</updated>
+    <summary>Klausen 2026 Lancet — semaglutide가 알코올 사용 장애 환자(비만 동반)의 음주를 줄였다는 RCT.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>
     <title>LEAP-012</title>
     <link href="https://drshin.kr/updates/LEAP-012-TACE-pembro-lenva-Lancet-2024/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/LEAP-012-TACE-pembro-lenva-Lancet-2024/</id>
-    <updated>2026-05-13T17:13:29+09:00</updated>
+    <updated>2026-05-15T17:13:29+09:00</updated>
     <summary>중간기 간세포암에서 TACE + pembrolizumab + lenvatinib 조합이 TACE 단독 대비 PFS 의미 있게 연장. EMERALD-1과 함께 BCLC B 표준 변화의 두 번째 근거.</summary>
     <author><name>신현재</name></author>
   </entry>
@@ -165,23 +141,47 @@
     <title>MAESTRO-NASH 3년 확장</title>
     <link href="https://drshin.kr/updates/MAESTRO-NASH-resmetirom-3%EB%85%84-2024/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/MAESTRO-NASH-resmetirom-3%EB%85%84-2024/</id>
-    <updated>2026-05-13T17:13:29+09:00</updated>
+    <updated>2026-05-15T17:13:29+09:00</updated>
     <summary>MAESTRO-NASH 3년 추적 — Resmetirom(thyroid hormone β receptor agonist)이 NASH·섬유화 호전을 3년 유지하고 안전성 양호.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>MAESTRO-NASH</title>
+    <link href="https://drshin.kr/updates/MAESTRO-NASH-resmetirom-NEJM-2024/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/MAESTRO-NASH-resmetirom-NEJM-2024/</id>
+    <updated>2026-05-15T17:13:29+09:00</updated>
+    <summary>Harrison SA et al. NEJM 2024;390:497-509. Phase 3 RCT, 966명 F2-F3 MASH 환자, 52주 시점 NASH 해결과 섬유화 호전을 동시에 달성한 첫 약물 — 노트 요약.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>
     <title>MASLD 새 명명</title>
     <link href="https://drshin.kr/updates/MASLD-nomenclature-AASLD-EASL-2023/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/MASLD-nomenclature-AASLD-EASL-2023/</id>
-    <updated>2026-05-13T17:13:29+09:00</updated>
+    <updated>2026-05-15T17:13:29+09:00</updated>
     <summary>AASLD·EASL·ALEH의 Delphi 합의로 NAFLD → MASLD, NASH → MASH로 명명 변경. MetALD 새 카테고리 도입.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>Semaglutide for NASH</title>
+    <link href="https://drshin.kr/updates/Newsome-semaglutide-NASH-NEJM-2021/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/Newsome-semaglutide-NASH-NEJM-2021/</id>
+    <updated>2026-05-15T17:13:29+09:00</updated>
+    <summary>Newsome PN et al. NEJM 2021. Phase 2 RCT, 320명 NASH 환자, semaglutide 0.4 mg 매일이 NASH 해결 59% vs placebo 17% - GLP-1 작용제 MASH 효과의 결정적 첫 RCT.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>TDF for HBV in pregnancy</title>
+    <link href="https://drshin.kr/updates/Pan-TDF-pregnancy-HBV-NEJM-2016/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/Pan-TDF-pregnancy-HBV-NEJM-2016/</id>
+    <updated>2026-05-15T17:13:29+09:00</updated>
+    <summary>Pan CQ et al. NEJM 2016. RCT, 200명 HBV DNA 고농도 임산부, 임신 30주부터 TDF가 영아 HBV 감염을 0%로 감소시킨 결정적 시험.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>
     <title>PEth (phosphatidylethanol)</title>
     <link href="https://drshin.kr/updates/PEth-%EC%95%8C%EC%BD%94%EC%98%AC-%EB%B0%94%EC%9D%B4%EC%98%A4%EB%A7%88%EC%BB%A4/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/PEth-%EC%95%8C%EC%BD%94%EC%98%AC-%EB%B0%94%EC%9D%B4%EC%98%A4%EB%A7%88%EC%BB%A4/</id>
-    <updated>2026-05-13T17:13:29+09:00</updated>
+    <updated>2026-05-15T17:13:29+09:00</updated>
     <summary>PEth(phosphatidylethanol)는 최근 임상에서 활용이 늘고 있는 알코올 섭취 객관적 바이오마커입니다. 검출 기간·민감도·임상 활용을 정리합니다.</summary>
     <author><name>신현재</name></author>
   </entry>
@@ -189,7 +189,7 @@
     <title>Preemptive TIPS</title>
     <link href="https://drshin.kr/updates/preemptive-TIPS-%EC%8B%9D%EB%8F%84%EC%A0%95%EB%A7%A5%EB%A5%98-%EC%B6%9C%ED%98%88/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/preemptive-TIPS-%EC%8B%9D%EB%8F%84%EC%A0%95%EB%A7%A5%EB%A5%98-%EC%B6%9C%ED%98%88/</id>
-    <updated>2026-05-13T17:13:29+09:00</updated>
+    <updated>2026-05-15T17:13:29+09:00</updated>
     <summary>Preemptive(early) TIPS는 고위험 정맥류 출혈 환자에서 표준 약물·내시경 치료보다 24-72시간 내 시행 시 사망률을 줄인 패러다임 변화입니다.</summary>
     <author><name>신현재</name></author>
   </entry>
@@ -197,7 +197,7 @@
     <title>AI 영상 바이오마커</title>
     <link href="https://drshin.kr/updates/Shin-AI-CT-HCC-CHB-JHep-2025/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/Shin-AI-CT-HCC-CHB-JHep-2025/</id>
-    <updated>2026-05-13T17:13:29+09:00</updated>
+    <updated>2026-05-15T17:13:29+09:00</updated>
     <summary>Shin H et al. J Hepatol 2025. CT 기반 영상 바이오마커를 활용한 AI 모델로 만성 B형간염 환자의 간세포암 발생 위험 예측.</summary>
     <author><name>신현재</name></author>
   </entry>
@@ -205,7 +205,7 @@
     <title>B형간염 항바이러스제의 대사 효과와 심혈관 위험</title>
     <link href="https://drshin.kr/updates/Shin-Antiviral-CV-CHB-JMV-2024/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/Shin-Antiviral-CV-CHB-JMV-2024/</id>
-    <updated>2026-05-13T17:13:29+09:00</updated>
+    <updated>2026-05-15T17:13:29+09:00</updated>
     <summary>Shin H et al. J Med Virol 2024. 만성 B형간염 환자에서 항바이러스제의 대사 효과·심혈관 위험 비교 분석.</summary>
     <author><name>신현재</name></author>
   </entry>
@@ -213,7 +213,7 @@
     <title>보조 CIK 면역치료의 9년 장기 추적</title>
     <link href="https://drshin.kr/updates/Shin-CIK-HCC-CII-2026/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/Shin-CIK-HCC-CII-2026/</id>
-    <updated>2026-05-13T17:13:29+09:00</updated>
+    <updated>2026-05-15T17:13:29+09:00</updated>
     <summary>Shin H et al. Cancer Immunol Immunother 2026. 간세포암 보조 CIK(cytokine-induced killer) 면역치료 RCT의 9년 연장 추적과 실세계 데이터.</summary>
     <author><name>신현재</name></author>
   </entry>
@@ -221,7 +221,7 @@
     <title>COVID-19 백신 접종 후 NK 세포 변화와 HBsAg 일시적 감소</title>
     <link href="https://drshin.kr/updates/Shin-COVID-HBV-NK-IN-2023/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/Shin-COVID-HBV-NK-IN-2023/</id>
-    <updated>2026-05-13T17:13:29+09:00</updated>
+    <updated>2026-05-15T17:13:29+09:00</updated>
     <summary>Shin H et al. Immune Netw 2023. COVID-19 백신 접종이 만성 B형간염 환자의 NK 세포 동태와 HBsAg 농도에 미치는 영향.</summary>
     <author><name>신현재</name></author>
   </entry>
@@ -229,7 +229,7 @@
     <title>ETV에서 TAF로</title>
     <link href="https://drshin.kr/updates/Shin-ETV-TAF-RCT-GnL-2026/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/Shin-ETV-TAF-RCT-GnL-2026/</id>
-    <updated>2026-05-13T17:13:29+09:00</updated>
+    <updated>2026-05-15T17:13:29+09:00</updated>
     <summary>Shin H et al. Gut Liver 2026. 만성 B형간염 환자에서 엔테카비르(ETV)에서 TAF로의 전환 효과와 안전성을 평가한 한국 다기관 RCT.</summary>
     <author><name>신현재</name></author>
   </entry>
@@ -237,7 +237,7 @@
     <title>조기 HBeAg 혈청전환과 HCC·간경변 위험의 연관성 부재</title>
     <link href="https://drshin.kr/updates/Shin-HBeAg-seroclearance-HCC-JHepR-2024/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/Shin-HBeAg-seroclearance-HCC-JHepR-2024/</id>
-    <updated>2026-05-13T17:13:29+09:00</updated>
+    <updated>2026-05-15T17:13:29+09:00</updated>
     <summary>Shin H et al. JHEP Rep 2024. 치료 중 조기 HBeAg 혈청전환과 HCC/비대상성 간경변 발생의 연관성 분석.</summary>
     <author><name>신현재</name></author>
   </entry>
@@ -245,7 +245,7 @@
     <title>간세포암 글로벌 가이드라인 종합 정리 (2017-2024)</title>
     <link href="https://drshin.kr/updates/Shin-HCC-Guidelines-Review-JLC-2025/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/Shin-HCC-Guidelines-Review-JLC-2025/</id>
-    <updated>2026-05-13T17:13:29+09:00</updated>
+    <updated>2026-05-15T17:13:29+09:00</updated>
     <summary>Shin H, Yu SJ. J Liver Cancer 2025. 2017-2024년 사이 발표된 주요 HCC 관리 가이드라인을 종합 비교한 review.</summary>
     <author><name>신현재</name></author>
   </entry>
@@ -253,7 +253,7 @@
     <title>TDF·ETV에서 TAF로 전환 시 간세포암 위험</title>
     <link href="https://drshin.kr/updates/Shin-TDF-ETV-TAF-switch-HCC-HepRes-2024/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/Shin-TDF-ETV-TAF-switch-HCC-HepRes-2024/</id>
-    <updated>2026-05-13T17:13:29+09:00</updated>
+    <updated>2026-05-15T17:13:29+09:00</updated>
     <summary>Shin H et al. Hepatol Res 2024. 근치 치료 후 TDF/ETV에서 TAF로 전환한 환자의 HCC 발생 위험 다기관 분석.</summary>
     <author><name>신현재</name></author>
   </entry>

@@ -4,20 +4,10 @@
     "lower": "/assets/img/page-generated-v2/detail/d002-diagnostics-알파태아단백-lower.webp",
     "source": "/알파태아단백/"
   },
-  "/updates/Ahn-Aspirin-HCC-MASLD-CMH-2026/": {
-    "top": "/assets/img/page-generated/top/d101-viral-hepatitis-fatty-liver-hcc-top.webp",
-    "lower": "/assets/img/page-generated/lower/d101-viral-hepatitis-fatty-liver-hcc-lower.webp",
-    "source": "/지방간-간암/"
-  },
   "/updates/Baveno-VII-portal-hypertension-J-Hepatol-2022/": {
     "top": "/assets/img/page-generated-v2/pilot/pilot-04-cirrhosis-식도정맥류-top.webp",
     "lower": "/assets/img/page-generated-v2/pilot/pilot-04-cirrhosis-식도정맥류-lower.webp",
     "source": "/간경변-식도정맥류/"
-  },
-  "/updates/Baveno-VII-recompensation-2024/": {
-    "top": "/assets/img/page-generated/top/d069-viral-hepatitis-vs-cirrhosis-top.webp",
-    "lower": "/assets/img/page-generated/lower/d069-viral-hepatitis-vs-cirrhosis-lower.webp",
-    "source": "/간경변-대상성-비대상성/"
   },
   "/updates/Bepirovirsen-HBV-Lancet-2024/": {
     "top": "/assets/img/page-generated-v2/detail/d012-viral-hbv-functional-cure-top.webp",
@@ -29,30 +19,10 @@
     "lower": "/assets/img/page-generated-v2/detail/d070-hcc-hcc-면역치료-1차-lower.webp",
     "source": "/간암-면역치료-1차/"
   },
-  "/updates/Chung-SGLT2-Liver-MR-Hepatology-2024/": {
-    "top": "/assets/img/page-generated/top/d034-viral-hepatitis-sglt2-glp-1-fatty-liver-top.webp",
-    "lower": "/assets/img/page-generated/lower/d034-viral-hepatitis-sglt2-glp-1-fatty-liver-lower.webp",
-    "source": "/지방간-SGLT2-GLP1/"
-  },
   "/updates/EMERALD-1-TACE-durva-bev-Lancet-2024/": {
     "top": "/assets/img/page-generated-v2/detail/d064-hcc-hcc-tace-종류-결정-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d064-hcc-hcc-tace-종류-결정-lower.webp",
     "source": "/간암-TACE-종류-결정/"
-  },
-  "/updates/ESSENCE-survodutide-MASH-Lancet-2024/": {
-    "top": "/assets/img/page-generated/top/d100-viral-hepatitis-fatty-liver-fatty-liver-mash-top.webp",
-    "lower": "/assets/img/page-generated/lower/d100-viral-hepatitis-fatty-liver-fatty-liver-mash-lower.webp",
-    "source": "/지방간염-MASH/"
-  },
-  "/updates/GLP1RA-small-molecule-orforglipron/": {
-    "top": "/assets/img/page-generated/top/d034-viral-hepatitis-sglt2-glp-1-fatty-liver-top.webp",
-    "lower": "/assets/img/page-generated/lower/d034-viral-hepatitis-sglt2-glp-1-fatty-liver-lower.webp",
-    "source": "/지방간-SGLT2-GLP1/"
-  },
-  "/updates/GLP1RA-알코올성-간질환-ALD/": {
-    "top": "/assets/img/page-generated/top/d083-viral-hepatitis-ald-top.webp",
-    "lower": "/assets/img/page-generated/lower/d083-viral-hepatitis-ald-lower.webp",
-    "source": "/알코올성-간질환/"
   },
   "/updates/HIMALAYA-durvalumab-tremelimumab-NEJM-Evid-2022/": {
     "top": "/assets/img/page-generated-v2/detail/d070-hcc-hcc-면역치료-1차-top.webp",
@@ -69,84 +39,19 @@
     "lower": "/assets/img/page-generated-v2/detail/d070-hcc-hcc-면역치료-1차-lower.webp",
     "source": "/간암-면역치료-1차/"
   },
-  "/updates/Klausen-Semaglutide-AUD-Lancet-2026/": {
-    "top": "/assets/img/page-generated/top/d083-viral-hepatitis-ald-top.webp",
-    "lower": "/assets/img/page-generated/lower/d083-viral-hepatitis-ald-lower.webp",
-    "source": "/알코올성-간질환/"
-  },
   "/updates/LEAP-012-TACE-pembro-lenva-Lancet-2024/": {
     "top": "/assets/img/page-generated-v2/detail/d064-hcc-hcc-tace-종류-결정-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d064-hcc-hcc-tace-종류-결정-lower.webp",
     "source": "/간암-TACE-종류-결정/"
   },
-  "/updates/MAESTRO-NASH-resmetirom-3년-2024/": {
-    "top": "/assets/img/page-generated/top/d093-viral-hepatitis-fatty-liver-resmetirom-top.webp",
-    "lower": "/assets/img/page-generated/lower/d093-viral-hepatitis-fatty-liver-resmetirom-lower.webp",
-    "source": "/지방간-신약-resmetirom/"
-  },
-  "/updates/MAESTRO-NASH-resmetirom-NEJM-2024/": {
-    "top": "/assets/img/page-generated/top/d093-viral-hepatitis-fatty-liver-resmetirom-top.webp",
-    "lower": "/assets/img/page-generated/lower/d093-viral-hepatitis-fatty-liver-resmetirom-lower.webp",
-    "source": "/지방간-신약-resmetirom/"
-  },
-  "/updates/MASLD-nomenclature-AASLD-EASL-2023/": {
-    "top": "/assets/img/page-generated/top/d068-viral-hepatitis-fatty-liver-masld-top.webp",
-    "lower": "/assets/img/page-generated/lower/d068-viral-hepatitis-fatty-liver-masld-lower.webp",
-    "source": "/대사이상지방간-MASLD/"
-  },
-  "/updates/Newsome-semaglutide-NASH-NEJM-2021/": {
-    "top": "/assets/img/page-generated/top/d100-viral-hepatitis-fatty-liver-fatty-liver-mash-top.webp",
-    "lower": "/assets/img/page-generated/lower/d100-viral-hepatitis-fatty-liver-fatty-liver-mash-lower.webp",
-    "source": "/지방간염-MASH/"
-  },
-  "/updates/PEth-알코올-바이오마커/": {
-    "top": "/assets/img/page-generated/top/d083-viral-hepatitis-ald-top.webp",
-    "lower": "/assets/img/page-generated/lower/d083-viral-hepatitis-ald-lower.webp",
-    "source": "/알코올성-간질환/"
-  },
-  "/updates/Pan-TDF-pregnancy-HBV-NEJM-2016/": {
-    "top": "/assets/img/page-generated/top/d015-viral-hepatitis-hbv-pregnancy-top.webp",
-    "lower": "/assets/img/page-generated/lower/d015-viral-hepatitis-hbv-pregnancy-lower.webp",
-    "source": "/B형간염-결혼-임신/"
-  },
-  "/updates/Shin-AI-CT-HCC-CHB-JHep-2025/": {
-    "top": "/assets/img/page-generated/top/d016-viral-hepatitis-hbv-treatment-top.webp",
-    "lower": "/assets/img/page-generated/lower/d016-viral-hepatitis-hbv-treatment-lower.webp",
-    "source": "/B형간염-평생약/"
-  },
-  "/updates/Shin-Antiviral-CV-CHB-JMV-2024/": {
-    "top": "/assets/img/page-generated/top/d016-viral-hepatitis-hbv-treatment-top.webp",
-    "lower": "/assets/img/page-generated/lower/d016-viral-hepatitis-hbv-treatment-lower.webp",
-    "source": "/B형간염-평생약/"
-  },
-  "/updates/Shin-CIK-HCC-CII-2026/": {
-    "top": "/assets/img/page-generated/top/d054-viral-hepatitis-hcc-diagnosis-top.webp",
-    "lower": "/assets/img/page-generated/lower/d054-viral-hepatitis-hcc-diagnosis-lower.webp",
-    "source": "/간암-진단-첫외래/"
-  },
-  "/updates/Shin-COVID-HBV-NK-IN-2023/": {
-    "top": "/assets/img/page-generated/top/d054-viral-hepatitis-hcc-diagnosis-top.webp",
-    "lower": "/assets/img/page-generated/lower/d054-viral-hepatitis-hcc-diagnosis-lower.webp",
-    "source": "/간암-진단-첫외래/"
-  },
   "/updates/Shin-ETV-TAF-RCT-GnL-2026/": {
     "top": "/assets/img/page-generated-v2/detail/d017-viral-hbv-항바이러스제-비교-top.webp",
-    "lower": "/assets/img/page-generated/lower/d017-viral-hepatitis-hbv-df-tdf-af-taf-etv-lower.webp",
+    "lower": null,
     "source": "/B형간염-항바이러스제-비교/"
-  },
-  "/updates/Shin-HBeAg-seroclearance-HCC-JHepR-2024/": {
-    "top": "/assets/img/page-generated/top/d029-viral-hepatitis-hbeag-vs-top.webp",
-    "lower": "/assets/img/page-generated/lower/d029-viral-hepatitis-hbeag-vs-lower.webp",
-    "source": "/B형간염-HBeAg-양성-음성/"
-  },
-  "/updates/Shin-HCC-Guidelines-Review-JLC-2025/": {
-    "top": "/assets/img/page-generated/top/d054-viral-hepatitis-hcc-diagnosis-top.webp",
-    "lower": "/assets/img/page-generated/lower/d054-viral-hepatitis-hcc-diagnosis-lower.webp",
-    "source": "/간암-진단-첫외래/"
   },
   "/updates/Shin-TDF-ETV-TAF-switch-HCC-HepRes-2024/": {
     "top": "/assets/img/page-generated-v2/detail/d017-viral-hbv-항바이러스제-비교-top.webp",
-    "lower": "/assets/img/page-generated/lower/d017-viral-hepatitis-hbv-df-tdf-af-taf-etv-lower.webp",
+    "lower": null,
     "source": "/B형간염-항바이러스제-비교/"
   },
   "/updates/preemptive-TIPS-식도정맥류-출혈/": {
@@ -159,60 +64,15 @@
     "lower": "/assets/img/page-generated-v2/detail/d002-diagnostics-알파태아단백-lower.webp",
     "source": "/알파태아단백/"
   },
-  "/케이스/AIH-PBC-overlap-진단/": {
-    "top": "/assets/img/page-generated/top/d006-viral-hepatitis-aih-pbc-overlap-autoimmune-top.webp",
-    "lower": "/assets/img/page-generated/lower/d006-viral-hepatitis-aih-pbc-overlap-autoimmune-lower.webp",
-    "source": "/자가면역간염-PBC-overlap/"
-  },
-  "/케이스/AIH-급성간부전/": {
-    "top": "/assets/img/page-generated/top/d066-viral-hepatitis-aih-top.webp",
-    "lower": "/assets/img/page-generated/lower/d066-viral-hepatitis-aih-lower.webp",
-    "source": "/자가면역간염-급성간부전/"
-  },
-  "/케이스/AIH-소아청소년-진단/": {
-    "top": "/assets/img/page-generated/top/d076-viral-hepatitis-autoimmune-asc-overlap-top.webp",
-    "lower": "/assets/img/page-generated/lower/d076-viral-hepatitis-autoimmune-asc-overlap-lower.webp",
-    "source": "/자가면역간염-소아청소년/"
-  },
-  "/케이스/AIH-스테로이드-당뇨발생/": {
-    "top": "/assets/img/page-generated/top/d004-viral-hepatitis-aih-treatment-top.webp",
-    "lower": "/assets/img/page-generated/lower/d004-viral-hepatitis-aih-treatment-lower.webp",
-    "source": "/자가면역간염-스테로이드-부작용/"
-  },
-  "/케이스/AIH-약중단-재발/": {
-    "top": "/assets/img/page-generated/top/d003-viral-hepatitis-aih-top.webp",
-    "lower": "/assets/img/page-generated/lower/d003-viral-hepatitis-aih-lower.webp",
-    "source": "/자가면역간염-약중단/"
-  },
-  "/케이스/AIH-임신중-약물전환/": {
-    "top": "/assets/img/page-generated/top/d089-viral-hepatitis-autoimmune-pregnancy-pregnancy-top.webp",
-    "lower": "/assets/img/page-generated/lower/d089-viral-hepatitis-autoimmune-pregnancy-pregnancy-lower.webp",
-    "source": "/자가면역간염-임신/"
-  },
   "/케이스/AIH-첫진단-여성/": {
     "top": "/assets/img/page-generated-v2/pilot/pilot-06-autoimmune-자가면역간염-aih-진단-top.webp",
     "lower": "/assets/img/page-generated-v2/pilot/pilot-06-autoimmune-자가면역간염-aih-진단-lower.webp",
     "source": "/자가면역간염-진단/"
   },
-  "/케이스/ALT일과성상승-격렬한운동/": {
-    "top": "/assets/img/page-generated/top/d060-viral-hepatitis-ast-alt-top.webp",
-    "lower": "/assets/img/page-generated/lower/d060-viral-hepatitis-ast-alt-lower.webp",
-    "source": "/간수치-운동후-상승/"
-  },
-  "/케이스/AST우세-근육질환배제/": {
-    "top": "/assets/img/page-generated/top/d009-viral-hepatitis-ast-alt-fibrosis-top.webp",
-    "lower": "/assets/img/page-generated/lower/d009-viral-hepatitis-ast-alt-fibrosis-lower.webp",
-    "source": "/간수치-AST-우세-원인/"
-  },
   "/케이스/AtezoBev-실패-2차치료/": {
     "top": "/assets/img/page-generated-v2/detail/d070-hcc-hcc-면역치료-1차-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d070-hcc-hcc-면역치료-1차-lower.webp",
     "source": "/간암-면역치료-1차/"
-  },
-  "/케이스/BCLC-A-다발3개-소작/": {
-    "top": "/assets/img/page-generated/top/d052-viral-hepatitis-hcc-rfa-mwa-top.webp",
-    "lower": "/assets/img/page-generated/lower/d052-viral-hepatitis-hcc-rfa-mwa-lower.webp",
-    "source": "/간암-소작술-RFA-MWA/"
   },
   "/케이스/BCLC-A-단일3cm-절제vs소작/": {
     "top": "/assets/img/page-generated-v2/pilot/pilot-01-hcc-절제술-vs-색전술-vs-방사선-top.webp",
@@ -224,290 +84,40 @@
     "lower": "/assets/img/page-generated-v2/detail/d064-hcc-hcc-tace-종류-결정-lower.webp",
     "source": "/간암-TACE-종류-결정/"
   },
-  "/케이스/B형간염-HDV-동반/": {
-    "top": "/assets/img/page-generated/top/d026-viral-hepatitis-hdv-hdv-hbv-cirrhosis-top.webp",
-    "lower": "/assets/img/page-generated/lower/d026-viral-hepatitis-hdv-hdv-hbv-cirrhosis-lower.webp",
-    "source": "/B형간염-D형간염-HDV/"
-  },
-  "/케이스/B형간염-Occult-항암치료/": {
-    "top": "/assets/img/page-generated/top/d032-viral-hepatitis-occult-hbv-hbv-hbsag-dna-top.webp",
-    "lower": "/assets/img/page-generated/lower/d032-viral-hepatitis-occult-hbv-hbv-hbsag-dna-lower.webp",
-    "source": "/B형간염-Occult-잠복감염/"
-  },
-  "/케이스/B형간염-검진-새결절/": {
-    "top": "/assets/img/page-generated/top/d018-viral-hepatitis-hbv-6-hcc-top.webp",
-    "lower": "/assets/img/page-generated/lower/d018-viral-hepatitis-hbv-6-hcc-lower.webp",
-    "source": "/B형간염-간암검진/"
-  },
-  "/케이스/B형간염-소아청소년-치료시작/": {
-    "top": "/assets/img/page-generated/top/d074-viral-hepatitis-hbv-treatment-top.webp",
-    "lower": "/assets/img/page-generated/lower/d074-viral-hepatitis-hbv-treatment-lower.webp",
-    "source": "/B형간염-소아청소년-치료/"
-  },
   "/케이스/B형간염-수술전-예방/": {
     "top": "/assets/img/page-generated-v2/detail/d102-viral-hbv-재활성화-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d102-viral-hbv-재활성화-lower.webp",
     "source": "/B형간염-재활성화/"
   },
-  "/케이스/B형간염-신기능저하-TAF전환/": {
-    "top": "/assets/img/page-generated/top/d081-viral-hepatitis-hbv-tdf-vs-taf-vs-etv-top.webp",
-    "lower": "/assets/img/page-generated/lower/d081-viral-hepatitis-hbv-tdf-vs-taf-vs-etv-lower.webp",
-    "source": "/B형간염-신기능-약물선택/"
-  },
-  "/케이스/ChildB-단일4cm-이식/": {
-    "top": "/assets/img/page-generated/top/d056-viral-hepatitis-hcc-top.webp",
-    "lower": "/assets/img/page-generated/lower/d056-viral-hepatitis-hcc-lower.webp",
-    "source": "/간암-간이식/"
-  },
-  "/케이스/ChildC-이식대기/": {
-    "top": "/assets/img/page-generated/top/d056-viral-hepatitis-hcc-top.webp",
-    "lower": "/assets/img/page-generated/lower/d056-viral-hepatitis-hcc-lower.webp",
-    "source": "/간암-간이식/"
-  },
-  "/케이스/C형간염-DAA실패-재치료/": {
-    "top": "/assets/img/page-generated/top/d023-viral-hepatitis-daa-1-svr-treatment-top.webp",
-    "lower": "/assets/img/page-generated/lower/d023-viral-hepatitis-daa-1-svr-treatment-lower.webp",
-    "source": "/C형간염-DAA-실패-재치료/"
-  },
-  "/케이스/C형간염-HIV동반-동시치료/": {
-    "top": "/assets/img/page-generated/top/d030-viral-hepatitis-hiv-hcv-treatment-top.webp",
-    "lower": "/assets/img/page-generated/lower/d030-viral-hepatitis-hiv-hcv-treatment-lower.webp",
-    "source": "/C형간염-HIV-동반/"
-  },
-  "/케이스/C형간염-간경변-새결절/": {
-    "top": "/assets/img/page-generated/top/d018-viral-hepatitis-hbv-6-hcc-top.webp",
-    "lower": "/assets/img/page-generated/lower/d018-viral-hepatitis-hbv-6-hcc-lower.webp",
-    "source": "/B형간염-간암검진/"
-  },
-  "/케이스/C형간염-임신중-발견/": {
-    "top": "/assets/img/page-generated/top/d086-viral-hepatitis-pregnancy-hcv-daa-top.webp",
-    "lower": "/assets/img/page-generated/lower/d086-viral-hepatitis-pregnancy-hcv-daa-lower.webp",
-    "source": "/C형간염-임신수유/"
-  },
-  "/케이스/C형간염-재감염/": {
-    "top": "/assets/img/page-generated/top/d024-viral-hepatitis-daa-top.webp",
-    "lower": "/assets/img/page-generated/lower/d024-viral-hepatitis-daa-lower.webp",
-    "source": "/C형간염-재감염-위험군/"
-  },
-  "/케이스/C형간염-혈액투석-치료/": {
-    "top": "/assets/img/page-generated/top/d019-viral-hepatitis-ckd-hcv-daa-treatment-top.webp",
-    "lower": "/assets/img/page-generated/lower/d019-viral-hepatitis-ckd-hcv-daa-treatment-lower.webp",
-    "source": "/C형간염-신부전-치료/"
-  },
   "/케이스/ETV-TAF-전환/": {
     "top": "/assets/img/page-generated-v2/detail/d017-viral-hbv-항바이러스제-비교-top.webp",
-    "lower": "/assets/img/page-generated/lower/d017-viral-hepatitis-hbv-df-tdf-af-taf-etv-lower.webp",
+    "lower": null,
     "source": "/B형간염-항바이러스제-비교/"
-  },
-  "/케이스/HBeAg-seroclearance-약중단/": {
-    "top": "/assets/img/page-generated/top/d029-viral-hepatitis-hbeag-vs-top.webp",
-    "lower": "/assets/img/page-generated/lower/d029-viral-hepatitis-hbeag-vs-lower.webp",
-    "source": "/B형간염-HBeAg-양성-음성/"
-  },
-  "/케이스/HCC-림프절전이/": {
-    "top": "/assets/img/page-generated/top/d103-viral-hepatitis-hcc-treatment-top.webp",
-    "lower": "/assets/img/page-generated/lower/d103-viral-hepatitis-hcc-treatment-lower.webp",
-    "source": "/간암-혈관침범-치료/"
-  },
-  "/케이스/HCC-폐전이-단독/": {
-    "top": "/assets/img/page-generated/top/d103-viral-hepatitis-hcc-treatment-top.webp",
-    "lower": "/assets/img/page-generated/lower/d103-viral-hepatitis-hcc-treatment-lower.webp",
-    "source": "/간암-혈관침범-치료/"
-  },
-  "/케이스/LR3-모호결절-추적/": {
-    "top": "/assets/img/page-generated/top/d054-viral-hepatitis-hcc-diagnosis-top.webp",
-    "lower": "/assets/img/page-generated/lower/d054-viral-hepatitis-hcc-diagnosis-lower.webp",
-    "source": "/간암-진단-첫외래/"
-  },
-  "/케이스/LR4-결절-추적/": {
-    "top": "/assets/img/page-generated/top/d054-viral-hepatitis-hcc-diagnosis-top.webp",
-    "lower": "/assets/img/page-generated/lower/d054-viral-hepatitis-hcc-diagnosis-lower.webp",
-    "source": "/간암-진단-첫외래/"
-  },
-  "/케이스/MASH-F3-당뇨-종합관리/": {
-    "top": "/assets/img/page-generated/top/d100-viral-hepatitis-fatty-liver-fatty-liver-mash-top.webp",
-    "lower": "/assets/img/page-generated/lower/d100-viral-hepatitis-fatty-liver-fatty-liver-mash-lower.webp",
-    "source": "/지방간염-MASH/"
-  },
-  "/케이스/MASLD-F2-GLP1시작/": {
-    "top": "/assets/img/page-generated/top/d034-viral-hepatitis-sglt2-glp-1-fatty-liver-top.webp",
-    "lower": "/assets/img/page-generated/lower/d034-viral-hepatitis-sglt2-glp-1-fatty-liver-lower.webp",
-    "source": "/지방간-SGLT2-GLP1/"
-  },
-  "/케이스/MASLD-HCC-비만당뇨/": {
-    "top": "/assets/img/page-generated/top/d101-viral-hepatitis-fatty-liver-hcc-top.webp",
-    "lower": "/assets/img/page-generated/lower/d101-viral-hepatitis-fatty-liver-hcc-lower.webp",
-    "source": "/지방간-간암/"
-  },
-  "/케이스/MASLD-비만수술-회복/": {
-    "top": "/assets/img/page-generated/top/d072-viral-hepatitis-bariatric-surgery-masld-top.webp",
-    "lower": "/assets/img/page-generated/lower/d072-viral-hepatitis-bariatric-surgery-masld-lower.webp",
-    "source": "/지방간-비만수술/"
-  },
-  "/케이스/MASLD-수면무호흡-CPAP개선/": {
-    "top": "/assets/img/page-generated/top/d078-viral-hepatitis-osa-fatty-liver-top.webp",
-    "lower": "/assets/img/page-generated/lower/d078-viral-hepatitis-osa-fatty-liver-lower.webp",
-    "source": "/지방간-수면무호흡-OSA/"
-  },
-  "/케이스/MASLD-심혈관-종합관리/": {
-    "top": "/assets/img/page-generated/top/d097-viral-hepatitis-fatty-liver-top.webp",
-    "lower": "/assets/img/page-generated/lower/d097-viral-hepatitis-fatty-liver-lower.webp",
-    "source": "/지방간-심혈관-CVD/"
-  },
-  "/케이스/MASLD-청소년-가족력/": {
-    "top": "/assets/img/page-generated/top/d075-viral-hepatitis-masld-diagnosis-top.webp",
-    "lower": "/assets/img/page-generated/lower/d075-viral-hepatitis-masld-diagnosis-lower.webp",
-    "source": "/지방간-소아청소년-MASLD/"
-  },
-  "/케이스/MetALD-당뇨-음주/": {
-    "top": "/assets/img/page-generated/top/d031-viral-hepatitis-metald-fatty-liver-top.webp",
-    "lower": "/assets/img/page-generated/lower/d031-viral-hepatitis-metald-fatty-liver-lower.webp",
-    "source": "/지방간-MetALD/"
-  },
-  "/케이스/NRH-진단/": {
-    "top": "/assets/img/page-generated/top/d061-viral-hepatitis-nrh-autoimmune-top.webp",
-    "lower": "/assets/img/page-generated/lower/d061-viral-hepatitis-nrh-autoimmune-lower.webp",
-    "source": "/간양성종양-NRH/"
-  },
-  "/케이스/PIVKAII-와파린-위양성/": {
-    "top": "/assets/img/page-generated/top/d033-viral-hepatitis-pivka-ii-hcc-top.webp",
-    "lower": "/assets/img/page-generated/lower/d033-viral-hepatitis-pivka-ii-hcc-lower.webp",
-    "source": "/PIVKA-II-간암마커/"
-  },
-  "/케이스/Recompensation-바이러스억제후/": {
-    "top": "/assets/img/page-generated/top/d069-viral-hepatitis-vs-cirrhosis-top.webp",
-    "lower": "/assets/img/page-generated/lower/d069-viral-hepatitis-vs-cirrhosis-lower.webp",
-    "source": "/간경변-대상성-비대상성/"
-  },
-  "/케이스/Sarcopenia-운동개선/": {
-    "top": "/assets/img/page-generated/top/d042-viral-hepatitis-cirrhosis-top.webp",
-    "lower": "/assets/img/page-generated/lower/d042-viral-hepatitis-cirrhosis-lower.webp",
-    "source": "/간경변-영양-근감소증/"
-  },
-  "/케이스/anti-HCV양성-첫발견/": {
-    "top": "/assets/img/page-generated/top/d021-viral-hepatitis-hcv-diagnosis-top.webp",
-    "lower": "/assets/img/page-generated/lower/d021-viral-hepatitis-hcv-diagnosis-lower.webp",
-    "source": "/C형간염-진단/"
-  },
-  "/케이스/bile-duct-hamartoma-우연발견/": {
-    "top": "/assets/img/page-generated/top/d067-viral-hepatitis-5cc7098a-top.webp",
-    "lower": "/assets/img/page-generated/lower/d067-viral-hepatitis-5cc7098a-lower.webp",
-    "source": "/간양성종양-담관과오종/"
-  },
-  "/케이스/focal-fat-sparing-PET/": {
-    "top": "/assets/img/page-generated/top/d065-viral-hepatitis-focal-fat-deposition-focal-sparing-top.webp",
-    "lower": "/assets/img/page-generated/lower/d065-viral-hepatitis-focal-fat-deposition-focal-sparing-lower.webp",
-    "source": "/간양성종양-국소지방-변화/"
-  },
-  "/케이스/lean-MASLD-비만없음/": {
-    "top": "/assets/img/page-generated/top/d035-viral-hepatitis-lean-masld-fatty-liver-top.webp",
-    "lower": "/assets/img/page-generated/lower/d035-viral-hepatitis-lean-masld-fatty-liver-lower.webp",
-    "source": "/지방간-lean-MASLD/"
-  },
-  "/케이스/resmetirom-신약시작/": {
-    "top": "/assets/img/page-generated/top/d093-viral-hepatitis-fatty-liver-resmetirom-top.webp",
-    "lower": "/assets/img/page-generated/lower/d093-viral-hepatitis-fatty-liver-resmetirom-lower.webp",
-    "source": "/지방간-신약-resmetirom/"
-  },
-  "/케이스/간경변-새결절-평가/": {
-    "top": "/assets/img/page-generated/top/d018-viral-hepatitis-hbv-6-hcc-top.webp",
-    "lower": "/assets/img/page-generated/lower/d018-viral-hepatitis-hbv-6-hcc-lower.webp",
-    "source": "/B형간염-간암검진/"
-  },
-  "/케이스/간기능회복-재절제/": {
-    "top": "/assets/img/page-generated/top/d053-viral-hepatitis-hcc-top.webp",
-    "lower": "/assets/img/page-generated/lower/d053-viral-hepatitis-hcc-lower.webp",
-    "source": "/간암-재발-추적/"
   },
   "/케이스/간성혼수-첫발생/": {
     "top": "/assets/img/page-generated-v2/detail/d050-cirrhosis-cirrhosis-encephalopathy-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d050-cirrhosis-cirrhosis-encephalopathy-lower.webp",
     "source": "/간경변-간성혼수/"
   },
-  "/케이스/건강검진-우연발견-1cm결절/": {
-    "top": "/assets/img/page-generated/top/d054-viral-hepatitis-hcc-diagnosis-top.webp",
-    "lower": "/assets/img/page-generated/lower/d054-viral-hepatitis-hcc-diagnosis-lower.webp",
-    "source": "/간암-진단-첫외래/"
-  },
-  "/케이스/검진ALT상승-MASLD진단/": {
-    "top": "/assets/img/page-generated/top/d068-viral-hepatitis-fatty-liver-masld-top.webp",
-    "lower": "/assets/img/page-generated/lower/d068-viral-hepatitis-fatty-liver-masld-lower.webp",
-    "source": "/대사이상지방간-MASLD/"
-  },
-  "/케이스/검진ALT상승-원인감별/": {
-    "top": "/assets/img/page-generated/top/d038-viral-hepatitis-471b1885-top.webp",
-    "lower": "/assets/img/page-generated/lower/d038-viral-hepatitis-471b1885-lower.webp",
-    "source": "/간수치-검진주기-결정/"
-  },
-  "/케이스/경구피임약-HCA의심/": {
-    "top": "/assets/img/page-generated/top/d062-viral-hepatitis-863a563d-top.webp",
-    "lower": "/assets/img/page-generated/lower/d062-viral-hepatitis-863a563d-lower.webp",
-    "source": "/간양성종양-경구피임약/"
-  },
-  "/케이스/다운스테이징-이식전환/": {
-    "top": "/assets/img/page-generated/top/d056-viral-hepatitis-hcc-top.webp",
-    "lower": "/assets/img/page-generated/lower/d056-viral-hepatitis-hcc-lower.webp",
-    "source": "/간암-간이식/"
-  },
   "/케이스/독성간염-야생버섯/": {
     "top": "/assets/img/page-generated-v2/detail/d084-diagnostics-dili-간손상-dili-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d084-diagnostics-dili-간손상-dili-lower.webp",
     "source": "/약물성-간손상-DILI/"
-  },
-  "/케이스/만성경증ALT상승-원인불명/": {
-    "top": "/assets/img/page-generated/top/d059-viral-hepatitis-lft-ast-alt-top.webp",
-    "lower": "/assets/img/page-generated/lower/d059-viral-hepatitis-lft-ast-alt-lower.webp",
-    "source": "/간수치-높음/"
   },
   "/케이스/문맥침범-AtezoBev/": {
     "top": "/assets/img/page-generated-v2/detail/d070-hcc-hcc-면역치료-1차-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d070-hcc-hcc-면역치료-1차-lower.webp",
     "source": "/간암-면역치료-1차/"
   },
-  "/케이스/반복SBP-예방요법/": {
-    "top": "/assets/img/page-generated/top/d091-viral-hepatitis-sbp-top.webp",
-    "lower": "/assets/img/page-generated/lower/d091-viral-hepatitis-sbp-lower.webp",
-    "source": "/간경변-감염-SBP-예방/"
-  },
   "/케이스/보충제-ALT상승/": {
     "top": "/assets/img/page-generated-v2/detail/d084-diagnostics-dili-간손상-dili-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d084-diagnostics-dili-간손상-dili-lower.webp",
     "source": "/약물성-간손상-DILI/"
   },
-  "/케이스/복수-SBP-진단치료/": {
-    "top": "/assets/img/page-generated/top/d091-viral-hepatitis-sbp-top.webp",
-    "lower": "/assets/img/page-generated/lower/d091-viral-hepatitis-sbp-lower.webp",
-    "source": "/간경변-감염-SBP-예방/"
-  },
-  "/케이스/소아청소년-검진ALT상승/": {
-    "top": "/assets/img/page-generated/top/d077-viral-hepatitis-lft-top.webp",
-    "lower": "/assets/img/page-generated/lower/d077-viral-hepatitis-lft-lower.webp",
-    "source": "/간수치-소아청소년-기준/"
-  },
-  "/케이스/소작후-2년재발-단일결절/": {
-    "top": "/assets/img/page-generated/top/d053-viral-hepatitis-hcc-top.webp",
-    "lower": "/assets/img/page-generated/lower/d053-viral-hepatitis-hcc-lower.webp",
-    "source": "/간암-재발-추적/"
-  },
   "/케이스/약물성간손상-항결핵제/": {
     "top": "/assets/img/page-generated-v2/detail/d084-diagnostics-dili-간손상-dili-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d084-diagnostics-dili-간손상-dili-lower.webp",
     "source": "/약물성-간손상-DILI/"
-  },
-  "/케이스/임신중-ALT상승-감별/": {
-    "top": "/assets/img/page-generated/top/d088-viral-hepatitis-pregnancy-lft-top.webp",
-    "lower": "/assets/img/page-generated/lower/d088-viral-hepatitis-pregnancy-lft-lower.webp",
-    "source": "/간수치-임신중-변화/"
-  },
-  "/케이스/임신중-HBsAg발견/": {
-    "top": "/assets/img/page-generated/top/d015-viral-hepatitis-hbv-pregnancy-top.webp",
-    "lower": "/assets/img/page-generated/lower/d015-viral-hepatitis-hbv-pregnancy-lower.webp",
-    "source": "/B형간염-결혼-임신/"
-  },
-  "/케이스/임신중-혈관종확대/": {
-    "top": "/assets/img/page-generated/top/d087-viral-hepatitis-pregnancy-top.webp",
-    "lower": "/assets/img/page-generated/lower/d087-viral-hepatitis-pregnancy-lower.webp",
-    "source": "/간양성종양-임신중/"
   },
   "/케이스/자가면역간염-첫진단/": {
     "top": "/assets/img/page-generated-v2/pilot/pilot-06-autoimmune-자가면역간염-aih-진단-top.webp",
@@ -518,11 +128,6 @@
     "top": "/assets/img/page-generated-v2/detail/d071-cirrhosis-cirrhosis-ascites-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d071-cirrhosis-cirrhosis-ascites-lower.webp",
     "source": "/간경변-복수/"
-  },
-  "/케이스/절제후-2년재발/": {
-    "top": "/assets/img/page-generated/top/d053-viral-hepatitis-hcc-top.webp",
-    "lower": "/assets/img/page-generated/lower/d053-viral-hepatitis-hcc-lower.webp",
-    "source": "/간암-재발-추적/"
   },
   "/케이스/정맥류출혈이력-STRIDE/": {
     "top": "/assets/img/page-generated-v2/detail/d070-hcc-hcc-면역치료-1차-top.webp",
@@ -539,11 +144,6 @@
     "lower": "/assets/img/page-generated-v2/pilot/pilot-04-cirrhosis-식도정맥류-lower.webp",
     "source": "/간경변-식도정맥류/"
   },
-  "/케이스/큰낭종-bleomycin-경화요법/": {
-    "top": "/assets/img/page-generated/top/d039-viral-hepatitis-1b9dfb8d-top.webp",
-    "lower": "/assets/img/page-generated/lower/d039-viral-hepatitis-1b9dfb8d-lower.webp",
-    "source": "/간양성종양-낭종-관리/"
-  },
   "/케이스/큰종양-TACE-SBRT-결합/": {
     "top": "/assets/img/page-generated-v2/detail/d064-hcc-hcc-tace-종류-결정-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d064-hcc-hcc-tace-종류-결정-lower.webp",
@@ -553,10 +153,5 @@
     "top": "/assets/img/page-generated-v2/detail/d102-viral-hbv-재활성화-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d102-viral-hbv-재활성화-lower.webp",
     "source": "/B형간염-재활성화/"
-  },
-  "/케이스/혈소판저하-romiplostim/": {
-    "top": "/assets/img/page-generated/top/d047-viral-hepatitis-cirrhosis-top.webp",
-    "lower": "/assets/img/page-generated/lower/d047-viral-hepatitis-cirrhosis-lower.webp",
-    "source": "/간경변-혈소판감소/"
   }
 }
