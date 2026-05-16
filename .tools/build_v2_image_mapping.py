@@ -48,6 +48,9 @@ SLUG_TO_URL = {
     'masld-masld-음식': '/지방간-음식/',
     'viral-hbv-신기능-약물선택': '/B형간염-신기능-약물선택/',
     'viral-hbv-재활성화': '/B형간염-재활성화/',
+    'diagnostics-pivka-ii-hcc마커': '/PIVKA-II-간암마커/',
+    'hcc-hcc-재발-추적': '/간암-재발-추적/',
+    'hcc-hcc-방사선색전술': '/간암-방사선색전술/',
     # pilot fragments
     '절제술-vs-색전술-vs-방사선': '/간암-치료-선택/',
     'b형간염-검사-결과지-해석hbsag-hbeag-anti-hbs-각각-무엇을-뜻하나요': '/B형간염-검사결과/',

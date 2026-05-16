@@ -47,6 +47,10 @@
     "top": "/assets/img/page-generated-v2/pilot/pilot-05-lft-fibroscan-간섬유화-스캔-수치-읽는-법-top.webp",
     "lower": "/assets/img/page-generated-v2/pilot/pilot-05-lft-fibroscan-간섬유화-스캔-수치-읽는-법-lower.webp"
   },
+  "/PIVKA-II-간암마커/": {
+    "top": "/assets/img/page-generated-v2/detail/d033-diagnostics-pivka-ii-hcc마커-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d033-diagnostics-pivka-ii-hcc마커-lower.webp"
+  },
   "/지방간-SGLT2-GLP1/": {
     "top": "/assets/img/page-generated-v2/detail/d034-masld-masld-sglt2-glp1-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d034-masld-masld-sglt2-glp1-lower.webp"
@@ -67,6 +71,10 @@
     "top": "/assets/img/page-generated-v2/detail/d052-hcc-hcc-소작술-rfa-mwa-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d052-hcc-hcc-소작술-rfa-mwa-lower.webp"
   },
+  "/간암-재발-추적/": {
+    "top": "/assets/img/page-generated-v2/detail/d053-hcc-hcc-재발-추적-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d053-hcc-hcc-재발-추적-lower.webp"
+  },
   "/간암-진단-첫외래/": {
     "top": "/assets/img/page-generated-v2/detail/d054-hcc-hcc-진단-첫외래-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d054-hcc-hcc-진단-첫외래-lower.webp"
@@ -78,6 +86,10 @@
   "/간암-SBRT-양성자/": {
     "top": "/assets/img/page-generated-v2/detail/d057-hcc-hcc-sbrt-양성자-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d057-hcc-hcc-sbrt-양성자-lower.webp"
+  },
+  "/간암-방사선색전술/": {
+    "top": "/assets/img/page-generated-v2/detail/d063-hcc-hcc-방사선색전술-top.webp",
+    "lower": null
   },
   "/간암-TACE-종류-결정/": {
     "top": "/assets/img/page-generated-v2/detail/d064-hcc-hcc-tace-종류-결정-top.webp",

@@ -184,6 +184,11 @@
     "lower": "/assets/img/page-generated-v2/detail/d034-masld-masld-sglt2-glp1-lower.webp",
     "source": "/지방간-SGLT2-GLP1/"
   },
+  "/케이스/PIVKAII-와파린-위양성/": {
+    "top": "/assets/img/page-generated-v2/detail/d033-diagnostics-pivka-ii-hcc마커-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d033-diagnostics-pivka-ii-hcc마커-lower.webp",
+    "source": "/PIVKA-II-간암마커/"
+  },
   "/케이스/resmetirom-신약시작/": {
     "top": "/assets/img/page-generated-v2/detail/d093-masld-masld-신약-resmetirom-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d093-masld-masld-신약-resmetirom-lower.webp",
@@ -193,6 +198,11 @@
     "top": "/assets/img/page-generated-v2/detail/d018-viral-hbv-hcc검진-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d018-viral-hbv-hcc검진-lower.webp",
     "source": "/B형간염-간암검진/"
+  },
+  "/케이스/간기능회복-재절제/": {
+    "top": "/assets/img/page-generated-v2/detail/d053-hcc-hcc-재발-추적-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d053-hcc-hcc-재발-추적-lower.webp",
+    "source": "/간암-재발-추적/"
   },
   "/케이스/간성혼수-첫발생/": {
     "top": "/assets/img/page-generated-v2/detail/d050-cirrhosis-cirrhosis-encephalopathy-top.webp",
@@ -224,6 +234,11 @@
     "lower": "/assets/img/page-generated-v2/detail/d084-diagnostics-dili-간손상-dili-lower.webp",
     "source": "/약물성-간손상-DILI/"
   },
+  "/케이스/소작후-2년재발-단일결절/": {
+    "top": "/assets/img/page-generated-v2/detail/d053-hcc-hcc-재발-추적-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d053-hcc-hcc-재발-추적-lower.webp",
+    "source": "/간암-재발-추적/"
+  },
   "/케이스/약물성간손상-항결핵제/": {
     "top": "/assets/img/page-generated-v2/detail/d084-diagnostics-dili-간손상-dili-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d084-diagnostics-dili-간손상-dili-lower.webp",
@@ -238,6 +253,11 @@
     "top": "/assets/img/page-generated-v2/detail/d071-cirrhosis-cirrhosis-ascites-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d071-cirrhosis-cirrhosis-ascites-lower.webp",
     "source": "/간경변-복수/"
+  },
+  "/케이스/절제후-2년재발/": {
+    "top": "/assets/img/page-generated-v2/detail/d053-hcc-hcc-재발-추적-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d053-hcc-hcc-재발-추적-lower.webp",
+    "source": "/간암-재발-추적/"
   },
   "/케이스/정맥류출혈이력-STRIDE/": {
     "top": "/assets/img/page-generated-v2/detail/d070-hcc-hcc-면역치료-1차-top.webp",
