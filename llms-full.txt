@@ -144,7 +144,7 @@ Whitfield JB. Gamma glutamyl transferase. Crit Rev Clin Lab Sci. 2001;38(4):263-
 
 Tapper EB, Parikh ND. Diagnosis and Management of Cirrhosis and Its Complications: A Review. JAMA. 2023;329(18):1589–1602.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ALPGGT간경변빌리루빈약물성간손상
 
@@ -361,7 +361,7 @@ Nelson NP, Weng MK, Hofmeister MG, et al. Prevention of Hepatitis A Virus Infect
 
 Kim YJ, et al. The Epidemiology and Vaccine Strategy of Hepatitis A in Korea. Clin Mol Hepatol (관련 한국 데이터).
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -710,7 +710,7 @@ Jeng WJ, Yip TC, Lok AS. Hepatitis B. JAMA. 2026. (CHB 5 phases 정의·자연�
 
 Jeng WJ, Papatheodoridis GV, Lok ASF. Hepatitis B. Lancet. 2023.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -810,7 +810,7 @@ Jeng WJ, Yip TC, Lok AS. Hepatitis B. JAMA. 2026. (CHB 5 phases 정의·자연�
 
 Jeng WJ, Papatheodoridis GV, Lok ASF. Hepatitis B. Lancet. 2023.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 B형간염HBsAg면역치료HBV DNAanti-HBs
 
@@ -926,7 +926,7 @@ European Association for the Study of the Liver. EASL 2017 Clinical Practice Gui
 
 Funk ML, Rosenberg DM, Lok AS. World-wide epidemiology of HBeAg-negative chronic hepatitis B and associated precore and core promoter variants. J Viral Hepat. 2002;9(1):52-61. DOI · PMID 11851903
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 HBeAgB형간염HBV DNAALTanti-HBe
 
@@ -1002,7 +1002,7 @@ Jeng WJ, Yip TC, Lok AS. Hepatitis B. JAMA. 2026. (CHB 5 phases 정의·자연�
 
 Jeng WJ, Papatheodoridis GV, Lok ASF. Hepatitis B. Lancet. 2023.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -1140,7 +1140,7 @@ HBsAg 음성 + anti-HBc 양성 (자연회복)일반 검진 수준 (해당 위험
 
 간암 검진은 6개월마다 꼭 받아야 하나요?네, B형간염 환자(특히 위험 인자 동반)에서 6개월 간격이 표준입니다. 6개월 주기는 간암의 종양 배가시간(평균 4-6개월) 근거 — 더 자주(3개월)는 비용·부담 대비 이득 미미, 더 드물게(12개월)는 진행기에 발견될 위험. 6개월 검진의 이득은 여러 메타분석에서 입증되었습니다 — 조기 발견 → 근치 치료 가능 → 5년 생존율 50-70%로 향상(진행기 발견 시 5-15% 대비). 검진 일정을 한 번 빠뜨리지 마세요 — 6개월이 12-18개월로 늘어나면 진단 시점 단계가 의미 있게 진행될 위험. 외래 일정과 함께 캘린더에 미리 표시하는 것이 도움이 됩니다.
 
-초음파만으로 충분한가요?초음파의 간암 진단 민감도는 약 60-70%로, 단독 사용은 일부 한계가 있습니다. KLCA-NCC 표준은 초음파 + AFP + PIVKA-II 조합 — 단일 검사보다 검출률이 의미 있게 높습니다. 초음파 한계 상황: 비만(피하지방 두꺼움), 간경변 진행(결절성 표면이 종양과 구별 어려움), 검사자 경험 차이, 위치 어려움. 이런 경우 동적 CT 또는 MRI(특히 MRI)로 보완. 일부 의료기관·고위험 환자(간경변 동반 B형간염)는 6개월마다 CT 또는 MRI를 시행하기도 합니다. 종양표지자(AFP·PIVKA-II) 정상이라도 영상에서 결절이 발견되면 정밀 평가.
+초음파만으로 충분한가요?초음파의 간암 진단 민감도는 약 60-70%로, 단독 사용은 일부 한계가 있습니다. KLCA-NCC 표준은 초음파 + AFP + PIVKA-II 조합 — 단일 검사보다 검출률이 의미 있게 높습니다. 초음파 한계 상황: 비만(피하지방 두꺼움), 간경변 진행(결절성 표면이 종양과 구별 어려움), 검사자 경험 차이, 위치 어려움. 이런 경우 동적 CT 또는 MRI로 보완합니다. 일부 의료기관·고위험 환자(간경변 동반 B형간염)는 6개월마다 CT 또는 MRI를 시행하기도 합니다. 종양표지자(AFP·PIVKA-II) 정상이라도 영상에서 결절이 발견되면 정밀 평가.
 
 AFP·PIVKA-II가 정상인데 간암일 수 있나요?네, 가능합니다. 약 30-40%의 간암은 AFP가 정상이고, 약 10-15%는 두 마커 모두 정상입니다. 따라서 "마커 정상 = 안전"이 아니라 영상이 결정적입니다. KLCA-NCC는 영상(초음파 또는 CT/MRI) + 두 마커 조합을 표준으로 권합니다 — 마커가 정상이라도 영상에서 결절 발견 시 정밀 평가. 두 마커는 보완 관계이며 단독보다 함께 측정 시 검출률이 올라갑니다. 또한 마커 추세(이전 값 대비 변화)가 절대값보다 의미 있는 경우가 많아 정기 측정·기록·진료의 평가가 표준. 검진을 빠뜨리지 마세요 — 한 번 정상이 평생 안전을 보장하지 않습니다.
 
@@ -1247,7 +1247,7 @@ HBsAganti-HBsanti-HBc해석
 
 ### anti-HBc IgG만 양성이고 나머지 음성이라면
 
- 과거 노출 이력은 있지만 현재 감염은 아니고 면역도 소실된 상태입니다. 면역억제제·항암 치료를 시작할 때 HBV 재활성화 위험이 있어 담당 의사에게 반드시 알려야 합니다.
+ 과거 노출 이력은 있지만 현재 감염은 아니고 면역도 소실된 상태입니다. 면역억제제·항암 치료를 시작할 때 HBV 재활성화 위험이 있어 담당 의사에게 담당 의사에게 꼭 알려 주세요.
 
  
 
@@ -1705,7 +1705,7 @@ Jeng WJ, Yip TC, Lok AS. Hepatitis B. JAMA. 2026. (CHB 5 phases 정의·자연�
 
 Jeng WJ, Papatheodoridis GV, Lok ASF. Hepatitis B. Lancet. 2023.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 백신B형간염anti-HBs가족검사HBsAg
 
@@ -1773,7 +1773,7 @@ Jeng WJ, Yip TC, Lok AS. Hepatitis B. JAMA. 2026. (CHB 5 phases 정의·자연�
 
 Jeng WJ, Papatheodoridis GV, Lok ASF. Hepatitis B. Lancet. 2023.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -1828,7 +1828,7 @@ Jeng WJ, Yip TC, Lok AS. Hepatitis B. JAMA. 2026. (CHB 5 phases 정의·자연�
 
 Jeng WJ, Papatheodoridis GV, Lok ASF. Hepatitis B. Lancet. 2023.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -1880,7 +1880,7 @@ Jeng WJ, Yip TC, Lok AS. Hepatitis B. JAMA. 2026. (CHB 5 phases 정의·자연�
 
 Jeng WJ, Papatheodoridis GV, Lok ASF. Hepatitis B. Lancet. 2023.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -2005,7 +2005,7 @@ Jeng WJ, Yip TC, Lok AS. Hepatitis B. JAMA. 2026. (CHB 5 phases 정의·자연�
 
 Jeng WJ, Papatheodoridis GV, Lok ASF. Hepatitis B. Lancet. 2023.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 B형간염면역치료HBV DNA검진엔테카비르
 
@@ -2282,7 +2282,7 @@ Terrault NA, Lok ASF, McMahon BJ, et al. Update on prevention, diagnosis, and tr
 
 Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 TDFTAF엔테카비르B형간염HBV DNA
 
@@ -2678,7 +2678,7 @@ _거미혈관(spider angioma)·수장 홍반(palmar erythema)은 간경변의 �
 
 수장 홍반이 갑자기 생겼어요수장홍반(손바닥 양쪽이 붉어지는 소견)은 단독으로 진단을 결정하지는 않지만 여러 원인의 단서가 될 수 있습니다. 외래에서는 (1) 간 기능 검사(ALT·AST·알부민·PT·빌리루빈), (2) 갑상선 기능(TSH·free T4), (3) 임신 여부 또는 호르몬 상태, (4) 류마티스 질환 평가(ANA·류마티스 인자)를 우선 진행합니다. 호르몬·갑상선·임신·자가면역질환·만성 간 질환 모두 손바닥의 작은 혈관 확장을 유발할 수 있어 한 가지로만 단정하지 않습니다. 검사 결과에 따라 추가 영상이나 전문 진료가 필요한지 결정하므로, 첫 외래에서는 시작 단계 혈액 검사 한 번이 효율적입니다.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -2728,7 +2728,7 @@ Mallory-Weiss tear — 심한 구토 후 식도-위 접합부 열상.
 
 아스피린 복용 중인데 검은변아스피린·NSAIDs 관련 상부 위장관 출혈일 가능성이 있으므로 지체 없이 응급실로 가셔야 합니다. 아스피린은 항혈소판 작용으로 출혈을 멈추기 어렵게 만들고, 위 점막에 직접 자극을 주어 궤양·미란을 유발할 수 있습니다. 자가 판단으로 아스피린을 중단하면 심혈관 사건(심근경색·뇌졸중) 위험이 올라갈 수 있어, 중단 여부는 반드시 응급실에서 출혈 정도·심혈관 위험도·동반 약물(이중 항혈소판 요법 여부 등)을 함께 평가한 뒤 결정합니다. 응급실에 가실 때는 평소 복용 중인 모든 약(혈전약·항응고제·진통제·한약 포함)과 복용 시작 시점을 메모해 가시면 진료에 도움이 됩니다.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -2816,7 +2816,7 @@ _양쪽 다리 부종이 외래에서 호소되면 간경변·심부전·신증�
 
 한쪽만 갑자기 부었어요양쪽이 아니라 한쪽 다리만 갑자기 부어오르면 심부정맥혈전증(DVT)을 가장 먼저 의심합니다. 특히 (1) 종아리 통증·압통, (2) 피부 발적·열감, (3) 같은 다리에 정맥이 두드러져 보이거나, (4) 최근 장시간 비행·수술·움직임 제한·악성 종양·임신 같은 위험 인자가 있다면 빨리 평가가 필요합니다. DVT는 폐색전증으로 진행할 수 있어 응급 평가 대상이며, 응급실에서 D-dimer 혈액 검사와 다리 도플러 초음파로 빠르게 진단합니다. 진단되면 즉시 항응고 치료를 시작하므로 자가 판단으로 마사지하거나 따뜻한 찜질을 적용하지 마시고 바로 응급실로 가시길 권합니다.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -2861,7 +2861,7 @@ HCV·HIV (위험군)
 
 임신 중인데 갑자기 가려워요임신 후반기의 새로운 가려움은 임신성 간내 담즙정체(ICP)를 한 번은 확인해야 합니다. ICP는 임신 3분기에 가장 흔하며 발진 없이 손바닥·발바닥에서 시작해 야간에 심해지는 가려움이 전형적인 모습입니다. 진단은 총담즙산(total bile acid) 검사가 결정적이며, 10 μmol/L 이상이면 의심·40 μmol/L 이상이면 중증으로 분류해 적극 관리합니다. 동시에 ALT·AST·빌리루빈도 봅니다. ICP는 산모에게는 가려움 외 큰 위험이 적지만 태아에게는 조산·태변 흡인·드물게는 사산 위험이 있어 빠른 진단이 중요합니다. 진단되면 UDCA를 시작하고 산과와 함께 분만 시점(보통 37주 전후 유도분만)을 조율합니다.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -3047,7 +3047,7 @@ PT/INR — 응고 인자 활동성
 
 비타민 K 영양제 먹어도 되나요?원인이 확인되기 전에는 자가 복용하지 마시길 권합니다. 비타민 K가 효과적인 출혈 원인은 (1) 와파린 과량 복용으로 인한 PT 연장, (2) 영양 결핍, (3) 흡수 장애(만성 담즙정체·췌장 외분비 부족) 정도로 제한적이고, 그 외의 출혈·멍에는 효과가 없거나 오히려 해로울 수 있습니다. 특히 와파린을 복용 중인 환자분은 비타민 K가 약효를 떨어뜨려 혈전 위험을 올릴 수 있어 임의 복용을 피해야 합니다. 외래에서 혈액 검사(특히 PT/INR)와 영양 평가를 한 뒤 정말 보충이 필요하면 그때 시작하는 것이 안전합니다. 비타민 K 자체보다는 균형 잡힌 식사(녹색 채소·발효식품·해조류)로 자연 섭취하는 것이 일반적인 권고입니다.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -3497,7 +3497,7 @@ eGFR (mL/min)1차 권고주의
 
 ### HIV 공동감염
 
-2025 KASL은 HIV/HCV 공동감염도 단독 감염과 같은 regimen으로 치료하도록 권고합니다. 다만 항레트로바이러스제(ART)와의 약물 상호작용을 반드시 확인해야 합니다. 특히 efavirenz, atazanavir/ritonavir 등은 일부 DAA와 병용 시 농도 변화가 보고되어 있어 ART 조정 또는 다른 DAA로의 전환이 필요할 수 있습니다.
+2025 KASL은 HIV/HCV 공동감염도 단독 감염과 같은 regimen으로 치료하도록 권고합니다. 다만 항레트로바이러스제(ART)와의 약물 상호작용을 꼭 확인합니다. 특히 efavirenz, atazanavir/ritonavir 등은 일부 DAA와 병용 시 농도 변화가 보고되어 있어 ART 조정 또는 다른 DAA로의 전환이 필요할 수 있습니다.
 
 ### HBV 공동감염 또는 HBV 노출 이력
 
@@ -3577,7 +3577,7 @@ Carrat F, Fontaine H, Dorival C, et al. Clinical outcomes in patients with chron
 
 C형간염DAAKASL가이드라인SVR
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -3639,7 +3639,7 @@ Bhattacharya D, Aronsohn A, Price J, Lo Re V, et al. Hepatitis C Guidance 2023 U
 
 Bourliere M, et al. Sofosbuvir-velpatasvir-voxilaprevir for previously treated HCV (POLARIS-1, -4). NEJM 2017.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -3701,7 +3701,7 @@ IDSA. Guidelines for the Prevention and Treatment of Opportunistic Infections in
 
 Sulkowski MS. Outcomes for patients coinfected with HCV and HIV. NEJM 2014.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -3757,7 +3757,7 @@ Bhattacharya D, Aronsohn A, Price J, Lo Re V, et al. Hepatitis C Guidance 2023 U
 
 Gane EJ, et al. Glecaprevir/pibrentasvir in patients with HCV and severe renal impairment (EXPEDITION-4). NEJM 2017.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -4018,7 +4018,7 @@ SVR 달성 후 ALT가 정상이면 안심해도 되나요?활동성 바이러스
 
 완치되면 더 이상 RNA 검사를 안 해도 되나요?일반적으로는 SVR12 확인 후 추가 RNA는 필수가 아닙니다. ALT가 새로 오르거나 증상이 생기면 그때 다시 봅니다. 단, 재감염 위험군(위 섹션)은 1년마다 RNA를 한 번씩 점검합니다. 간 영상·AFP는 RNA와 별개로 섬유화 단계에 따라 정기 진행합니다.
 
-이미 간경변인 상태에서 SVR을 달성했는데, 간이식이 필요한가요?보상성 간경변(Child-Pugh A)이라면 SVR 후 추적 관찰이 표준이며, 즉시 이식 평가가 필요한 것은 아닙니다. 비대상성 간경변(Child-Pugh B/C, 복수·간성혼수·정맥류 출혈)이거나 MELD가 의미 있게 높은 경우에는 이식 평가를 시작합니다. SVR 후 일부 환자분에서는 간기능이 호전되어 이식 대기 명단에서 제외될 수도 있고("delisting"), 일부는 SVR에도 불구하고 진행하여 이식이 필요할 수 있습니다. 6개월 단위 평가로 결정합니다.
+이미 간경변인 상태에서 SVR을 달성했는데, 간이식이 필요한가요?보상성 간경변(Child-Pugh A)이라면 SVR 후 추적 관찰이 표준이며, 즉시 이식 평가가 필요한 것은 아닙니다. 비대상성 간경변(Child-Pugh B/C, 복수·간성혼수·정맥류 출혈)이거나 MELD가 의미 있게 높은 경우에는 이식 평가를 시작합니다. SVR 후 일부 환자분에서는 간기능이 호전되어 이식 대기 명단에서 제외될 수도 있고("delisting"), 일부는 SVR 도달 후에도 진행하여 이식이 필요할 수 있습니다. 6개월 단위 평가로 결정합니다.
 
 완치 후 검진 외래 간격을 더 길게 잡고 싶습니다.F3~F4는 6개월 간격이 표준이며 짧아지는 것은 권하지 않습니다. 6개월보다 길게 잡으면 발견 시 종양이 커서 치료 옵션이 좁아질 수 있습니다. 환자분의 일정상 어렵다면, 검진을 다른 의료기관에서 분담하거나(영상은 가까운 곳에서, 외래는 본원에서) 약속 시간을 조정하는 방향으로 합의하는 게 안전합니다.
 
@@ -4034,7 +4034,7 @@ EASL Recommendations on Treatment of Hepatitis C. J Hepatol 2020;73:1170-1218.
 
 Bhattacharya D, Aronsohn A, Price J, Lo Re V, et al. Hepatitis C Guidance 2023 Update: AASLD-IDSA Recommendations for Testing, Managing, and Treating Hepatitis C Virus Infection. Clin Infect Dis. 2023. (SVR 후 보상성 간경변 환자에서 식도정맥류 추적을 위해 위내시경 2~3년 간격, 6개월 초음파+AFP 평생 권고)
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 C형간염DAA검진간세포암간경변
 
@@ -4098,7 +4098,7 @@ Bhattacharya D, Aronsohn A, Price J, Lo Re V, et al. Hepatitis C Guidance 2023 U
 
 Hughes BL, et al. Hepatitis C in pregnancy. Obstet Gynecol 2017.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -4158,7 +4158,7 @@ Bhattacharya D, Aronsohn A, Price J, Lo Re V, et al. Hepatitis C Guidance 2023 U
 
 Midgard H, et al. HCV reinfection rates after successful treatment. J Hepatol 2016.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -4331,7 +4331,7 @@ Schillie S, Wester C, Osborne M, et al. CDC Recommendations for Hepatitis C Scre
 
 EASL Recommendations on Treatment of Hepatitis C. J Hepatol 2020;73:1170-1218.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 C형간염anti-HCVDAAFibroscan검진
 
@@ -4367,13 +4367,13 @@ D형간염 바이러스(HDV)는 외피를 만들 능력이 없어 B형간염 바
 
 한국은 일반 HBsAg 양성자 중 anti-HDV 양성률이 0.1% 미만으로 매우 드뭅니다. 외래에서 HDV를 의심해야 하는 상황은 다음과 같습니다.
 
- 풍토 지역(아프리카·동유럽·중앙아시아·중동·몽골) 출생·거주 이력이 있는 HBsAg 양성 환자
+ 풍토 지역(아프리카·동유럽·중앙아시아·중동·몽골) 출생·거주 이력이 있는 HBsAg 양성 환자분
 
- 정맥주사 약물 사용 이력, HIV 동반, 1992년 이전 다회 수혈
+ 정맥주사 약물 사용 이력, HIV 동반 감염, 1992년 이전 다회 수혈을 받은 적이 있는 경우
 
- 안정적이던 B형간염 환자에서 ALT 급격한 악화 또는 간경변·간세포암으로 빠른 진행
+ 안정적이던 B형간염 환자에서 ALT가 갑자기 악화되거나 간경변·간암으로 빠르게 진행하는 경우
 
- HBV DNA가 낮거나 억제됐는데도 간 효소·섬유화가 진행하는 경우
+ HBV DNA가 낮거나 억제되어 있는데도 간 효소·섬유화가 진행하는 경우
 
 ## 선별 — 누구에게 anti-HDV를 검사하나
 
@@ -4390,25 +4390,25 @@ KASL 2022위험군 한정 (풍토 지역, 정맥주사 약물, HIV 동반, 빠�
 
 ## 진단 알고리즘
 
-선별·확진은 두 단계입니다.
+선별·확진은 두 단계로 이루어집니다.
 
- Anti-HDV total (IgG) — 노출 확인. 양성이면 활동 감염 가능성 → 2단계로.
+ Anti-HDV total (IgG) — 과거 노출 여부를 확인합니다. 양성이면 활동 감염 가능성이 있어 2단계로 넘어갑니다.
 
- HDV RNA 정량 PCR — 활동 감염 확인. 측정 한계는 표준화된 WHO IU/mL 단위(권장 측정 한계 ≤ 100 IU/mL)로 보고됩니다. 검출되면 만성 활동성 HDV로 진단하고 치료 평가를 시작합니다.
+ HDV RNA 정량 PCR — 활동 감염을 확인합니다. 측정 한계는 표준화된 WHO IU/mL 단위(권장 측정 한계 ≤ 100 IU/mL)로 보고됩니다. 검출되면 만성 활동성 HDV로 진단하고 치료 평가를 시작합니다.
 
 다음을 함께 평가해 치료 의사결정의 토대를 만듭니다.
 
- HDV 유전형 — HDV-1이 전 세계 우세, HDV-2/4가 동아시아·일본 일부에서 보고. 유전형은 치료 반응에 영향을 주지만 임상 결정의 결정 인자는 아닙니다.
+ HDV 유전형 — HDV-1이 전 세계에서 가장 흔하고, HDV-2·4가 동아시아·일본 일부에서 보고됩니다. 유전형은 치료 반응에 영향을 주지만 치료 시작 결정의 핵심 인자는 아닙니다.
 
- HBV DNA·HBeAg — HBV 동시 활성도 평가. 항바이러스제 적응증 평가.
+ HBV DNA·HBeAg — HBV 동시 활성도와 항바이러스제 적응증을 함께 평가합니다.
 
- 간 기능 — AST/ALT, 빌리루빈, 알부민, INR(International Normalized Ratio), 혈소판.
+ 간 기능 — AST/ALT, 빌리루빈, 알부민, INR(International Normalized Ratio), 혈소판을 봅니다.
 
- 섬유화·간경변 평가 — Fibroscan(간섬유화 측정값(LSM)), FIB-4, 가능하면 영상에서 간경변 소견 확인.
+ 섬유화·간경변 평가 — Fibroscan(간섬유화 측정값(LSM))과 FIB-4(Fibrosis-4)를 측정하고, 가능하면 영상에서 간경변 소견을 함께 확인합니다.
 
- HCC 검진 — 6개월 간격 초음파 + 알파태아단백(AFP). 간경변·진행 섬유화 동반 시 평생 유지.
+ 간암 검진 — 6개월 간격으로 초음파와 알파태아단백(AFP)을 시행합니다. 간경변·진행 섬유화가 동반되면 평생 유지합니다.
 
- HIV·HCV 동반 검사 — 위험군에서 함께 평가.
+ HIV·HCV 동반 검사 — 위험군에서는 함께 검사합니다.
 
 ## 치료 시작 결정 — 누구에게 약을 시작하는가
 
@@ -4445,23 +4445,23 @@ MYR-301(Wedemeyer N Engl J Med 2023, NCT03852719) 3상 시험은 대상성 간 �
 
 페그인터페론 알파-2a 180 µg/주 48주 표준 용법은 Bulevirtide 도입 전부터 사용되던 유일한 옵션이었습니다. 치료 종료 후 24주 시점에 HDV RNA 음성을 유지하는 환자는 약 25~30%로 보고됐고, 장기 추적에서 17% 정도까지 떨어지는 데이터가 있습니다(Heidrich Hepatology 2014, Wedemeyer Lancet Infect Dis 2019).
 
- 적응증 위치 (2026) — Bulevirtide 미접근 환경, BLV 단독에 반응이 부족한 환자, BLV 종결 후 oneshot 결합 사이클 등 보조 역할로 좁아졌습니다.
+ 적응증 위치 (2026) — Bulevirtide 미접근 환경, BLV 단독에 반응이 부족한 환자, BLV 종결 후 단기 강화 사이클 등 보조 역할로 좁아졌습니다.
 
- 금기·신중 — 비대상성 간경변, 임신, 활성 자가면역 질환, 조절되지 않는 정신과 질환·자살 위험, 심한 골수 억제, 갑상선 자가면역 활동기.
+ 금기·신중 사용 — 비대상성 간경변, 임신, 활성 자가면역 질환, 조절되지 않는 정신과 질환과 자살 위험, 심한 골수 억제, 갑상선 자가면역 활동기에서는 사용하지 않습니다.
 
- 부작용 — 독감 양상, 우울·자살 위험, 백혈구·혈소판 감소, 갑상선 기능 이상, 자가면역 활성.
+ 부작용 — 독감 양상, 우울·자살 위험, 백혈구·혈소판 감소, 갑상선 기능 이상, 자가면역 활성이 흔합니다.
 
- 치료 기간 — 표준 48주, 일부 환자에서 96주까지 연장합니다.
+ 치료 기간 — 표준 48주이며 일부 환자에서 96주까지 연장합니다.
 
 ## 병용 요법 — Bulevirtide + 페그인터페론
 
 MYR204(Asselah N Engl J Med 2024) phase 2b 시험은 BLV 10 mg/일 + PEG-IFN 180 µg/주, BLV 단독, PEG-IFN 단독을 48주 비교했습니다. 48주 시점 결합 반응이 병용군에서 단독군보다 높았고, 치료 종결 후 24~48주 지속 반응(SVR)에서도 병용군 우위를 보였습니다.
 
- 적응증 후보 — 인터페론 사용에 금기가 없는 환자에서 short-course 강화 전략으로 검토합니다.
+ 적응증 후보 — 인터페론 사용에 금기가 없는 환자에서 단기 강화 전략으로 검토합니다.
 
- 한계 — 표준화된 사용 기간·중단 기준이 phase 3 데이터로 아직 정착되지 않았습니다. 임상시험 또는 다학제 결정 영역.
+ 한계 — 표준화된 사용 기간과 중단 기준이 phase 3 데이터로 아직 정착되지 않았으며, 임상시험 또는 다학제 결정 영역으로 남아 있습니다.
 
- BLV 단독 vs 병용 — 단독은 부작용 부담이 낮아 long-term suppression에 유리. 병용은 짧은 강화 후 중단(finite duration)을 노릴 때 유리하지만 부작용 부담 커집니다.
+ BLV 단독 vs 병용 — 단독은 부작용 부담이 낮아 장기 억제에 유리하고, 병용은 짧은 강화 후 중단을 노릴 때 유리하지만 부작용 부담이 커집니다.
 
 ## 모니터링과 치료 종결 기준
 
@@ -4479,15 +4479,15 @@ HCC 검진6개월간경변·진행 섬유화 동반 시 평생
 
 ## 신약 파이프라인 — 2026 현재
 
- Lonafarnib — 프레닐화 억제제. D-LIVR phase 3 결과 발표 단계, ritonavir 부스트와 함께 사용. 위장관 부작용이 한계.
+ Lonafarnib — 프레닐화 억제제로, ritonavir 부스트와 함께 사용합니다. D-LIVR phase 3 결과 발표 단계이며 위장관 부작용이 사용을 제한합니다.
 
- JNJ-3989 (siRNA) — HBsAg 생산 자체를 줄이는 RNA 간섭. HBV·HDV 동반 환자에서 HDV에도 효과 기대. phase 2.
+ JNJ-3989 (siRNA) — HBsAg 생산 자체를 줄이는 RNA 간섭 약물입니다. HBV·HDV 동반 환자에서 HDV에도 효과가 기대되고, phase 2 단계입니다.
 
- Bepirovirsen (antisense) — HBV·HDV에서 HBsAg 감소 효과 평가 중. phase 2/3.
+ Bepirovirsen (antisense) — HBV·HDV에서 HBsAg 감소 효과를 평가 중이며 phase 2·3 단계입니다.
 
- REP-2139 (nucleic acid polymer) — HBsAg 분비 차단. 임상시험 누적 중.
+ REP-2139 (nucleic acid polymer) — HBsAg 분비를 차단하는 약으로 임상시험 데이터를 누적 중입니다.
 
-5~10년 뒤 표준은 BLV 유지 ± siRNA·NAP 같은 HBsAg 표적 약물의 단기 강화 조합으로 진화할 가능성이 있습니다.
+5~10년 뒤 표준은 Bulevirtide 유지에 siRNA나 nucleic acid polymer 같은 HBsAg 표적 약물의 단기 강화를 더하는 조합으로 진화할 가능성이 있습니다.
 
 ## 한국 임상에서의 실제 접근 — 2026 현재
 
@@ -4533,7 +4533,7 @@ Wedemeyer H, Yurdaydın C, Hardtke S, et al. Peginterferon alfa-2a plus tenofovi
 
 Korean Association for the Study of the Liver (KASL). KASL clinical practice guidelines for management of chronic hepatitis B. Clin Mol Hepatol. 2022;28(2):276–331. DOI
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -4609,7 +4609,7 @@ _간암·간경화·B형간염·C형간염·지방간·간수치 이상·자가�
  31편
  
 
-본 사이트는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 사이트는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -4909,7 +4909,7 @@ Mack CL, Adams D, Assis DN, et al. Diagnosis and Management of Autoimmune Hepati
 
 Muratori L, Lohse AW, Lenzi M. Diagnosis and Management of Autoimmune Hepatitis. BMJ. 2023.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -5050,7 +5050,7 @@ Liebman HA, Furie BC, Tong MJ, et al. Des-γ-carboxy (abnormal) prothrombin as a
 
 Rich NE, Villanueva A, Marrero JA, Kanwal F. AGA Clinical Practice Update on Risk Stratification and Emerging Surveillance Strategies for Hepatocellular Carcinoma: Expert Review. Gastroenterology. 2026.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 PIVKA-IIAFP간세포암검진B형간염
 
@@ -7033,7 +7033,7 @@ Multi-institutional validation studies of AI for HCC diagnosis. Hepatology 2024.
 
 Shin H, et al. AI-based CT model for HCC in chronic hepatitis B. J Hepatol 2025.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -7188,7 +7188,7 @@ de Franchis R, et al. Baveno VII — Renewing consensus in portal hypertension. 
 
 D'Amico G, et al. Clinical states of cirrhosis and competing risks. J Hepatol 2018.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -7227,7 +7227,7 @@ B형간염은 30년 동안 "바이러스 억제는 가능하나 완치 불가능
 
 Yuen MF, et al. Efficacy and safety of bepirovirsen in chronic hepatitis B (B-Clear). NEJM/Lancet 2024.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -7266,7 +7266,7 @@ ORR — Arm 1에서 더 높음
 
 Galle PR, et al. Nivolumab plus ipilimumab as first-line treatment for unresectable HCC (CheckMate 9DW). Lancet 2024/2025.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -7379,7 +7379,7 @@ OS 데이터 — 추적 중. 향후 update 예정.
 
 Lencioni R, et al. Transarterial chemoembolization combined with durvalumab plus bevacizumab in unresectable hepatocellular carcinoma (EMERALD-1): a randomised, placebo-controlled, phase 3 study. Lancet 2024.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -7419,7 +7419,7 @@ Resmetirom (MAESTRO-NASH 2024)이 NASH 약물 시대의 첫 승인 약이라면,
 
 Sanyal AJ, et al. Survodutide in metabolic dysfunction-associated steatohepatitis with fibrosis. NEJM/Lancet 2024.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -7743,7 +7743,7 @@ Qin S, et al. Adjuvant atezolizumab plus bevacizumab in HCC after curative treat
 
 Sangro B, et al. Editorial: The promise and challenges of adjuvant immunotherapy in HCC. J Hepatol 2024.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -7890,7 +7890,7 @@ Child-Pugh 평가 — A6 이하면 고려, B7도 케이스별로 검토. B8 이�
 가이드라인은 KLCA-NCC 2022가 atezo+bev을 진행기 1차로 권고합니다(Korean J Liver Cancer 2023). 다만 제가 진료 현장에서 더 중요하게 보는 것은 "이 환자가 매월 외래 + 부작용 관리에 응할 수 있는가"입니다. 면역치료는 시작보다 유지가 어렵습니다.
 
 BOTTOM LINE
-13년 sorafenib 단일 표준을 끝낸 시험. 한국 임상에 적용성이 좋고 KLCA-NCC 1차 권고. 다만 "누구에게나 좋다"가 아니라 정맥류 평가·간 기능·동반 질환·부작용 모니터링 가능성을 반드시 챙겨야 합니다. 비바이러스 기반 HCC에서는 효과가 평균보다 약할 수 있다는 점이 최근 강조되고 있습니다. 자세한 임상 적용은 면역치료 1차 시대 참조.
+13년 sorafenib 단일 표준을 끝낸 시험. 한국 임상에 적용성이 좋고 KLCA-NCC 1차 권고. 다만 "누구에게나 좋다"가 아니라 정맥류 평가·간 기능·동반 질환·부작용 모니터링 가능성을 반드시 챙겨야 합니다. 비바이러스 기반 HCC에서는 효과가 평균보다 약한다는 점이 최근 강조되고 있습니다. 자세한 임상 적용은 면역치료 1차 시대 참조.
 
 ## References
 
@@ -8187,7 +8187,7 @@ Klausen MK, et al. Once-weekly semaglutide versus placebo in patients with alcoh
 
 Newsome PN, et al. A Placebo-Controlled Trial of Subcutaneous Semaglutide in Nonalcoholic Steatohepatitis. N Engl J Med. 2021;384:1113-1124.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 GLP-1RAMASLDMASHRCT지방간
 
@@ -8228,7 +8228,7 @@ EMERALD-1과 LEAP-012는 "TACE + 면역치료 + 항혈관/TKI" 조합의 효과�
 
 Llovet JM, et al. Transarterial chemoembolization with pembrolizumab plus lenvatinib for unresectable HCC (LEAP-012). Lancet 2024.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -8272,7 +8272,7 @@ Harrison SA, et al. A phase 3, randomized, controlled trial of resmetirom in NAS
 
 Harrison SA, et al. 3-year results from MAESTRO-NASH. Hepatology 2024/2025.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -8415,7 +8415,7 @@ Rinella ME, et al. A multisociety Delphi consensus statement on new fatty liver 
 
 Chan WK, et al. Asian Pacific Association for the Study of the Liver position paper on MASLD/MetALD. Hepatol Int 2024.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -9434,7 +9434,7 @@ Tapper EB, Parikh ND. Diagnosis and Management of Cirrhosis and Its Complication
 
 Ginès P, Krag A, Abraldes JG, et al. Liver Cirrhosis. Lancet. 2021;398(10308):1359–1376.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 Child-PughMELD간경변간이식알부민
 
@@ -9575,7 +9575,7 @@ Tapper EB, Parikh ND. Diagnosis and Management of Cirrhosis and Its Complication
 
 Ginès P, Krag A, Abraldes JG, et al. Liver Cirrhosis. Lancet. 2021;398(10308):1359–1376.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 간성혼수간경변비대상성약물성간손상MELD
 
@@ -9686,7 +9686,7 @@ Tapper EB, Parikh ND. Diagnosis and Management of Cirrhosis and Its Complication
 
 Ginès P, Krag A, Abraldes JG, et al. Liver Cirrhosis. Lancet. 2021;398(10308):1359–1376.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 간신증후군간경변비대상성MELD복수
 
@@ -9870,7 +9870,7 @@ Tapper EB, Parikh ND. Diagnosis and Management of Cirrhosis and Its Complication
 
 Ginès P, Krag A, Abraldes JG, et al. Liver Cirrhosis. Lancet. 2021;398(10308):1359–1376.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 간이식MELDLDLT간경변Child-Pugh
 
@@ -9942,7 +9942,7 @@ Tapper EB, Parikh ND. Diagnosis and Management of Cirrhosis and Its Complication
 
 Ginès P, Krag A, Abraldes JG, et al. Liver Cirrhosis. Lancet. 2021;398(10308):1359–1376.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -10050,7 +10050,7 @@ Tapper EB, Parikh ND. Diagnosis and Management of Cirrhosis and Its Complication
 
 Ginès P, Krag A, Abraldes JG, et al. Liver Cirrhosis. Lancet. 2021;398(10308):1359–1376.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 간경변대상성비대상성Child-PughMELD
 
@@ -10185,7 +10185,7 @@ Tapper EB, Parikh ND. Diagnosis and Management of Cirrhosis and Its Complication
 
 Ginès P, Krag A, Abraldes JG, et al. Liver Cirrhosis. Lancet. 2021;398(10308):1359–1376.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 복수간경변비대상성SBP알부민
 
@@ -10262,7 +10262,7 @@ Tapper EB, Parikh ND. Diagnosis and Management of Cirrhosis and Its Complication
 
 Ginès P, Krag A, Abraldes JG, et al. Liver Cirrhosis. Lancet. 2021;398(10308):1359–1376.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -10393,7 +10393,7 @@ Tapper EB, Parikh ND. Diagnosis and Management of Cirrhosis and Its Complication
 
 Ginès P, Krag A, Abraldes JG, et al. Liver Cirrhosis. Lancet. 2021;398(10308):1359–1376.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 정맥류간경변문맥압항진비대상성Child-Pugh
 
@@ -10539,7 +10539,7 @@ Tapper EB, Parikh ND. Diagnosis and Management of Cirrhosis and Its Complication
 
 Ginès P, Krag A, Abraldes JG, et al. Liver Cirrhosis. Lancet. 2021;398(10308):1359–1376.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 간경변약물성간손상ALTPT비대상성
 
@@ -10625,7 +10625,7 @@ Tapper EB, Parikh ND. Diagnosis and Management of Cirrhosis and Its Complication
 
 Ginès P, Krag A, Abraldes JG, et al. Liver Cirrhosis. Lancet. 2021;398(10308):1359–1376.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -10770,7 +10770,7 @@ Tapper EB, Parikh ND. Diagnosis and Management of Cirrhosis and Its Complication
 
 Ginès P, Krag A, Abraldes JG, et al. Liver Cirrhosis. Lancet. 2021;398(10308):1359–1376.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 식이·운동간경변알부민비대상성Child-Pugh
 
@@ -10876,7 +10876,7 @@ Tapper EB, Parikh ND. Diagnosis and Management of Cirrhosis and Its Complication
 
 Ginès P, Krag A, Abraldes JG, et al. Liver Cirrhosis. Lancet. 2021;398(10308):1359–1376.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 간경변ALT알부민Fibroscan혈소판
 
@@ -10950,7 +10950,7 @@ Tapper EB, Parikh ND. Diagnosis and Management of Cirrhosis and Its Complication
 
 Ginès P, Krag A, Abraldes JG, et al. Liver Cirrhosis. Lancet. 2021;398(10308):1359–1376.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -11037,7 +11037,7 @@ Tapper EB, Parikh ND. Diagnosis and Management of Cirrhosis and Its Complication
 
 Ginès P, Krag A, Abraldes JG, et al. Liver Cirrhosis. Lancet. 2021;398(10308):1359–1376.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -11513,7 +11513,7 @@ Tilg H, Petta S, Stefan N, Targher G. Metabolic Dysfunction–Associated Steatot
 
 Tapper EB, Parikh ND. Diagnosis and Management of Cirrhosis and Its Complications: A Review. JAMA. 2023;329(18):1589–1602.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 간생검MASH약물성간손상자가면역간염Fibroscan
 
@@ -11533,7 +11533,7 @@ _Fibroscan kPa 값을 원인 질환별로 어떻게 해석하는지, CAP 지방�
 
 ## Fibroscan은 무엇을 측정하나
 
-저주파 진동을 간에 보내고, 그 전파 속도로 강직도(LSM, kPa 단위)를 계산합니다. 동시에 초음파 신호 감쇠로 지방량(CAP(controlled attenuation parameter), dB/m)을 측정합니다. 비침습이고 5–10분, 결과를 즉시 확인할 수 있다는 점이 가장 큰 장점입니다.
+저주파 진동을 간에 보내고, 그 전파 속도로 강직도(LSM, kPa 단위)를 계산합니다. 동시에 초음파 신호 감쇠로 지방량(CAP(controlled attenuation parameter), dB/m)을 측정합니다. 비침습이고 5–10분, 결과를 즉시 확인한다는 점이 가장 큰 장점입니다.
 
 원인안전진행 의심간경변 의심
 
@@ -11620,7 +11620,7 @@ Tilg H, Petta S, Stefan N, Targher G. Metabolic Dysfunction–Associated Steatot
 
 American Diabetes Association Professional Practice Committee. 4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026. Diabetes Care. 2026. (FIB-4 ≥ 1.3 시 elastography·ELF 평가 권고)
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 FibroscanFIB-4MASH간경변MASLD
 
@@ -11965,7 +11965,7 @@ Diehl AM, et al. Alcohol-like liver disease in nonalcoholics. Gastroenterology 1
 
 Tapper EB, Parikh ND. Diagnosis and Management of Cirrhosis and Its Complications: A Review. JAMA. 2023;329(18):1589–1602.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -12013,7 +12013,7 @@ B형간염 + 위험 (가족력·40세↑·남)6개월좌동
 
 Tapper EB, Parikh ND. Diagnosis and Management of Cirrhosis and Its Complications: A Review. JAMA. 2023;329(18):1589–1602.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -12116,7 +12116,7 @@ European Association for the Study of the Liver, et al. EASL-EASD-EASO Clinical 
 
 Tapper EB, Parikh ND. Diagnosis and Management of Cirrhosis and Its Complications: A Review. JAMA. 2023;329(18):1589–1602.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ALTASTGGT약물성간손상MASLD
 
@@ -12168,7 +12168,7 @@ Schwimmer JB, et al. SAFETY study: alanine aminotransferase cutoff values are se
 
 Tapper EB, Parikh ND. Diagnosis and Management of Cirrhosis and Its Complications: A Review. JAMA. 2023;329(18):1589–1602.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -12213,7 +12213,7 @@ Pettersson J, et al. Muscular exercise can cause highly pathological liver funct
 
 Tapper EB, Parikh ND. Diagnosis and Management of Cirrhosis and Its Complications: A Review. JAMA. 2023;329(18):1589–1602.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -12259,7 +12259,7 @@ EASL Clinical Practice Guidelines on pregnancy-related liver disease. J Hepatol 
 
 Tapper EB, Parikh ND. Diagnosis and Management of Cirrhosis and Its Complications: A Review. JAMA. 2023;329(18):1589–1602.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -12357,7 +12357,7 @@ Lala V, Zubair M, Minter DA. Liver Function Tests. StatPearls. 2024. Treasure Is
 
 Tapper EB, Parikh ND. Diagnosis and Management of Cirrhosis and Its Complications: A Review. JAMA. 2023;329(18):1589–1602.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ALTASTGGTALP빌리루빈
 
@@ -12779,7 +12779,7 @@ European Association for the Study of the Liver. EASL Clinical Practice Guidelin
 
 Finn RS, Qin S, Ikeda M, et al. Atezolizumab plus Bevacizumab in Unresectable Hepatocellular Carcinoma (IMbrave150). N Engl J Med. 2020;382(20):1894–1905. DOI · PMID 32402160
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 BCLC간세포암Child-Pugh한국가이드라인절제
 
@@ -12891,7 +12891,7 @@ Hong TS, et al. Multi-institutional phase II study of high-dose hypofractionated
 
 Park S, et al. Korean Liver Cancer Association SBRT consensus statement. J Liver Cancer 2022.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -13014,7 +13014,7 @@ Lencioni R, et al. EMERALD-1: A phase 3, randomized, placebo-controlled study of
 
 Llovet JM, et al. Locoregional therapies in the era of molecular and immune treatments for HCC. Nat Rev Gastroenterol Hepatol 2024.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -13120,7 +13120,7 @@ Trinchet JC, et al. Family history of liver cancer and risk of HCC in patients w
 
 Romeo S, et al. Genetic variation in PNPLA3 and hepatocellular carcinoma. Nat Genet 2008 + follow-up cohorts.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -13279,7 +13279,7 @@ Mehta N, Dodge JL, Roberts JP, Yao FY. Validation of the prognostic power of the
 
 Singal AG, Llovet JM, Yarchoan M, et al. AASLD Practice Guidance on prevention, diagnosis, and treatment of hepatocellular carcinoma. Hepatology. 2023;78(6):1922–1965. DOI · PMID 37199193
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 간이식LDLT간세포암다운스테이징Child-Pugh
 
@@ -13458,7 +13458,7 @@ Vogel A, Meyer T, Sapisochin G, Salem R, Saborowski A. Hepatocellular carcinoma.
 
 National Comprehensive Cancer Network. Clinical Practice Guidelines in Oncology: Hepatocellular Carcinoma. v.2.2026 (Updated 2026-03-10). NCCN
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 면역치료atezolizumab+bevacizumabSTRIDE간세포암정맥류
 
@@ -13686,7 +13686,7 @@ Vietti Violi N, et al. Efficacy of microwave ablation versus radiofrequency abla
 
 Llovet JM, et al. Hepatocellular carcinoma. Nat Rev Dis Primers 2021.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -13785,7 +13785,7 @@ Singal AG, Llovet JM, Yarchoan M, et al. AASLD Practice Guidance on prevention, 
 
 Tandon P, Montano-Loza AJ, Lai JC, Dasarathy S, Merli M. Sarcopenia and frailty in decompensated cirrhosis. J Hepatol. 2021;75 Suppl 1:S147–S162. DOI · PMID 34039486
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 식이·운동간세포암추적재발MASLD
 
@@ -13938,7 +13938,7 @@ Imamura H, Matsuyama Y, Tanaka E, et al. Risk factors contributing to early and 
 
 Bruix J, Takayama T, Mazzaferro V, et al. Adjuvant sorafenib for hepatocellular carcinoma after resection or ablation (STORM): a phase 3, randomised, double-blind, placebo-controlled trial. Lancet Oncol. 2015;16(13):1344–1354. DOI · PMID 26361969
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 재발간세포암추적MRIAFP
 
@@ -14096,7 +14096,7 @@ Vogel A, Meyer T, Sapisochin G, Salem R, Saborowski A. Hepatocellular carcinoma.
 
 National Comprehensive Cancer Network. Clinical Practice Guidelines in Oncology: Hepatocellular Carcinoma. v.2.2026 (Updated 2026-03-10).
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 간세포암BCLC다학제검진Child-Pugh
 
@@ -14196,7 +14196,7 @@ European Association for the Study of the Liver. EASL Clinical Practice Guidelin
 
 Park JW, Kim YJ, Kim DY, et al. Sorafenib with or without concurrent transarterial chemoembolization in patients with advanced hepatocellular carcinoma: The phase III STAH trial. J Hepatol. 2019;70(4):684–691. DOI · PMID 30529386
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 간세포암절제고주파열치료술TACEBCLC
 
@@ -14311,7 +14311,7 @@ Abou-Alfa GK, et al. Tremelimumab plus Durvalumab in Unresectable Hepatocellular
 
 Cheng AL, et al. Updated efficacy and safety data from IMbrave150. J Hepatol 2022.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -14641,7 +14641,7 @@ Nault JC, Paradis V, Ronot M, Zucman-Rossi J. Benign Liver Tumours: Understandin
 
 Tse JR, Felker ER, Naini BV, et al. Hepatocellular Adenomas: Molecular Basis and Multimodality Imaging Update. Radiographics. 2023.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 FNH선종간양성종양절제추적
 
@@ -14708,7 +14708,7 @@ Nault JC, Paradis V, Ronot M, Zucman-Rossi J. Benign Liver Tumours: Understandin
 
 Tse JR, Felker ER, Naini BV, et al. Hepatocellular Adenomas: Molecular Basis and Multimodality Imaging Update. Radiographics. 2023.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -14770,7 +14770,7 @@ Nault JC, Paradis V, Ronot M, Zucman-Rossi J. Benign Liver Tumours: Understandin
 
 Tse JR, Felker ER, Naini BV, et al. Hepatocellular Adenomas: Molecular Basis and Multimodality Imaging Update. Radiographics. 2023.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -14829,7 +14829,7 @@ Nault JC, Paradis V, Ronot M, Zucman-Rossi J. Benign Liver Tumours: Understandin
 
 Tse JR, Felker ER, Naini BV, et al. Hepatocellular Adenomas: Molecular Basis and Multimodality Imaging Update. Radiographics. 2023.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -15009,7 +15009,7 @@ Nault JC, Paradis V, Ronot M, Zucman-Rossi J. Benign Liver Tumours: Understandin
 
 Tse JR, Felker ER, Naini BV, et al. Hepatocellular Adenomas: Molecular Basis and Multimodality Imaging Update. Radiographics. 2023.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 간낭종간양성종양경화요법블레오마이신추적
 
@@ -15072,7 +15072,7 @@ Nault JC, Paradis V, Ronot M, Zucman-Rossi J. Benign Liver Tumours: Understandin
 
 Tse JR, Felker ER, Naini BV, et al. Hepatocellular Adenomas: Molecular Basis and Multimodality Imaging Update. Radiographics. 2023.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -15123,7 +15123,7 @@ Nault JC, Paradis V, Ronot M, Zucman-Rossi J. Benign Liver Tumours: Understandin
 
 Tse JR, Felker ER, Naini BV, et al. Hepatocellular Adenomas: Molecular Basis and Multimodality Imaging Update. Radiographics. 2023.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -15253,7 +15253,7 @@ Nault JC, Paradis V, Ronot M, Zucman-Rossi J. Benign Liver Tumours: Understandin
 
 Tse JR, Felker ER, Naini BV, et al. Hepatocellular Adenomas: Molecular Basis and Multimodality Imaging Update. Radiographics. 2023.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 간양성종양혈관종간낭종FNH선종
 
@@ -15409,7 +15409,7 @@ Nault JC, Paradis V, Ronot M, Zucman-Rossi J. Benign Liver Tumours: Understandin
 
 Tse JR, Felker ER, Naini BV, et al. Hepatocellular Adenomas: Molecular Basis and Multimodality Imaging Update. Radiographics. 2023.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 혈관종간양성종양추적MRI검진
 
@@ -15527,7 +15527,7 @@ American Diabetes Association Professional Practice Committee. 4. Comprehensive 
 
 Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 MASLDMASHFibroscanFIB-4식이·운동
 
@@ -15689,7 +15689,7 @@ Newsome PN, Cramb R, Davison SM, et al. Guidelines on the management of abnormal
 
 Tapper EB, Parikh ND. Diagnosis and Management of Cirrhosis and Its Complications: A Review. JAMA. 2023;329(18):1589–1602.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 빌리루빈ALTALP간경변약물성간손상
 
@@ -15923,7 +15923,7 @@ American Diabetes Association Professional Practice Committee. 4. Comprehensive 
 
 Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 MASLD지방간MASH식이·운동FIB-4
 
@@ -16061,7 +16061,7 @@ Korean Association for the Study of the Liver. KASL clinical practice guidelines
 
 Tapper EB, Parikh ND. Diagnosis and Management of Cirrhosis and Its Complications: A Review. JAMA. 2023;329(18):1589–1602.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 알부민PTINR간경변Child-Pugh
 
@@ -16230,7 +16230,7 @@ Singal AK, Bataller R, Ahn J, Kamath PS, Shah VH. ACG Clinical Guideline: Alcoho
 
 Tapper EB, Parikh ND. Diagnosis and Management of Cirrhosis and Its Complications: A Review. JAMA. 2023;329(18):1589–1602. (미국 간경변 환자의 약 45%가 알코올 관련)
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -16324,7 +16324,7 @@ Marrero JA, Feng Z, Wang Y, et al. Alpha-fetoprotein, des-gamma carboxyprothromb
 
 Rich NE, Villanueva A, Marrero JA, Kanwal F. AGA Clinical Practice Update on Risk Stratification and Emerging Surveillance Strategies for Hepatocellular Carcinoma: Expert Review. Gastroenterology. 2026.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 AFP검진간세포암PIVKA-IIB형간염
 
@@ -16464,7 +16464,7 @@ LiverTox: Clinical and Research Information on Drug-Induced Liver Injury. Bethes
 
 Tapper EB, Parikh ND. Diagnosis and Management of Cirrhosis and Its Complications: A Review. JAMA. 2023;329(18):1589–1602.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 약물성간손상ALTAST간생검추적
 
@@ -16846,7 +16846,7 @@ Mack CL, Adams D, Assis DN, et al. Diagnosis and Management of Autoimmune Hepati
 
 Muratori L, Lohse AW, Lenzi M. Diagnosis and Management of Autoimmune Hepatitis. BMJ. 2023.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -16909,7 +16909,7 @@ Mack CL, Adams D, Assis DN, et al. Diagnosis and Management of Autoimmune Hepati
 
 Muratori L, Lohse AW, Lenzi M. Diagnosis and Management of Autoimmune Hepatitis. BMJ. 2023.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -16973,7 +16973,7 @@ Mack CL, Adams D, Assis DN, et al. Diagnosis and Management of Autoimmune Hepati
 
 Muratori L, Lohse AW, Lenzi M. Diagnosis and Management of Autoimmune Hepatitis. BMJ. 2023.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -17038,7 +17038,7 @@ Mack CL, Adams D, Assis DN, et al. Diagnosis and Management of Autoimmune Hepati
 
 Muratori L, Lohse AW, Lenzi M. Diagnosis and Management of Autoimmune Hepatitis. BMJ. 2023.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -17165,7 +17165,7 @@ Mack CL, Adams D, Assis DN, et al. Diagnosis and Management of Autoimmune Hepati
 
 Muratori L, Lohse AW, Lenzi M. Diagnosis and Management of Autoimmune Hepatitis. BMJ. 2023.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 자가면역간염스테로이드아자티오프린재발추적
 
@@ -17234,7 +17234,7 @@ Mack CL, Adams D, Assis DN, et al. Diagnosis and Management of Autoimmune Hepati
 
 Muratori L, Lohse AW, Lenzi M. Diagnosis and Management of Autoimmune Hepatitis. BMJ. 2023.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -17394,7 +17394,7 @@ Mack CL, Adams D, Assis DN, et al. Diagnosis and Management of Autoimmune Hepati
 
 Muratori L, Lohse AW, Lenzi M. Diagnosis and Management of Autoimmune Hepatitis. BMJ. 2023.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 자가면역간염ANAASMAIgG간생검
 
@@ -17569,7 +17569,7 @@ Mack CL, Adams D, Assis DN, et al. Diagnosis and Management of Autoimmune Hepati
 
 Muratori L, Lohse AW, Lenzi M. Diagnosis and Management of Autoimmune Hepatitis. BMJ. 2023.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 자가면역간염스테로이드아자티오프린ALT추적
 
@@ -17747,7 +17747,7 @@ anti-HCV에서 HCV RNA, DAA 8주 완치, SVR 후 평생 추적.
 ### 간 양성종양
 혈관종·낭종·FNH·선종 감별, 큰 증상 낭종의 경화요법.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -18127,7 +18127,7 @@ American Diabetes Association Professional Practice Committee. 4. Comprehensive 
 
 Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 MASLD지방간FIB-4식이·운동MASH
 
@@ -18192,7 +18192,7 @@ American Diabetes Association Professional Practice Committee. 4. Comprehensive 
 
 Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -18309,7 +18309,7 @@ American Diabetes Association Professional Practice Committee. 4. Comprehensive 
 
 Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 SGLT2GLP-1RAMASLDMASH식이·운동
 
@@ -18412,7 +18412,7 @@ American Diabetes Association Professional Practice Committee. 4. Comprehensive 
 
 Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 MASLDMASH간세포암검진Fibroscan
 
@@ -18480,7 +18480,7 @@ American Diabetes Association Professional Practice Committee. 4. Comprehensive 
 
 Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -18549,7 +18549,7 @@ American Diabetes Association Professional Practice Committee. 4. Comprehensive 
 
 Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -18616,7 +18616,7 @@ American Diabetes Association Professional Practice Committee. 4. Comprehensive 
 
 Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -18731,7 +18731,7 @@ American Diabetes Association Professional Practice Committee. 4. Comprehensive 
 
 Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 resmetiromMASHMASLDFibroscanRCT
 
@@ -18798,7 +18798,7 @@ American Diabetes Association Professional Practice Committee. 4. Comprehensive 
 
 Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 ---
 
@@ -18933,7 +18933,7 @@ American Diabetes Association Professional Practice Committee. 4. Comprehensive 
 
 Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 식이·운동MASLDMASH지중해식지방간
 
@@ -19041,7 +19041,7 @@ American Diabetes Association Professional Practice Committee. 4. Comprehensive 
 
 Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 FIB-4FibroscanMASLDMASH간생검
 
@@ -19144,7 +19144,7 @@ American Diabetes Association Professional Practice Committee. 4. Comprehensive 
 
 Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 MASLDGLP-1RASGLT2resmetirom식이·운동
 
@@ -19253,7 +19253,7 @@ American Diabetes Association Professional Practice Committee. 4. Comprehensive 
 
 Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 MASLD추적ALTFibroscan식이·운동
 
@@ -19375,7 +19375,7 @@ American Diabetes Association Professional Practice Committee. 4. Comprehensive 
 
 Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in People With Diabetes: The Need for Screening and Early Intervention. A Consensus Report of the American Diabetes Association. Diabetes Care. 2025.
 
-본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 반드시 진료를 통해 의료진과 상의하시기 바랍니다.
+본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
 MASHMASLDFibroscanFIB-4간생검
 
@@ -19660,11 +19660,11 @@ EBV·CMV — 음성
 
 "한 번 끊었다 재발했다" = 두 번째 시도 시 다시 재발할 가능성 높음
 
-저용량(Pred 5 + 아자티오프린(AZA) 75) 유지의 누적 부작용은 적은 편
+저용량(Pred 5 + 아자티오프린(AZA) 75) 유지의 누적 부작용은 적은 편입니다
 
 중단을 강하게 원하시면 12~24개월 후 다시 시도해 볼 수 있으나, 그 사이 다시 재발하면 매번 induction 용량의 스테로이드 부담이 누적
 
-본인의 일상·임신 계획·생활을 종합해 함께 결정
+본인의 일상·임신 계획·생활을 종합해 함께 결정합니다
 
 환자분은 "이번에는 안정적으로 유지하면서 부작용 잘 모니터링하는 쪽으로 가겠다"고 결정했고, 평생 저용량 유지로 합의했습니다 — 프레드니솔론(prednisolone, 스테로이드) 5 mg/day + 아자티오프린(azathioprine, 면역억제제) 75 mg/day.
 
@@ -19680,7 +19680,7 @@ EBV·CMV — 음성
 
 예방접종 — 인플루엔자 매년, 코로나19, 폐렴구균, Shingrix
 
-1년 시점 ALT 18, IgG 13, 골밀도 정상 유지, 일상 활동에 지장 없음.
+1년 시점에 ALT 18, IgG 13, 골밀도가 정상으로 유지되었고 일상 활동에 지장이 없었습니다.
 
 ## 이 케이스에서 생각할 점
 
@@ -19690,13 +19690,13 @@ EBV·CMV — 음성
 
 ## Teaching points
 
-AIH 약 중단 후 재발률 50~80% — 신중한 결정. 24개월 안정 + 가능하면 조직 호전 확인 후
+AIH 약 중단 후 재발률 50~80% — 신중한 결정. 24개월 안정 + 가능하면 조직 호전을 확인한 뒤 결정합니다
 
-재발은 무증상으로 발견되는 경우가 흔하다 — 정기 외래가 결정적
+재발은 무증상으로 발견되는 경우가 흔합니다 — 정기 외래가 결정적입니다
 
 재발 시 즉시 이전 induction 용량으로 재시작 (prednisolone 30 mg + AZA 유지)
 
-반복 재발 위험 환자는 평생 저용량 유지가 표준 옵션. 환자와 충분히 합의 후 결정
+반복 재발 위험 환자는 평생 저용량 유지가 표준 옵션. 환자와 충분히 합의한 뒤 결정합니다
 
 장기 prednisolone·AZA 사용 환자는 골밀도·혈당·안과·피부·예방접종을 1년 단위로 점검
 
@@ -20547,7 +20547,7 @@ _신장이식 대기 환자에서 비활동성 B형간염 보균 상태. 이식 
 
 신장이식예방
 
-58세 여성. 당뇨병성 신증으로 혈액투석 중, 신장이식 대기자. 비활동성 B형간염 보균자(HBsAg(B형간염 표면 항원)+, HBeAg(B형간염 e 항원)-, DNA 검출 한계 이하, ALT 정상). 이식 전 평가에서 평생 예방 필요로 결정.
+58세 여성. 당뇨병성 신증으로 혈액투석 중, 신장이식 대기자. 비활동성 B형간염 보균자(HBsAg(B형간염 표면 항원)+, HBeAg(B형간염 e 항원)-, DNA 검출 한계 이하, ALT 정상). 이식 전 평가에서 평생 예방이 필요하다고 결정했습니다.
 
 ## 예방 결정
 
@@ -20591,7 +20591,7 @@ TDFTAF신기능
 
 ## 평가와 결정
 
-TDF의 장기 신독성 의심 — 약물 외 다른 신기능 영향 인자(당뇨·고혈압) 확인. 단백뇨 미경증 양성. TAF로의 전환 결정.
+TDF의 장기 신독성 의심 — 약물 외 다른 신기능 영향 인자(당뇨·고혈압) 확인. 단백뇨 미경증 양성. TAF로의 전환을 결정했습니다.
 
 ## 경과
 
@@ -20764,7 +20764,7 @@ HIVHCVART
 
 ## 평가
 
-감염내과·간내과 협진. 글레카프레비르/피브렌타스비르 또는 소포스부비르/벨파타스비르 중 ART와의 상호작용 평가. Darunavir/cobicistat은 글레카프레비르와 상호작용 가능 — 의료기관 약사 평가.
+감염내과·간내과 협진. 글레카프레비르/피브렌타스비르 또는 소포스부비르/벨파타스비르 중 ART와의 상호작용 평가. Darunavir/cobicistat은 글레카프레비르와 상호작용 가능 — 의료기관 약사와 함께 평가합니다.
 
 ## 결정과 경과
 
@@ -20927,7 +20927,7 @@ _임신 8주에 산전 검사에서 anti-HCV 양성 발견. 임신 중 추적 + 
 
 ## 출산 후 — 직접 작용 항바이러스제(DAA) + 영아 추적
 
-출산 4주 후 마비렛 8주 시작. SVR12 확인. 모유 수유 지속 (안전). 영아 — 6개월 후 C형간염 바이러스(HCV) RNA 음성, 18개월 anti-HCV(C형간염 항체) 음성. 수직감염 없음 확인.
+출산 4주 후 마비렛 8주 시작. SVR12 확인. 모유 수유 지속 (안전). 영아 — 6개월 후 C형간염 바이러스(HCV) RNA 음성, 18개월 anti-HCV(C형간염 항체) 음성. 수직감염이 없음을 확인했습니다.
 
 ## Teaching Points
 
@@ -21303,7 +21303,7 @@ _HCC 절제 후 추적 중 발견된 단독 폐 결절. 폐 1차암 감별 + 단
 
 ## 평가와 진단
 
-흉부외과 협진 + CT 유도 경피적 폐 결절 조직검사 시행. 병리 결과 — "hepatoid pattern, 알파태아단백(AFP)·HepPar1 양성". 간세포암(HCC) 폐 전이로 진단 확정. 흡연력에도 불구하고 1차 폐암 아님.
+흉부외과 협진 + CT 유도 경피적 폐 결절 조직검사 시행. 병리 결과 — "hepatoid pattern, 알파태아단백(AFP)·HepPar1 양성". 간세포암(HCC) 폐 전이로 진단 확정. 흡연력이 있었으나 1차 폐암 아님.
 
 면역염색은 HCC의 폐 전이를 1차 폐암과 가르는 결정적 도구입니다 — HepPar1, glypican-3, arginase-1 등이 HCC 특이적.
 
@@ -22206,7 +22206,7 @@ _BMI 42 + MASH F3 + 당뇨 환자. 생활습관·약물 실패 후 위소매절�
 
 ## 수술 결정
 
-외과·내분비·간내과 협진. 위소매절제술(sleeve gastrectomy) 결정. 수술 전 영양 평가, 정신과 평가, 마취 위험 평가.
+외과·내분비·간내과 협진. 위소매절제술(sleeve gastrectomy)을 결정했습니다. 수술 전 영양 평가, 정신과 평가, 마취 위험 평가.
 
 ## 수술 후 경과
 
@@ -22906,7 +22906,7 @@ _건강검진 ALT 65 — FIB-4부터 시작하는 평가 — 지방간 임상 �
 5. 자가면역 (자가면역간염(AIH))ANA(항핵항체), ASMA(항평활근항체), IgG (특히 여성·젊은 환자)음성
 6. 대사·유전 (Wilson·hemochromatosis)세룰로플라스민(35세 미만 필수), 페리틴·트랜스페린 포화도모두 정상
 
-다른 원인 배제 + 대사 위험 충족 → MASLD 진단 굳음. 다음 단계는 섬유화 단계 평가.
+다른 원인 배제 + 대사 위험 충족 → MASLD 진단 굳음. 다음 단계는 섬유화 단계를 평가합니다.
 
 ## 위험 단계화 — FIB-4 + Fibroscan 흐름
 

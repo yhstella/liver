@@ -89,7 +89,7 @@
   },
   "/간암-방사선색전술/": {
     "top": "/assets/img/page-generated-v2/detail/d063-hcc-hcc-방사선색전술-top.webp",
-    "lower": null
+    "lower": "/assets/img/page-generated-v2/detail/d063-hcc-hcc-방사선색전술-lower.webp"
   },
   "/간암-TACE-종류-결정/": {
     "top": "/assets/img/page-generated-v2/detail/d064-hcc-hcc-tace-종류-결정-top.webp",
@@ -138,6 +138,10 @@
   "/지방간-음식/": {
     "top": "/assets/img/page-generated-v2/detail/d099-masld-masld-음식-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d099-masld-masld-음식-lower.webp"
+  },
+  "/지방간-간암/": {
+    "top": "/assets/img/page-generated-v2/detail/d101-masld-masld-hcc-top.webp",
+    "lower": null
   },
   "/B형간염-재활성화/": {
     "top": "/assets/img/page-generated-v2/detail/d102-viral-hbv-재활성화-top.webp",
