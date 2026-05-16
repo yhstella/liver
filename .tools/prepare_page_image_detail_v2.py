@@ -372,6 +372,12 @@ def distinct_visual_identity(item: dict, cat: str, cat2: str, keywords: list[str
             "deep teal, violet thyroid-receptor motif, golden fat droplets",
             "one receptor-to-liver scene; no generic FibroScan panel",
         )
+    if "간암검진" in url or ("AFP" in k and "검진" in k and "간세포암" in k):
+        return (
+            "ultrasound surveillance arc with one AFP blood-drop cue for HBV-related HCC screening",
+            "clean white, pale ultrasound blue, warm liver, tiny crimson AFP cue",
+            "single surveillance scene; no HBV serology matrix and no virus field",
+        )
 
     return (
         "one dominant page-specific medical subject",
@@ -433,6 +439,12 @@ def data_layer_for(item: dict, cat: str, cat2: str, keywords: list[str]) -> tupl
             "guideline/page source needed for exact renal cutoff and safety statements",
             "show drug-selection axes visually; exact eGFR/bone labels should be deterministic overlay",
         )
+    if "간암검진" in url or ("AFP" in k and "검진" in k and "간세포암" in k):
+        return (
+            "HBV-related HCC surveillance data: ultrasound interval, AFP trend, cirrhosis/family-risk context",
+            "guideline/page source needed for exact surveillance interval and risk-group boundaries",
+            "show ultrasound and AFP as visual cues only; exact interval and risk labels should be deterministic overlay/caption",
+        )
     if "HBV" in k or "HBsAg" in k or "HBeAg" in k or "B형간염" in title:
         return (
             "HBV serology matrix, HBV DNA trend, treatment/prevention risk pathway",
@@ -440,6 +452,12 @@ def data_layer_for(item: dict, cat: str, cat2: str, keywords: list[str]) -> tupl
             "image model should render markers as visual bands; exact serology text belongs in caption/overlay",
         )
     if "HCV" in k or "DAA" in k or "C형간염" in title:
+        if "완치후-추적" in url or "완치 후" in title or "추적" in title:
+            return (
+                "post-SVR follow-up data: residual HCC risk, fibrosis/cirrhosis status, surveillance calendar",
+                "guideline/page source needed for exact follow-up intervals and risk stratification",
+                "show a simple follow-up arc and residual-risk dots; exact interval labels should be overlay/caption",
+            )
         return (
             "HCV RNA decline and SVR12 endpoint timeline",
             "guideline or page source needed for exact regimen duration and population-specific data",
@@ -613,6 +631,13 @@ def main() -> None:
                         shutil.copy2(source, target)
                     if not public_target.exists():
                         shutil.copy2(source, public_target)
+
+        # Keep public site-candidate copies in sync with the private generated
+        # image database. Earlier batches sometimes copied only the private file.
+        for private_target, public_target in ((top_target, pub_top), (lower_target, pub_lower)):
+            if private_target.exists() and not public_target.exists():
+                shutil.copy2(private_target, public_target)
+
         if top_target.exists() and lower_target.exists() and pub_top.exists() and pub_lower.exists():
             row["status"] = "generated"
         rows.append(row)

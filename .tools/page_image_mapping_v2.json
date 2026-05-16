@@ -25,15 +25,31 @@
   },
   "/B형간염-항바이러스제-비교/": {
     "top": "/assets/img/page-generated-v2/detail/d017-viral-hbv-항바이러스제-비교-top.webp",
-    "lower": null
+    "lower": "/assets/img/page-generated-v2/detail/d017-viral-hbv-항바이러스제-비교-lower.webp"
+  },
+  "/B형간염-간암검진/": {
+    "top": "/assets/img/page-generated-v2/detail/d018-viral-hbv-hcc검진-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d018-viral-hbv-hcc검진-lower.webp"
+  },
+  "/간경변-Child-Pugh-MELD/": {
+    "top": "/assets/img/page-generated-v2/detail/d020-cirrhosis-cirrhosis-child-pugh-meld-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d020-cirrhosis-cirrhosis-child-pugh-meld-lower.webp"
   },
   "/C형간염-완치-DAA/": {
     "top": "/assets/img/page-generated-v2/detail/d022-viral-hcv-완치-daa-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d022-viral-hcv-완치-daa-lower.webp"
   },
+  "/C형간염-완치후-추적/": {
+    "top": "/assets/img/page-generated-v2/detail/d025-viral-hcv-완치후-추적-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d025-viral-hcv-완치후-추적-lower.webp"
+  },
   "/간섬유화스캔-수치/": {
     "top": "/assets/img/page-generated-v2/pilot/pilot-05-lft-fibroscan-간섬유화-스캔-수치-읽는-법-top.webp",
     "lower": "/assets/img/page-generated-v2/pilot/pilot-05-lft-fibroscan-간섬유화-스캔-수치-읽는-법-lower.webp"
+  },
+  "/지방간-SGLT2-GLP1/": {
+    "top": "/assets/img/page-generated-v2/detail/d034-masld-masld-sglt2-glp1-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d034-masld-masld-sglt2-glp1-lower.webp"
   },
   "/간양성종양-진단/": {
     "top": "/assets/img/page-generated-v2/pilot/pilot-07-benign-간-양성종양-진단-top.webp",
@@ -42,6 +58,26 @@
   "/간경변-간성혼수/": {
     "top": "/assets/img/page-generated-v2/detail/d050-cirrhosis-cirrhosis-encephalopathy-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d050-cirrhosis-cirrhosis-encephalopathy-lower.webp"
+  },
+  "/간경변-간신증후군/": {
+    "top": "/assets/img/page-generated-v2/detail/d051-cirrhosis-cirrhosis-간신증후군-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d051-cirrhosis-cirrhosis-간신증후군-lower.webp"
+  },
+  "/간암-소작술-RFA-MWA/": {
+    "top": "/assets/img/page-generated-v2/detail/d052-hcc-hcc-소작술-rfa-mwa-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d052-hcc-hcc-소작술-rfa-mwa-lower.webp"
+  },
+  "/간암-진단-첫외래/": {
+    "top": "/assets/img/page-generated-v2/detail/d054-hcc-hcc-진단-첫외래-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d054-hcc-hcc-진단-첫외래-lower.webp"
+  },
+  "/간암-간이식/": {
+    "top": "/assets/img/page-generated-v2/detail/d056-hcc-hcc-transplant-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d056-hcc-hcc-transplant-lower.webp"
+  },
+  "/간암-SBRT-양성자/": {
+    "top": "/assets/img/page-generated-v2/detail/d057-hcc-hcc-sbrt-양성자-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d057-hcc-hcc-sbrt-양성자-lower.webp"
   },
   "/간암-TACE-종류-결정/": {
     "top": "/assets/img/page-generated-v2/detail/d064-hcc-hcc-tace-종류-결정-top.webp",
@@ -59,6 +95,10 @@
     "top": "/assets/img/page-generated-v2/pilot/pilot-04-cirrhosis-식도정맥류-top.webp",
     "lower": "/assets/img/page-generated-v2/pilot/pilot-04-cirrhosis-식도정맥류-lower.webp"
   },
+  "/B형간염-신기능-약물선택/": {
+    "top": "/assets/img/page-generated-v2/detail/d081-viral-hbv-신기능-약물선택-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d081-viral-hbv-신기능-약물선택-lower.webp"
+  },
   "/약물성-간손상-DILI/": {
     "top": "/assets/img/page-generated-v2/detail/d084-diagnostics-dili-간손상-dili-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d084-diagnostics-dili-간손상-dili-lower.webp"
@@ -75,6 +115,10 @@
     "top": "/assets/img/page-generated-v2/pilot/pilot-01-hcc-절제술-vs-색전술-vs-방사선-top.webp",
     "lower": "/assets/img/page-generated-v2/pilot/pilot-01-hcc-절제술-vs-색전술-vs-방사선-lower.webp"
   },
+  "/지방간-신약-resmetirom/": {
+    "top": "/assets/img/page-generated-v2/detail/d093-masld-masld-신약-resmetirom-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d093-masld-masld-신약-resmetirom-lower.webp"
+  },
   "/지방간-정밀검사/": {
     "top": "/assets/img/page-generated-v2/pilot/pilot-03-masld-지방간-진단-후-섬유화-정밀검사가-필요한-사람은-누구인가-top.webp",
     "lower": "/assets/img/page-generated-v2/pilot/pilot-03-masld-지방간-진단-후-섬유화-정밀검사가-필요한-사람은-누구인가-lower.webp"
@@ -86,5 +130,9 @@
   "/B형간염-재활성화/": {
     "top": "/assets/img/page-generated-v2/detail/d102-viral-hbv-재활성화-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d102-viral-hbv-재활성화-lower.webp"
+  },
+  "/간암-혈관침범-치료/": {
+    "top": "/assets/img/page-generated-v2/detail/d103-hcc-hcc-혈관침범-치료-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d103-hcc-hcc-혈관침범-치료-lower.webp"
   }
 }

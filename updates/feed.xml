@@ -4,11 +4,59 @@
   <link href="https://drshin.kr/updates/" rel="alternate" type="text/html"/>
   <link href="https://drshin.kr/updates/feed.xml" rel="self" type="application/atom+xml"/>
   <id>https://drshin.kr/updates/</id>
-  <updated>2026-05-15T11:47:21.927910+00:00</updated>
+  <updated>2026-05-16T01:51:27.649580+00:00</updated>
   <subtitle>주요 저널의 hepatology 최신 논문 요약 — 신현재(서울대학교병원 소화기내과·간암센터)</subtitle>
   <author><name>신현재</name><uri>https://drshin.kr/소개/</uri></author>
   <generator>build_updates_rss.py</generator>
   <icon>https://drshin.kr/favicon.png</icon>
+  <entry>
+    <title>SGLT2 억제제와 간 합병증</title>
+    <link href="https://drshin.kr/updates/Chung-SGLT2-Liver-MR-Hepatology-2024/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/Chung-SGLT2-Liver-MR-Hepatology-2024/</id>
+    <updated>2026-05-15T20:46:42+09:00</updated>
+    <summary>Chung SW, Moon HS, Shin H et al. Hepatology 2024. SGLT2 억제와 간질환 관련 합병증의 인과관계를 mendelian randomization과 인구 기반 코호트로 분석.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>GLP-1 RA 경구 small molecule</title>
+    <link href="https://drshin.kr/updates/GLP1RA-small-molecule-orforglipron/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/GLP1RA-small-molecule-orforglipron/</id>
+    <updated>2026-05-15T20:46:42+09:00</updated>
+    <summary>Orforglipron 등 경구 small molecule GLP-1 RA가 phase 3 임상에서 주사형과 유사한 체중 감량·혈당 조절 효과를 보고하며 비만·당뇨·MASH 치료에 새 옵션이 되고 있습니다.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>MAESTRO-NASH</title>
+    <link href="https://drshin.kr/updates/MAESTRO-NASH-resmetirom-NEJM-2024/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/MAESTRO-NASH-resmetirom-NEJM-2024/</id>
+    <updated>2026-05-15T20:46:42+09:00</updated>
+    <summary>Harrison SA et al. NEJM 2024;390:497-509. Phase 3 RCT, 966명 F2-F3 MASH 환자, 52주 시점 NASH 해결과 섬유화 호전을 동시에 달성한 첫 약물 — 노트 요약.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>Semaglutide for NASH</title>
+    <link href="https://drshin.kr/updates/Newsome-semaglutide-NASH-NEJM-2021/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/Newsome-semaglutide-NASH-NEJM-2021/</id>
+    <updated>2026-05-15T20:46:42+09:00</updated>
+    <summary>Newsome PN et al. NEJM 2021. Phase 2 RCT, 320명 NASH 환자, semaglutide 0.4 mg 매일이 NASH 해결 59% vs placebo 17% - GLP-1 작용제 MASH 효과의 결정적 첫 RCT.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>ETV에서 TAF로</title>
+    <link href="https://drshin.kr/updates/Shin-ETV-TAF-RCT-GnL-2026/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/Shin-ETV-TAF-RCT-GnL-2026/</id>
+    <updated>2026-05-15T20:46:42+09:00</updated>
+    <summary>Shin H et al. Gut Liver 2026. 만성 B형간염 환자에서 엔테카비르(ETV)에서 TAF로의 전환 효과와 안전성을 평가한 한국 다기관 RCT.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>TDF·ETV에서 TAF로 전환 시 간세포암 위험</title>
+    <link href="https://drshin.kr/updates/Shin-TDF-ETV-TAF-switch-HCC-HepRes-2024/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/Shin-TDF-ETV-TAF-switch-HCC-HepRes-2024/</id>
+    <updated>2026-05-15T20:46:42+09:00</updated>
+    <summary>Shin H et al. Hepatol Res 2024. 근치 치료 후 TDF/ETV에서 TAF로 전환한 환자의 HCC 발생 위험 다기관 분석.</summary>
+    <author><name>신현재</name></author>
+  </entry>
   <entry>
     <title>아스피린과 MASLD 환자의 간세포암 위험</title>
     <link href="https://drshin.kr/updates/Ahn-Aspirin-HCC-MASLD-CMH-2026/" rel="alternate" type="text/html"/>
@@ -26,27 +74,11 @@
     <author><name>신현재</name></author>
   </entry>
   <entry>
-    <title>SGLT2 억제제와 간 합병증</title>
-    <link href="https://drshin.kr/updates/Chung-SGLT2-Liver-MR-Hepatology-2024/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/Chung-SGLT2-Liver-MR-Hepatology-2024/</id>
-    <updated>2026-05-15T17:29:24+09:00</updated>
-    <summary>Chung SW, Moon HS, Shin H et al. Hepatology 2024. SGLT2 억제와 간질환 관련 합병증의 인과관계를 mendelian randomization과 인구 기반 코호트로 분석.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
     <title>Survodutide</title>
     <link href="https://drshin.kr/updates/ESSENCE-survodutide-MASH-Lancet-2024/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/ESSENCE-survodutide-MASH-Lancet-2024/</id>
     <updated>2026-05-15T17:29:24+09:00</updated>
     <summary>GLP-1과 글루카곤 수용체를 동시 작용하는 survodutide의 MASH 2상 — 위약 대비 NASH 호전과 섬유화 호전 모두 보임.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>GLP-1 RA 경구 small molecule</title>
-    <link href="https://drshin.kr/updates/GLP1RA-small-molecule-orforglipron/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/GLP1RA-small-molecule-orforglipron/</id>
-    <updated>2026-05-15T17:29:24+09:00</updated>
-    <summary>Orforglipron 등 경구 small molecule GLP-1 RA가 phase 3 임상에서 주사형과 유사한 체중 감량·혈당 조절 효과를 보고하며 비만·당뇨·MASH 치료에 새 옵션이 되고 있습니다.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>
@@ -74,27 +106,11 @@
     <author><name>신현재</name></author>
   </entry>
   <entry>
-    <title>MAESTRO-NASH</title>
-    <link href="https://drshin.kr/updates/MAESTRO-NASH-resmetirom-NEJM-2024/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/MAESTRO-NASH-resmetirom-NEJM-2024/</id>
-    <updated>2026-05-15T17:29:24+09:00</updated>
-    <summary>Harrison SA et al. NEJM 2024;390:497-509. Phase 3 RCT, 966명 F2-F3 MASH 환자, 52주 시점 NASH 해결과 섬유화 호전을 동시에 달성한 첫 약물 — 노트 요약.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
     <title>MASLD 새 명명</title>
     <link href="https://drshin.kr/updates/MASLD-nomenclature-AASLD-EASL-2023/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/MASLD-nomenclature-AASLD-EASL-2023/</id>
     <updated>2026-05-15T17:29:24+09:00</updated>
     <summary>AASLD·EASL·ALEH의 Delphi 합의로 NAFLD → MASLD, NASH → MASH로 명명 변경. MetALD 새 카테고리 도입.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>Semaglutide for NASH</title>
-    <link href="https://drshin.kr/updates/Newsome-semaglutide-NASH-NEJM-2021/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/Newsome-semaglutide-NASH-NEJM-2021/</id>
-    <updated>2026-05-15T17:29:24+09:00</updated>
-    <summary>Newsome PN et al. NEJM 2021. Phase 2 RCT, 320명 NASH 환자, semaglutide 0.4 mg 매일이 NASH 해결 59% vs placebo 17% - GLP-1 작용제 MASH 효과의 결정적 첫 RCT.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>
@@ -146,14 +162,6 @@
     <author><name>신현재</name></author>
   </entry>
   <entry>
-    <title>ETV에서 TAF로</title>
-    <link href="https://drshin.kr/updates/Shin-ETV-TAF-RCT-GnL-2026/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/Shin-ETV-TAF-RCT-GnL-2026/</id>
-    <updated>2026-05-15T17:29:24+09:00</updated>
-    <summary>Shin H et al. Gut Liver 2026. 만성 B형간염 환자에서 엔테카비르(ETV)에서 TAF로의 전환 효과와 안전성을 평가한 한국 다기관 RCT.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
     <title>조기 HBeAg 혈청전환과 HCC·간경변 위험의 연관성 부재</title>
     <link href="https://drshin.kr/updates/Shin-HBeAg-seroclearance-HCC-JHepR-2024/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/Shin-HBeAg-seroclearance-HCC-JHepR-2024/</id>
@@ -167,14 +175,6 @@
     <id>https://drshin.kr/updates/Shin-HCC-Guidelines-Review-JLC-2025/</id>
     <updated>2026-05-15T17:29:24+09:00</updated>
     <summary>Shin H, Yu SJ. J Liver Cancer 2025. 2017-2024년 사이 발표된 주요 HCC 관리 가이드라인을 종합 비교한 review.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>TDF·ETV에서 TAF로 전환 시 간세포암 위험</title>
-    <link href="https://drshin.kr/updates/Shin-TDF-ETV-TAF-switch-HCC-HepRes-2024/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/Shin-TDF-ETV-TAF-switch-HCC-HepRes-2024/</id>
-    <updated>2026-05-15T17:29:24+09:00</updated>
-    <summary>Shin H et al. Hepatol Res 2024. 근치 치료 후 TDF/ETV에서 TAF로 전환한 환자의 HCC 발생 위험 다기관 분석.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>

@@ -19,10 +19,20 @@
     "lower": "/assets/img/page-generated-v2/detail/d070-hcc-hcc-면역치료-1차-lower.webp",
     "source": "/간암-면역치료-1차/"
   },
+  "/updates/Chung-SGLT2-Liver-MR-Hepatology-2024/": {
+    "top": "/assets/img/page-generated-v2/detail/d034-masld-masld-sglt2-glp1-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d034-masld-masld-sglt2-glp1-lower.webp",
+    "source": "/지방간-SGLT2-GLP1/"
+  },
   "/updates/EMERALD-1-TACE-durva-bev-Lancet-2024/": {
     "top": "/assets/img/page-generated-v2/detail/d064-hcc-hcc-tace-종류-결정-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d064-hcc-hcc-tace-종류-결정-lower.webp",
     "source": "/간암-TACE-종류-결정/"
+  },
+  "/updates/GLP1RA-small-molecule-orforglipron/": {
+    "top": "/assets/img/page-generated-v2/detail/d034-masld-masld-sglt2-glp1-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d034-masld-masld-sglt2-glp1-lower.webp",
+    "source": "/지방간-SGLT2-GLP1/"
   },
   "/updates/HIMALAYA-durvalumab-tremelimumab-NEJM-Evid-2022/": {
     "top": "/assets/img/page-generated-v2/detail/d070-hcc-hcc-면역치료-1차-top.webp",
@@ -44,14 +54,39 @@
     "lower": "/assets/img/page-generated-v2/detail/d064-hcc-hcc-tace-종류-결정-lower.webp",
     "source": "/간암-TACE-종류-결정/"
   },
+  "/updates/MAESTRO-NASH-resmetirom-3년-2024/": {
+    "top": "/assets/img/page-generated-v2/detail/d093-masld-masld-신약-resmetirom-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d093-masld-masld-신약-resmetirom-lower.webp",
+    "source": "/지방간-신약-resmetirom/"
+  },
+  "/updates/MAESTRO-NASH-resmetirom-NEJM-2024/": {
+    "top": "/assets/img/page-generated-v2/detail/d093-masld-masld-신약-resmetirom-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d093-masld-masld-신약-resmetirom-lower.webp",
+    "source": "/지방간-신약-resmetirom/"
+  },
+  "/updates/Shin-CIK-HCC-CII-2026/": {
+    "top": "/assets/img/page-generated-v2/detail/d054-hcc-hcc-진단-첫외래-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d054-hcc-hcc-진단-첫외래-lower.webp",
+    "source": "/간암-진단-첫외래/"
+  },
+  "/updates/Shin-COVID-HBV-NK-IN-2023/": {
+    "top": "/assets/img/page-generated-v2/detail/d054-hcc-hcc-진단-첫외래-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d054-hcc-hcc-진단-첫외래-lower.webp",
+    "source": "/간암-진단-첫외래/"
+  },
   "/updates/Shin-ETV-TAF-RCT-GnL-2026/": {
     "top": "/assets/img/page-generated-v2/detail/d017-viral-hbv-항바이러스제-비교-top.webp",
-    "lower": null,
+    "lower": "/assets/img/page-generated-v2/detail/d017-viral-hbv-항바이러스제-비교-lower.webp",
     "source": "/B형간염-항바이러스제-비교/"
+  },
+  "/updates/Shin-HCC-Guidelines-Review-JLC-2025/": {
+    "top": "/assets/img/page-generated-v2/detail/d054-hcc-hcc-진단-첫외래-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d054-hcc-hcc-진단-첫외래-lower.webp",
+    "source": "/간암-진단-첫외래/"
   },
   "/updates/Shin-TDF-ETV-TAF-switch-HCC-HepRes-2024/": {
     "top": "/assets/img/page-generated-v2/detail/d017-viral-hbv-항바이러스제-비교-top.webp",
-    "lower": null,
+    "lower": "/assets/img/page-generated-v2/detail/d017-viral-hbv-항바이러스제-비교-lower.webp",
     "source": "/B형간염-항바이러스제-비교/"
   },
   "/updates/preemptive-TIPS-식도정맥류-출혈/": {
@@ -74,6 +109,11 @@
     "lower": "/assets/img/page-generated-v2/detail/d070-hcc-hcc-면역치료-1차-lower.webp",
     "source": "/간암-면역치료-1차/"
   },
+  "/케이스/BCLC-A-다발3개-소작/": {
+    "top": "/assets/img/page-generated-v2/detail/d052-hcc-hcc-소작술-rfa-mwa-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d052-hcc-hcc-소작술-rfa-mwa-lower.webp",
+    "source": "/간암-소작술-RFA-MWA/"
+  },
   "/케이스/BCLC-A-단일3cm-절제vs소작/": {
     "top": "/assets/img/page-generated-v2/pilot/pilot-01-hcc-절제술-vs-색전술-vs-방사선-top.webp",
     "lower": "/assets/img/page-generated-v2/pilot/pilot-01-hcc-절제술-vs-색전술-vs-방사선-lower.webp",
@@ -84,20 +124,90 @@
     "lower": "/assets/img/page-generated-v2/detail/d064-hcc-hcc-tace-종류-결정-lower.webp",
     "source": "/간암-TACE-종류-결정/"
   },
+  "/케이스/B형간염-검진-새결절/": {
+    "top": "/assets/img/page-generated-v2/detail/d018-viral-hbv-hcc검진-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d018-viral-hbv-hcc검진-lower.webp",
+    "source": "/B형간염-간암검진/"
+  },
   "/케이스/B형간염-수술전-예방/": {
     "top": "/assets/img/page-generated-v2/detail/d102-viral-hbv-재활성화-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d102-viral-hbv-재활성화-lower.webp",
     "source": "/B형간염-재활성화/"
   },
+  "/케이스/B형간염-신기능저하-TAF전환/": {
+    "top": "/assets/img/page-generated-v2/detail/d081-viral-hbv-신기능-약물선택-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d081-viral-hbv-신기능-약물선택-lower.webp",
+    "source": "/B형간염-신기능-약물선택/"
+  },
+  "/케이스/ChildB-단일4cm-이식/": {
+    "top": "/assets/img/page-generated-v2/detail/d056-hcc-hcc-transplant-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d056-hcc-hcc-transplant-lower.webp",
+    "source": "/간암-간이식/"
+  },
+  "/케이스/ChildC-이식대기/": {
+    "top": "/assets/img/page-generated-v2/detail/d056-hcc-hcc-transplant-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d056-hcc-hcc-transplant-lower.webp",
+    "source": "/간암-간이식/"
+  },
+  "/케이스/C형간염-간경변-새결절/": {
+    "top": "/assets/img/page-generated-v2/detail/d018-viral-hbv-hcc검진-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d018-viral-hbv-hcc검진-lower.webp",
+    "source": "/B형간염-간암검진/"
+  },
   "/케이스/ETV-TAF-전환/": {
     "top": "/assets/img/page-generated-v2/detail/d017-viral-hbv-항바이러스제-비교-top.webp",
-    "lower": null,
+    "lower": "/assets/img/page-generated-v2/detail/d017-viral-hbv-항바이러스제-비교-lower.webp",
     "source": "/B형간염-항바이러스제-비교/"
+  },
+  "/케이스/HCC-림프절전이/": {
+    "top": "/assets/img/page-generated-v2/detail/d103-hcc-hcc-혈관침범-치료-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d103-hcc-hcc-혈관침범-치료-lower.webp",
+    "source": "/간암-혈관침범-치료/"
+  },
+  "/케이스/HCC-폐전이-단독/": {
+    "top": "/assets/img/page-generated-v2/detail/d103-hcc-hcc-혈관침범-치료-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d103-hcc-hcc-혈관침범-치료-lower.webp",
+    "source": "/간암-혈관침범-치료/"
+  },
+  "/케이스/LR3-모호결절-추적/": {
+    "top": "/assets/img/page-generated-v2/detail/d054-hcc-hcc-진단-첫외래-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d054-hcc-hcc-진단-첫외래-lower.webp",
+    "source": "/간암-진단-첫외래/"
+  },
+  "/케이스/LR4-결절-추적/": {
+    "top": "/assets/img/page-generated-v2/detail/d054-hcc-hcc-진단-첫외래-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d054-hcc-hcc-진단-첫외래-lower.webp",
+    "source": "/간암-진단-첫외래/"
+  },
+  "/케이스/MASLD-F2-GLP1시작/": {
+    "top": "/assets/img/page-generated-v2/detail/d034-masld-masld-sglt2-glp1-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d034-masld-masld-sglt2-glp1-lower.webp",
+    "source": "/지방간-SGLT2-GLP1/"
+  },
+  "/케이스/resmetirom-신약시작/": {
+    "top": "/assets/img/page-generated-v2/detail/d093-masld-masld-신약-resmetirom-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d093-masld-masld-신약-resmetirom-lower.webp",
+    "source": "/지방간-신약-resmetirom/"
+  },
+  "/케이스/간경변-새결절-평가/": {
+    "top": "/assets/img/page-generated-v2/detail/d018-viral-hbv-hcc검진-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d018-viral-hbv-hcc검진-lower.webp",
+    "source": "/B형간염-간암검진/"
   },
   "/케이스/간성혼수-첫발생/": {
     "top": "/assets/img/page-generated-v2/detail/d050-cirrhosis-cirrhosis-encephalopathy-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d050-cirrhosis-cirrhosis-encephalopathy-lower.webp",
     "source": "/간경변-간성혼수/"
+  },
+  "/케이스/건강검진-우연발견-1cm결절/": {
+    "top": "/assets/img/page-generated-v2/detail/d054-hcc-hcc-진단-첫외래-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d054-hcc-hcc-진단-첫외래-lower.webp",
+    "source": "/간암-진단-첫외래/"
+  },
+  "/케이스/다운스테이징-이식전환/": {
+    "top": "/assets/img/page-generated-v2/detail/d056-hcc-hcc-transplant-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d056-hcc-hcc-transplant-lower.webp",
+    "source": "/간암-간이식/"
   },
   "/케이스/독성간염-야생버섯/": {
     "top": "/assets/img/page-generated-v2/detail/d084-diagnostics-dili-간손상-dili-top.webp",
