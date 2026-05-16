@@ -83,6 +83,7 @@
 - [수면 무호흡(OSA)과 지방간 — 양방향 악화의 고리](https://drshin.kr/%EC%A7%80%EB%B0%A9%EA%B0%84-%EC%88%98%EB%A9%B4%EB%AC%B4%ED%98%B8%ED%9D%A1-OSA/): 폐쇄성 수면 무호흡(OSA)이 지방간을 악화시키고, 지방간 동반 비만이 OSA를 악화시키는 양방향 관계. CPAP·체중 감량의 효과.
 - [지방간 신약 - resmetirom과 다음 세대](https://drshin.kr/%EC%A7%80%EB%B0%A9%EA%B0%84-%EC%8B%A0%EC%95%BD-resmetirom/): MASH 첫 적응증 약물 resmetirom (Rezdiffra)의 임상 위치, 임상시험 중인 GLP-1·survodutide·pemvidutide 등 차세대 약물 정리.
 - [지방간 환자의 첫 사망 원인은 심혈관 질환](https://drshin.kr/%EC%A7%80%EB%B0%A9%EA%B0%84-%EC%8B%AC%ED%98%88%EA%B4%80-CVD/): MASLD 환자의 가장 흔한 사망 원인은 간 질환이 아닌 심혈관 질환. 동맥경화·관상동맥질환 위험 평가와 예방.
+- [위고비·마운자로와 지방간](https://drshin.kr/%EC%A7%80%EB%B0%A9%EA%B0%84-%EC%9C%84%EA%B3%A0%EB%B9%84-%EB%A7%88%EC%9A%B4%EC%9E%90%EB%A1%9C/): 비만·당뇨 적응증으로 도입된 위고비(semaglutide 2.4 mg)와 마운자로(tirzepatide)가 지방간염(MASH)에 보이는 효과. ESSENCE phase 3, SYNERGY-NASH 결과와 한국 임상 접근까지 정리합니다.
 - [지방간에 좋은 음식 vs 진짜 피해야 할 음식](https://drshin.kr/%EC%A7%80%EB%B0%A9%EA%B0%84-%EC%9D%8C%EC%8B%9D/): 줄여야 할 5가지(과당 음료·정제 탄수화물·트랜스지방·가공육·과음)와 늘려야 할 5가지(지중해식·식이섬유·등푸른 생선·견과류·커피)를 정리합니다. 헷갈리는 식품(과일·와인·커피)에 대한 임상 근거.
 - [지방간 진단 후, 섬유화 정밀검사가 필요한 사람은 누구인가](https://drshin.kr/%EC%A7%80%EB%B0%A9%EA%B0%84-%EC%A0%95%EB%B0%80%EA%B2%80%EC%82%AC/): FIB-4부터 Fibroscan, MRE, 간생검까지 — 단순 지방간과 진행성 지방간을 가르는 평가 흐름을 서울대병원 소화기내과 신현재 교수가 정리합니다.
 - [지방간 치료](https://drshin.kr/%EC%A7%80%EB%B0%A9%EA%B0%84-%EC%B9%98%EB%A3%8C/): 체중 7~10% 감량의 단계별 효과, 유산소·근력 운동 처방, 피오글리타존·비타민E·GLP-1 작용제·레스메티롬, 영양제의 한계까지 서울대병원 소화기내과 신현재 교수가 정리합니다.

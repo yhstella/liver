@@ -4,11 +4,115 @@
   <link href="https://drshin.kr/updates/" rel="alternate" type="text/html"/>
   <link href="https://drshin.kr/updates/feed.xml" rel="self" type="application/atom+xml"/>
   <id>https://drshin.kr/updates/</id>
-  <updated>2026-05-16T06:55:12.619871+00:00</updated>
+  <updated>2026-05-16T09:51:03.347198+00:00</updated>
   <subtitle>주요 저널의 hepatology 최신 논문 요약 — 신현재(서울대학교병원 소화기내과·간암센터)</subtitle>
   <author><name>신현재</name><uri>https://drshin.kr/소개/</uri></author>
   <generator>build_updates_rss.py</generator>
   <icon>https://drshin.kr/favicon.png</icon>
+  <entry>
+    <title>아스피린과 MASLD 환자의 간세포암 위험</title>
+    <link href="https://drshin.kr/updates/Ahn-Aspirin-HCC-MASLD-CMH-2026/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/Ahn-Aspirin-HCC-MASLD-CMH-2026/</id>
+    <updated>2026-05-16T15:54:24+09:00</updated>
+    <summary>Ahn J, Hur MH, Shin H et al. Clin Mol Hepatol 2026. MASLD 환자에서 아스피린 사용과 HCC 위험의 nationwide cohort + 유전 위험 분석.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>AI 기반 CT 간세포암 진단</title>
+    <link href="https://drshin.kr/updates/AI-CT-HCC-validation-Hepatology-2024/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/AI-CT-HCC-validation-Hepatology-2024/</id>
+    <updated>2026-05-16T15:54:24+09:00</updated>
+    <summary>동적 CT 영상에서 HCC를 자동 진단하는 AI 알고리즘의 대규모 다기관·다국가 검증. 영상 전문의 수준 진단 정확도.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>Baveno VII</title>
+    <link href="https://drshin.kr/updates/Baveno-VII-recompensation-2024/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/Baveno-VII-recompensation-2024/</id>
+    <updated>2026-05-16T15:54:24+09:00</updated>
+    <summary>Baveno VII 합의에서 처음으로 </summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>Bepirovirsen</title>
+    <link href="https://drshin.kr/updates/Bepirovirsen-HBV-Lancet-2024/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/Bepirovirsen-HBV-Lancet-2024/</id>
+    <updated>2026-05-16T15:54:24+09:00</updated>
+    <summary>HBV RNA를 분해하는 antisense oligonucleotide bepirovirsen. B-Clear 시험에서 HBsAg 소실 약 9~10%, 새 시대의 첫 후보.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>CheckMate 9DW</title>
+    <link href="https://drshin.kr/updates/CheckMate-9DW-nivo-ipi-Lancet-2024/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/CheckMate-9DW-nivo-ipi-Lancet-2024/</id>
+    <updated>2026-05-16T15:54:24+09:00</updated>
+    <summary>진행기 간세포암 1차 치료로 nivolumab + ipilimumab이 sorafenib/lenvatinib 대비 OS 우월. Lancet 2024/2025.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>EMERALD-1</title>
+    <link href="https://drshin.kr/updates/EMERALD-1-TACE-durva-bev-Lancet-2024/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/EMERALD-1-TACE-durva-bev-Lancet-2024/</id>
+    <updated>2026-05-16T15:54:24+09:00</updated>
+    <summary>중간기 간세포암(BCLC B)의 표준이 TACE 단독에서 TACE + durvalumab + bevacizumab로 바뀌는 출발점. Lancet 2024.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>Survodutide</title>
+    <link href="https://drshin.kr/updates/ESSENCE-survodutide-MASH-Lancet-2024/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/ESSENCE-survodutide-MASH-Lancet-2024/</id>
+    <updated>2026-05-16T15:54:24+09:00</updated>
+    <summary>GLP-1과 글루카곤 수용체를 동시 작용하는 survodutide의 MASH 2상 — 위약 대비 NASH 호전과 섬유화 호전 모두 보임.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>IMbrave050</title>
+    <link href="https://drshin.kr/updates/IMbrave050-adjuvant-atezo-bev-Lancet-2023/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/IMbrave050-adjuvant-atezo-bev-Lancet-2023/</id>
+    <updated>2026-05-16T15:54:24+09:00</updated>
+    <summary>고위험 절제·소작 후 atezolizumab + bevacizumab 12개월이 재발 없는 생존(RFS)을 의미 있게 연장한 첫 양성 보조 면역치료 시험. Lancet 2023.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>IMbrave150</title>
+    <link href="https://drshin.kr/updates/IMbrave150-atezolizumab-bevacizumab-NEJM-2020/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/IMbrave150-atezolizumab-bevacizumab-NEJM-2020/</id>
+    <updated>2026-05-16T15:54:24+09:00</updated>
+    <summary>Finn SA et al. NEJM 2020. Phase 3 RCT, 501명 진행성 간세포암, atezo+bev이 sorafenib보다 OS·PFS 우월 - 8년간 1차 표준이었던 sorafenib을 교체.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>Semaglutide for AUD</title>
+    <link href="https://drshin.kr/updates/Klausen-Semaglutide-AUD-Lancet-2026/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/Klausen-Semaglutide-AUD-Lancet-2026/</id>
+    <updated>2026-05-16T15:54:24+09:00</updated>
+    <summary>Klausen 2026 Lancet — semaglutide가 알코올 사용 장애 환자(비만 동반)의 음주를 줄였다는 RCT.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>LEAP-012</title>
+    <link href="https://drshin.kr/updates/LEAP-012-TACE-pembro-lenva-Lancet-2024/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/LEAP-012-TACE-pembro-lenva-Lancet-2024/</id>
+    <updated>2026-05-16T15:54:24+09:00</updated>
+    <summary>중간기 간세포암에서 TACE + pembrolizumab + lenvatinib 조합이 TACE 단독 대비 PFS 의미 있게 연장. EMERALD-1과 함께 BCLC B 표준 변화의 두 번째 근거.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>MAESTRO-NASH 3년 확장</title>
+    <link href="https://drshin.kr/updates/MAESTRO-NASH-resmetirom-3%EB%85%84-2024/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/MAESTRO-NASH-resmetirom-3%EB%85%84-2024/</id>
+    <updated>2026-05-16T15:54:24+09:00</updated>
+    <summary>MAESTRO-NASH 3년 추적 — Resmetirom(thyroid hormone β receptor agonist)이 NASH·섬유화 호전을 3년 유지하고 안전성 양호.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>MASLD 새 명명</title>
+    <link href="https://drshin.kr/updates/MASLD-nomenclature-AASLD-EASL-2023/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/MASLD-nomenclature-AASLD-EASL-2023/</id>
+    <updated>2026-05-16T15:54:24+09:00</updated>
+    <summary>AASLD·EASL·ALEH의 Delphi 합의로 NAFLD → MASLD, NASH → MASH로 명명 변경. MetALD 새 카테고리 도입.</summary>
+    <author><name>신현재</name></author>
+  </entry>
   <entry>
     <title>SGLT2 억제제와 간 합병증</title>
     <link href="https://drshin.kr/updates/Chung-SGLT2-Liver-MR-Hepatology-2024/" rel="alternate" type="text/html"/>
@@ -23,14 +127,6 @@
     <id>https://drshin.kr/updates/GLP1RA-small-molecule-orforglipron/</id>
     <updated>2026-05-16T10:50:39+09:00</updated>
     <summary>Orforglipron 등 경구 small molecule GLP-1 RA가 phase 3 임상에서 주사형과 유사한 체중 감량·혈당 조절 효과를 보고하며 비만·당뇨·MASH 치료에 새 옵션이 되고 있습니다.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>MAESTRO-NASH 3년 확장</title>
-    <link href="https://drshin.kr/updates/MAESTRO-NASH-resmetirom-3%EB%85%84-2024/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/MAESTRO-NASH-resmetirom-3%EB%85%84-2024/</id>
-    <updated>2026-05-16T10:50:39+09:00</updated>
-    <summary>MAESTRO-NASH 3년 추적 — Resmetirom(thyroid hormone β receptor agonist)이 NASH·섬유화 호전을 3년 유지하고 안전성 양호.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>
@@ -90,51 +186,11 @@
     <author><name>신현재</name></author>
   </entry>
   <entry>
-    <title>아스피린과 MASLD 환자의 간세포암 위험</title>
-    <link href="https://drshin.kr/updates/Ahn-Aspirin-HCC-MASLD-CMH-2026/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/Ahn-Aspirin-HCC-MASLD-CMH-2026/</id>
-    <updated>2026-05-15T17:29:24+09:00</updated>
-    <summary>Ahn J, Hur MH, Shin H et al. Clin Mol Hepatol 2026. MASLD 환자에서 아스피린 사용과 HCC 위험의 nationwide cohort + 유전 위험 분석.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>Baveno VII</title>
-    <link href="https://drshin.kr/updates/Baveno-VII-recompensation-2024/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/Baveno-VII-recompensation-2024/</id>
-    <updated>2026-05-15T17:29:24+09:00</updated>
-    <summary>Baveno VII 합의에서 처음으로 </summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>Survodutide</title>
-    <link href="https://drshin.kr/updates/ESSENCE-survodutide-MASH-Lancet-2024/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/ESSENCE-survodutide-MASH-Lancet-2024/</id>
-    <updated>2026-05-15T17:29:24+09:00</updated>
-    <summary>GLP-1과 글루카곤 수용체를 동시 작용하는 survodutide의 MASH 2상 — 위약 대비 NASH 호전과 섬유화 호전 모두 보임.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
     <title>GLP-1 RA와 알코올성 간 질환</title>
     <link href="https://drshin.kr/updates/GLP1RA-%EC%95%8C%EC%BD%94%EC%98%AC%EC%84%B1-%EA%B0%84%EC%A7%88%ED%99%98-ALD/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/GLP1RA-%EC%95%8C%EC%BD%94%EC%98%AC%EC%84%B1-%EA%B0%84%EC%A7%88%ED%99%98-ALD/</id>
     <updated>2026-05-15T17:29:24+09:00</updated>
     <summary>GLP-1 작용제가 음주 행동·알코올성 간 질환에 미치는 영향이 활발히 연구되고 있습니다. 음주 욕구 감소·간 보호 효과의 가능성과 현재 임상 진전.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>Semaglutide for AUD</title>
-    <link href="https://drshin.kr/updates/Klausen-Semaglutide-AUD-Lancet-2026/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/Klausen-Semaglutide-AUD-Lancet-2026/</id>
-    <updated>2026-05-15T17:29:24+09:00</updated>
-    <summary>Klausen 2026 Lancet — semaglutide가 알코올 사용 장애 환자(비만 동반)의 음주를 줄였다는 RCT.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>MASLD 새 명명</title>
-    <link href="https://drshin.kr/updates/MASLD-nomenclature-AASLD-EASL-2023/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/MASLD-nomenclature-AASLD-EASL-2023/</id>
-    <updated>2026-05-15T17:29:24+09:00</updated>
-    <summary>AASLD·EASL·ALEH의 Delphi 합의로 NAFLD → MASLD, NASH → MASH로 명명 변경. MetALD 새 카테고리 도입.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>
@@ -178,14 +234,6 @@
     <author><name>신현재</name></author>
   </entry>
   <entry>
-    <title>AI 기반 CT 간세포암 진단</title>
-    <link href="https://drshin.kr/updates/AI-CT-HCC-validation-Hepatology-2024/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/AI-CT-HCC-validation-Hepatology-2024/</id>
-    <updated>2026-05-15T17:13:29+09:00</updated>
-    <summary>동적 CT 영상에서 HCC를 자동 진단하는 AI 알고리즘의 대규모 다기관·다국가 검증. 영상 전문의 수준 진단 정확도.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
     <title>Baveno VII</title>
     <link href="https://drshin.kr/updates/Baveno-VII-portal-hypertension-J-Hepatol-2022/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/Baveno-VII-portal-hypertension-J-Hepatol-2022/</id>
@@ -194,59 +242,11 @@
     <author><name>신현재</name></author>
   </entry>
   <entry>
-    <title>Bepirovirsen</title>
-    <link href="https://drshin.kr/updates/Bepirovirsen-HBV-Lancet-2024/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/Bepirovirsen-HBV-Lancet-2024/</id>
-    <updated>2026-05-15T17:13:29+09:00</updated>
-    <summary>HBV RNA를 분해하는 antisense oligonucleotide bepirovirsen. B-Clear 시험에서 HBsAg 소실 약 9~10%, 새 시대의 첫 후보.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>CheckMate 9DW</title>
-    <link href="https://drshin.kr/updates/CheckMate-9DW-nivo-ipi-Lancet-2024/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/CheckMate-9DW-nivo-ipi-Lancet-2024/</id>
-    <updated>2026-05-15T17:13:29+09:00</updated>
-    <summary>진행기 간세포암 1차 치료로 nivolumab + ipilimumab이 sorafenib/lenvatinib 대비 OS 우월. Lancet 2024/2025.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>EMERALD-1</title>
-    <link href="https://drshin.kr/updates/EMERALD-1-TACE-durva-bev-Lancet-2024/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/EMERALD-1-TACE-durva-bev-Lancet-2024/</id>
-    <updated>2026-05-15T17:13:29+09:00</updated>
-    <summary>중간기 간세포암(BCLC B)의 표준이 TACE 단독에서 TACE + durvalumab + bevacizumab로 바뀌는 출발점. Lancet 2024.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
     <title>HIMALAYA</title>
     <link href="https://drshin.kr/updates/HIMALAYA-durvalumab-tremelimumab-NEJM-Evid-2022/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/HIMALAYA-durvalumab-tremelimumab-NEJM-Evid-2022/</id>
     <updated>2026-05-15T17:13:29+09:00</updated>
     <summary>Abou-Alfa GK et al. NEJM Evid 2022. Phase 3 RCT, 1171명 진행성 HCC, durva+treme 단회 priming(STRIDE)이 sorafenib보다 OS 우월. 출혈 위험 환자의 atezo+bev 대안.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>IMbrave050</title>
-    <link href="https://drshin.kr/updates/IMbrave050-adjuvant-atezo-bev-Lancet-2023/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/IMbrave050-adjuvant-atezo-bev-Lancet-2023/</id>
-    <updated>2026-05-15T17:13:29+09:00</updated>
-    <summary>고위험 절제·소작 후 atezolizumab + bevacizumab 12개월이 재발 없는 생존(RFS)을 의미 있게 연장한 첫 양성 보조 면역치료 시험. Lancet 2023.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>IMbrave150</title>
-    <link href="https://drshin.kr/updates/IMbrave150-atezolizumab-bevacizumab-NEJM-2020/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/IMbrave150-atezolizumab-bevacizumab-NEJM-2020/</id>
-    <updated>2026-05-15T17:13:29+09:00</updated>
-    <summary>Finn SA et al. NEJM 2020. Phase 3 RCT, 501명 진행성 간세포암, atezo+bev이 sorafenib보다 OS·PFS 우월 - 8년간 1차 표준이었던 sorafenib을 교체.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>LEAP-012</title>
-    <link href="https://drshin.kr/updates/LEAP-012-TACE-pembro-lenva-Lancet-2024/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/LEAP-012-TACE-pembro-lenva-Lancet-2024/</id>
-    <updated>2026-05-15T17:13:29+09:00</updated>
-    <summary>중간기 간세포암에서 TACE + pembrolizumab + lenvatinib 조합이 TACE 단독 대비 PFS 의미 있게 연장. EMERALD-1과 함께 BCLC B 표준 변화의 두 번째 근거.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>
