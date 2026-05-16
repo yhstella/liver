@@ -48,107 +48,131 @@
     "lower": "/assets/img/page-generated-v2/pilot/pilot-05-lft-fibroscan-간섬유화-스캔-수치-읽는-법-lower.webp"
   },
   "/PIVKA-II-간암마커/": {
-    "top": "/assets/img/page-generated-v2/detail/d033-diagnostics-pivka-ii-hcc마커-top.webp",
-    "lower": "/assets/img/page-generated-v2/detail/d033-diagnostics-pivka-ii-hcc마커-lower.webp"
+    "top": "/assets/img/page-generated-v2/detail/d034-diagnostics-pivka-ii-hcc마커-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d034-diagnostics-pivka-ii-hcc마커-lower.webp"
   },
   "/지방간-SGLT2-GLP1/": {
-    "top": "/assets/img/page-generated-v2/detail/d034-masld-masld-sglt2-glp1-top.webp",
-    "lower": "/assets/img/page-generated-v2/detail/d034-masld-masld-sglt2-glp1-lower.webp"
+    "top": "/assets/img/page-generated-v2/detail/d035-masld-masld-sglt2-glp1-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d035-masld-masld-sglt2-glp1-lower.webp"
+  },
+  "/간암-가족력-검진/": {
+    "top": "/assets/img/page-generated-v2/detail/d038-hcc-hcc-가족력-검진-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d038-hcc-hcc-가족력-검진-lower.webp"
   },
   "/간양성종양-진단/": {
     "top": "/assets/img/page-generated-v2/pilot/pilot-07-benign-간-양성종양-진단-top.webp",
     "lower": "/assets/img/page-generated-v2/pilot/pilot-07-benign-간-양성종양-진단-lower.webp"
   },
+  "/간경변-영양-근감소증/": {
+    "top": "/assets/img/page-generated-v2/detail/d043-cirrhosis-cirrhosis-영양-근감소증-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d043-cirrhosis-cirrhosis-영양-근감소증-lower.webp"
+  },
+  "/간경변-약물-주의/": {
+    "top": "/assets/img/page-generated-v2/detail/d044-cirrhosis-cirrhosis-약물-주의-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d044-cirrhosis-cirrhosis-약물-주의-lower.webp"
+  },
+  "/간경변-혈소판감소/": {
+    "top": "/assets/img/page-generated-v2/detail/d048-cirrhosis-cirrhosis-혈소판감소-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d048-cirrhosis-cirrhosis-혈소판감소-lower.webp"
+  },
   "/간경변-간성혼수/": {
-    "top": "/assets/img/page-generated-v2/detail/d050-cirrhosis-cirrhosis-encephalopathy-top.webp",
-    "lower": "/assets/img/page-generated-v2/detail/d050-cirrhosis-cirrhosis-encephalopathy-lower.webp"
+    "top": "/assets/img/page-generated-v2/detail/d051-cirrhosis-cirrhosis-encephalopathy-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d051-cirrhosis-cirrhosis-encephalopathy-lower.webp"
   },
   "/간경변-간신증후군/": {
-    "top": "/assets/img/page-generated-v2/detail/d051-cirrhosis-cirrhosis-간신증후군-top.webp",
-    "lower": "/assets/img/page-generated-v2/detail/d051-cirrhosis-cirrhosis-간신증후군-lower.webp"
+    "top": "/assets/img/page-generated-v2/detail/d052-cirrhosis-cirrhosis-간신증후군-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d052-cirrhosis-cirrhosis-간신증후군-lower.webp"
   },
   "/간암-소작술-RFA-MWA/": {
-    "top": "/assets/img/page-generated-v2/detail/d052-hcc-hcc-소작술-rfa-mwa-top.webp",
-    "lower": "/assets/img/page-generated-v2/detail/d052-hcc-hcc-소작술-rfa-mwa-lower.webp"
+    "top": "/assets/img/page-generated-v2/detail/d053-hcc-hcc-소작술-rfa-mwa-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d053-hcc-hcc-소작술-rfa-mwa-lower.webp"
   },
   "/간암-재발-추적/": {
-    "top": "/assets/img/page-generated-v2/detail/d053-hcc-hcc-재발-추적-top.webp",
-    "lower": "/assets/img/page-generated-v2/detail/d053-hcc-hcc-재발-추적-lower.webp"
+    "top": "/assets/img/page-generated-v2/detail/d054-hcc-hcc-재발-추적-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d054-hcc-hcc-재발-추적-lower.webp"
   },
   "/간암-진단-첫외래/": {
-    "top": "/assets/img/page-generated-v2/detail/d054-hcc-hcc-진단-첫외래-top.webp",
-    "lower": "/assets/img/page-generated-v2/detail/d054-hcc-hcc-진단-첫외래-lower.webp"
+    "top": "/assets/img/page-generated-v2/detail/d055-hcc-hcc-진단-첫외래-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d055-hcc-hcc-진단-첫외래-lower.webp"
   },
   "/간암-간이식/": {
-    "top": "/assets/img/page-generated-v2/detail/d056-hcc-hcc-transplant-top.webp",
-    "lower": "/assets/img/page-generated-v2/detail/d056-hcc-hcc-transplant-lower.webp"
+    "top": "/assets/img/page-generated-v2/detail/d057-hcc-hcc-transplant-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d057-hcc-hcc-transplant-lower.webp"
   },
   "/간암-SBRT-양성자/": {
-    "top": "/assets/img/page-generated-v2/detail/d057-hcc-hcc-sbrt-양성자-top.webp",
-    "lower": "/assets/img/page-generated-v2/detail/d057-hcc-hcc-sbrt-양성자-lower.webp"
+    "top": "/assets/img/page-generated-v2/detail/d058-hcc-hcc-sbrt-양성자-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d058-hcc-hcc-sbrt-양성자-lower.webp"
+  },
+  "/간경변-간이식-평가/": {
+    "top": "/assets/img/page-generated-v2/detail/d059-cirrhosis-cirrhosis-transplant-평가-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d059-cirrhosis-cirrhosis-transplant-평가-lower.webp"
   },
   "/간암-방사선색전술/": {
-    "top": "/assets/img/page-generated-v2/detail/d063-hcc-hcc-방사선색전술-top.webp",
-    "lower": "/assets/img/page-generated-v2/detail/d063-hcc-hcc-방사선색전술-lower.webp"
+    "top": "/assets/img/page-generated-v2/detail/d064-hcc-hcc-방사선색전술-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d064-hcc-hcc-방사선색전술-lower.webp"
   },
   "/간암-TACE-종류-결정/": {
-    "top": "/assets/img/page-generated-v2/detail/d064-hcc-hcc-tace-종류-결정-top.webp",
-    "lower": "/assets/img/page-generated-v2/detail/d064-hcc-hcc-tace-종류-결정-lower.webp"
+    "top": "/assets/img/page-generated-v2/detail/d065-hcc-hcc-tace-종류-결정-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d065-hcc-hcc-tace-종류-결정-lower.webp"
   },
   "/간암-면역치료-1차/": {
-    "top": "/assets/img/page-generated-v2/detail/d070-hcc-hcc-면역치료-1차-top.webp",
-    "lower": "/assets/img/page-generated-v2/detail/d070-hcc-hcc-면역치료-1차-lower.webp"
+    "top": "/assets/img/page-generated-v2/detail/d071-hcc-hcc-면역치료-1차-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d071-hcc-hcc-면역치료-1차-lower.webp"
   },
   "/간경변-복수/": {
-    "top": "/assets/img/page-generated-v2/detail/d071-cirrhosis-cirrhosis-ascites-top.webp",
-    "lower": "/assets/img/page-generated-v2/detail/d071-cirrhosis-cirrhosis-ascites-lower.webp"
+    "top": "/assets/img/page-generated-v2/detail/d072-cirrhosis-cirrhosis-ascites-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d072-cirrhosis-cirrhosis-ascites-lower.webp"
   },
   "/간경변-식도정맥류/": {
     "top": "/assets/img/page-generated-v2/pilot/pilot-04-cirrhosis-식도정맥류-top.webp",
     "lower": "/assets/img/page-generated-v2/pilot/pilot-04-cirrhosis-식도정맥류-lower.webp"
   },
   "/B형간염-신기능-약물선택/": {
-    "top": "/assets/img/page-generated-v2/detail/d081-viral-hbv-신기능-약물선택-top.webp",
-    "lower": "/assets/img/page-generated-v2/detail/d081-viral-hbv-신기능-약물선택-lower.webp"
+    "top": "/assets/img/page-generated-v2/detail/d082-viral-hbv-신기능-약물선택-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d082-viral-hbv-신기능-약물선택-lower.webp"
   },
   "/약물성-간손상-DILI/": {
-    "top": "/assets/img/page-generated-v2/detail/d084-diagnostics-dili-간손상-dili-top.webp",
-    "lower": "/assets/img/page-generated-v2/detail/d084-diagnostics-dili-간손상-dili-lower.webp"
+    "top": "/assets/img/page-generated-v2/detail/d085-diagnostics-dili-간손상-dili-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d085-diagnostics-dili-간손상-dili-lower.webp"
   },
   "/PBC-원발성담즙성담관염/": {
-    "top": "/assets/img/page-generated-v2/detail/d085-autoimmune-pbc-원발성담즙성담관염-top.webp",
-    "lower": "/assets/img/page-generated-v2/detail/d085-autoimmune-pbc-원발성담즙성담관염-lower.webp"
+    "top": "/assets/img/page-generated-v2/detail/d086-autoimmune-pbc-원발성담즙성담관염-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d086-autoimmune-pbc-원발성담즙성담관염-lower.webp"
   },
   "/자가면역간염-진단/": {
     "top": "/assets/img/page-generated-v2/pilot/pilot-06-autoimmune-자가면역간염-aih-진단-top.webp",
     "lower": "/assets/img/page-generated-v2/pilot/pilot-06-autoimmune-자가면역간염-aih-진단-lower.webp"
+  },
+  "/간경변-감염-SBP-예방/": {
+    "top": "/assets/img/page-generated-v2/detail/d093-cirrhosis-cirrhosis-감염-sbp-예방-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d093-cirrhosis-cirrhosis-감염-sbp-예방-lower.webp"
   },
   "/간암-치료-선택/": {
     "top": "/assets/img/page-generated-v2/pilot/pilot-01-hcc-절제술-vs-색전술-vs-방사선-top.webp",
     "lower": "/assets/img/page-generated-v2/pilot/pilot-01-hcc-절제술-vs-색전술-vs-방사선-lower.webp"
   },
   "/지방간-신약-resmetirom/": {
-    "top": "/assets/img/page-generated-v2/detail/d093-masld-masld-신약-resmetirom-top.webp",
-    "lower": "/assets/img/page-generated-v2/detail/d093-masld-masld-신약-resmetirom-lower.webp"
+    "top": "/assets/img/page-generated-v2/detail/d095-masld-masld-신약-resmetirom-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d095-masld-masld-신약-resmetirom-lower.webp"
   },
   "/지방간-정밀검사/": {
     "top": "/assets/img/page-generated-v2/pilot/pilot-03-masld-지방간-진단-후-섬유화-정밀검사가-필요한-사람은-누구인가-top.webp",
     "lower": "/assets/img/page-generated-v2/pilot/pilot-03-masld-지방간-진단-후-섬유화-정밀검사가-필요한-사람은-누구인가-lower.webp"
   },
   "/지방간-음식/": {
-    "top": "/assets/img/page-generated-v2/detail/d099-masld-masld-음식-top.webp",
-    "lower": "/assets/img/page-generated-v2/detail/d099-masld-masld-음식-lower.webp"
+    "top": "/assets/img/page-generated-v2/detail/d101-masld-masld-음식-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d101-masld-masld-음식-lower.webp"
   },
   "/지방간-간암/": {
-    "top": "/assets/img/page-generated-v2/detail/d101-masld-masld-hcc-top.webp",
-    "lower": null
+    "top": "/assets/img/page-generated-v2/detail/d103-masld-masld-hcc-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d103-masld-masld-hcc-lower.webp"
   },
   "/B형간염-재활성화/": {
-    "top": "/assets/img/page-generated-v2/detail/d102-viral-hbv-재활성화-top.webp",
-    "lower": "/assets/img/page-generated-v2/detail/d102-viral-hbv-재활성화-lower.webp"
+    "top": "/assets/img/page-generated-v2/detail/d104-viral-hbv-재활성화-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d104-viral-hbv-재활성화-lower.webp"
   },
   "/간암-혈관침범-치료/": {
-    "top": "/assets/img/page-generated-v2/detail/d103-hcc-hcc-혈관침범-치료-top.webp",
-    "lower": "/assets/img/page-generated-v2/detail/d103-hcc-hcc-혈관침범-치료-lower.webp"
+    "top": "/assets/img/page-generated-v2/detail/d105-hcc-hcc-혈관침범-치료-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d105-hcc-hcc-혈관침범-치료-lower.webp"
   }
 }

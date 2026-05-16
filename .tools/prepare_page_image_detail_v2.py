@@ -372,6 +372,12 @@ def distinct_visual_identity(item: dict, cat: str, cat2: str, keywords: list[str
             "deep teal, violet thyroid-receptor motif, golden fat droplets",
             "one receptor-to-liver scene; no generic FibroScan panel",
         )
+    if "PIVKA" in url or "PIVKA" in k:
+        return (
+            "two unlabeled biomarker trend curves beside one small HCC nodule and blood cue",
+            "clean white, teal AFP-like curve, amber PIVKA-like curve, muted tumor red",
+            "single biomarker interpretation scene; no ultrasound calendar and no serology matrix",
+        )
     if "간암검진" in url or ("AFP" in k and "검진" in k and "간세포암" in k):
         return (
             "ultrasound surveillance arc with one AFP blood-drop cue for HBV-related HCC screening",
@@ -438,6 +444,12 @@ def data_layer_for(item: dict, cat: str, cat2: str, keywords: list[str]) -> tupl
             "HBV antiviral selection data: viral suppression, renal function, bone safety, pregnancy/age context, TDF versus TAF versus ETV",
             "guideline/page source needed for exact renal cutoff and safety statements",
             "show drug-selection axes visually; exact eGFR/bone labels should be deterministic overlay",
+        )
+    if "PIVKA" in k or "PIVKA" in title or "PIVKA" in url:
+        return (
+            "AFP/PIVKA-II trend data: paired biomarker trajectories, HCC surveillance context, false-positive caution",
+            "guideline/page source needed for surveillance interval and marker interpretation",
+            "show paired trend curves only; exact marker names, thresholds, and interpretation notes should be deterministic overlay/caption",
         )
     if "간암검진" in url or ("AFP" in k and "검진" in k and "간세포암" in k):
         return (
