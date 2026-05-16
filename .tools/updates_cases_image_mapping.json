@@ -45,9 +45,9 @@
     "source": "/간암-면역치료-1차/"
   },
   "/updates/IMbrave050-adjuvant-atezo-bev-Lancet-2023/": {
-    "top": "/assets/img/page-generated-v2/detail/d071-hcc-hcc-면역치료-1차-top.webp",
-    "lower": "/assets/img/page-generated-v2/detail/d071-hcc-hcc-면역치료-1차-lower.webp",
-    "source": "/간암-면역치료-1차/"
+    "top": "/assets/img/page-generated-v2/detail/d054-hcc-hcc-재발-추적-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d054-hcc-hcc-재발-추적-lower.webp",
+    "source": "/간암-재발-추적/"
   },
   "/updates/IMbrave150-atezolizumab-bevacizumab-NEJM-2020/": {
     "top": "/assets/img/page-generated-v2/detail/d071-hcc-hcc-면역치료-1차-top.webp",
@@ -69,15 +69,25 @@
     "lower": "/assets/img/page-generated-v2/detail/d095-masld-masld-신약-resmetirom-lower.webp",
     "source": "/지방간-신약-resmetirom/"
   },
+  "/updates/Shin-AI-CT-HCC-CHB-JHep-2025/": {
+    "top": "/assets/img/page-generated-v2/detail/d002-diagnostics-알파태아단백-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d002-diagnostics-알파태아단백-lower.webp",
+    "source": "/알파태아단백/"
+  },
+  "/updates/Shin-Antiviral-CV-CHB-JMV-2024/": {
+    "top": "/assets/img/page-generated-v2/detail/d017-viral-hbv-항바이러스제-비교-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d017-viral-hbv-항바이러스제-비교-lower.webp",
+    "source": "/B형간염-항바이러스제-비교/"
+  },
   "/updates/Shin-CIK-HCC-CII-2026/": {
-    "top": "/assets/img/page-generated-v2/detail/d055-hcc-hcc-진단-첫외래-top.webp",
-    "lower": "/assets/img/page-generated-v2/detail/d055-hcc-hcc-진단-첫외래-lower.webp",
-    "source": "/간암-진단-첫외래/"
+    "top": "/assets/img/page-generated-v2/detail/d054-hcc-hcc-재발-추적-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d054-hcc-hcc-재발-추적-lower.webp",
+    "source": "/간암-재발-추적/"
   },
   "/updates/Shin-COVID-HBV-NK-IN-2023/": {
-    "top": "/assets/img/page-generated-v2/detail/d055-hcc-hcc-진단-첫외래-top.webp",
-    "lower": "/assets/img/page-generated-v2/detail/d055-hcc-hcc-진단-첫외래-lower.webp",
-    "source": "/간암-진단-첫외래/"
+    "top": "/assets/img/page-generated-v2/pilot/pilot-02-hbv-b형간염-검사-결과지-해석hbsag-hbeag-anti-hbs-각각-무엇을-뜻하나요-top.webp",
+    "lower": "/assets/img/page-generated-v2/pilot/pilot-02-hbv-b형간염-검사-결과지-해석hbsag-hbeag-anti-hbs-각각-무엇을-뜻하나요-lower.webp",
+    "source": "/B형간염-검사결과/"
   },
   "/updates/Shin-ETV-TAF-RCT-GnL-2026/": {
     "top": "/assets/img/page-generated-v2/detail/d017-viral-hbv-항바이러스제-비교-top.webp",
@@ -85,9 +95,9 @@
     "source": "/B형간염-항바이러스제-비교/"
   },
   "/updates/Shin-HCC-Guidelines-Review-JLC-2025/": {
-    "top": "/assets/img/page-generated-v2/detail/d055-hcc-hcc-진단-첫외래-top.webp",
-    "lower": "/assets/img/page-generated-v2/detail/d055-hcc-hcc-진단-첫외래-lower.webp",
-    "source": "/간암-진단-첫외래/"
+    "top": "/assets/img/page-generated-v2/detail/d011-hcc-hcc-bclc병기-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d011-hcc-hcc-bclc병기-lower.webp",
+    "source": "/간암-BCLC병기/"
   },
   "/updates/Shin-TDF-ETV-TAF-switch-HCC-HepRes-2024/": {
     "top": "/assets/img/page-generated-v2/detail/d017-viral-hbv-항바이러스제-비교-top.webp",

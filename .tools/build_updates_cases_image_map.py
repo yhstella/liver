@@ -19,11 +19,12 @@ keyword_rules = [
     (r'BCLC.?A.?다발|BCLC.?A.?소작', '/간암-소작술-RFA-MWA/'),
     (r'BCLC.?A.?절제|단일3cm', '/간암-치료-선택/'),
     (r'BCLC.?B.?다발|TACE', '/간암-TACE-종류-결정/'),
+    # adjuvant 시험은 면역치료 검색어보다 먼저 매칭되어야 함 (atezo-bev 키워드가 겹치기 때문)
+    (r'IMbrave050|adjuvant.?atezo|Shin.?CIK', '/간암-재발-추적/'),
     (r'면역치료.?1차|atezo.?bev|AtezoBev|문맥침범', '/간암-면역치료-1차/'),
     (r'STRIDE|durvalumab|tremelimumab|HIMALAYA', '/간암-면역치료-1차/'),
     (r'CheckMate.?9DW|nivo.?ipi', '/간암-면역치료-1차/'),
     (r'IMbrave150', '/간암-면역치료-1차/'),
-    (r'IMbrave050|adjuvant.?atezo', '/간암-재발-추적/'),
     (r'EMERALD|LEAP.?012', '/간암-TACE-종류-결정/'),
     (r'HCC.?폐전이|HCC.?림프절|혈관침범', '/간암-혈관침범-치료/'),
     (r'다운스테이징|ChildB|ChildC|이식대기|단일4cm.?이식', '/간암-간이식/'),
@@ -109,9 +110,12 @@ keyword_rules = [
     (r'focal-fat|국소.?지방|focal.?sparing', '/간양성종양-국소지방-변화/'),
     (r'큰낭종|bleomycin|경화요법', '/간양성종양-낭종-관리/'),
     (r'혈관종.?확대|임신중.?혈관종', '/간양성종양-임신중/'),
-    # Shin et al papers
-    (r'Shin.?CIK|Shin.?COVID|Shin.?HCC-Guidelines', '/간암-진단-첫외래/'),
-    (r'Shin.?Antiviral.?CV|Shin.?AI.?CT', '/B형간염-평생약/'),
+    # Shin et al 논문 — 주제별 분리
+    # Shin-CIK는 면역치료(adjuvant)이므로 위쪽 IMbrave050 그룹에서 이미 처리
+    (r'Shin.?COVID.?HBV', '/B형간염-검사결과/'),
+    (r'Shin.?HCC-Guidelines', '/간암-BCLC병기/'),
+    (r'Shin.?Antiviral.?CV', '/B형간염-항바이러스제-비교/'),
+    (r'Shin.?AI.?CT', '/알파태아단백/'),
     (r'AI.?CT.?HCC.?validation', '/알파태아단백/'),
 ]
 
