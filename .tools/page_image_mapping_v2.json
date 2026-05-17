@@ -91,6 +91,10 @@
     "top": "/assets/img/page-generated-v2/detail/d023-viral-hcv-daa-실패-재치료-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d023-viral-hcv-daa-실패-재치료-lower.webp"
   },
+  "/C형간염-재감염-위험군/": {
+    "top": "/assets/img/page-generated-v2/detail/d024-viral-hcv-재감염-위험군-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d024-viral-hcv-재감염-위험군-lower.webp"
+  },
   "/C형간염-완치후-추적/": {
     "top": "/assets/img/page-generated-v2/detail/d025-viral-hcv-완치후-추적-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d025-viral-hcv-완치후-추적-lower.webp"
@@ -98,6 +102,10 @@
   "/D형간염-치료-가이드라인/": {
     "top": "/assets/img/page-generated-v2/detail/d026-viral-hdv-치료-가이드라인-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d026-viral-hdv-치료-가이드라인-lower.webp"
+  },
+  "/B형간염-D형간염-HDV/": {
+    "top": "/assets/img/page-generated-v2/detail/d027-viral-hbv-hdv-hdv-top.webp",
+    "lower": null
   },
   "/간섬유화스캔-수치/": {
     "top": "/assets/img/page-generated-v2/pilot/pilot-05-lft-fibroscan-간섬유화-스캔-수치-읽는-법-top.webp",

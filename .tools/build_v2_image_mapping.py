@@ -93,6 +93,8 @@ SLUG_TO_URL = {
     'viral-hcv-신부전-치료': '/C형간염-신부전-치료/',
     'viral-hcv-daa-실패-재치료': '/C형간염-DAA-실패-재치료/',
     'viral-hdv-치료-가이드라인': '/D형간염-치료-가이드라인/',
+    'viral-hcv-재감염-위험군': '/C형간염-재감염-위험군/',
+    'viral-hbv-hdv-hdv': '/B형간염-D형간염-HDV/',
     # pilot fragments
     '절제술-vs-색전술-vs-방사선': '/간암-치료-선택/',
     'b형간염-검사-결과지-해석hbsag-hbeag-anti-hbs-각각-무엇을-뜻하나요': '/B형간염-검사결과/',
