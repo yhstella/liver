@@ -59,6 +59,10 @@ SLUG_TO_URL = {
     'cirrhosis-cirrhosis-감염-sbp-예방': '/간경변-감염-SBP-예방/',
     'cirrhosis-cirrhosis-transplant-평가': '/간경변-간이식-평가/',
     'cirrhosis-cirrhosis-대상성-비대상성': '/간경변-대상성-비대상성/',
+    'cirrhosis-cirrhosis-수면-가려움증': '/간경변-수면-가려움증/',
+    'cirrhosis-cirrhosis-여행-항공-주의': '/간경변-여행-항공-주의/',
+    'cirrhosis-cirrhosis-피로감-증상관리': '/간경변-피로감-증상관리/',
+    'hcc-hcc-식이-일상': '/간암-식이-일상/',
     # pilot fragments
     '절제술-vs-색전술-vs-방사선': '/간암-치료-선택/',
     'b형간염-검사-결과지-해석hbsag-hbeag-anti-hbs-각각-무엇을-뜻하나요': '/B형간염-검사결과/',

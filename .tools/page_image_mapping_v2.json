@@ -71,6 +71,18 @@
     "top": "/assets/img/page-generated-v2/detail/d044-cirrhosis-cirrhosis-약물-주의-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d044-cirrhosis-cirrhosis-약물-주의-lower.webp"
   },
+  "/간경변-피로감-증상관리/": {
+    "top": "/assets/img/page-generated-v2/detail/d045-cirrhosis-cirrhosis-피로감-증상관리-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d045-cirrhosis-cirrhosis-피로감-증상관리-lower.webp"
+  },
+  "/간경변-수면-가려움증/": {
+    "top": "/assets/img/page-generated-v2/detail/d046-cirrhosis-cirrhosis-수면-가려움증-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d046-cirrhosis-cirrhosis-수면-가려움증-lower.webp"
+  },
+  "/간경변-여행-항공-주의/": {
+    "top": "/assets/img/page-generated-v2/detail/d047-cirrhosis-cirrhosis-여행-항공-주의-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d047-cirrhosis-cirrhosis-여행-항공-주의-lower.webp"
+  },
   "/간경변-혈소판감소/": {
     "top": "/assets/img/page-generated-v2/detail/d048-cirrhosis-cirrhosis-혈소판감소-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d048-cirrhosis-cirrhosis-혈소판감소-lower.webp"
@@ -94,6 +106,10 @@
   "/간암-진단-첫외래/": {
     "top": "/assets/img/page-generated-v2/detail/d055-hcc-hcc-진단-첫외래-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d055-hcc-hcc-진단-첫외래-lower.webp"
+  },
+  "/간암-식이-일상/": {
+    "top": "/assets/img/page-generated-v2/detail/d056-hcc-hcc-식이-일상-top.webp",
+    "lower": null
   },
   "/간암-간이식/": {
     "top": "/assets/img/page-generated-v2/detail/d057-hcc-hcc-transplant-top.webp",
