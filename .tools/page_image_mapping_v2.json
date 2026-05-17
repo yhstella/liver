@@ -7,9 +7,37 @@
     "top": "/assets/img/page-generated-v2/detail/d002-diagnostics-알파태아단백-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d002-diagnostics-알파태아단백-lower.webp"
   },
+  "/자가면역간염-약중단/": {
+    "top": "/assets/img/page-generated-v2/detail/d003-autoimmune-aih-약중단-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d003-autoimmune-aih-약중단-lower.webp"
+  },
+  "/자가면역간염-스테로이드-부작용/": {
+    "top": "/assets/img/page-generated-v2/detail/d004-autoimmune-aih-스테로이드-부작용-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d004-autoimmune-aih-스테로이드-부작용-lower.webp"
+  },
+  "/자가면역간염-치료/": {
+    "top": "/assets/img/page-generated-v2/detail/d005-autoimmune-aih-치료-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d005-autoimmune-aih-치료-lower.webp"
+  },
+  "/자가면역간염-PBC-overlap/": {
+    "top": "/assets/img/page-generated-v2/detail/d006-autoimmune-aih-pbc-overlap-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d006-autoimmune-aih-pbc-overlap-lower.webp"
+  },
   "/ALP-GGT-담도-간세포/": {
     "top": "/assets/img/page-generated-v2/detail/d007-diagnostics-alp-ggt-담도-간세포-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d007-diagnostics-alp-ggt-담도-간세포-lower.webp"
+  },
+  "/간수치-종류-차이/": {
+    "top": "/assets/img/page-generated-v2/detail/d008-diagnostics-lft-종류-차이-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d008-diagnostics-lft-종류-차이-lower.webp"
+  },
+  "/간수치-AST-우세-원인/": {
+    "top": "/assets/img/page-generated-v2/detail/d009-diagnostics-lft-ast-우세-원인-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d009-diagnostics-lft-ast-우세-원인-lower.webp"
+  },
+  "/A형간염/": {
+    "top": "/assets/img/page-generated-v2/detail/d010-viral-hav-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d010-viral-hav-lower.webp"
   },
   "/간암-BCLC병기/": {
     "top": "/assets/img/page-generated-v2/detail/d011-hcc-hcc-bclc병기-top.webp",
@@ -23,6 +51,18 @@
     "top": "/assets/img/page-generated-v2/pilot/pilot-02-hbv-b형간염-검사-결과지-해석hbsag-hbeag-anti-hbs-각각-무엇을-뜻하나요-top.webp",
     "lower": "/assets/img/page-generated-v2/pilot/pilot-02-hbv-b형간염-검사-결과지-해석hbsag-hbeag-anti-hbs-각각-무엇을-뜻하나요-lower.webp"
   },
+  "/B형간염-백신/": {
+    "top": "/assets/img/page-generated-v2/detail/d014-viral-hbv-백신-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d014-viral-hbv-백신-lower.webp"
+  },
+  "/B형간염-결혼-임신/": {
+    "top": "/assets/img/page-generated-v2/detail/d015-viral-hbv-결혼-임신-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d015-viral-hbv-결혼-임신-lower.webp"
+  },
+  "/B형간염-평생약/": {
+    "top": "/assets/img/page-generated-v2/detail/d016-viral-hbv-평생약-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d016-viral-hbv-평생약-lower.webp"
+  },
   "/B형간염-항바이러스제-비교/": {
     "top": "/assets/img/page-generated-v2/detail/d017-viral-hbv-항바이러스제-비교-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d017-viral-hbv-항바이러스제-비교-lower.webp"
@@ -31,21 +71,41 @@
     "top": "/assets/img/page-generated-v2/detail/d018-viral-hbv-hcc검진-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d018-viral-hbv-hcc검진-lower.webp"
   },
+  "/C형간염-신부전-치료/": {
+    "top": "/assets/img/page-generated-v2/detail/d019-viral-hcv-신부전-치료-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d019-viral-hcv-신부전-치료-lower.webp"
+  },
   "/간경변-Child-Pugh-MELD/": {
     "top": "/assets/img/page-generated-v2/detail/d020-cirrhosis-cirrhosis-child-pugh-meld-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d020-cirrhosis-cirrhosis-child-pugh-meld-lower.webp"
+  },
+  "/C형간염-진단/": {
+    "top": "/assets/img/page-generated-v2/detail/d021-viral-hcv-진단-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d021-viral-hcv-진단-lower.webp"
   },
   "/C형간염-완치-DAA/": {
     "top": "/assets/img/page-generated-v2/detail/d022-viral-hcv-완치-daa-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d022-viral-hcv-완치-daa-lower.webp"
   },
+  "/C형간염-DAA-실패-재치료/": {
+    "top": "/assets/img/page-generated-v2/detail/d023-viral-hcv-daa-실패-재치료-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d023-viral-hcv-daa-실패-재치료-lower.webp"
+  },
   "/C형간염-완치후-추적/": {
     "top": "/assets/img/page-generated-v2/detail/d025-viral-hcv-완치후-추적-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d025-viral-hcv-완치후-추적-lower.webp"
   },
+  "/D형간염-치료-가이드라인/": {
+    "top": "/assets/img/page-generated-v2/detail/d026-viral-hdv-치료-가이드라인-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d026-viral-hdv-치료-가이드라인-lower.webp"
+  },
   "/간섬유화스캔-수치/": {
     "top": "/assets/img/page-generated-v2/pilot/pilot-05-lft-fibroscan-간섬유화-스캔-수치-읽는-법-top.webp",
     "lower": "/assets/img/page-generated-v2/pilot/pilot-05-lft-fibroscan-간섬유화-스캔-수치-읽는-법-lower.webp"
+  },
+  "/B형간염-HBeAg-양성-음성/": {
+    "top": "/assets/img/page-generated-v2/detail/d030-viral-hbv-hbeag-양성-음성-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d030-viral-hbv-hbeag-양성-음성-lower.webp"
   },
   "/PIVKA-II-간암마커/": {
     "top": "/assets/img/page-generated-v2/detail/d034-diagnostics-pivka-ii-hcc마커-top.webp",
@@ -87,6 +147,14 @@
     "top": "/assets/img/page-generated-v2/detail/d048-cirrhosis-cirrhosis-혈소판감소-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d048-cirrhosis-cirrhosis-혈소판감소-lower.webp"
   },
+  "/간경변-정상수치-함정/": {
+    "top": "/assets/img/page-generated-v2/detail/d049-diagnostics-cirrhosis-정상수치-함정-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d049-diagnostics-cirrhosis-정상수치-함정-lower.webp"
+  },
+  "/간생검-언제-필요한가/": {
+    "top": "/assets/img/page-generated-v2/detail/d050-diagnostics-biopsy-언제-필요한가-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d050-diagnostics-biopsy-언제-필요한가-lower.webp"
+  },
   "/간경변-간성혼수/": {
     "top": "/assets/img/page-generated-v2/detail/d051-cirrhosis-cirrhosis-encephalopathy-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d051-cirrhosis-cirrhosis-encephalopathy-lower.webp"
@@ -123,6 +191,14 @@
     "top": "/assets/img/page-generated-v2/detail/d059-cirrhosis-cirrhosis-transplant-평가-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d059-cirrhosis-cirrhosis-transplant-평가-lower.webp"
   },
+  "/간수치-높음/": {
+    "top": "/assets/img/page-generated-v2/detail/d060-diagnostics-lft-높음-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d060-diagnostics-lft-높음-lower.webp"
+  },
+  "/간수치-운동후-상승/": {
+    "top": "/assets/img/page-generated-v2/detail/d061-diagnostics-lft-운동후-상승-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d061-diagnostics-lft-운동후-상승-lower.webp"
+  },
   "/간암-방사선색전술/": {
     "top": "/assets/img/page-generated-v2/detail/d064-hcc-hcc-방사선색전술-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d064-hcc-hcc-방사선색전술-lower.webp"
@@ -147,6 +223,10 @@
     "top": "/assets/img/page-generated-v2/detail/d072-cirrhosis-cirrhosis-ascites-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d072-cirrhosis-cirrhosis-ascites-lower.webp"
   },
+  "/빌리루빈-직접-간접/": {
+    "top": "/assets/img/page-generated-v2/detail/d074-diagnostics-bilirubin-직접-간접-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d074-diagnostics-bilirubin-직접-간접-lower.webp"
+  },
   "/간경변-식도정맥류/": {
     "top": "/assets/img/page-generated-v2/pilot/pilot-04-cirrhosis-식도정맥류-top.webp",
     "lower": "/assets/img/page-generated-v2/pilot/pilot-04-cirrhosis-식도정맥류-lower.webp"
@@ -155,6 +235,14 @@
     "top": "/assets/img/page-generated-v2/detail/d082-viral-hbv-신기능-약물선택-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d082-viral-hbv-신기능-약물선택-lower.webp"
   },
+  "/알부민-PT-간합성능/": {
+    "top": "/assets/img/page-generated-v2/detail/d083-diagnostics-albumin-pt-간합성능-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d083-diagnostics-albumin-pt-간합성능-lower.webp"
+  },
+  "/알코올성-간질환/": {
+    "top": "/assets/img/page-generated-v2/detail/d084-masld-alcohol-간질환-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d084-masld-alcohol-간질환-lower.webp"
+  },
   "/약물성-간손상-DILI/": {
     "top": "/assets/img/page-generated-v2/detail/d085-diagnostics-dili-간손상-dili-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d085-diagnostics-dili-간손상-dili-lower.webp"
@@ -162,6 +250,10 @@
   "/PBC-원발성담즙성담관염/": {
     "top": "/assets/img/page-generated-v2/detail/d086-autoimmune-pbc-원발성담즙성담관염-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d086-autoimmune-pbc-원발성담즙성담관염-lower.webp"
+  },
+  "/지방간-위고비-마운자로/": {
+    "top": "/assets/img/page-generated-v2/detail/d087-masld-masld-위고비-마운자로-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d087-masld-masld-위고비-마운자로-lower.webp"
   },
   "/자가면역간염-진단/": {
     "top": "/assets/img/page-generated-v2/pilot/pilot-06-autoimmune-자가면역간염-aih-진단-top.webp",
@@ -183,13 +275,17 @@
     "top": "/assets/img/page-generated-v2/pilot/pilot-03-masld-지방간-진단-후-섬유화-정밀검사가-필요한-사람은-누구인가-top.webp",
     "lower": "/assets/img/page-generated-v2/pilot/pilot-03-masld-지방간-진단-후-섬유화-정밀검사가-필요한-사람은-누구인가-lower.webp"
   },
+  "/지방간-치료/": {
+    "top": "/assets/img/page-generated-v2/detail/d098-masld-masld-치료-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d098-masld-masld-치료-lower.webp"
+  },
   "/지방간-음식/": {
     "top": "/assets/img/page-generated-v2/detail/d101-masld-masld-음식-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d101-masld-masld-음식-lower.webp"
   },
   "/지방간염-MASH/": {
     "top": "/assets/img/page-generated-v2/detail/d102-masld-masld염-mash-top.webp",
-    "lower": null
+    "lower": "/assets/img/page-generated-v2/detail/d102-masld-masld염-mash-lower.webp"
   },
   "/지방간-간암/": {
     "top": "/assets/img/page-generated-v2/detail/d103-masld-masld-hcc-top.webp",
