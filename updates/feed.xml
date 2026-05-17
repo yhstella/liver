@@ -4,11 +4,59 @@
   <link href="https://drshin.kr/updates/" rel="alternate" type="text/html"/>
   <link href="https://drshin.kr/updates/feed.xml" rel="self" type="application/atom+xml"/>
   <id>https://drshin.kr/updates/</id>
-  <updated>2026-05-16T23:37:09.386375+00:00</updated>
+  <updated>2026-05-17T03:39:43.210213+00:00</updated>
   <subtitle>주요 저널의 hepatology 최신 논문 요약 — 신현재(서울대학교병원 소화기내과·간암센터)</subtitle>
   <author><name>신현재</name><uri>https://drshin.kr/소개/</uri></author>
   <generator>build_updates_rss.py</generator>
   <icon>https://drshin.kr/favicon.png</icon>
+  <entry>
+    <title>IMbrave050</title>
+    <link href="https://drshin.kr/updates/IMbrave050-adjuvant-atezo-bev-Lancet-2023/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/IMbrave050-adjuvant-atezo-bev-Lancet-2023/</id>
+    <updated>2026-05-17T08:36:19+09:00</updated>
+    <summary>고위험 절제·소작 후 atezolizumab + bevacizumab 12개월이 재발 없는 생존(RFS)을 의미 있게 연장한 첫 양성 보조 면역치료 시험. Lancet 2023.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>AI 영상 바이오마커</title>
+    <link href="https://drshin.kr/updates/Shin-AI-CT-HCC-CHB-JHep-2025/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/Shin-AI-CT-HCC-CHB-JHep-2025/</id>
+    <updated>2026-05-17T08:36:19+09:00</updated>
+    <summary>Shin H et al. J Hepatol 2025. CT 기반 영상 바이오마커를 활용한 AI 모델로 만성 B형간염 환자의 간세포암 발생 위험 예측.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>B형간염 항바이러스제의 대사 효과와 심혈관 위험</title>
+    <link href="https://drshin.kr/updates/Shin-Antiviral-CV-CHB-JMV-2024/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/Shin-Antiviral-CV-CHB-JMV-2024/</id>
+    <updated>2026-05-17T08:36:19+09:00</updated>
+    <summary>Shin H et al. J Med Virol 2024. 만성 B형간염 환자에서 항바이러스제의 대사 효과·심혈관 위험 비교 분석.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>보조 CIK 면역치료의 9년 장기 추적</title>
+    <link href="https://drshin.kr/updates/Shin-CIK-HCC-CII-2026/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/Shin-CIK-HCC-CII-2026/</id>
+    <updated>2026-05-17T08:36:19+09:00</updated>
+    <summary>Shin H et al. Cancer Immunol Immunother 2026. 간세포암 보조 CIK(cytokine-induced killer) 면역치료 RCT의 9년 연장 추적과 실세계 데이터.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>COVID-19 백신 접종 후 NK 세포 변화와 HBsAg 일시적 감소</title>
+    <link href="https://drshin.kr/updates/Shin-COVID-HBV-NK-IN-2023/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/Shin-COVID-HBV-NK-IN-2023/</id>
+    <updated>2026-05-17T08:36:19+09:00</updated>
+    <summary>Shin H et al. Immune Netw 2023. COVID-19 백신 접종이 만성 B형간염 환자의 NK 세포 동태와 HBsAg 농도에 미치는 영향.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>간세포암 글로벌 가이드라인 종합 정리 (2017-2024)</title>
+    <link href="https://drshin.kr/updates/Shin-HCC-Guidelines-Review-JLC-2025/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/Shin-HCC-Guidelines-Review-JLC-2025/</id>
+    <updated>2026-05-17T08:36:19+09:00</updated>
+    <summary>Shin H, Yu SJ. J Liver Cancer 2025. 2017-2024년 사이 발표된 주요 HCC 관리 가이드라인을 종합 비교한 review.</summary>
+    <author><name>신현재</name></author>
+  </entry>
   <entry>
     <title>아스피린과 MASLD 환자의 간세포암 위험</title>
     <link href="https://drshin.kr/updates/Ahn-Aspirin-HCC-MASLD-CMH-2026/" rel="alternate" type="text/html"/>
@@ -63,14 +111,6 @@
     <id>https://drshin.kr/updates/ESSENCE-survodutide-MASH-Lancet-2024/</id>
     <updated>2026-05-16T15:54:24+09:00</updated>
     <summary>GLP-1과 글루카곤 수용체를 동시 작용하는 survodutide의 MASH 2상 — 위약 대비 NASH 호전과 섬유화 호전 모두 보임.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>IMbrave050</title>
-    <link href="https://drshin.kr/updates/IMbrave050-adjuvant-atezo-bev-Lancet-2023/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/IMbrave050-adjuvant-atezo-bev-Lancet-2023/</id>
-    <updated>2026-05-16T15:54:24+09:00</updated>
-    <summary>고위험 절제·소작 후 atezolizumab + bevacizumab 12개월이 재발 없는 생존(RFS)을 의미 있게 연장한 첫 양성 보조 면역치료 시험. Lancet 2023.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>
@@ -138,35 +178,11 @@
     <author><name>신현재</name></author>
   </entry>
   <entry>
-    <title>보조 CIK 면역치료의 9년 장기 추적</title>
-    <link href="https://drshin.kr/updates/Shin-CIK-HCC-CII-2026/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/Shin-CIK-HCC-CII-2026/</id>
-    <updated>2026-05-16T10:50:39+09:00</updated>
-    <summary>Shin H et al. Cancer Immunol Immunother 2026. 간세포암 보조 CIK(cytokine-induced killer) 면역치료 RCT의 9년 연장 추적과 실세계 데이터.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>COVID-19 백신 접종 후 NK 세포 변화와 HBsAg 일시적 감소</title>
-    <link href="https://drshin.kr/updates/Shin-COVID-HBV-NK-IN-2023/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/Shin-COVID-HBV-NK-IN-2023/</id>
-    <updated>2026-05-16T10:50:39+09:00</updated>
-    <summary>Shin H et al. Immune Netw 2023. COVID-19 백신 접종이 만성 B형간염 환자의 NK 세포 동태와 HBsAg 농도에 미치는 영향.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
     <title>ETV에서 TAF로</title>
     <link href="https://drshin.kr/updates/Shin-ETV-TAF-RCT-GnL-2026/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/Shin-ETV-TAF-RCT-GnL-2026/</id>
     <updated>2026-05-16T10:50:39+09:00</updated>
     <summary>Shin H et al. Gut Liver 2026. 만성 B형간염 환자에서 엔테카비르(ETV)에서 TAF로의 전환 효과와 안전성을 평가한 한국 다기관 RCT.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>간세포암 글로벌 가이드라인 종합 정리 (2017-2024)</title>
-    <link href="https://drshin.kr/updates/Shin-HCC-Guidelines-Review-JLC-2025/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/Shin-HCC-Guidelines-Review-JLC-2025/</id>
-    <updated>2026-05-16T10:50:39+09:00</updated>
-    <summary>Shin H, Yu SJ. J Liver Cancer 2025. 2017-2024년 사이 발표된 주요 HCC 관리 가이드라인을 종합 비교한 review.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>
@@ -207,22 +223,6 @@
     <id>https://drshin.kr/updates/PEth-%EC%95%8C%EC%BD%94%EC%98%AC-%EB%B0%94%EC%9D%B4%EC%98%A4%EB%A7%88%EC%BB%A4/</id>
     <updated>2026-05-15T17:29:24+09:00</updated>
     <summary>PEth(phosphatidylethanol)는 최근 임상에서 활용이 늘고 있는 알코올 섭취 객관적 바이오마커입니다. 검출 기간·민감도·임상 활용을 정리합니다.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>AI 영상 바이오마커</title>
-    <link href="https://drshin.kr/updates/Shin-AI-CT-HCC-CHB-JHep-2025/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/Shin-AI-CT-HCC-CHB-JHep-2025/</id>
-    <updated>2026-05-15T17:29:24+09:00</updated>
-    <summary>Shin H et al. J Hepatol 2025. CT 기반 영상 바이오마커를 활용한 AI 모델로 만성 B형간염 환자의 간세포암 발생 위험 예측.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>B형간염 항바이러스제의 대사 효과와 심혈관 위험</title>
-    <link href="https://drshin.kr/updates/Shin-Antiviral-CV-CHB-JMV-2024/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/Shin-Antiviral-CV-CHB-JMV-2024/</id>
-    <updated>2026-05-15T17:29:24+09:00</updated>
-    <summary>Shin H et al. J Med Virol 2024. 만성 B형간염 환자에서 항바이러스제의 대사 효과·심혈관 위험 비교 분석.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>

@@ -13405,12 +13405,17 @@ NCCN 가이드라인 2026 업데이트로 1차 옵션이 다음과 같이 넓어
 
 ## 한국 임상 적용과 보험
 
-한국은 두 옵션 모두 도입되어 있으며 일부 적응증에서 보험 적용됩니다.
+한국은 atezolizumab+bevacizumab과 STRIDE 모두 1차 적응증으로 도입되어 있으며 조건이 맞으면 급여로 사용합니다.
 
-아테졸리주맙+베바시주맙 — Child-Pugh A, BCLC B-C, 일부 정맥류 출혈 이력 제외 등 조건부 보험
-더발루맙+트레멜리무맙 — 보험 진행 중, 일부 적응증
-비보험 시 약가 부담이 큼 — 진료의·환자가 함께 결정
-매년 가이드라인·보험 기준이 갱신되므로 최신 상태는 진료 시 확인이 필요합니다.
+ 아테졸리주맙+베바시주맙 — Child-Pugh A, BCLC B-C, 일부 정맥류 출혈 이력 제외 등 조건부 급여 (산정특례 5%).
+
+ STRIDE (durvalumab+tremelimumab) — 2024년 식약처 1차 허가, 동년 급여 도입. AtezoBev에 부적합한 출혈 위험 환자에서 1차로 사용합니다. 2차로의 사용 근거는 없으며 급여도 인정되지 않습니다.
+
+ Ipilimumab + nivolumab (CheckMate 9DW) — 2024년 미국 1차 승인, 한국 식약처 검토 진행 중(2026-05 기준 아직 미허가). 임상시험 또는 비급여 경로.
+
+ Tislelizumab·Durvalumab 단독 — 일부 국가에서 1차 단독 옵션, 한국 도입 여부는 아직 명확하지 않음.
+
+한국 표준 흐름: AtezoBev 또는 STRIDE 1차 → 실패 시 sorafenib·lenvatinib 2차 → regorafenib·cabozantinib·ramucirumab(조건 충족 시) 3차. 1차 면역치료 실패 후 다른 면역치료로 가는 것은 임상시험 외에는 표준 권고가 아닙니다.
 
 ## 진행 시 다음 단계와 결합 치료의 미래
 
@@ -20261,15 +20266,18 @@ AtezoBev2차치료lenvatinibcabozantinib
 
 ## "진행"의 정의와 다음 단계
 
-RECIST 1.1 기준 진행(progressive disease, PD)에 해당합니다. 1차 면역치료 실패 후 2차 옵션은 다음과 같습니다.
+RECIST 1.1 기준 진행(progressive disease, PD)에 해당합니다. AtezoBev 1차 실패 후 2차로는 경구 표적치료(TKI)·라무시루맙이 표준이며, 면역치료를 다시 쓰는 것은 권장되지 않습니다(임상시험 외).
 
-옵션근거한국 보험
+옵션근거한국 급여·허가 (2026)
 
-렌바티닙(lenvatinib, 표적치료제)REFLECT, 면역치료 후 활성 자료2차 보험 적용
-소라페닙(sorafenib, 표적치료제)전통적 2차, 면역치료 후 활성2차 보험 적용
-카보잔티닙(cabozantinib, 표적치료제)CELESTIAL 2차/3차 자료적용 (조건부)
-라무시루맙(ramucirumab, 표적치료제)REACH-2 (AFP ≥ 400)적응증 좁음
-STRIDE (durva + treme)1차 옵션. 2차 자료는 제한적1차 적용, 2차는 의료기관 판단
+렌바티닙(lenvatinib, 표적치료제)REFLECT 1차. 면역치료 후 후속 사용 실세계 자료1차 허가. 1차 면역치료 실패 후 사용은 비급여 또는 의료기관별 판단
+소라페닙(sorafenib, 표적치료제)SHARP·BCLC C 1차의 가장 오래된 표준1차 급여. AtezoBev 실패 후 2차로 사용 시 급여 인정
+레고라페닙(regorafenib, 표적치료제)RESORCE — sorafenib 실패 후 2차sorafenib 사용 후 2차로 급여. AtezoBev 후 직접 사용은 허가 외
+카보잔티닙(cabozantinib, 표적치료제)CELESTIAL — sorafenib 실패 후 2차/3차2차로 허가, 급여는 조건부
+라무시루맙(ramucirumab, 표적치료제)REACH-2 — sorafenib 실패 + AFP ≥ 400 ng/mL해당 조건 충족 시 2차 급여. AtezoBev 후 직접 사용은 급여 제한
+STRIDE (durvalumab + tremelimumab)HIMALAYA — 1차 옵션. 1차 면역치료 실패 후 사용 근거 없음1차 적응증·급여만 인정. AtezoBev 실패 후 2차로는 사용하지 않음
+
+한국 급여는 2026년 기준으로 표준 흐름이 "AtezoBev 1차 → sorafenib·렌바티닙 2차 → regorafenib·cabozantinib·ramucirumab(조건 충족 시) 3차"입니다. 다시 면역치료(Ipi+Nivo 등)로 가는 것은 임상시험 외에는 표준 권고가 아니며, 급여도 인정되지 않습니다.
 
 ## 이 환자에서의 결정
 
