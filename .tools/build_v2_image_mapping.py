@@ -95,6 +95,23 @@ SLUG_TO_URL = {
     'viral-hdv-치료-가이드라인': '/D형간염-치료-가이드라인/',
     'viral-hcv-재감염-위험군': '/C형간염-재감염-위험군/',
     'viral-hbv-hdv-hdv': '/B형간염-D형간염-HDV/',
+    # Benign liver lesions
+    'benign-benign-fnh-adenoma': '/간양성종양-FNH-Adenoma/',
+    'benign-benign-nrh': '/간양성종양-NRH/',
+    'benign-benign-낭종-관리': '/간양성종양-낭종-관리/',
+    'benign-benign-혈관종': '/간양성종양-혈관종/',
+    # MASLD subtopics
+    'masld-masld-lean-masld': '/지방간-lean-MASLD/',
+    'masld-masld-metald': '/지방간-MetALD/',
+    'masld-masld-비만수술': '/지방간-비만수술/',
+    'masld-masld-소아청소년-masld': '/지방간-소아청소년-MASLD/',
+    'masld-masld-수면무호흡-osa': '/지방간-수면무호흡-OSA/',
+    # Viral hepatitis subtopics
+    'viral-가족-hbv-검사': '/가족-B형간염-검사/',
+    'viral-hbv-occult-잠복감염': '/B형간염-Occult-잠복감염/',
+    'viral-hbv-소아청소년-치료': '/B형간염-소아청소년-치료/',
+    'viral-hcv-hiv-동반': '/C형간염-HIV-동반/',
+    'viral-hcv-임신수유': '/C형간염-임신수유/',
     # pilot fragments
     '절제술-vs-색전술-vs-방사선': '/간암-치료-선택/',
     'b형간염-검사-결과지-해석hbsag-hbeag-anti-hbs-각각-무엇을-뜻하나요': '/B형간염-검사결과/',

@@ -107,6 +107,10 @@
     "top": "/assets/img/page-generated-v2/detail/d027-viral-hbv-hdv-hdv-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d027-viral-hbv-hdv-hdv-lower.webp"
   },
+  "/간양성종양-FNH-Adenoma/": {
+    "top": "/assets/img/page-generated-v2/detail/d028-benign-benign-fnh-adenoma-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d028-benign-benign-fnh-adenoma-lower.webp"
+  },
   "/간섬유화스캔-수치/": {
     "top": "/assets/img/page-generated-v2/pilot/pilot-05-lft-fibroscan-간섬유화-스캔-수치-읽는-법-top.webp",
     "lower": "/assets/img/page-generated-v2/pilot/pilot-05-lft-fibroscan-간섬유화-스캔-수치-읽는-법-lower.webp"
@@ -114,6 +118,18 @@
   "/B형간염-HBeAg-양성-음성/": {
     "top": "/assets/img/page-generated-v2/detail/d030-viral-hbv-hbeag-양성-음성-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d030-viral-hbv-hbeag-양성-음성-lower.webp"
+  },
+  "/C형간염-HIV-동반/": {
+    "top": "/assets/img/page-generated-v2/detail/d031-viral-hcv-hiv-동반-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d031-viral-hcv-hiv-동반-lower.webp"
+  },
+  "/지방간-MetALD/": {
+    "top": "/assets/img/page-generated-v2/detail/d032-masld-masld-metald-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d032-masld-masld-metald-lower.webp"
+  },
+  "/B형간염-Occult-잠복감염/": {
+    "top": "/assets/img/page-generated-v2/detail/d033-viral-hbv-occult-잠복감염-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d033-viral-hbv-occult-잠복감염-lower.webp"
   },
   "/PIVKA-II-간암마커/": {
     "top": "/assets/img/page-generated-v2/detail/d034-diagnostics-pivka-ii-hcc마커-top.webp",
@@ -123,13 +139,29 @@
     "top": "/assets/img/page-generated-v2/detail/d035-masld-masld-sglt2-glp1-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d035-masld-masld-sglt2-glp1-lower.webp"
   },
+  "/지방간-lean-MASLD/": {
+    "top": "/assets/img/page-generated-v2/detail/d036-masld-masld-lean-masld-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d036-masld-masld-lean-masld-lower.webp"
+  },
+  "/가족-B형간염-검사/": {
+    "top": "/assets/img/page-generated-v2/detail/d037-viral-가족-hbv-검사-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d037-viral-가족-hbv-검사-lower.webp"
+  },
   "/간암-가족력-검진/": {
     "top": "/assets/img/page-generated-v2/detail/d038-hcc-hcc-가족력-검진-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d038-hcc-hcc-가족력-검진-lower.webp"
   },
+  "/간양성종양-낭종-관리/": {
+    "top": "/assets/img/page-generated-v2/detail/d040-benign-benign-낭종-관리-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d040-benign-benign-낭종-관리-lower.webp"
+  },
   "/간양성종양-진단/": {
     "top": "/assets/img/page-generated-v2/pilot/pilot-07-benign-간-양성종양-진단-top.webp",
     "lower": "/assets/img/page-generated-v2/pilot/pilot-07-benign-간-양성종양-진단-lower.webp"
+  },
+  "/간양성종양-혈관종/": {
+    "top": "/assets/img/page-generated-v2/detail/d042-benign-benign-혈관종-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d042-benign-benign-혈관종-lower.webp"
   },
   "/간경변-영양-근감소증/": {
     "top": "/assets/img/page-generated-v2/detail/d043-cirrhosis-cirrhosis-영양-근감소증-top.webp",
@@ -207,6 +239,10 @@
     "top": "/assets/img/page-generated-v2/detail/d061-diagnostics-lft-운동후-상승-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d061-diagnostics-lft-운동후-상승-lower.webp"
   },
+  "/간양성종양-NRH/": {
+    "top": "/assets/img/page-generated-v2/detail/d062-benign-benign-nrh-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d062-benign-benign-nrh-lower.webp"
+  },
   "/간암-방사선색전술/": {
     "top": "/assets/img/page-generated-v2/detail/d064-hcc-hcc-방사선색전술-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d064-hcc-hcc-방사선색전술-lower.webp"
@@ -231,9 +267,25 @@
     "top": "/assets/img/page-generated-v2/detail/d072-cirrhosis-cirrhosis-ascites-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d072-cirrhosis-cirrhosis-ascites-lower.webp"
   },
+  "/지방간-비만수술/": {
+    "top": "/assets/img/page-generated-v2/detail/d073-masld-masld-비만수술-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d073-masld-masld-비만수술-lower.webp"
+  },
   "/빌리루빈-직접-간접/": {
     "top": "/assets/img/page-generated-v2/detail/d074-diagnostics-bilirubin-직접-간접-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d074-diagnostics-bilirubin-직접-간접-lower.webp"
+  },
+  "/B형간염-소아청소년-치료/": {
+    "top": "/assets/img/page-generated-v2/detail/d075-viral-hbv-소아청소년-치료-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d075-viral-hbv-소아청소년-치료-lower.webp"
+  },
+  "/지방간-소아청소년-MASLD/": {
+    "top": "/assets/img/page-generated-v2/detail/d076-masld-masld-소아청소년-masld-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d076-masld-masld-소아청소년-masld-lower.webp"
+  },
+  "/지방간-수면무호흡-OSA/": {
+    "top": "/assets/img/page-generated-v2/detail/d079-masld-masld-수면무호흡-osa-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d079-masld-masld-수면무호흡-osa-lower.webp"
   },
   "/간경변-식도정맥류/": {
     "top": "/assets/img/page-generated-v2/pilot/pilot-04-cirrhosis-식도정맥류-top.webp",
@@ -262,6 +314,10 @@
   "/지방간-위고비-마운자로/": {
     "top": "/assets/img/page-generated-v2/detail/d087-masld-masld-위고비-마운자로-top.webp",
     "lower": "/assets/img/page-generated-v2/detail/d087-masld-masld-위고비-마운자로-lower.webp"
+  },
+  "/C형간염-임신수유/": {
+    "top": "/assets/img/page-generated-v2/detail/d088-viral-hcv-임신수유-top.webp",
+    "lower": "/assets/img/page-generated-v2/detail/d088-viral-hcv-임신수유-lower.webp"
   },
   "/자가면역간염-진단/": {
     "top": "/assets/img/page-generated-v2/pilot/pilot-06-autoimmune-자가면역간염-aih-진단-top.webp",
