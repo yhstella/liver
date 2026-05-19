@@ -162,6 +162,7 @@
 - [Bepirovirsen — B형간염의 functional cure 도전](https://drshin.kr/updates/Bepirovirsen-HBV-Lancet-2024/): HBV RNA를 분해하는 antisense oligonucleotide bepirovirsen. B-Clear 시험에서 HBsAg 소실 약 9~10%, 새 시대의 첫 후보.
 - [CheckMate 9DW — 진행기 간암 1차에서 nivo+ipi vs sorafenib/lenvatinib](https://drshin.kr/updates/CheckMate-9DW-nivo-ipi-Lancet-2024/): 진행기 간세포암 1차 치료로 nivolumab + ipilimumab이 sorafenib/lenvatinib 대비 OS 우월. Lancet 2024/2025.
 - [SGLT2 억제제와 간 합병증](https://drshin.kr/updates/Chung-SGLT2-Liver-MR-Hepatology-2024/): Chung SW, Moon HS, Shin H et al. Hepatology 2024. SGLT2 억제와 간질환 관련 합병증의 인과관계를 mendelian randomization과 인구 기반 코호트로 분석.
+- [EASO 2026 비만 약물치료 프레임워크 — MASH 관해와 섬유화 개선을 분리하다](https://drshin.kr/updates/EASO-MASH-pharmacotherapy-NatMed-2026/): European Association for the Study of Obesity (EASO) 2026 framework가 Nature Medicine에 발표됐습니다. 2025년 판에서 '간 질환' 한 덩어리로 묶였던 영역이 'MASH 관해'와 '섬유
 - [EMERALD-1 — 중간기 간암에 TACE + 면역치료 + 항혈관 조합](https://drshin.kr/updates/EMERALD-1-TACE-durva-bev-Lancet-2024/): 중간기 간세포암(BCLC B)의 표준이 TACE 단독에서 TACE + durvalumab + bevacizumab로 바뀌는 출발점. Lancet 2024.
 - [Survodutide — GLP-1/Glucagon 이중 작용제의 MASH 임상시험](https://drshin.kr/updates/ESSENCE-survodutide-MASH-Lancet-2024/): GLP-1과 글루카곤 수용체를 동시 작용하는 survodutide의 MASH 2상 — 위약 대비 NASH 호전과 섬유화 호전 모두 보임.
 - [GLP-1 RA 경구 small molecule](https://drshin.kr/updates/GLP1RA-small-molecule-orforglipron/): Orforglipron 등 경구 small molecule GLP-1 RA가 phase 3 임상에서 주사형과 유사한 체중 감량·혈당 조절 효과를 보고하며 비만·당뇨·MASH 치료에 새 옵션이 되고 있습니다.

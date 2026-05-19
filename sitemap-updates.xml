@@ -43,6 +43,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://drshin.kr/updates/EASO-MASH-pharmacotherapy-NatMed-2026/</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://drshin.kr/updates/EMERALD-1-TACE-durva-bev-Lancet-2024/</loc>
     <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>

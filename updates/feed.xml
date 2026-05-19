@@ -4,11 +4,19 @@
   <link href="https://drshin.kr/updates/" rel="alternate" type="text/html"/>
   <link href="https://drshin.kr/updates/feed.xml" rel="self" type="application/atom+xml"/>
   <id>https://drshin.kr/updates/</id>
-  <updated>2026-05-18T13:39:17.088970+00:00</updated>
+  <updated>2026-05-19T23:12:24.911716+00:00</updated>
   <subtitle>주요 저널의 hepatology 최신 논문 요약 — 신현재(서울대학교병원 소화기내과·간암센터)</subtitle>
   <author><name>신현재</name><uri>https://drshin.kr/소개/</uri></author>
   <generator>build_updates_rss.py</generator>
   <icon>https://drshin.kr/favicon.png</icon>
+  <entry>
+    <title>EASO 2026 비만 약물치료 프레임워크</title>
+    <link href="https://drshin.kr/updates/EASO-MASH-pharmacotherapy-NatMed-2026/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/EASO-MASH-pharmacotherapy-NatMed-2026/</id>
+    <updated>2026-05-19T23:10:45.446221+00:00</updated>
+    <summary>European Association for the Study of Obesity (EASO) 2026 framework가 Nature Medicine에 발표됐습니다. 2025년 판에서 &apos;간 질환&apos; 한 덩어리로 묶였던 영역이 &apos;MASH 관해&apos;와 &apos;섬유화 개선&apos;으로 분리됐고, semaglutide만 섬유화 개선에 단독으로 위치합니다.</summary>
+    <author><name>신현재</name></author>
+  </entry>
   <entry>
     <title>IMbrave050</title>
     <link href="https://drshin.kr/updates/IMbrave050-adjuvant-atezo-bev-Lancet-2023/" rel="alternate" type="text/html"/>
