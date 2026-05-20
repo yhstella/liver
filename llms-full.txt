@@ -7449,7 +7449,7 @@ _European Association for the Study of Obesity (EASO) 2026 framework가 Nature M
 Framework for the pharmacological treatment of obesity and its complications from the European Association for the Study of Obesity (EASO): 2026 update. Nature Medicine. 2026.
 출판사 페이지에서 원문 보기
 
-한 문단 요약유럽비만학회(EASO)의 2026년 약물치료 프레임워크가 Nature Medicine에 발표됐습니다. 2025년 판에서는 "간 질환"이 한 덩어리로 묶여 있었지만, 올해 판은 MASH 관해(resolution)와 섬유화 개선(fibrosis improvement)을 별도 영역으로 분리했습니다. MASH 관해에는 semaglutide와 tirzepatide가 나란히 위치하지만, 섬유화 개선에는 ESSENCE phase 3에서 1단계 이상 호전이 일관되게 확인된 semaglutide만 단독으로 권고됩니다. 외래에서는 "이 환자분이 MASH 관해를 노리는지, 섬유화 호전까지 노리는지"에 따라 약을 다르게 권할 수 있는 기준이 처음으로 만들어진 셈입니다.
+한 문단 요약유럽비만학회(EASO)의 2026년 약물치료 프레임워크가 Nature Medicine에 발표됐습니다. 2025년 판에서는 "간 질환"이 한 덩어리로 묶여 있었지만, 올해 판은 MASH 관해(resolution)와 섬유화 개선(fibrosis improvement)을 별도 영역으로 분리했습니다. MASH 관해에는 semaglutide와 tirzepatide가 나란히 위치하고, 섬유화 개선에는 현재 시점에는 ESSENCE phase 3가 보고된 semaglutide만 단독으로 올라갔습니다. 다만 tirzepatide도 SYNERGY-NASH에서 섬유화 호전 신호가 일관되게 보였고 phase 3 primary endpoint 결과가 발표되는 대로 자리가 합쳐질 가능성이 높습니다. 결국 외래에서는 "이 환자분이 MASH 관해까지를 노리는지, 섬유화 호전까지 노리는지"에 따라 약을 다르게 권할 수 있는 기준이 처음 만들어진 셈이고, 그 기준은 시간이 가며 더 부드러워질 것입니다.
 
  EASO 약물치료 프레임워크 — 간 영역의 변화 (2025 → 2026)
 
@@ -7477,7 +7477,7 @@ Framework for the pharmacological treatment of obesity and its complications fro
  
  ② 섬유화 개선
  semaglutide 단독
- tirzepatide는 데이터 미성숙
+ tirzepatide는 phase 3 자료 보고 대기
  ESSENCE phase 3 (F2~F3, 1단계 이상 호전 37%)
  vs 위약 22.5%
 
@@ -7487,7 +7487,7 @@ Framework for the pharmacological treatment of obesity and its complications fro
  
  
 
-2026년 EASO 판은 MASH 관해와 섬유화 개선을 별도의 임상 목표로 분리하고, 섬유화에는 semaglutide만 단독으로 권고합니다.
+2026년 EASO 판은 MASH 관해와 섬유화 개선을 별도의 임상 목표로 분리하고, 섬유화 칸에는 현재 phase 3 자료가 확보된 semaglutide만 들어갔습니다. tirzepatide의 phase 3 fibrosis 결과가 나오면 권고가 합쳐질 가능성이 큽니다.
 
 ## BACKGROUND왜 의미 있는가
 
@@ -7497,7 +7497,7 @@ Framework for the pharmacological treatment of obesity and its complications fro
 
 MASH 관해 — semaglutide와 tirzepatide가 동등하게 위치합니다. 두 약 모두 phase 3(ESSENCE) 또는 phase 2(SYNERGY-NASH) 무작위 시험에서 위약 대비 의미 있게 높은 MASH 관해율을 보였습니다. 위고비(semaglutide 2.4 mg)는 ESSENCE에서 72주째 MASH 관해 62.9% (위약 34.1%), 마운자로(tirzepatide)는 SYNERGY-NASH 52주에서 용량 의존적으로 44~62% (위약 10%)를 기록했습니다.
 
-섬유화 개선 — semaglutide 단독입니다. ESSENCE에서 semaglutide군의 37%가 1단계 이상 섬유화 호전을 달성했고(위약 22.5%), 이는 phase 3 규모에서 primary endpoint로 확보된 자료입니다. tirzepatide는 SYNERGY-NASH에서 섬유화 호전이 secondary endpoint로 보였지만 1차 결과로 검증된 데이터는 아직 없습니다. EASO는 이 차이를 반영해 "섬유화 개선이 우선이라면 semaglutide"라는 명확한 선택을 제시합니다.
+섬유화 개선 — 현재로서는 semaglutide 단독입니다. ESSENCE에서 semaglutide군의 37%가 1단계 이상 섬유화 호전을 달성했고(위약 22.5%), 이는 phase 3 규모에서 primary endpoint 한 축으로 확보된 자료입니다. 한편 tirzepatide도 SYNERGY-NASH(phase 2)에서 secondary endpoint로 1단계 섬유화 호전이 용량 의존적으로 보였고, 신호 자체는 일관됐습니다. 다만 EASO는 phase 3 primary endpoint 자료가 보고된 약만 섬유화 칸에 올린다는 보수적 기준을 적용했고, tirzepatide는 현재 진행 중인 SYNERGY-NASH-3(가칭 phase 3, F2~F3)의 결과가 발표되기 전까지 잠시 보류된 상태로 보는 것이 맞습니다. 약 자체의 효과가 떨어진다는 의미는 아니라, 단지 현재 시점의 evidence gap이라는 점을 환자분께 설명할 때 분명히 해 주는 것이 좋습니다. 후속 phase 3 결과가 나오면 두 약이 같은 칸에서 다시 만날 가능성이 큽니다.
 
 비대상성 간경변(F4)은 두 약 모두 적응증 외입니다. ESSENCE와 SYNERGY-NASH 모두 F2~F3 (진행성 섬유화)만 포함했고, 미국 FDA의 2025년 8월 위고비 MASH 적응증 승인도 "비대상성 간경변 제외"를 명시했습니다. EASO 2026도 비대상성 환자분에서는 GLP-1을 적극 권하지 않습니다.
 
@@ -7507,13 +7507,13 @@ MASH 관해 — semaglutide와 tirzepatide가 동등하게 위치합니다. 두 
 
 "MASH 관해가 목표" — 체중 감량 효과와 환자 선호도, 비용을 고려해 semaglutide 또는 tirzepatide 중 선택할 수 있습니다. 체중 감량 자체로는 tirzepatide가 약간 더 강력합니다.
 
-"이미 F2~F3 섬유화가 있어 섬유화 호전이 더 중요" — semaglutide를 우선 권합니다. ESSENCE의 phase 3 섬유화 자료가 직접 적용되는 환자군입니다.
+"이미 F2~F3 섬유화가 있어 섬유화 호전이 더 중요" — 현재 시점에서는 semaglutide를 우선 권합니다. ESSENCE의 phase 3 섬유화 자료가 직접 적용되는 환자군이기 때문입니다. tirzepatide가 효과가 없어서가 아니라 같은 phase 3 자료가 아직 보고되지 않았다는 점을 기억하고, 진료 시점에 따라 후속 데이터를 함께 본다면 선택이 달라질 수 있습니다.
 
 "비대상성 간경변(F4)" — 두 약 모두 권하지 않습니다. 이 단계에서는 합병증 관리와 간이식 평가가 우선입니다.
 
 한국 현장에서는 위고비(semaglutide 2.4 mg)와 마운자로(tirzepatide)가 비만 적응증으로는 사용 가능하지만, 2026년 5월 시점 MASH 단독 적응증으로의 보험 급여는 아직 도입되지 않았습니다. 환자분이 비만(BMI ≥ 27 + 동반 질환 또는 BMI ≥ 30)을 동반한 MASH라면 비만 적응증으로 처방하면서 간 효과를 함께 기대하는 패턴이 가장 흔합니다.
 
-BOTTOM LINEEASO 2026 framework은 GLP-1 시대의 MASH 진료를 한 단계 정밀화했습니다. "MASH가 있다 → GLP-1"이 아니라, "관해까지인지 섬유화 호전까지인지"를 먼저 정하고 약을 고르는 시대가 됐습니다. 한국에서는 보험 적응증이 따라오지 않아 처방의 실제 경로는 여전히 비만 적응증을 통한 우회가 많지만, 환자분에게 설명할 때의 임상 근거는 EASO 2026이 가장 최신입니다.
+BOTTOM LINEEASO 2026 framework은 GLP-1 시대의 MASH 진료를 한 단계 정밀화했습니다. "MASH가 있다 → GLP-1"이 아니라, "관해까지인지 섬유화 호전까지인지"를 먼저 정하고 약을 고르는 시대가 됐습니다. 다만 섬유화 칸에 semaglutide만 들어간 것은 약효의 우열이 아니라 phase 3 primary endpoint 자료가 먼저 보고된 결과를 반영한 것이며, tirzepatide도 phase 3 fibrosis 결과가 누적되면 같은 칸에서 다시 만날 가능성이 높습니다. 한국에서는 보험 적응증이 따라오지 않아 처방의 실제 경로는 여전히 비만 적응증을 통한 우회가 많지만, 환자분에게 설명할 때의 임상 근거는 EASO 2026이 가장 최신입니다.
 
 ## References
 
