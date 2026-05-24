@@ -4,11 +4,19 @@
   <link href="https://drshin.kr/updates/" rel="alternate" type="text/html"/>
   <link href="https://drshin.kr/updates/feed.xml" rel="self" type="application/atom+xml"/>
   <id>https://drshin.kr/updates/</id>
-  <updated>2026-05-21T05:26:17.024747+00:00</updated>
+  <updated>2026-05-24T02:00:27.345082+00:00</updated>
   <subtitle>주요 저널의 hepatology 최신 논문 요약 — 신현재(서울대학교병원 소화기내과·간암센터)</subtitle>
   <author><name>신현재</name><uri>https://drshin.kr/소개/</uri></author>
   <generator>build_updates_rss.py</generator>
   <icon>https://drshin.kr/favicon.png</icon>
+  <entry>
+    <title>MASH 간경변에서 처음 보인 가능성</title>
+    <link href="https://drshin.kr/updates/Noureddin-EFX-MASH-cirrhosis-NEJM-2025/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/Noureddin-EFX-MASH-cirrhosis-NEJM-2025/</id>
+    <updated>2026-05-24T01:59:35.589777+00:00</updated>
+    <summary>MASH로 인한 보상성 간경변(F4) 환자에서 FGF21 유사체 efruxifermin의 SYMMETRY phase 2b 결과가 NEJM에 발표됐습니다. 36주째 primary endpoint는 충족하지 못했지만 96주째 50 mg군의 29%가 섬유화 1단계 이상 호전, 39%가 간경변 자체의 회복(F4→F3 이하)을 보였습니다.</summary>
+    <author><name>신현재</name></author>
+  </entry>
   <entry>
     <title>AI 기반 CT 간세포암 진단</title>
     <link href="https://drshin.kr/updates/AI-CT-HCC-validation-Hepatology-2024/" rel="alternate" type="text/html"/>

@@ -4692,6 +4692,8 @@ _간암·간경화·B형간염·C형간염·지방간·간수치 이상·자가�
 ## 최근 작성글
 
  
+ 최신 지견MASH 간경변에서 처음 보인 가능성 — efruxifermin SYMMETRY phase 2b (NEJM 2025)2026년 5월 24일
+
  최신 지견EASO 2026 비만 약물치료 프레임워크 — MASH 관해와 섬유화 개선을 분리하다2026년 5월 20일
 
  세부주제먹는 알부민, 간경변에 도움이 될까2026년 5월 18일
@@ -4699,8 +4701,6 @@ _간암·간경화·B형간염·C형간염·지방간·간수치 이상·자가�
  세부주제D형간염 치료·관리 — 2023–2026 가이드라인2026년 5월 16일
 
  세부주제위고비·마운자로와 지방간2026년 5월 16일
-
- 세부주제2025 대한간학회 C형간염 진료 가이드라인2026년 5월 13일
 
  
  
@@ -8122,6 +8122,20 @@ _간 질환 최신 가이드라인·논문 노트. 의료진·전공의 대상�
 
 # 최신 지견
 
+2026·5
+
+### MASH 간경변에서 처음 보인 가능성 — efruxifermin SYMMETRY phase 2b
+Noureddin M et al. N Engl J Med 2025;392(24):2413–2424.
+
+읽기 →
+
+2026·5
+
+### EASO 2026 비만 약물치료 프레임워크 — MASH 관해와 섬유화 개선을 분리
+Busetto L et al. Nat Med 2026.
+
+읽기 →
+
 2026·4
 
 ### Semaglutide for AUD — Lancet RCT
@@ -8747,6 +8761,130 @@ Rinella ME, Neuschwander-Tetri BA, Siddiqui MS, et al. AASLD Practice Guidance o
 본 노트는 일반적 의료 정보 제공이며, 진료 결정의 단일 근거가 되지 않습니다. 개별 환자 적용은 진료 의료진의 판단·해당 기관 가이드라인을 따릅니다.
 
 GLP-1RAMASHRCTMASLD식이·운동
+
+---
+
+# MASH 간경변에서 처음 보인 가능성 — efruxifermin SYMMETRY phase 2b (NEJM 2025)
+
+URL: https://drshin.kr/updates/Noureddin-EFX-MASH-cirrhosis-NEJM-2025/
+
+_MASH로 인한 보상성 간경변(F4) 환자에서 FGF21 유사체 efruxifermin의 SYMMETRY phase 2b 결과가 NEJM에 발표됐습니다. 36주째 primary endpoint는 충족하지 못했지만 96주째 50 mg군의 29%가 섬유화 1단계 이상 호전, 39%가 간경변 자체의 회복(F4→F3 이하)을 보였습니다._
+
+# MASH 간경변에서 처음 보인 가능성 — efruxifermin SYMMETRY phase 2b (NEJM 2025)
+
+작성일 2026년 5월 24일
+
+원문
+Noureddin M, Rinella ME, Chalasani NP, et al. Efruxifermin in Compensated Liver Cirrhosis Caused by MASH. N Engl J Med. 2025;392(24):2413–2424. (SYMMETRY, NCT05039450)
+NEJM 원문 보기
+
+한 문단 요약MASH로 인한 보상성 간경변(F4) 환자 181명을 대상으로 한 FGF21 유사체 efruxifermin(EFX)의 phase 2b SYMMETRY 결과가 NEJM에 발표됐습니다. 36주째 1차 평가변수(MASH 악화 없이 섬유화 1단계 이상 호전)는 통계적으로 충족하지 못했지만, 같은 환자분들을 96주까지 더 추적한 자료에서는 EFX 50 mg군의 29%가 섬유화 1단계 이상 호전을 보였고(위약 11%), 처음과 96주 양쪽 모두 조직검사가 있는 환자분에서는 39%가 F4 → F3 이하로 간경변 자체의 회복을 보였습니다(위약 15%, P=0.009). F2~F3가 아닌 F4 단계에서 약 자체가 섬유화를 되돌리는 가시 신호를 phase 2b 규모에서 처음 보여준 자료이며, 이 영역의 신약 개발에서 한 발 앞서간 결과로 평가됩니다.
+
+ SYMMETRY phase 2b — 36주 1차 평가변수 vs 96주 보조 평가변수
+
+ 
+ 
+ 36주 — 1차 평가변수
+ MASH 악화 없이 섬유화 1단계 이상 호전
+
+ 
+ 위약
+ 
+ 12%
+
+ 
+ EFX 28 mg
+ 
+ 16%
+
+ 
+ EFX 50 mg
+ 
+ 20%
+
+ 차이 통계적으로 유의하지 않음
+
+ 
+ 
+ 96주까지
+ 추적 연장
+
+ 
+ 
+ 96주 — 보조 평가변수
+ (같은 환자, 처음+96주 조직검사 보유군)
+
+ 섬유화 1단계 이상 호전 (50 mg)
+ 
+ 
+ 29%
+ 위약 11%
+
+ 간경변(F4) 자체의 회복 — F3 이하로
+ 
+ 
+ 39%
+ 위약 15%
+ P = 0.009
+
+ F4 단계에서 약 자체가 섬유화를
+ 되돌린 가시 신호 — phase 2b 규모로 처음
+
+ 
+ 
+ 
+ 
+ 
+
+SYMMETRY는 36주째 1차 평가변수에서는 위약과의 차이가 통계적 유의성에 미치지 못했습니다. 그러나 96주까지 추적을 연장하니 50 mg군에서 섬유화 호전과 간경변 자체의 회복이 위약 대비 분명히 나타났습니다. "약 효과가 늦게 보인다"기보다, F4 단계 섬유 조직이 풀리는 데 36주는 짧고 96주 정도가 필요했다고 해석합니다.
+
+## BACKGROUND왜 F4 단계가 어려운 영역이었나
+
+지난 3~4년 사이 MASH 영역에서 약 두 가지가 큰 진전을 보였습니다. resmetirom(MAESTRO-NASH)은 2024년 미 FDA 가속 승인을 받았고, semaglutide(ESSENCE)는 2025년 위고비의 MASH 적응증 확대로 이어졌습니다. 그러나 두 약 모두 적응증이 F2~F3 (진행성 섬유화)로 제한됩니다. F4(보상성 간경변) 환자분에게 약 자체로 섬유화를 되돌리는 자료를 보여준 연구는 사실상 없었습니다. F4 단계에서는 ① 섬유 조직이 이미 굳어 있어 짧은 기간에 풀리기 어렵고 ② 간경변 합병증(복수, 식도정맥류, 간성 혼수)으로 인한 안전성 부담이 커 임상시험 자체가 까다롭습니다.
+
+efruxifermin(EFX)은 FGF21(섬유아세포 성장인자 21) 유사체로, FGF21이 간·지방 조직에서 가지는 인슐린 감수성 개선, 지방산화 촉진, 항섬유화 작용을 약물로 옮긴 분자입니다. 이전의 phase 2b HARMONY 시험(F2~F3)에서 24주째 섬유화 호전 신호를 보여 NEJM에 보고된 적이 있으며, SYMMETRY는 그 한 단계 위인 F4 환자에서 효과를 검증한 시험입니다.
+
+## KEY FINDINGS핵심 결과 세 가지
+
+36주 1차 평가변수는 충족하지 못했습니다. 보상성 MASH 간경변(F4) 181명을 EFX 28 mg, 50 mg, 위약 1:1:1로 무작위 배정해 36주째 조직검사를 비교한 결과, "MASH 악화 없이 섬유화 1단계 이상 호전"의 비율은 위약 12% vs EFX 28 mg 16% vs 50 mg 20%로, 군 간 차이가 통계적 유의성에 도달하지 않았습니다. 이 결과만 보면 "음성 시험"입니다.
+
+96주째 보조 평가변수는 분명한 신호를 보였습니다. 같은 환자들을 96주까지 약을 유지하며 다시 조직검사를 시행한 군에서는 EFX 50 mg군의 29%가 섬유화 1단계 이상 호전을 보였고(위약 11%), 처음과 96주 양쪽 모두 조직검사가 확보된 환자에서는 39%가 F4에서 F3 이하로 간경변 자체의 회복(reversal of cirrhosis)을 보였습니다(위약 15%, P=0.009). 같은 환자, 같은 약, 같은 평가 방식인데 시간을 두니 효과가 가시화된 형태입니다. F4 단계에서 섬유 조직이 풀리는 데에는 36주가 짧고 96주 정도가 필요하다는 해석이 자연스럽습니다.
+
+부작용은 위장관 증상이 중심이었고, 진행을 막는 새로운 안전성 신호는 없었습니다. 가장 흔한 부작용은 설사·오심으로 GLP-1 계열과 비슷한 양상이었고, 대부분 경증~중등도였습니다. 비대상화(복수, 정맥류 출혈, 간성 혼수, 황달) 발생률은 EFX군과 위약군 간에 의미 있는 차이가 없었으며, 96주 노출에서도 새로 발생한 우려 신호는 보고되지 않았습니다.
+
+## INTERPRETATION"primary endpoint 실패"는 어떻게 읽어야 하나
+
+1차 평가변수 실패라는 단어만 보면 시험 자체가 무의미해 보일 수 있지만, 같은 환자에서 시간을 연장하니 위약 대비 차이가 분명히 드러난 점, 그리고 그 차이가 단순한 섬유화 점수 한 단계 호전을 넘어 "간경변 자체가 풀리는" 방향으로 잡혔다는 점은 약 자체의 효과를 부정하기 어렵게 만듭니다. 동반 발표된 JHEP Reports의 해설은 이를 "To miss the forest for the tree(s) (나무를 보다 숲을 놓치다)"라는 제목으로 다뤘습니다. 시간을 짧게 잡은 점, F4의 자연 경과가 매우 느리다는 점, 같은 환자에서의 paired biopsy 자료가 더 신뢰할 만하다는 점을 함께 보면, SYMMETRY는 "음성 시험"이 아니라 "타이밍을 늦게 잡았어야 했던 시험"에 가깝습니다.
+
+다만 phase 3 확증 자료는 아직 없다는 사실은 분명히 해야 합니다. EFX는 현재 ENVISION(phase 3, MASH F4)이 진행 중이며, 일차 평가 시점을 96주로 늦춰 SYMMETRY의 교훈을 반영한 설계입니다. ENVISION 결과가 발표되기 전까지 EFX는 F4에서의 표준 치료가 아니며, 적응증 외 처방의 대상도 아닙니다.
+
+## CLINICAL TAKEAWAY한국 현장에서 환자분께 어떻게 설명할까
+
+"MASH로 인한 간경변(F4)이 되돌아가는 약이 곧 나오나요?" — 가능성이 보이지만, 아직은 보이는 단계입니다. phase 2b 자료가 처음 가시 신호를 보였고, phase 3가 진행 중입니다. 일러도 2~3년 뒤에야 표준 치료 후보로 평가될 가능성이 있다고 안내드리는 것이 정확합니다.
+
+"지금 당장 F4 환자에서 할 수 있는 일은 무엇인가요?" — ① 원인 조절(체중 감량 7~10%, 술 절제, 당뇨·이상지질혈증 관리), ② 합병증 감시(상부 위장관 내시경, 복수·간성 혼수 평가, 6개월 간격 간세포암 선별), ③ 비대상화 위험이 높은 환자분에서는 간이식 평가 시점 결정. 약 자체로는 resmetirom·semaglutide 모두 F4 적응증이 아니라는 점을 명확히 합니다.
+
+"임상시험에 참여할 방법이 있나요?" — ENVISION 등 F4 대상 시험은 국내 일부 기관에서 모집할 수 있으나, 참여 기준(섬유화 단계, 간 기능, 동반 질환)이 까다롭습니다. 적합성은 외래에서 검토 가능합니다.
+
+BOTTOM LINESYMMETRY는 MASH로 인한 간경변(F4) 단계에서 약 자체로 섬유화가 풀릴 수 있다는 가시 신호를 phase 2b 규모로 처음 보여준 자료입니다. 36주 1차 평가변수 실패에 무게를 두는 해석은 단순합니다. 같은 환자에서 96주까지 보았을 때 50 mg군 39%가 간경변 자체의 회복을 보였다는 결과는, 적어도 "이 분자가 F4 단계에서 작동한다"는 단서로 충분합니다. 다만 phase 3 ENVISION이 같은 결과를 확인해 줘야 표준 치료로 옮겨갈 수 있고, 현 시점에서 F4 환자분께 EFX를 처방할 근거는 없습니다. 지금 외래에서 바뀌는 것은 "F4도 약이 들 가능성이 보인다"고 환자분께 더 정확하게 말씀드릴 수 있게 된 점입니다.
+
+참고로 이런 신약 자료는 결국 환자 한 분 한 분의 참여 없이는 만들어지지 않습니다. 본원(서울대학교병원)에서도 진행성 MASH·간경변 단계의 신약 임상시험 몇 건이 진행되고 있으며, 적합성은 외래에서 확인할 수 있습니다. 모든 분이 대상이 되지는 않고, 본인의 간 상태와 동반 질환에 따라 결정됩니다.
+
+## References
+
+Noureddin M, Rinella ME, Chalasani NP, et al. Efruxifermin in Compensated Liver Cirrhosis Caused by MASH. N Engl J Med. 2025;392(24):2413–2424. DOI · (SYMMETRY, NCT05039450)
+
+Anstee QM, Dufour J-F. Disease-modifying effect of efruxifermin in compensated cirrhosis due to MASH: To miss the forest for the tree(s). JHEP Rep. 2025. JHEP Reports
+
+Harrison SA, Frias JP, Neff G, et al. Efruxifermin in non-alcoholic steatohepatitis (HARMONY). N Engl J Med. 2023;389(11):998–1008.
+
+Harrison SA, Bedossa P, Guy CD, et al. A phase 3 randomized controlled trial of resmetirom in nonalcoholic steatohepatitis (MAESTRO-NASH). N Engl J Med. 2024;390(6):497–509.
+
+Sanyal AJ, Newsome PN, Kliers I, et al. Phase 3 trial of semaglutide in metabolic dysfunction-associated steatohepatitis (ESSENCE). N Engl J Med. 2025;392(21):1957–1968.
+
+본 노트는 일반적 의료 정보 제공이며, 진료 결정의 단일 근거가 되지 않습니다.
+
+efruxiferminEFXFGF21MASHSYMMETRY간경변Akero
 
 ---
 

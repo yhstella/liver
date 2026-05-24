@@ -176,6 +176,7 @@
 - [MAESTRO-NASH](https://drshin.kr/updates/MAESTRO-NASH-resmetirom-NEJM-2024/): Harrison SA et al. NEJM 2024;390:497-509. Phase 3 RCT, 966명 F2-F3 MASH 환자, 52주 시점 NASH 해결과 섬유화 호전을 동시에 달성한 첫 약물 — 노트 요약.
 - [MASLD·MASH·MetALD — NAFLD/NASH 명명을 대체한 새 표준](https://drshin.kr/updates/MASLD-nomenclature-AASLD-EASL-2023/): AASLD·EASL·ALEH의 Delphi 합의로 NAFLD → MASLD, NASH → MASH로 명명 변경. MetALD 새 카테고리 도입.
 - [Semaglutide for NASH](https://drshin.kr/updates/Newsome-semaglutide-NASH-NEJM-2021/): Newsome PN et al. NEJM 2021. Phase 2 RCT, 320명 NASH 환자, semaglutide 0.4 mg 매일이 NASH 해결 59% vs placebo 17% - GLP-1 작용제 MASH 효과의 결정적 첫 RCT.
+- [MASH 간경변에서 처음 보인 가능성 — efruxifermin SYMMETRY phase 2b (NEJM 2025)](https://drshin.kr/updates/Noureddin-EFX-MASH-cirrhosis-NEJM-2025/): MASH로 인한 보상성 간경변(F4) 환자에서 FGF21 유사체 efruxifermin의 SYMMETRY phase 2b 결과가 NEJM에 발표됐습니다. 36주째 primary endpoint는 충족하지 못했지만 96주째 50 mg군의 29%가 섬유화
 - [TDF for HBV(B형간염 바이러스) in pregnancy](https://drshin.kr/updates/Pan-TDF-pregnancy-HBV-NEJM-2016/): Pan CQ et al. NEJM 2016. RCT, 200명 HBV DNA 고농도 임산부, 임신 30주부터 TDF가 영아 HBV 감염을 0%로 감소시킨 결정적 시험.
 - [PEth (phosphatidylethanol)](https://drshin.kr/updates/PEth-%EC%95%8C%EC%BD%94%EC%98%AC-%EB%B0%94%EC%9D%B4%EC%98%A4%EB%A7%88%EC%BB%A4/): PEth(phosphatidylethanol)는 최근 임상에서 활용이 늘고 있는 알코올 섭취 객관적 바이오마커입니다. 검출 기간·민감도·임상 활용을 정리합니다.
 - [Preemptive TIPS](https://drshin.kr/updates/preemptive-TIPS-%EC%8B%9D%EB%8F%84%EC%A0%95%EB%A7%A5%EB%A5%98-%EC%B6%9C%ED%98%88/): Preemptive(early) TIPS는 고위험 정맥류 출혈 환자에서 표준 약물·내시경 치료보다 24-72시간 내 시행 시 사망률을 줄인 패러다임 변화입니다.
