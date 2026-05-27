@@ -4,11 +4,19 @@
   <link href="https://drshin.kr/updates/" rel="alternate" type="text/html"/>
   <link href="https://drshin.kr/updates/feed.xml" rel="self" type="application/atom+xml"/>
   <id>https://drshin.kr/updates/</id>
-  <updated>2026-05-24T02:00:27.345082+00:00</updated>
+  <updated>2026-05-27T08:00:00+09:00</updated>
   <subtitle>주요 저널의 hepatology 최신 논문 요약 — 신현재(서울대학교병원 소화기내과·간암센터)</subtitle>
   <author><name>신현재</name><uri>https://drshin.kr/소개/</uri></author>
   <generator>build_updates_rss.py</generator>
   <icon>https://drshin.kr/favicon.png</icon>
+  <entry>
+    <title>삼중 작용제 retatrutide</title>
+    <link href="https://drshin.kr/updates/Retatrutide-TRIUMPH-1-MASLD-2026/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/Retatrutide-TRIUMPH-1-MASLD-2026/</id>
+    <updated>2026-05-27T08:00:00+09:00</updated>
+    <summary>GIP·GLP-1·글루카곤 삼중 수용체 작용제 retatrutide의 TRIUMPH-1 phase 3 topline 결과가 2026년 5월 공개됐습니다. 80주째 최고 용량에서 약 28%의 체중 감량을 보였고, 앞서 phase 2a에서는 간 지방이 MRI-PDFF 기준 86%까지 줄며 대부분 정상화됐습니다. 다만 간 섬유화 같은 hard endpoint는 별도 3상 결과를 기다려야 합니다.</summary>
+    <author><name>신현재</name></author>
+  </entry>
   <entry>
     <title>MASH 간경변에서 처음 보인 가능성</title>
     <link href="https://drshin.kr/updates/Noureddin-EFX-MASH-cirrhosis-NEJM-2025/" rel="alternate" type="text/html"/>
