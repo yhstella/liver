@@ -32,6 +32,19 @@ HUBS_8 = {"간암", "간경화", "B형간염", "C형간염", "지방간", "간�
 SECTION_LANDINGS = {"updates", "케이스", "CC", "keywords", "소개", "연구"}
 
 
+def is_noindex_or_draft(path: Path) -> bool:
+    """robots noindex 메타 또는 DRAFT 주석이 있으면 sitemap 제외 대상."""
+    try:
+        head = path.read_text(encoding="utf-8", errors="ignore")[:4096]
+    except Exception:
+        return False
+    if "noindex" in head.lower():
+        return True
+    if "<!-- DRAFT" in head or "<!--DRAFT" in head:
+        return True
+    return False
+
+
 def git_last_modified(path: Path) -> str:
     """Get last commit date for path, ISO YYYY-MM-DD. Falls back to mtime."""
     try:
@@ -104,6 +117,9 @@ def collect_pages():
             continue
         # legacy redirect 페이지는 sitemap에서 제외
         if len(parts) == 2 and parts[0] in EXCLUDE_SLUGS:
+            continue
+        # noindex robots 메타 또는 DRAFT 주석 있으면 sitemap 제외
+        if is_noindex_or_draft(path):
             continue
         rel_dir = path.parent.relative_to(ROOT)
         url = url_for(rel_dir)
