@@ -55,6 +55,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://drshin.kr/updates/EMERALD-3-TACE-immuneTarget-2026/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://drshin.kr/updates/ESSENCE-survodutide-MASH-Lancet-2024/</loc>
     <lastmod>2026-05-21</lastmod>
     <changefreq>monthly</changefreq>
@@ -128,7 +134,7 @@
   </url>
   <url>
     <loc>https://drshin.kr/updates/Noureddin-EFX-MASH-cirrhosis-NEJM-2025/</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -146,7 +152,7 @@
   </url>
   <url>
     <loc>https://drshin.kr/updates/Retatrutide-TRIUMPH-1-MASLD-2026/</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>

@@ -4,89 +4,89 @@
   <link href="https://drshin.kr/updates/" rel="alternate" type="text/html"/>
   <link href="https://drshin.kr/updates/feed.xml" rel="self" type="application/atom+xml"/>
   <id>https://drshin.kr/updates/</id>
-  <updated>2026-05-31T22:05:07.094986+00:00</updated>
+  <updated>2026-06-01T00:07:39.815861+00:00</updated>
   <subtitle>주요 저널의 hepatology 최신 논문 요약 — 신현재(서울대학교병원 소화기내과·간암센터)</subtitle>
   <author><name>신현재</name><uri>https://drshin.kr/소개/</uri></author>
   <generator>build_updates_rss.py</generator>
   <icon>https://drshin.kr/favicon.png</icon>
   <entry>
-    <title>Tirzepatide MASH</title>
-    <link href="https://drshin.kr/updates/Tirzepatide-MASH-phase3-update-2026/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/Tirzepatide-MASH-phase3-update-2026/</id>
-    <updated>2026-05-31T22:04:30.345563+00:00</updated>
-    <summary>Tirzepatide의 MASH 적응증 개발 현황을 정리합니다. phase 2 SYNERGY-NASH(NEJM 2024)에서 52주째 15 mg군 73%가 MASH 관해(efficacy estimand 기준), 약 53~59%가 섬유화 1단계 이상 호전을 보였습니다. phase 3 확증 자료는 아직 발표 전이며, EASO 2026 framework에서 tirzepatide는 &apos;MASH 관해&apos;에 위치합니다.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>PBC 가려움증을 직접 겨냥한 첫 승인 약</title>
-    <link href="https://drshin.kr/updates/Linerixibat-PBC-pruritus-FDA-2026/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/Linerixibat-PBC-pruritus-FDA-2026/</id>
-    <updated>2026-05-31T22:04:28.350368+00:00</updated>
-    <summary>원발성 담즙성 담관염(PBC) 환자의 cholestatic pruritus(담즙정체성 가려움증)에 대해 IBAT 억제제 linerixibat(Lynavoy)이 2026년 3월 19일 미 FDA 승인을 받았습니다. 가려움증 자체를 표적으로 한 첫 승인 약이며, GLISTEN phase 3에서 24주 동안 가려움 점수 감소를 확인했습니다.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>저는 살이 안 쪘는데 왜 지방간인가요</title>
-    <link href="https://drshin.kr/updates/Lean-MASLD-review-2026/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/Lean-MASLD-review-2026/</id>
-    <updated>2026-05-31T22:04:28.129525+00:00</updated>
-    <summary>BMI가 정상인데도 지방간·MASH·간섬유화가 진행될 수 있습니다. Lean MASLD(마른 MASLD)의 진단 기준(Asian BMI &lt; 23, Caucasian BMI &lt; 25), 위험 요인(PNPLA3·TM6SF2 유전형, 내장 비만, 근감소, 당대사 이상), 자연 경과와 비만형 MASLD 대비 사망·간 합병증 위험을 외래 진료 관점에서 정리했습니다.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>C형간염 완치(SVR) 이후에도 추적이 필요한 이유</title>
-    <link href="https://drshin.kr/updates/HCV-post-SVR-longterm-followup-2026/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/HCV-post-SVR-longterm-followup-2026/</id>
-    <updated>2026-05-31T22:04:27.578176+00:00</updated>
-    <summary>C형간염 DAA로 완치(SVR12)된 환자분도 간경변이 남아 있으면 평생 6개월 간격 간세포암 선별이 권고됩니다. AASLD-IDSA, EASL 2024 position paper, KASL 2025 가이드라인이 모두 같은 방향이며, F0~F2는 추적에서 졸업 가능하지만 F3와 F4, 재감염 고위험군은 예외입니다.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>1차 면역치료 후 진행한 간세포암</title>
-    <link href="https://drshin.kr/updates/HCC-second-line-after-IO-2026/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/HCC-second-line-after-IO-2026/</id>
-    <updated>2026-05-31T22:04:27.458603+00:00</updated>
-    <summary>아테졸리주맙+베바시주맙 또는 두르발루맙+트레멜리무맙 등 1차 면역치료 후 진행한 진행성 간세포암(HCC)에서 2차 옵션으로 lenvatinib, regorafenib, cabozantinib, ramucirumab 중 무엇을 선택할지 정리했습니다. real-world data와 EASL 2025·AASLD 권고를 함께 봅니다.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>B형간염 functional cure 신약</title>
-    <link href="https://drshin.kr/updates/HBV-siRNA-functional-cure-2026/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/HBV-siRNA-functional-cure-2026/</id>
-    <updated>2026-05-31T22:04:27.346725+00:00</updated>
-    <summary>만성 B형간염의 functional cure(기능적 완치)를 노리는 RNA 기반 신약들의 최근 phase 2/3 데이터를 종합합니다. bepirovirsen(ASO) B-Well phase 3는 NEJM에 보고되어 20% 안팎의 functional cure율을 보였고, imdusiran·elebsiran 등 GalNAc-siRNA는 PEG-IFN 병합으로 추가 phase 2 신호가 누적되고 있습니다.</summary>
+    <title>EMERALD-3 phase 3</title>
+    <link href="https://drshin.kr/updates/EMERALD-3-TACE-immuneTarget-2026/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/EMERALD-3-TACE-immuneTarget-2026/</id>
+    <updated>2026-06-01T07:04:18+09:00</updated>
+    <summary>TACE 적응이 되는 중기(intermediate stage) 간세포암(HCC)에서 durvalumab+tremelimumab(STRIDE) + lenvatinib + TACE 4제 병합이 phase 3 EMERALD-3에서 1차 평가변수 무진행생존(PFS)을 통계적·임상적으로 의미 있게 개선했다고 2026년 4월 AstraZeneca가 발표했습니다. 환자분 진료 입장에서 본 정리.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>
     <title>FibroScan 수치 어떻게 읽나</title>
     <link href="https://drshin.kr/updates/FibroScan-%EC%88%98%EC%B9%98-%ED%95%B4%EC%84%9D-%EA%B0%80%EC%9D%B4%EB%93%9C-2026/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/FibroScan-%EC%88%98%EC%B9%98-%ED%95%B4%EC%84%9D-%EA%B0%80%EC%9D%B4%EB%93%9C-2026/</id>
-    <updated>2026-05-31T22:04:27.008110+00:00</updated>
+    <updated>2026-06-01T07:04:18+09:00</updated>
     <summary>FibroScan(간 일과성 탄성도 검사) 결과지의 kPa(간 굳기) 값과 CAP(지방 정도) 값을 환자 입장에서 어떻게 읽는지, AASLD/EASL 권고 cut-off와 검사가 잘못 높게 나올 수 있는 흔한 상황(비만, 비공복, 우심부전, 간 염증)을 정리했습니다.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>
-    <title>EMERALD-3 phase 3</title>
-    <link href="https://drshin.kr/updates/EMERALD-3-TACE-immuneTarget-2026/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/EMERALD-3-TACE-immuneTarget-2026/</id>
-    <updated>2026-05-31T22:04:26.775583+00:00</updated>
-    <summary>TACE 적응이 되는 중기(intermediate stage) 간세포암(HCC)에서 durvalumab+tremelimumab(STRIDE) + lenvatinib + TACE 4제 병합이 phase 3 EMERALD-3에서 1차 평가변수 무진행생존(PFS)을 통계적·임상적으로 의미 있게 개선했다고 2026년 4월 AstraZeneca가 발표했습니다. 환자분 진료 입장에서 본 정리.</summary>
+    <title>B형간염 functional cure 신약</title>
+    <link href="https://drshin.kr/updates/HBV-siRNA-functional-cure-2026/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/HBV-siRNA-functional-cure-2026/</id>
+    <updated>2026-06-01T07:04:18+09:00</updated>
+    <summary>만성 B형간염의 functional cure(기능적 완치)를 노리는 RNA 기반 신약들의 최근 phase 2/3 데이터를 종합합니다. bepirovirsen(ASO) B-Well phase 3는 NEJM에 보고되어 20% 안팎의 functional cure율을 보였고, imdusiran·elebsiran 등 GalNAc-siRNA는 PEG-IFN 병합으로 추가 phase 2 신호가 누적되고 있습니다.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>
-    <title>삼중 작용제 retatrutide</title>
-    <link href="https://drshin.kr/updates/Retatrutide-TRIUMPH-1-MASLD-2026/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/Retatrutide-TRIUMPH-1-MASLD-2026/</id>
-    <updated>2026-05-27T00:25:41Z</updated>
-    <summary>GIP·GLP-1·글루카곤 삼중 수용체 작용제 retatrutide의 TRIUMPH-1 phase 3 topline 결과가 2026년 5월 공개됐습니다. 80주째 최고 용량에서 약 28%의 체중 감량을 보였고, 앞서 phase 2a에서는 간 지방이 MRI-PDFF 기준 86%까지 줄며 대부분 정상화됐습니다. 다만 간 섬유화 같은 hard endpoint는 별도 3상 결과를 기다려야 합니다.</summary>
+    <title>1차 면역치료 후 진행한 간세포암</title>
+    <link href="https://drshin.kr/updates/HCC-second-line-after-IO-2026/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/HCC-second-line-after-IO-2026/</id>
+    <updated>2026-06-01T07:04:18+09:00</updated>
+    <summary>아테졸리주맙+베바시주맙 또는 두르발루맙+트레멜리무맙 등 1차 면역치료 후 진행한 진행성 간세포암(HCC)에서 2차 옵션으로 lenvatinib, regorafenib, cabozantinib, ramucirumab 중 무엇을 선택할지 정리했습니다. real-world data와 EASL 2025·AASLD 권고를 함께 봅니다.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>C형간염 완치(SVR) 이후에도 추적이 필요한 이유</title>
+    <link href="https://drshin.kr/updates/HCV-post-SVR-longterm-followup-2026/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/HCV-post-SVR-longterm-followup-2026/</id>
+    <updated>2026-06-01T07:04:18+09:00</updated>
+    <summary>C형간염 DAA로 완치(SVR12)된 환자분도 간경변이 남아 있으면 평생 6개월 간격 간세포암 선별이 권고됩니다. AASLD-IDSA, EASL 2024 position paper, KASL 2025 가이드라인이 모두 같은 방향이며, F0~F2는 추적에서 졸업 가능하지만 F3와 F4, 재감염 고위험군은 예외입니다.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>저는 살이 안 쪘는데 왜 지방간인가요</title>
+    <link href="https://drshin.kr/updates/Lean-MASLD-review-2026/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/Lean-MASLD-review-2026/</id>
+    <updated>2026-06-01T07:04:18+09:00</updated>
+    <summary>BMI가 정상인데도 지방간·MASH·간섬유화가 진행될 수 있습니다. Lean MASLD(마른 MASLD)의 진단 기준(Asian BMI &lt; 23, Caucasian BMI &lt; 25), 위험 요인(PNPLA3·TM6SF2 유전형, 내장 비만, 근감소, 당대사 이상), 자연 경과와 비만형 MASLD 대비 사망·간 합병증 위험을 외래 진료 관점에서 정리했습니다.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>PBC 가려움증을 직접 겨냥한 첫 승인 약</title>
+    <link href="https://drshin.kr/updates/Linerixibat-PBC-pruritus-FDA-2026/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/Linerixibat-PBC-pruritus-FDA-2026/</id>
+    <updated>2026-06-01T07:04:18+09:00</updated>
+    <summary>원발성 담즙성 담관염(PBC) 환자의 cholestatic pruritus(담즙정체성 가려움증)에 대해 IBAT 억제제 linerixibat(Lynavoy)이 2026년 3월 19일 미 FDA 승인을 받았습니다. 가려움증 자체를 표적으로 한 첫 승인 약이며, GLISTEN phase 3에서 24주 동안 가려움 점수 감소를 확인했습니다.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>
     <title>MASH 간경변에서 처음 보인 가능성</title>
     <link href="https://drshin.kr/updates/Noureddin-EFX-MASH-cirrhosis-NEJM-2025/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/Noureddin-EFX-MASH-cirrhosis-NEJM-2025/</id>
-    <updated>2026-05-24T10:59:21+09:00</updated>
+    <updated>2026-06-01T07:04:18+09:00</updated>
     <summary>MASH로 인한 보상성 간경변(F4) 환자에서 FGF21 유사체 efruxifermin의 SYMMETRY phase 2b 결과가 NEJM에 발표됐습니다. 36주째 primary endpoint는 충족하지 못했지만 96주째 50 mg군의 29%가 섬유화 1단계 이상 호전, 39%가 간경변 자체의 회복(F4→F3 이하)을 보였습니다.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>삼중 작용제 retatrutide</title>
+    <link href="https://drshin.kr/updates/Retatrutide-TRIUMPH-1-MASLD-2026/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/Retatrutide-TRIUMPH-1-MASLD-2026/</id>
+    <updated>2026-06-01T07:04:18+09:00</updated>
+    <summary>GIP·GLP-1·글루카곤 삼중 수용체 작용제 retatrutide의 TRIUMPH-1 phase 3 topline 결과가 2026년 5월 공개됐습니다. 80주째 최고 용량에서 약 28%의 체중 감량을 보였고, 앞서 phase 2a에서는 간 지방이 MRI-PDFF 기준 86%까지 줄며 대부분 정상화됐습니다. 다만 간 섬유화 같은 hard endpoint는 별도 3상 결과를 기다려야 합니다.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>Tirzepatide MASH</title>
+    <link href="https://drshin.kr/updates/Tirzepatide-MASH-phase3-update-2026/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/Tirzepatide-MASH-phase3-update-2026/</id>
+    <updated>2026-06-01T07:04:18+09:00</updated>
+    <summary>Tirzepatide의 MASH 적응증 개발 현황을 정리합니다. phase 2 SYNERGY-NASH(NEJM 2024)에서 52주째 15 mg군 73%가 MASH 관해(efficacy estimand 기준), 약 53~59%가 섬유화 1단계 이상 호전을 보였습니다. phase 3 확증 자료는 아직 발표 전이며, EASO 2026 framework에서 tirzepatide는 &apos;MASH 관해&apos;에 위치합니다.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>
@@ -298,19 +298,19 @@
     <author><name>신현재</name></author>
   </entry>
   <entry>
-    <title>TDF for HBV in pregnancy</title>
-    <link href="https://drshin.kr/updates/Pan-TDF-pregnancy-HBV-NEJM-2016/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/Pan-TDF-pregnancy-HBV-NEJM-2016/</id>
-    <updated>2026-05-15T17:29:24+09:00</updated>
-    <summary>Pan CQ et al. NEJM 2016. RCT, 200명 HBV DNA 고농도 임산부, 임신 30주부터 TDF가 영아 HBV 감염을 0%로 감소시킨 결정적 시험.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
     <title>PEth (phosphatidylethanol)</title>
     <link href="https://drshin.kr/updates/PEth-%EC%95%8C%EC%BD%94%EC%98%AC-%EB%B0%94%EC%9D%B4%EC%98%A4%EB%A7%88%EC%BB%A4/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/PEth-%EC%95%8C%EC%BD%94%EC%98%AC-%EB%B0%94%EC%9D%B4%EC%98%A4%EB%A7%88%EC%BB%A4/</id>
     <updated>2026-05-15T17:29:24+09:00</updated>
     <summary>PEth(phosphatidylethanol)는 최근 임상에서 활용이 늘고 있는 알코올 섭취 객관적 바이오마커입니다. 검출 기간·민감도·임상 활용을 정리합니다.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>TDF for HBV in pregnancy</title>
+    <link href="https://drshin.kr/updates/Pan-TDF-pregnancy-HBV-NEJM-2016/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/Pan-TDF-pregnancy-HBV-NEJM-2016/</id>
+    <updated>2026-05-15T17:29:24+09:00</updated>
+    <summary>Pan CQ et al. NEJM 2016. RCT, 200명 HBV DNA 고농도 임산부, 임신 30주부터 TDF가 영아 HBV 감염을 0%로 감소시킨 결정적 시험.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>

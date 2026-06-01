@@ -46,9 +46,9 @@
 ### B형 간염 (Chronic Hepatitis B)
 
 - [D형간염(HDV) — B형간염에 동반될 때 가장 빠른 간경변 원인](https://drshin.kr/B%ED%98%95%EA%B0%84%EC%97%BC-D%ED%98%95%EA%B0%84%EC%97%BC-HDV/): HBV에 의존하는 HDV. 동시 감염 vs 중복 감염, 진단(anti-HDV, HDV RNA), 신약 bulevirtide의 등장.
-- [B형간염 functional cure - 어디까지 와 있나](https://drshin.kr/B%ED%98%95%EA%B0%84%EC%97%BC-functional-cure/): B형간염의 "기능적 완치"(HBsAg 소실) 정의, 현재 표준치료의 한계, siRNA·capsid inhibitor 등 신약 임상의 현 위치를 정리합니다.
 - [HBeAg 양성 vs 음성](https://drshin.kr/B%ED%98%95%EA%B0%84%EC%97%BC-HBeAg-%EC%96%91%EC%84%B1-%EC%9D%8C%EC%84%B1/): B형간염의 HBeAg 양성·음성 단계의 자연사 차이, 치료 적응증과 기간의 차이, HBeAg 음성 활동성 간염을 정리합니다.
 - [Occult HBV(잠복 B형간염) — HBsAg 음성인데 DNA가 검출되는 상태](https://drshin.kr/B%ED%98%95%EA%B0%84%EC%97%BC-Occult-%EC%9E%A0%EB%B3%B5%EA%B0%90%EC%97%BC/): HBsAg 음성이지만 anti-HBc 양성, HBV DNA가 간세포·혈청에 잔존하는 occult HBV infection. 항암·면역억제 시 재활성화 위험과 평가 흐름.
+- [B형간염 functional cure - 어디까지 와 있나](https://drshin.kr/B%ED%98%95%EA%B0%84%EC%97%BC-functional-cure/): B형간염의 "기능적 완치"(HBsAg 소실) 정의, 현재 표준치료의 한계, siRNA·capsid inhibitor 등 신약 임상의 현 위치를 정리합니다.
 - [B형간염 환자가 6개월마다간암 검진을 받아야 하는 이유](https://drshin.kr/B%ED%98%95%EA%B0%84%EC%97%BC-%EA%B0%84%EC%95%94%EA%B2%80%EC%A7%84/): B형간염 환자의 6개월 간암 검진 주기 근거, 종양 배가시간, 초음파+AFP+PIVKA-II 조합의 역할을 서울대병원 소화기내과 신현재 교수가 설명합니다.
 - [B형간염 검사 결과지 해석HBsAg·HBeAg·anti-HBs 각각 무엇을 뜻하나요?](https://drshin.kr/B%ED%98%95%EA%B0%84%EC%97%BC-%EA%B2%80%EC%82%AC%EA%B2%B0%EA%B3%BC/): HBsAg, anti-HBs, HBeAg, anti-HBe, anti-HBc 5개 표지자의 의미와 조합별 해석표를 서울대병원 소화기내과 신현재 교수가 설명합니다.
 - [B형간염 보균자와 결혼·임신·수유실제로 어떻게 해야 하나요?](https://drshin.kr/B%ED%98%95%EA%B0%84%EC%97%BC-%EA%B2%B0%ED%98%BC-%EC%9E%84%EC%8B%A0/): B형간염 보균자가 결혼·임신·수유 시 해야 할 것들을 서울대병원 소화기내과 신현재 교수가 단계별로 설명합니다. 수직감염 예방, HBIG+백신, TDF 임신 안전성.
@@ -74,9 +74,9 @@
 
 ### 지방간·MASLD
 
-- [lean MASLD - 마른 사람의 지방간](https://drshin.kr/%EC%A7%80%EB%B0%A9%EA%B0%84-lean-MASLD/): 정상 BMI에서 발생하는 lean MASLD의 정의, 동양인 cutoff, 위험 인자, 치료 접근의 차이를 정리합니다.
 - [MetALD — 대사 위험과 적당량 음주가 만나는 지방간](https://drshin.kr/%EC%A7%80%EB%B0%A9%EA%B0%84-MetALD/): 2023년 새 명명에서 도입된 MetALD. 대사 위험(비만·당뇨) + 적당량 음주의 동반. 두 원인 동시 관리.
 - [SGLT2·GLP-1 작용제와 지방간](https://drshin.kr/%EC%A7%80%EB%B0%A9%EA%B0%84-SGLT2-GLP1/): 당뇨 약물인 SGLT2 억제제와 GLP-1 작용제가 지방간(MASLD)에 어떤 효과를 보이는가, 비당뇨 환자에서의 위치를 정리합니다.
+- [lean MASLD - 마른 사람의 지방간](https://drshin.kr/%EC%A7%80%EB%B0%A9%EA%B0%84-lean-MASLD/): 정상 BMI에서 발생하는 lean MASLD의 정의, 동양인 cutoff, 위험 인자, 치료 접근의 차이를 정리합니다.
 - [지방간이 간암으로 가는 길](https://drshin.kr/%EC%A7%80%EB%B0%A9%EA%B0%84-%EA%B0%84%EC%95%94/): 단순 지방간 → 지방간염 → 섬유화 → 간경변 → 간암 경로의 분기점. 누가 빠르게 진행하는지, 간암 검진은 언제부터 시작하는지를 KASL/KLCA 가이드라인 기준으로 정리합니다.
 - [비만 수술(bariatric surgery)과 MASLD — 가장 강력한 체중 감량](https://drshin.kr/%EC%A7%80%EB%B0%A9%EA%B0%84-%EB%B9%84%EB%A7%8C%EC%88%98%EC%88%A0/): 고도 비만 MASLD 환자에서 비만 수술의 효과 — 체중 25~30% 감량과 동반된 MASH·간섬유화 호전. 적응증과 수술 후 추적.
 - [소아·청소년 MASLD — 국내에서 빠르게 늘고 있는 진단](https://drshin.kr/%EC%A7%80%EB%B0%A9%EA%B0%84-%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84-MASLD/): 한국 소아·청소년의 비만 증가와 함께 늘고 있는 MASLD. 진단 기준, 생활습관 개입, 약물 옵션, 청소년기 추적의 중요성.
@@ -155,8 +155,8 @@
 주요 가이드라인·논문의 한국어 임상 노트.
 
 - [최신 지견](https://drshin.kr/updates/): 간 질환 최신 가이드라인·논문 노트. 의료진·전공의 대상의 짧은 요약과 임상 함의.
-- [아스피린과 MASLD(대사이상 지방간질환) 환자의 간세포암 위험](https://drshin.kr/updates/Ahn-Aspirin-HCC-MASLD-CMH-2026/): Ahn J, Hur MH, Shin H et al. Clin Mol Hepatol 2026. MASLD 환자에서 아스피린 사용과 HCC 위험의 nationwide cohort + 유전 위험 분석.
 - [AI CT HCC 진단 — 다기관·다국가 검증으로 임상 적용 가까워짐](https://drshin.kr/updates/AI-CT-HCC-validation-Hepatology-2024/): 동적 CT 영상에서 HCC를 자동 진단하는 AI 알고리즘의 대규모 다기관·다국가 검증. 영상 전문의 수준 진단 정확도.
+- [아스피린과 MASLD(대사이상 지방간질환) 환자의 간세포암 위험](https://drshin.kr/updates/Ahn-Aspirin-HCC-MASLD-CMH-2026/): Ahn J, Hur MH, Shin H et al. Clin Mol Hepatol 2026. MASLD 환자에서 아스피린 사용과 HCC 위험의 nationwide cohort + 유전 위험 분석.
 - [Baveno VII](https://drshin.kr/updates/Baveno-VII-portal-hypertension-J-Hepatol-2022/): de Franchis R et al. J Hepatol 2022. Baveno VII 합의 - clinically significant portal hypertension(CSPH) 비침습 진단 기준, 식도정맥류 검진 생략 기준, 임상적 재대상화(re
 - [Baveno VII — 비대상성 간경변의 재대상화 정의와 임상 적용](https://drshin.kr/updates/Baveno-VII-recompensation-2024/): Baveno VII 합의에서 처음으로
 - [Bepirovirsen — B형간염의 functional cure 도전](https://drshin.kr/updates/Bepirovirsen-HBV-Lancet-2024/): HBV RNA를 분해하는 antisense oligonucleotide bepirovirsen. B-Clear 시험에서 HBsAg 소실 약 9~10%, 새 시대의 첫 후보.
@@ -176,17 +176,16 @@
 - [IMbrave050 — 절제·소작 후 보조 atezo+bev의 첫 양성 결과](https://drshin.kr/updates/IMbrave050-adjuvant-atezo-bev-Lancet-2023/): 고위험 절제·소작 후 atezolizumab + bevacizumab 12개월이 재발 없는 생존(RFS)을 의미 있게 연장한 첫 양성 보조 면역치료 시험. Lancet 2023.
 - [IMbrave150](https://drshin.kr/updates/IMbrave150-atezolizumab-bevacizumab-NEJM-2020/): Finn SA et al. NEJM 2020. Phase 3 RCT, 501명 진행성 간세포암, atezo+bev이 sorafenib보다 OS·PFS 우월 - 8년간 1차 표준이었던 sorafenib을 교체.
 - [Semaglutide for AUD — Lancet RCT](https://drshin.kr/updates/Klausen-Semaglutide-AUD-Lancet-2026/): Klausen 2026 Lancet — semaglutide가 알코올 사용 장애 환자(비만 동반)의 음주를 줄였다는 RCT.
-- [저는 살이 안 쪘는데 왜 지방간인가요 — Lean MASLD(마른 MASLD) 정리 (2026)](https://drshin.kr/updates/Lean-MASLD-review-2026/): BMI가 정상인데도 지방간·MASH·간섬유화가 진행될 수 있습니다. Lean MASLD(마른 MASLD)의 진단 기준(Asian BMI < 23, Caucasian BMI < 25), 위험 요인(PNPLA3·TM6SF2 유전형, 내장 비만, 근감소, 
 - [LEAP-012 — 중간기 간암에 TACE + 면역치료 + TKI 조합 두 번째 근거](https://drshin.kr/updates/LEAP-012-TACE-pembro-lenva-Lancet-2024/): 중간기 간세포암에서 TACE + pembrolizumab + lenvatinib 조합이 TACE 단독 대비 PFS 의미 있게 연장. EMERALD-1과 함께 BCLC B 표준 변화의 두 번째 근거.
+- [저는 살이 안 쪘는데 왜 지방간인가요 — Lean MASLD(마른 MASLD) 정리 (2026)](https://drshin.kr/updates/Lean-MASLD-review-2026/): BMI가 정상인데도 지방간·MASH·간섬유화가 진행될 수 있습니다. Lean MASLD(마른 MASLD)의 진단 기준(Asian BMI < 23, Caucasian BMI < 25), 위험 요인(PNPLA3·TM6SF2 유전형, 내장 비만, 근감소, 
 - [PBC 가려움증을 직접 겨냥한 첫 승인 약 — linerixibat(Lynavoy) FDA 2026](https://drshin.kr/updates/Linerixibat-PBC-pruritus-FDA-2026/): 원발성 담즙성 담관염(PBC) 환자의 cholestatic pruritus(담즙정체성 가려움증)에 대해 IBAT 억제제 linerixibat(Lynavoy)이 2026년 3월 19일 미 FDA 승인을 받았습니다. 가려움증 자체를 표적으로 한 첫 승인 
 - [Resmetirom 3년 데이터 — 첫 MASH 약의 장기 효과 확인](https://drshin.kr/updates/MAESTRO-NASH-resmetirom-3%EB%85%84-2024/): MAESTRO-NASH 3년 추적 — Resmetirom(thyroid hormone β receptor agonist)이 NASH·섬유화 호전을 3년 유지하고 안전성 양호.
 - [MAESTRO-NASH](https://drshin.kr/updates/MAESTRO-NASH-resmetirom-NEJM-2024/): Harrison SA et al. NEJM 2024;390:497-509. Phase 3 RCT, 966명 F2-F3 MASH 환자, 52주 시점 NASH 해결과 섬유화 호전을 동시에 달성한 첫 약물 — 노트 요약.
 - [MASLD·MASH·MetALD — NAFLD/NASH 명명을 대체한 새 표준](https://drshin.kr/updates/MASLD-nomenclature-AASLD-EASL-2023/): AASLD·EASL·ALEH의 Delphi 합의로 NAFLD → MASLD, NASH → MASH로 명명 변경. MetALD 새 카테고리 도입.
 - [Semaglutide for NASH](https://drshin.kr/updates/Newsome-semaglutide-NASH-NEJM-2021/): Newsome PN et al. NEJM 2021. Phase 2 RCT, 320명 NASH 환자, semaglutide 0.4 mg 매일이 NASH 해결 59% vs placebo 17% - GLP-1 작용제 MASH 효과의 결정적 첫 RCT.
 - [MASH 간경변에서 처음 보인 가능성 — efruxifermin SYMMETRY phase 2b (NEJM 2025)](https://drshin.kr/updates/Noureddin-EFX-MASH-cirrhosis-NEJM-2025/): MASH로 인한 보상성 간경변(F4) 환자에서 FGF21 유사체 efruxifermin의 SYMMETRY phase 2b 결과가 NEJM에 발표됐습니다. 36주째 primary endpoint는 충족하지 못했지만 96주째 50 mg군의 29%가 섬유화
-- [TDF for HBV(B형간염 바이러스) in pregnancy](https://drshin.kr/updates/Pan-TDF-pregnancy-HBV-NEJM-2016/): Pan CQ et al. NEJM 2016. RCT, 200명 HBV DNA 고농도 임산부, 임신 30주부터 TDF가 영아 HBV 감염을 0%로 감소시킨 결정적 시험.
 - [PEth (phosphatidylethanol)](https://drshin.kr/updates/PEth-%EC%95%8C%EC%BD%94%EC%98%AC-%EB%B0%94%EC%9D%B4%EC%98%A4%EB%A7%88%EC%BB%A4/): PEth(phosphatidylethanol)는 최근 임상에서 활용이 늘고 있는 알코올 섭취 객관적 바이오마커입니다. 검출 기간·민감도·임상 활용을 정리합니다.
-- [Preemptive TIPS](https://drshin.kr/updates/preemptive-TIPS-%EC%8B%9D%EB%8F%84%EC%A0%95%EB%A7%A5%EB%A5%98-%EC%B6%9C%ED%98%88/): Preemptive(early) TIPS는 고위험 정맥류 출혈 환자에서 표준 약물·내시경 치료보다 24-72시간 내 시행 시 사망률을 줄인 패러다임 변화입니다.
+- [TDF for HBV(B형간염 바이러스) in pregnancy](https://drshin.kr/updates/Pan-TDF-pregnancy-HBV-NEJM-2016/): Pan CQ et al. NEJM 2016. RCT, 200명 HBV DNA 고농도 임산부, 임신 30주부터 TDF가 영아 HBV 감염을 0%로 감소시킨 결정적 시험.
 - [삼중 작용제 retatrutide — TRIUMPH-1 3상 체중 결과와 지방간(MASLD)에서의 의미](https://drshin.kr/updates/Retatrutide-TRIUMPH-1-MASLD-2026/): GIP·GLP-1·글루카곤 삼중 수용체 작용제 retatrutide의 TRIUMPH-1 phase 3 topline 결과가 2026년 5월 공개됐습니다. 80주째 최고 용량에서 약 28%의 체중 감량을 보였고, 앞서 phase 2a에서는 간 지방이 M
 - [AI 영상 바이오마커](https://drshin.kr/updates/Shin-AI-CT-HCC-CHB-JHep-2025/): Shin H et al. J Hepatol 2025. CT 기반 영상 바이오마커를 활용한 AI 모델로 만성 B형간염 환자의 간세포암 발생 위험 예측.
 - [B형간염 항바이러스제의 대사 효과와 심혈관 위험](https://drshin.kr/updates/Shin-Antiviral-CV-CHB-JMV-2024/): Shin H et al. J Med Virol 2024. 만성 B형간염 환자에서 항바이러스제의 대사 효과·심혈관 위험 비교 분석.
@@ -197,6 +196,7 @@
 - [간세포암 글로벌 가이드라인 종합 정리 (2017-2024)](https://drshin.kr/updates/Shin-HCC-Guidelines-Review-JLC-2025/): Shin H, Yu SJ. J Liver Cancer 2025. 2017-2024년 사이 발표된 주요 HCC 관리 가이드라인을 종합 비교한 review.
 - [TDF·ETV에서 TAF로 전환 시 간세포암 위험](https://drshin.kr/updates/Shin-TDF-ETV-TAF-switch-HCC-HepRes-2024/): Shin H et al. Hepatol Res 2024. 근치 치료 후 TDF/ETV에서 TAF로 전환한 환자의 HCC 발생 위험 다기관 분석.
 - [Tirzepatide MASH — phase 2 SYNERGY-NASH 정리와 phase 3 진행 상황 (2026)](https://drshin.kr/updates/Tirzepatide-MASH-phase3-update-2026/): Tirzepatide의 MASH 적응증 개발 현황을 정리합니다. phase 2 SYNERGY-NASH(NEJM 2024)에서 52주째 15 mg군 73%가 MASH 관해(efficacy estimand 기준), 약 53~59%가 섬유화 1단계 이상 호
+- [Preemptive TIPS](https://drshin.kr/updates/preemptive-TIPS-%EC%8B%9D%EB%8F%84%EC%A0%95%EB%A7%A5%EB%A5%98-%EC%B6%9C%ED%98%88/): Preemptive(early) TIPS는 고위험 정맥류 출혈 환자에서 표준 약물·내시경 치료보다 24-72시간 내 시행 시 사망률을 줄인 패러다임 변화입니다.
 
 ## 케이스 (Clinical Cases)
 
@@ -212,13 +212,11 @@
 - [임신 계획 환자의 MMF → AZA 전환](https://drshin.kr/%EC%BC%80%EC%9D%B4%EC%8A%A4/AIH-%EC%9E%84%EC%8B%A0%EC%A4%91-%EC%95%BD%EB%AC%BC%EC%A0%84%ED%99%98/): 안정기 AIH 환자가 임신 계획 6개월 전 MMF 중단 + AZA로 전환. 임신·산후 안정 유지 사례.
 - [젊은 여성의 AIH 첫 진단](https://drshin.kr/%EC%BC%80%EC%9D%B4%EC%8A%A4/AIH-%EC%B2%AB%EC%A7%84%EB%8B%A8-%EC%97%AC%EC%84%B1/): 젊은 여성의 AIH 첫 진단 — induction과 첫 6개월 — 자가면역간염 임상 케이스 노트.
 - [마라톤 다음날 검진 AST 380 — 1주일 후 정상화](https://drshin.kr/%EC%BC%80%EC%9D%B4%EC%8A%A4/ALT%EC%9D%BC%EA%B3%BC%EC%84%B1%EC%83%81%EC%8A%B9-%EA%B2%A9%EB%A0%AC%ED%95%9C%EC%9A%B4%EB%8F%99/): 마라톤 완주 다음날 정기 검진에서 AST 380, ALT 95 발견. CK 4,500으로 근육 기원 확인 후 1주일 휴식 후 재검 정상화.
-- [anti-HCV 양성 첫 발견](https://drshin.kr/%EC%BC%80%EC%9D%B4%EC%8A%A4/anti-HCV%EC%96%91%EC%84%B1-%EC%B2%AB%EB%B0%9C%EA%B2%AC/): anti-HCV 양성 첫 발견 — RNA 확인부터 DAA까지 — C형 간염 임상 케이스 노트.
 - [AST 250 + 근육 약화 — 다발성 근염 진단으로 이어진 사례](https://drshin.kr/%EC%BC%80%EC%9D%B4%EC%8A%A4/AST%EC%9A%B0%EC%84%B8-%EA%B7%BC%EC%9C%A1%EC%A7%88%ED%99%98%EB%B0%B0%EC%A0%9C/): AST 우세 패턴(AST/ALT 4.2) + 점진적 근육 약화 호소. CK 8,500 + 근전도 + ANA로 다발성 근염 진단 후 류마티스내과 의뢰.
 - [AtezoBev 1차 8개월 후 진행 — 2차 치료 결정](https://drshin.kr/%EC%BC%80%EC%9D%B4%EC%8A%A4/AtezoBev-%EC%8B%A4%ED%8C%A8-2%EC%B0%A8%EC%B9%98%EB%A3%8C/): BCLC C 간세포암에서 atezolizumab+bevacizumab 1차 치료 8개월 후 진행. 2차 옵션 (lenvatinib, STRIDE, cabozantinib) 결정.
 - [BCLC A 다발성](https://drshin.kr/%EC%BC%80%EC%9D%B4%EC%8A%A4/BCLC-A-%EB%8B%A4%EB%B0%9C3%EA%B0%9C-%EC%86%8C%EC%9E%91/): BCLC A 다발성 — 3개 결절·각 2cm 이하 — 간암 임상 케이스 노트.
 - [단일 3cm 종양](https://drshin.kr/%EC%BC%80%EC%9D%B4%EC%8A%A4/BCLC-A-%EB%8B%A8%EC%9D%BC3cm-%EC%A0%88%EC%A0%9Cvs%EC%86%8C%EC%9E%91/): 단일 3cm 종양 — 절제와 고주파열치료술 사이 — 간암 임상 케이스 노트.
 - [BCLC B 다발성](https://drshin.kr/%EC%BC%80%EC%9D%B4%EC%8A%A4/BCLC-B-%EB%8B%A4%EB%B0%9C%EC%84%B1-TACE/): BCLC B 다발성 — TACE 1차 — 간암 임상 케이스 노트.
-- [검진 CT에서 "다발성 결절" 보고 — MRI에서 담관 과오종 확진](https://drshin.kr/%EC%BC%80%EC%9D%B4%EC%8A%A4/bile-duct-hamartoma-%EC%9A%B0%EC%97%B0%EB%B0%9C%EA%B2%AC/): 건강검진 복부 CT에서
 - [5년 만에 간경변으로 진행한 30대 환자 — Anti-HDV 양성](https://drshin.kr/%EC%BC%80%EC%9D%B4%EC%8A%A4/B%ED%98%95%EA%B0%84%EC%97%BC-HDV-%EB%8F%99%EB%B0%98/): 30대 남성에서 만성 B형간염 진단 5년 만에 비대상성 간경변으로 빠르게 진행. Anti-HDV 검사에서 HDV 동반 감염 발견 사례.
 - [R-CHOP 시작 전 anti-HBc 양성 발견 — Occult HBV로 예방 시작](https://drshin.kr/%EC%BC%80%EC%9D%B4%EC%8A%A4/B%ED%98%95%EA%B0%84%EC%97%BC-Occult-%ED%95%AD%EC%95%94%EC%B9%98%EB%A3%8C/): DLBCL 진단 환자에서 R-CHOP 시작 전 HBsAg 음성이지만 anti-HBc 양성 발견. HBV DNA 검사로 occult HBV 진단 후 entecavir 예방.
 - [B형간염 정기 검진에서 새로 발견된 2cm 결절](https://drshin.kr/%EC%BC%80%EC%9D%B4%EC%8A%A4/B%ED%98%95%EA%B0%84%EC%97%BC-%EA%B2%80%EC%A7%84-%EC%83%88%EA%B2%B0%EC%A0%88/): B형간염 정기 검진에서 새로 발견된 2cm 결절 — 간암 임상 케이스 노트.
@@ -234,11 +232,9 @@
 - [DAA SVR 후 2년 — ALT 새 상승과 재감염 발견](https://drshin.kr/%EC%BC%80%EC%9D%B4%EC%8A%A4/C%ED%98%95%EA%B0%84%EC%97%BC-%EC%9E%AC%EA%B0%90%EC%97%BC/): DAA 완치 후 2년 시점에 ALT 새 상승. 위험 행동 지속 환자에서 재감염 확인 후 빠른 재치료 사례.
 - [혈액투석 중인 C형간염 환자 — 마비렛 8주로 완치](https://drshin.kr/%EC%BC%80%EC%9D%B4%EC%8A%A4/C%ED%98%95%EA%B0%84%EC%97%BC-%ED%98%88%EC%95%A1%ED%88%AC%EC%84%9D-%EC%B9%98%EB%A3%8C/): 말기 신부전·혈액투석 환자에서 C형간염 진단 후 마비렛 8주로 SVR 도달한 사례. 신장이식 평가 준비.
 - [장기 ETV → TAF 전환](https://drshin.kr/%EC%BC%80%EC%9D%B4%EC%8A%A4/ETV-TAF-%EC%A0%84%ED%99%98/): 장기 ETV → TAF 전환 — 신·골 부담 평가 — B형간염 임상 케이스 노트.
-- [PET-CT 양성 부위가 종양 의심됐으나 — Focal fat sparing](https://drshin.kr/%EC%BC%80%EC%9D%B4%EC%8A%A4/focal-fat-sparing-PET/): 지방간 환자의 다른 암 추적 중 발견된 간 부위 FDG 섭취 증가. 종양 의심됐으나 MRI에서 focal fat sparing으로 확진 사례.
 - [HBeAg seroclearance 후 약 중단 검토](https://drshin.kr/%EC%BC%80%EC%9D%B4%EC%8A%A4/HBeAg-seroclearance-%EC%95%BD%EC%A4%91%EB%8B%A8/): HBeAg seroclearance 후 약 중단 검토 — B형간염 임상 케이스 노트.
 - [간세포암의 림프절 전이 — 영상에서 의심된 신호](https://drshin.kr/%EC%BC%80%EC%9D%B4%EC%8A%A4/HCC-%EB%A6%BC%ED%94%84%EC%A0%88%EC%A0%84%EC%9D%B4/): 간세포암에서 발생한 간 외 림프절 전이 — 진단 흐름, 치료 옵션, 면역치료 우선 결정.
 - [HCC 절제 후 발견된 단독 폐 결절 — 전이인가, 1차 폐암인가](https://drshin.kr/%EC%BC%80%EC%9D%B4%EC%8A%A4/HCC-%ED%8F%90%EC%A0%84%EC%9D%B4-%EB%8B%A8%EB%8F%85/): HCC 절제 후 추적 중 발견된 단독 폐 결절. 폐 1차암 감별 + 단독 전이 가능성 평가 후 폐 절제로 진행한 사례.
-- [BMI 22의 lean MASLD](https://drshin.kr/%EC%BC%80%EC%9D%B4%EC%8A%A4/lean-MASLD-%EB%B9%84%EB%A7%8C%EC%97%86%EC%9D%8C/): BMI 22의 lean MASLD — 대사 평가에서 발견된 인슐린 저항 — 지방간 임상 케이스 노트.
 - [LI-RADS 3 모호한 결절](https://drshin.kr/%EC%BC%80%EC%9D%B4%EC%8A%A4/LR3-%EB%AA%A8%ED%98%B8%EA%B2%B0%EC%A0%88-%EC%B6%94%EC%A0%81/): LI-RADS 3 모호한 결절 — 추적인가, 정밀인가 — 간암 임상 케이스 노트.
 - [LR-4 결절 — 진단을 확정하지 못한 1.4 cm 결절](https://drshin.kr/%EC%BC%80%EC%9D%B4%EC%8A%A4/LR4-%EA%B2%B0%EC%A0%88-%EC%B6%94%EC%A0%81/): 간경변 환자의 1.4 cm LI-RADS 4(LR-4) 결절 — 동맥기 조영은 있으나 washout 명확하지 않음. 단기 추적 vs 동적 MRI vs 조직검사 결정 흐름.
 - [MASH F3 + 당뇨](https://drshin.kr/%EC%BC%80%EC%9D%B4%EC%8A%A4/MASH-F3-%EB%8B%B9%EB%87%A8-%EC%A2%85%ED%95%A9%EA%B4%80%EB%A6%AC/): MASH F3 + 당뇨 — 다약제 종합 관리 — 지방간 임상 케이스 노트.
@@ -252,8 +248,12 @@
 - [SLE + AZA 10년 — 정맥류 출혈로 발견된 NRH](https://drshin.kr/%EC%BC%80%EC%9D%B4%EC%8A%A4/NRH-%EC%A7%84%EB%8B%A8/): SLE로 AZA 10년 복용 중인 환자에서 갑작스러운 정맥류 출혈. 영상에서 간경변 의심됐으나 조직에서 NRH 확진 사례.
 - [PIVKA-II 1500인데 와파린 복용 중](https://drshin.kr/%EC%BC%80%EC%9D%B4%EC%8A%A4/PIVKAII-%EC%99%80%ED%8C%8C%EB%A6%B0-%EC%9C%84%EC%96%91%EC%84%B1/): PIVKA-II 1500인데 와파린 복용 중 — 간암 임상 케이스 노트.
 - [비대상성 간경변 환자의 재대상화 — Entecavir 3년 후 Child-Pugh 회복](https://drshin.kr/%EC%BC%80%EC%9D%B4%EC%8A%A4/Recompensation-%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4%EC%96%B5%EC%A0%9C%ED%9B%84/): Child-Pugh B9 비대상성 환자에서 entecavir로 HBV DNA 완전 억제 3년 후 임상적 재대상화 (Child-Pugh A5) 달성. Baveno VII 정의 충족 사례.
-- [MASH F2 + 비만](https://drshin.kr/%EC%BC%80%EC%9D%B4%EC%8A%A4/resmetirom-%EC%8B%A0%EC%95%BD%EC%8B%9C%EC%9E%91/): MASH F2 + 비만 — resmetirom 신약 시작 — 지방간 임상 케이스 노트.
 - [간경변 + 근감소증 환자의 운동·영양 개입 12개월 — Frailty 호전](https://drshin.kr/%EC%BC%80%EC%9D%B4%EC%8A%A4/Sarcopenia-%EC%9A%B4%EB%8F%99%EA%B0%9C%EC%84%A0/): 비대상성 간경변 + sarcopenia 진단된 환자의 12개월 운동·단백 보충 프로그램. Frailty score 호전과 일상 기능 개선 사례.
+- [anti-HCV 양성 첫 발견](https://drshin.kr/%EC%BC%80%EC%9D%B4%EC%8A%A4/anti-HCV%EC%96%91%EC%84%B1-%EC%B2%AB%EB%B0%9C%EA%B2%AC/): anti-HCV 양성 첫 발견 — RNA 확인부터 DAA까지 — C형 간염 임상 케이스 노트.
+- [검진 CT에서 "다발성 결절" 보고 — MRI에서 담관 과오종 확진](https://drshin.kr/%EC%BC%80%EC%9D%B4%EC%8A%A4/bile-duct-hamartoma-%EC%9A%B0%EC%97%B0%EB%B0%9C%EA%B2%AC/): 건강검진 복부 CT에서
+- [PET-CT 양성 부위가 종양 의심됐으나 — Focal fat sparing](https://drshin.kr/%EC%BC%80%EC%9D%B4%EC%8A%A4/focal-fat-sparing-PET/): 지방간 환자의 다른 암 추적 중 발견된 간 부위 FDG 섭취 증가. 종양 의심됐으나 MRI에서 focal fat sparing으로 확진 사례.
+- [BMI 22의 lean MASLD](https://drshin.kr/%EC%BC%80%EC%9D%B4%EC%8A%A4/lean-MASLD-%EB%B9%84%EB%A7%8C%EC%97%86%EC%9D%8C/): BMI 22의 lean MASLD — 대사 평가에서 발견된 인슐린 저항 — 지방간 임상 케이스 노트.
+- [MASH F2 + 비만](https://drshin.kr/%EC%BC%80%EC%9D%B4%EC%8A%A4/resmetirom-%EC%8B%A0%EC%95%BD%EC%8B%9C%EC%9E%91/): MASH F2 + 비만 — resmetirom 신약 시작 — 지방간 임상 케이스 노트.
 - [간경변 환자에서 새로 발견된 결절](https://drshin.kr/%EC%BC%80%EC%9D%B4%EC%8A%A4/%EA%B0%84%EA%B2%BD%EB%B3%80-%EC%83%88%EA%B2%B0%EC%A0%88-%ED%8F%89%EA%B0%80/): 간경변 환자에서 새로 발견된 결절 — 정밀 평가 — 간경화 임상 케이스 노트.
 - [5년 후 재발 — 항바이러스 치료로 회복된 간 기능 덕분에 재절제](https://drshin.kr/%EC%BC%80%EC%9D%B4%EC%8A%A4/%EA%B0%84%EA%B8%B0%EB%8A%A5%ED%9A%8C%EB%B3%B5-%EC%9E%AC%EC%A0%88%EC%A0%9C/): 첫 절제 후 5년 만에 재발한 결절. B형간염 항바이러스 치료로 간 기능이 개선되어 재절제 가능 후보로 전환된 사례.
 - [간성혼수 첫 발생](https://drshin.kr/%EC%BC%80%EC%9D%B4%EC%8A%A4/%EA%B0%84%EC%84%B1%ED%98%BC%EC%88%98-%EC%B2%AB%EB%B0%9C%EC%83%9D/): 간성혼수 첫 발생 — 유발 인자 평가와 lactulose — 간경화 임상 케이스 노트.
