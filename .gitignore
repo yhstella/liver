@@ -2,6 +2,7 @@
 .tools/guide_content.html
 .tools/snuh.html
 .tools/audit_report.json
+.tools/abbr_audit_report.json
 *.tmp
 .DS_Store
 Thumbs.db

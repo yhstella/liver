@@ -568,6 +568,22 @@ article > p.publish-date{margin:32px 0 8px;text-align:right;font-size:12px;color
   .case-pearl{border:1pt dashed #888;padding:8pt;margin:10pt 0;page-break-inside:avoid;background:#fafafa}
   .references-block{font-size:9.5pt;page-break-before:auto}
 }
+/* === Abbreviation tooltip (hybrid: first-mention spelled out + later <abbr>) === */
+abbr[title]{
+  text-decoration:none;
+  border-bottom:1px dotted var(--muted);
+  cursor:help;
+  text-decoration-skip-ink:none;
+}
+abbr[title]:hover,abbr[title]:focus{
+  border-bottom-color:var(--accent);
+  background:var(--accent-soft);
+  border-radius:2px;
+}
+@media (hover:none){
+  abbr[title]{border-bottom-style:dashed}
+}
+/* end abbreviation */
 
 /* publish-date (작성일) — 2026-05-12 */
 .publish-date{font-size:13px;color:var(--muted);margin:6px 0 18px;letter-spacing:0.02em;font-weight:400}

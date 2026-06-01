@@ -32,6 +32,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 UPDATES = ROOT / 'updates'
 INDEX = UPDATES / 'index.html'
+PRIORITY = ROOT / '.tools' / 'publish_priority.txt'
 KST = timezone(timedelta(hours=9))
 
 DRAFT_COMMENT_RE = re.compile(r'<!--\s*DRAFT[^>]*-->\s*\n?', re.IGNORECASE)
@@ -75,7 +76,31 @@ def git_first_commit_epoch(path: Path) -> float:
     return path.stat().st_mtime
 
 
+def read_priority_slugs():
+    """Return ordered list of slugs from .tools/publish_priority.txt (top = next)."""
+    if not PRIORITY.exists():
+        return []
+    lines = PRIORITY.read_text(encoding='utf-8').splitlines()
+    return [l.strip() for l in lines if l.strip() and not l.strip().startswith('#')]
+
+
+def pop_priority_top():
+    """Remove the first non-empty, non-comment line from the priority file."""
+    if not PRIORITY.exists():
+        return
+    lines = PRIORITY.read_text(encoding='utf-8').splitlines()
+    out = []
+    popped = False
+    for l in lines:
+        if (not popped) and l.strip() and not l.strip().startswith('#'):
+            popped = True
+            continue
+        out.append(l)
+    PRIORITY.write_text('\n'.join(out), encoding='utf-8')
+
+
 def list_queue():
+    """Return queue sorted by: priority file order first, then git-first-commit time."""
     queue = []
     if not UPDATES.exists():
         return queue
@@ -92,7 +117,14 @@ def list_queue():
         if is_draft(text):
             queue.append((git_first_commit_epoch(idx), sub.name, idx))
     queue.sort()
-    return queue
+    priority = read_priority_slugs()
+    if not priority:
+        return queue
+    by_name = {name: (epoch, name, idx) for epoch, name, idx in queue}
+    head = [by_name[s] for s in priority if s in by_name]
+    head_names = {s for s in priority if s in by_name}
+    tail = [item for item in queue if item[1] not in head_names]
+    return head + tail
 
 
 def extract_title(text: str) -> str:
@@ -199,6 +231,10 @@ def main():
 
     info = publish_one(slug, idx, now_kst)
     info['queueRemaining'] = len(queue) - 1
+    # If this slug was at the top of the priority file, pop it
+    if read_priority_slugs() and read_priority_slugs()[0] == slug:
+        pop_priority_top()
+        info['priorityConsumed'] = True
     sys.stdout.write(json.dumps(info, ensure_ascii=False))
     sys.stdout.write('\n')
 
