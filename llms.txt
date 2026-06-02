@@ -101,7 +101,7 @@
 
 ### 자가면역간질환 (Autoimmune Liver Diseases — AIH·PBC)
 
-- [원발성담즙성담관염(PBC) — 진단과 치료](https://drshin.kr/PBC-%EC%9B%90%EB%B0%9C%EC%84%B1%EB%8B%B4%EC%A6%99%EC%84%B1%EB%8B%B4%EA%B4%80%EC%97%BC/): 원발성담즙성담관염(PBC) — AMA 양성 + ALP 지속 상승으로 진단하는 만성 담즙정체성 자가면역 간 질환. UDCA 13–15 mg/kg/일 1차, 1년 시점 POISE/Paris-II 기준으로 반응 평가 후 obeticholic acid·fib
+- [원발성담즙성담관염(PBC) — 진단과 치료](https://drshin.kr/PBC-%EC%9B%90%EB%B0%9C%EC%84%B1%EB%8B%B4%EC%A6%99%EC%84%B1%EB%8B%B4%EA%B4%80%EC%97%BC/): 원발성담즙성담관염(PBC) — AMA 양성 + ALP 지속 상승으로 진단하는 만성 담즙정체성 자가면역 간 질환. UDCA 13–15 mg/kg/일 1차, 1년 시점 POISE/Paris-II 기준으로 반응 평가 후 fibrate·elafibranor·
 - [AIH·PBC overlap 증후군 — 두 자가면역 간 질환의 동반](https://drshin.kr/%EC%9E%90%EA%B0%80%EB%A9%B4%EC%97%AD%EA%B0%84%EC%97%BC-PBC-overlap/): AIH와 PBC가 함께 있는 overlap 증후군. Paris criteria 기반 진단과 UDCA + 면역억제 병합 치료.
 - [급성 발현 AIH — 급성 간부전으로 오는 형태](https://drshin.kr/%EC%9E%90%EA%B0%80%EB%A9%B4%EC%97%AD%EA%B0%84%EC%97%BC-%EA%B8%89%EC%84%B1%EA%B0%84%EB%B6%80%EC%A0%84/): AIH가 급성 간염·간부전으로 처음 발견되는 경우. 빠른 진단과 면역억제 + 이식 평가 동시 진행.
 - [소아·청소년 자가면역간염 — 더 공격적, ASC overlap 흔함](https://drshin.kr/%EC%9E%90%EA%B0%80%EB%A9%B4%EC%97%AD%EA%B0%84%EC%97%BC-%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84/): 소아·청소년 AIH의 특징 — 성인보다 빠른 진행, 자가면역성 경화성 담관염(ASC) overlap 흔함. 진단·치료의 차이.
