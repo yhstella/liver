@@ -830,7 +830,7 @@ def render_landing(cases, start_page_id=12):
 {rows_html}
 </div>
 
-<p class="disclaimer" style="margin-top:48px">환자 정보는 익명화 처리되었습니다. 임상 결정은 표준 가이드라인 적용의 한 예시이며, 개별 환자에게 그대로 적용되지는 않습니다.</p>
+<p class="disclaimer" style="margin-top:48px">이 사례는 표준 진료 흐름을 보여주기 위해 구성한 교육용 예시이며, 특정 환자의 기록이 아닙니다. 실제 진료는 개인의 상태에 따라 달라집니다.</p>
 </main>
 
 {FOOTER}

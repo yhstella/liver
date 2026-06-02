@@ -175,7 +175,7 @@ def render_case(s: dict) -> str:
             body.append(f'<li>{t}</li>')
         body.append("</ul></div>")
 
-    body.append('<p class="case-disclaimer" style="margin-top:32px;padding:12px 16px;background:#f3f1ec;border-radius:6px;font-size:12.5px;color:var(--muted)">환자 정보는 익명화 처리되었습니다. 임상 결정은 표준 가이드라인 적용의 한 예시이며, 개별 환자에게 그대로 적용되지는 않습니다.</p>')
+    body.append('<p class="case-disclaimer" style="margin-top:32px;padding:12px 16px;background:#f3f1ec;border-radius:6px;font-size:12.5px;color:var(--muted)">이 사례는 표준 진료 흐름을 보여주기 위해 구성한 교육용 예시이며, 특정 환자의 기록이 아닙니다. 실제 진료는 개인의 상태에 따라 달라집니다.</p>')
 
     return head + "\n".join(body) + FOOTER
 
