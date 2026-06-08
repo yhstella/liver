@@ -1,4 +1,3 @@
 # publish_next_draft.py priority queue — top = next to publish
 # Lines starting with # are ignored. Each non-empty line = a draft slug.
 # Empty file or all comments → fall back to git-first-commit time order.
-Linerixibat-PBC-pruritus-FDA-2026
