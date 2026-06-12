@@ -313,14 +313,20 @@ def build_jsonld(rel_dir: Path, html: str):
 
 
 _VOLATILE_FIELDS_RE = re.compile(
-    r'"(?:dateModified|lastReviewed)":"[^"]*"'
+    r'"(?:datePublished|dateModified|lastReviewed)":"[^"]*"'
 )
 
 
 def _strip_volatile(jsonld_str: str) -> str:
-    """JSON-LD에서 매 빌드마다 바뀌는 timestamp 필드를 normalize.
+    """JSON-LD에서 매 빌드마다 흔들릴 수 있는 timestamp 필드를 normalize.
 
-    같은 콘텐츠라면 dateModified/lastReviewed만 다른 경우 동일한 것으로 취급.
+    같은 콘텐츠라면 datePublished/dateModified/lastReviewed만 다른 경우 동일한
+    것으로 취급한다. datePublished는 git first-commit 추적(rename·history 변동)에
+    따라 흔들릴 수 있는데, 이 변동이 idempotent 비교를 깨면 본문이 그대로인데도
+    JSON-LD 블록 전체가 교체되고 dateModified까지 갱신돼, sitemap lastmod가
+    사이트 전체에서 한 날짜로 점프하는 문제가 생긴다(healthpick GSC 사고와 동일
+    메커니즘). 세 날짜 필드를 모두 normalize해서 "본문이 같으면 날짜 변동은 무시,
+    기존 블록 보존"이 되도록 한다.
     """
     return _VOLATILE_FIELDS_RE.sub('""', jsonld_str)
 
