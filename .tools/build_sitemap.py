@@ -26,7 +26,7 @@ from urllib.parse import quote
 ROOT = Path(__file__).resolve().parent.parent
 SITE = "https://drshin.kr"
 
-EXCLUDE_DIRS = {".git", ".tools", "node_modules", "assets", "guide", "논문"}
+EXCLUDE_DIRS = {".git", ".tools", "node_modules", "assets", "guide", "논문", "private-figures"}
 EXCLUDE_SLUGS = {"자가면역간염"}  # legacy redirect — sitemap에서 제외
 HUBS_8 = {"간암", "간경화", "B형간염", "C형간염", "지방간", "간수치", "자가면역간질환", "간양성종양"}
 SECTION_LANDINGS = {"updates", "케이스", "CC", "keywords", "소개", "연구"}

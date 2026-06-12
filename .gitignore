@@ -13,3 +13,4 @@ private-figures/
 .tools/__pycache__/
 __pycache__/
 *.pyc
+.tools/seo_health_report.json

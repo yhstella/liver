@@ -27,7 +27,7 @@ SITE = "https://drshin.kr"
 HUBS_8 = {"간암", "간경화", "B형간염", "C형간염", "지방간", "간수치", "자가면역간질환", "간양성종양"}
 LEGACY_REDIRECTS = {"자가면역간염"}  # 옛 hub. redirect-only — JSON-LD 주입 안 함.
 SECTION_HUBS = {"updates", "케이스", "CC", "keywords", "소개", "연구"}
-EXCLUDE_DIRS = {".git", ".tools", "node_modules", "assets", "guide", "논문"}
+EXCLUDE_DIRS = {".git", ".tools", "node_modules", "assets", "guide", "논문", "private-figures"}
 
 MARKER_START = "<!-- jsonld:auto:start -->"
 MARKER_END = "<!-- jsonld:auto:end -->"
