@@ -224,7 +224,15 @@ def render_series(name, spec):
     draft_count = len(topics) - published_count
 
     title_full = f"{display} — Hepatology Note"
-    desc_meta = f"{display} 시리즈 — {intro[:80]}…"
+    # 강제 80자 truncation + "…"는 SERP에서 잘린 것처럼 보여 CTR을 떨어뜨림.
+    # 전체 intro를 쓰되 너무 길면 문장 경계에서 자연스럽게 끊는다(말줄임표 없음).
+    _full = f"{display} 시리즈 — {intro}"
+    if len(_full) <= 155:
+        desc_meta = _full
+    else:
+        _cut = _full[:155]
+        _m = max(_cut.rfind("다. "), _cut.rfind("요. "), _cut.rfind(". "))
+        desc_meta = (_cut[: _m + 2] if _m > 80 else _cut).rstrip()
     canonical = f"https://drshin.kr/{name}/"
 
     html = f'''<!doctype html>

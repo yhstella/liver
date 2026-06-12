@@ -16,12 +16,12 @@
 
 ## 8 대주제 (Hub Pages)
 
-- [간암 (Hepatocellular Carcinoma)](https://drshin.kr/%EA%B0%84%EC%95%94/): 간암 시리즈 — 간암 진단 직후의 의사결정부터 BCLC 병기, 절제·색전·면역치료의 선택, 간이식 적응증, 검진과 재발 추적까지. 외래에서 환자분께 단계별로 설…
-- [간경화 (Liver Cirrhosis)](https://drshin.kr/%EA%B0%84%EA%B2%BD%ED%99%94/): 간경화 시리즈 — 대상성 vs 비대상성의 분기, Child-Pugh·MELD 점수의 의미, 식도정맥류·복수·간성혼수·간신증후군 같은 합병증의 첫 신호와 관리, 간…
-- [B형 간염 (Chronic Hepatitis B)](https://drshin.kr/B%ED%98%95%EA%B0%84%EC%97%BC/): B형 간염 시리즈 — 치료 시작 기준과 중단 조건, 검사결과 해석, 가족 검사, 결혼·임신·수유, 항바이러스제 선택과 functional cure까지. 외래에서 가장…
+- [간암 (Hepatocellular Carcinoma)](https://drshin.kr/%EA%B0%84%EC%95%94/): 간암 시리즈 — 간암 진단 직후의 의사결정부터 BCLC 병기, 절제·색전·면역치료의 선택, 간이식 적응증, 검진과 재발 추적까지. 외래에서 환자분께 단계별로 설명드리는 흐름 그대로 정리합니다.
+- [간경화 (Liver Cirrhosis)](https://drshin.kr/%EA%B0%84%EA%B2%BD%ED%99%94/): 간경화 시리즈 — 대상성 vs 비대상성의 분기, Child-Pugh·MELD 점수의 의미, 식도정맥류·복수·간성혼수·간신증후군 같은 합병증의 첫 신호와 관리, 간이식 대상자 평가까지. 외래에서 자주 받는 질문 중심으
+- [B형 간염 (Chronic Hepatitis B)](https://drshin.kr/B%ED%98%95%EA%B0%84%EC%97%BC/): B형 간염 시리즈 — 치료 시작 기준과 중단 조건, 검사결과 해석, 가족 검사, 결혼·임신·수유, 항바이러스제 선택과 functional cure까지. 외래에서 가장 자주 받는 질문 중심으로 정리합니다.
 - [C형 간염 (Chronic Hepatitis C)](https://drshin.kr/C%ED%98%95%EA%B0%84%EC%97%BC/): C형 간염 대주제 — C형 간염은 anti-HCV 검사로 노출을 확인하고, HCV RNA(PCR)로 활동성을 확인합니다. DAA로 8-12주 치료 시 95% 이상 완치(SVR)가 가능한 시대가 되었습니다. 다만 간경
-- [지방간·MASLD](https://drshin.kr/%EC%A7%80%EB%B0%A9%EA%B0%84/): 지방간 시리즈 — NAFLD→MASLD 명명 변경부터 단순 지방간과 지방간염의 분기, 정밀검사 흐름, 운동·식이·약물의 효과, 회복 6개월 패턴까지. 환자 입장에…
-- [간수치 이상 (Abnormal LFT)](https://drshin.kr/%EA%B0%84%EC%88%98%EC%B9%98/): 간수치 이상 시리즈 — AST·ALT·GGT의 차이부터 빌리루빈·알부민·PT 같은 합성능 지표, AFP·PIVKA-II 종양표지자, Fibroscan 수치까지. 결과지…
+- [지방간·MASLD](https://drshin.kr/%EC%A7%80%EB%B0%A9%EA%B0%84/): 지방간 시리즈 — NAFLD→MASLD 명명 변경부터 단순 지방간과 지방간염의 분기, 정밀검사 흐름, 운동·식이·약물의 효과, 회복 6개월 패턴까지. 환자 입장에서 매 단계 무엇이 의미 있는지 정리합니다.
+- [간수치 이상 (Abnormal LFT)](https://drshin.kr/%EA%B0%84%EC%88%98%EC%B9%98/): 간수치 이상 시리즈 — AST·ALT·GGT의 차이부터 빌리루빈·알부민·PT 같은 합성능 지표, AFP·PIVKA-II 종양표지자, Fibroscan 수치까지. 결과지 한 줄을 어떻게 읽는지를 정리합니다.
 - [자가면역간질환 (Autoimmune Liver Diseases — AIH·PBC)](https://drshin.kr/%EC%9E%90%EA%B0%80%EB%A9%B4%EC%97%AD%EA%B0%84%EC%A7%88%ED%99%98/): 자가면역간질환 대주제 — 자가면역간염(AIH)·원발성담즙성담관염(PBC)·overlap 증후군. 4축 진단(ALT·자가항체·IgG·조직), UDCA·면역억제 치료, 약 중단 결정, 임신·소아 등 특수상황까지 정리합니
 - [간 양성종양 (Benign Liver Tumors)](https://drshin.kr/%EA%B0%84%EC%96%91%EC%84%B1%EC%A2%85%EC%96%91/): 간 양성종양 대주제 — 간 양성종양은 검진에서 우연히 발견되는 경우가 많습니다. 가장 흔한 4가지(혈관종·단순 낭종·FNH·선종)는 영상 패턴으로 대부분 감별이 가능하며, 간세포암과 달리 평생 안전한 경우가 대부분입
 
