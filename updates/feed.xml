@@ -4,7 +4,7 @@
   <link href="https://drshin.kr/updates/" rel="alternate" type="text/html"/>
   <link href="https://drshin.kr/updates/feed.xml" rel="self" type="application/atom+xml"/>
   <id>https://drshin.kr/updates/</id>
-  <updated>2026-06-14T22:09:46.081224+00:00</updated>
+  <updated>2026-06-14T22:36:05.644713+00:00</updated>
   <subtitle>주요 저널의 hepatology 최신 논문 요약 — 신현재(서울대학교병원 소화기내과·간암센터)</subtitle>
   <author><name>신현재</name><uri>https://drshin.kr/소개/</uri></author>
   <generator>build_updates_rss.py</generator>
@@ -86,7 +86,7 @@
     <link href="https://drshin.kr/updates/ESSENCE-survodutide-MASH-Lancet-2024/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/ESSENCE-survodutide-MASH-Lancet-2024/</id>
     <updated>2026-06-12T17:42:30+09:00</updated>
-    <summary>GLP-1과 글루카곤 수용체를 동시 작용하는 survodutide의 MASH 2상 — 위약 대비 NASH 호전과 섬유화 호전 모두 보임.</summary>
+    <summary>GLP-1과 글루카곤 수용체를 동시 작용하는 survodutide의 MASH 2상 — 위약 14% 대비 용량에 따라 약 47~62%에서 MASH 호전(섬유화 악화 없이), 섬유화 호전도 보임. N Engl J Med 2024.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>
