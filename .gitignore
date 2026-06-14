@@ -15,3 +15,5 @@ __pycache__/
 *.pyc
 .tools/seo_health_report.json
 .tools/link_meta_report.json
+.tools/_*
+.tools/workflows_factcheck.js
