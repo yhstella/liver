@@ -4,11 +4,35 @@
   <link href="https://drshin.kr/updates/" rel="alternate" type="text/html"/>
   <link href="https://drshin.kr/updates/feed.xml" rel="self" type="application/atom+xml"/>
   <id>https://drshin.kr/updates/</id>
-  <updated>2026-06-14T22:36:05.644713+00:00</updated>
+  <updated>2026-06-15T00:08:51.990104+00:00</updated>
   <subtitle>주요 저널의 hepatology 최신 논문 요약 — 신현재(서울대학교병원 소화기내과·간암센터)</subtitle>
   <author><name>신현재</name><uri>https://drshin.kr/소개/</uri></author>
   <generator>build_updates_rss.py</generator>
   <icon>https://drshin.kr/favicon.png</icon>
+  <entry>
+    <title>Bepirovirsen</title>
+    <link href="https://drshin.kr/updates/Bepirovirsen-HBV-Lancet-2024/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/Bepirovirsen-HBV-Lancet-2024/</id>
+    <updated>2026-06-15T07:35:01+09:00</updated>
+    <summary>HBV RNA를 분해하는 antisense oligonucleotide bepirovirsen. B-Clear 시험에서 HBsAg 소실 약 9~10%, 새 시대의 첫 후보.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>Survodutide</title>
+    <link href="https://drshin.kr/updates/ESSENCE-survodutide-MASH-Lancet-2024/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/ESSENCE-survodutide-MASH-Lancet-2024/</id>
+    <updated>2026-06-15T07:35:01+09:00</updated>
+    <summary>GLP-1과 글루카곤 수용체를 동시 작용하는 survodutide의 MASH 2상 — 위약 14% 대비 용량에 따라 약 47~62%에서 MASH 호전(섬유화 악화 없이), 섬유화 호전도 보임. N Engl J Med 2024.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>Semaglutide for AUD</title>
+    <link href="https://drshin.kr/updates/Klausen-Semaglutide-AUD-Lancet-2026/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/Klausen-Semaglutide-AUD-Lancet-2026/</id>
+    <updated>2026-06-15T07:35:01+09:00</updated>
+    <summary>Klausen 2026 Lancet — semaglutide가 알코올 사용 장애 환자(비만 동반)의 음주를 줄였다는 RCT.</summary>
+    <author><name>신현재</name></author>
+  </entry>
   <entry>
     <title>B형간염 functional cure 신약</title>
     <link href="https://drshin.kr/updates/HBV-siRNA-functional-cure-2026/" rel="alternate" type="text/html"/>
@@ -18,19 +42,19 @@
     <author><name>신현재</name></author>
   </entry>
   <entry>
-    <title>아스피린과 MASLD 환자의 간세포암 위험</title>
-    <link href="https://drshin.kr/updates/Ahn-Aspirin-HCC-MASLD-CMH-2026/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/Ahn-Aspirin-HCC-MASLD-CMH-2026/</id>
-    <updated>2026-06-12T17:42:30+09:00</updated>
-    <summary>Ahn J, Hur MH, Shin H et al. Clin Mol Hepatol 2026. MASLD 환자에서 아스피린 사용과 HCC 위험의 nationwide cohort + 유전 위험 분석.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
     <title>AI 기반 CT 간세포암 진단</title>
     <link href="https://drshin.kr/updates/AI-CT-HCC-validation-Hepatology-2024/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/AI-CT-HCC-validation-Hepatology-2024/</id>
     <updated>2026-06-12T17:42:30+09:00</updated>
     <summary>동적 CT 영상에서 HCC를 자동 진단하는 AI 알고리즘의 대규모 다기관·다국가 검증. 영상 전문의 수준 진단 정확도.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>아스피린과 MASLD 환자의 간세포암 위험</title>
+    <link href="https://drshin.kr/updates/Ahn-Aspirin-HCC-MASLD-CMH-2026/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/Ahn-Aspirin-HCC-MASLD-CMH-2026/</id>
+    <updated>2026-06-12T17:42:30+09:00</updated>
+    <summary>Ahn J, Hur MH, Shin H et al. Clin Mol Hepatol 2026. MASLD 환자에서 아스피린 사용과 HCC 위험의 nationwide cohort + 유전 위험 분석.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>
@@ -47,14 +71,6 @@
     <id>https://drshin.kr/updates/Baveno-VII-recompensation-2024/</id>
     <updated>2026-06-12T17:42:30+09:00</updated>
     <summary>Baveno VII 합의에서 처음으로 </summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>Bepirovirsen</title>
-    <link href="https://drshin.kr/updates/Bepirovirsen-HBV-Lancet-2024/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/Bepirovirsen-HBV-Lancet-2024/</id>
-    <updated>2026-06-12T17:42:30+09:00</updated>
-    <summary>HBV RNA를 분해하는 antisense oligonucleotide bepirovirsen. B-Clear 시험에서 HBsAg 소실 약 9~10%, 새 시대의 첫 후보.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>
@@ -79,14 +95,6 @@
     <id>https://drshin.kr/updates/EMERALD-1-TACE-durva-bev-Lancet-2024/</id>
     <updated>2026-06-12T17:42:30+09:00</updated>
     <summary>중간기 간세포암(BCLC B)의 표준이 TACE 단독에서 TACE + durvalumab + bevacizumab로 바뀌는 출발점. Lancet 2024.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>Survodutide</title>
-    <link href="https://drshin.kr/updates/ESSENCE-survodutide-MASH-Lancet-2024/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/ESSENCE-survodutide-MASH-Lancet-2024/</id>
-    <updated>2026-06-12T17:42:30+09:00</updated>
-    <summary>GLP-1과 글루카곤 수용체를 동시 작용하는 survodutide의 MASH 2상 — 위약 14% 대비 용량에 따라 약 47~62%에서 MASH 호전(섬유화 악화 없이), 섬유화 호전도 보임. N Engl J Med 2024.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>
@@ -138,14 +146,6 @@
     <author><name>신현재</name></author>
   </entry>
   <entry>
-    <title>Semaglutide for AUD</title>
-    <link href="https://drshin.kr/updates/Klausen-Semaglutide-AUD-Lancet-2026/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/Klausen-Semaglutide-AUD-Lancet-2026/</id>
-    <updated>2026-06-12T17:42:30+09:00</updated>
-    <summary>Klausen 2026 Lancet — semaglutide가 알코올 사용 장애 환자(비만 동반)의 음주를 줄였다는 RCT.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
     <title>LEAP-012</title>
     <link href="https://drshin.kr/updates/LEAP-012-TACE-pembro-lenva-Lancet-2024/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/LEAP-012-TACE-pembro-lenva-Lancet-2024/</id>
@@ -186,14 +186,6 @@
     <author><name>신현재</name></author>
   </entry>
   <entry>
-    <title>TDF for HBV in pregnancy</title>
-    <link href="https://drshin.kr/updates/Pan-TDF-pregnancy-HBV-NEJM-2016/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/Pan-TDF-pregnancy-HBV-NEJM-2016/</id>
-    <updated>2026-06-12T17:42:30+09:00</updated>
-    <summary>Pan CQ et al. NEJM 2016. RCT, 200명 HBV DNA 고농도 임산부, 임신 30주부터 TDF가 영아 HBV 감염을 0%로 감소시킨 결정적 시험.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
     <title>PEth (phosphatidylethanol)</title>
     <link href="https://drshin.kr/updates/PEth-%EC%95%8C%EC%BD%94%EC%98%AC-%EB%B0%94%EC%9D%B4%EC%98%A4%EB%A7%88%EC%BB%A4/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/PEth-%EC%95%8C%EC%BD%94%EC%98%AC-%EB%B0%94%EC%9D%B4%EC%98%A4%EB%A7%88%EC%BB%A4/</id>
@@ -202,11 +194,11 @@
     <author><name>신현재</name></author>
   </entry>
   <entry>
-    <title>Preemptive TIPS</title>
-    <link href="https://drshin.kr/updates/preemptive-TIPS-%EC%8B%9D%EB%8F%84%EC%A0%95%EB%A7%A5%EB%A5%98-%EC%B6%9C%ED%98%88/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/preemptive-TIPS-%EC%8B%9D%EB%8F%84%EC%A0%95%EB%A7%A5%EB%A5%98-%EC%B6%9C%ED%98%88/</id>
+    <title>TDF for HBV in pregnancy</title>
+    <link href="https://drshin.kr/updates/Pan-TDF-pregnancy-HBV-NEJM-2016/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/Pan-TDF-pregnancy-HBV-NEJM-2016/</id>
     <updated>2026-06-12T17:42:30+09:00</updated>
-    <summary>Preemptive(early) TIPS는 고위험 정맥류 출혈 환자에서 표준 약물·내시경 치료보다 24-72시간 내 시행 시 사망률을 줄인 패러다임 변화입니다.</summary>
+    <summary>Pan CQ et al. NEJM 2016. RCT, 200명 HBV DNA 고농도 임산부, 임신 30주부터 TDF가 영아 HBV 감염을 0%로 감소시킨 결정적 시험.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>
@@ -282,10 +274,18 @@
     <author><name>신현재</name></author>
   </entry>
   <entry>
+    <title>Preemptive TIPS</title>
+    <link href="https://drshin.kr/updates/preemptive-TIPS-%EC%8B%9D%EB%8F%84%EC%A0%95%EB%A7%A5%EB%A5%98-%EC%B6%9C%ED%98%88/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/preemptive-TIPS-%EC%8B%9D%EB%8F%84%EC%A0%95%EB%A7%A5%EB%A5%98-%EC%B6%9C%ED%98%88/</id>
+    <updated>2026-06-12T17:42:30+09:00</updated>
+    <summary>Preemptive(early) TIPS는 고위험 정맥류 출혈 환자에서 표준 약물·내시경 치료보다 24-72시간 내 시행 시 사망률을 줄인 패러다임 변화입니다.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
     <title>PBC 가려움증을 직접 겨냥한 첫 승인 약</title>
     <link href="https://drshin.kr/updates/Linerixibat-PBC-pruritus-FDA-2026/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/Linerixibat-PBC-pruritus-FDA-2026/</id>
-    <updated>2026-06-08T00:15:09Z</updated>
+    <updated>2026-06-08T00:15:09+00:00</updated>
     <summary>원발성 담즙성 담관염(PBC) 환자의 cholestatic pruritus(담즙정체성 가려움증)에 대해 IBAT 억제제 linerixibat(Lynavoy)이 2026년 3월 19일 미 FDA 승인을 받았습니다. 가려움증 자체를 표적으로 한 첫 승인 약이며, GLISTEN phase 3에서 24주 동안 가려움 점수 감소를 확인했습니다.</summary>
     <author><name>신현재</name></author>
   </entry>

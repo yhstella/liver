@@ -26,7 +26,7 @@
   </url>
   <url>
     <loc>https://drshin.kr/updates/Bepirovirsen-HBV-Lancet-2024/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -62,7 +62,13 @@
   </url>
   <url>
     <loc>https://drshin.kr/updates/ESSENCE-survodutide-MASH-Lancet-2024/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://drshin.kr/updates/FibroScan-%EC%88%98%EC%B9%98-%ED%95%B4%EC%84%9D-%EA%B0%80%EC%9D%B4%EB%93%9C-2026/</loc>
+    <lastmod>2026-06-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -104,7 +110,7 @@
   </url>
   <url>
     <loc>https://drshin.kr/updates/Klausen-Semaglutide-AUD-Lancet-2026/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
