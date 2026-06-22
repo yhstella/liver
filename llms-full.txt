@@ -6128,7 +6128,7 @@ _만성 B형간염의 functional cure(기능적 완치)를 노리는 RNA 기반 
 
 # B형간염 functional cure 신약 — bepirovirsen B-Well phase 3와 siRNA(imdusiran, elebsiran) 종합 (2026)
 
-작성일 2026년 6월 1일
+작성일 2026년 6월 22일
 
 원문 (주 인용)
 Hou J, Lim SG, Buti M, et al. Phase 3 Results of Bepirovirsen Treatment for Chronic Hepatitis B Virus Infection (B-Well 1 and B-Well 2). N Engl J Med. 2026 May 28. DOI: 10.1056/NEJMoa2515131.
@@ -8567,6 +8567,13 @@ URL: https://drshin.kr/updates/
 _간 질환 최신 가이드라인·논문 노트. 의료진·전공의 대상의 짧은 요약과 임상 함의._
 
 # 최신 지견
+
+2026·6
+
+### B형간염 functional cure 신약 — bepirovirsen B-Well phase 3와 siRNA(imdusiran, elebsiran) 종합 (2026)
+Hou J, Lim SG, Buti M, et al. Phase 3 Results of Bepirovirsen Treatment for Chronic Hepatitis B Virus Infection (B-Well 1 and B-Well 2). N Engl J Med. 2026 May …
+
+읽기 →
 
 2026·6
 
