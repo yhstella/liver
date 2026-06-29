@@ -584,6 +584,29 @@ abbr[title]:hover,abbr[title]:focus{
   abbr[title]{border-bottom-style:dashed}
 }
 /* end abbreviation */
+/* === 문의 / contact form === */
+.contact-intro{font-size:16px;color:var(--muted);line-height:1.75;margin:0 0 6px}
+.contact-note{background:var(--accent-soft);border:1px solid #d3e7e0;border-radius:10px;padding:14px 16px;margin:18px 0 30px;font-size:14.5px;line-height:1.7;color:#2a4d44}
+.contact-note strong{color:var(--accent-deep)}
+.contact-form{display:flex;flex-direction:column;gap:16px;margin:0 0 26px}
+.contact-form .field{display:flex;flex-direction:column;gap:6px}
+.contact-form label{font-size:14px;font-weight:600;color:var(--fg)}
+.contact-form label .opt{font-weight:400;color:var(--muted);font-size:12.5px;margin-left:6px}
+.contact-form input[type=text],.contact-form input[type=email],.contact-form select,.contact-form textarea{width:100%;font-family:inherit;font-size:15.5px;color:var(--fg);background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 13px;transition:border-color .12s,box-shadow .12s}
+.contact-form textarea{min-height:150px;resize:vertical;line-height:1.7}
+.contact-form input:focus,.contact-form select:focus,.contact-form textarea:focus{outline:none;border-color:var(--accent);box-shadow:0 0 0 3px rgba(31,111,92,0.1)}
+.contact-form .row{display:flex;gap:14px}
+.contact-form .row .field{flex:1}
+@media (max-width:560px){.contact-form .row{flex-direction:column;gap:16px}}
+.contact-submit{align-self:flex-start;font-family:inherit;font-size:15.5px;font-weight:600;color:#fff;background:var(--accent);border:none;border-radius:8px;padding:12px 28px;cursor:pointer;transition:background .12s}
+.contact-submit:hover{background:var(--accent-deep)}
+.contact-submit:disabled{opacity:.6;cursor:default}
+.contact-status{font-size:14.5px;line-height:1.7;padding:13px 16px;border-radius:9px;display:none;margin-top:2px}
+.contact-status.show{display:block}
+.contact-status.ok{background:#eaf4ef;border:1px solid #bfe0d2;color:#185e4d}
+.contact-status.err{background:#fbeeee;border:1px solid #ecc9c9;color:#9a3a3a}
+.hp-field{position:absolute!important;left:-9999px!important;width:1px;height:1px;overflow:hidden}
+/* end 문의 */
 
 /* publish-date (작성일) — 2026-05-12 */
 .publish-date{font-size:13px;color:var(--muted);margin:6px 0 18px;letter-spacing:0.02em;font-weight:400}

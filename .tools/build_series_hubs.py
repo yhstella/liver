@@ -161,7 +161,7 @@ FOOTER = '''<footer class="site-footer">
       <strong>안내</strong>
       <a href="/소개/">소개</a>
       <a href="/연구/">연구</a>
-      <a href="/updates/">Updates</a>
+      <a href="/updates/">Updates</a><a href="/문의/">문의</a>
     </div>
     <div class="col">
       <strong>외부 링크</strong>

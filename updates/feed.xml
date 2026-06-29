@@ -4,16 +4,24 @@
   <link href="https://drshin.kr/updates/" rel="alternate" type="text/html"/>
   <link href="https://drshin.kr/updates/feed.xml" rel="self" type="application/atom+xml"/>
   <id>https://drshin.kr/updates/</id>
-  <updated>2026-06-29T00:07:38.299280+00:00</updated>
+  <updated>2026-06-29T23:17:26.947889+00:00</updated>
   <subtitle>주요 저널의 hepatology 최신 논문 요약 — 신현재(서울대학교병원 소화기내과·간암센터)</subtitle>
   <author><name>신현재</name><uri>https://drshin.kr/소개/</uri></author>
   <generator>build_updates_rss.py</generator>
   <icon>https://drshin.kr/favicon.png</icon>
   <entry>
+    <title>1차 면역치료 후 진행한 간세포암</title>
+    <link href="https://drshin.kr/updates/HCC-second-line-after-IO-2026/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/HCC-second-line-after-IO-2026/</id>
+    <updated>2026-06-29T00:07:50Z</updated>
+    <summary>아테졸리주맙+베바시주맙 또는 두르발루맙+트레멜리무맙 등 1차 면역치료 후 진행한 진행성 간세포암(HCC)에서 2차 옵션으로 lenvatinib, regorafenib, cabozantinib, ramucirumab 중 무엇을 선택할지 정리했습니다. real-world data와 EASL 2025·AASLD 권고를 함께 봅니다.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
     <title>B형간염 functional cure 신약</title>
     <link href="https://drshin.kr/updates/HBV-siRNA-functional-cure-2026/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/HBV-siRNA-functional-cure-2026/</id>
-    <updated>2026-06-22T00:04:32+00:00</updated>
+    <updated>2026-06-22T00:04:32Z</updated>
     <summary>만성 B형간염의 functional cure(기능적 완치)를 노리는 RNA 기반 신약들의 최근 phase 2/3 데이터를 종합합니다. bepirovirsen(ASO) B-Well phase 3는 NEJM에 보고되어 20% 안팎의 functional cure율을 보였고, imdusiran·elebsiran 등 GalNAc-siRNA는 PEG-IFN 병합으로 추가 phase 2 신호가 누적되고 있습니다.</summary>
     <author><name>신현재</name></author>
   </entry>
@@ -45,16 +53,8 @@
     <title>FibroScan 수치 어떻게 읽나</title>
     <link href="https://drshin.kr/updates/FibroScan-%EC%88%98%EC%B9%98-%ED%95%B4%EC%84%9D-%EA%B0%80%EC%9D%B4%EB%93%9C-2026/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/FibroScan-%EC%88%98%EC%B9%98-%ED%95%B4%EC%84%9D-%EA%B0%80%EC%9D%B4%EB%93%9C-2026/</id>
-    <updated>2026-06-15T00:09:15+00:00</updated>
+    <updated>2026-06-15T00:09:15Z</updated>
     <summary>FibroScan(간 일과성 탄성도 검사) 결과지의 kPa(간 굳기) 값과 CAP(지방 정도) 값을 환자 입장에서 어떻게 읽는지, AASLD/EASL 권고 cut-off와 검사가 잘못 높게 나올 수 있는 흔한 상황(비만, 비공복, 우심부전, 간 염증)을 정리했습니다.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>AI 기반 CT 간세포암 진단</title>
-    <link href="https://drshin.kr/updates/AI-CT-HCC-validation-Hepatology-2024/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/AI-CT-HCC-validation-Hepatology-2024/</id>
-    <updated>2026-06-12T17:42:30+09:00</updated>
-    <summary>동적 CT 영상에서 HCC를 자동 진단하는 AI 알고리즘의 대규모 다기관·다국가 검증. 영상 전문의 수준 진단 정확도.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>
@@ -63,6 +63,14 @@
     <id>https://drshin.kr/updates/Ahn-Aspirin-HCC-MASLD-CMH-2026/</id>
     <updated>2026-06-12T17:42:30+09:00</updated>
     <summary>Ahn J, Hur MH, Shin H et al. Clin Mol Hepatol 2026. MASLD 환자에서 아스피린 사용과 HCC 위험의 nationwide cohort + 유전 위험 분석.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>AI 기반 CT 간세포암 진단</title>
+    <link href="https://drshin.kr/updates/AI-CT-HCC-validation-Hepatology-2024/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/AI-CT-HCC-validation-Hepatology-2024/</id>
+    <updated>2026-06-12T17:42:30+09:00</updated>
+    <summary>동적 CT 영상에서 HCC를 자동 진단하는 AI 알고리즘의 대규모 다기관·다국가 검증. 영상 전문의 수준 진단 정확도.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>
@@ -194,6 +202,14 @@
     <author><name>신현재</name></author>
   </entry>
   <entry>
+    <title>TDF for HBV in pregnancy</title>
+    <link href="https://drshin.kr/updates/Pan-TDF-pregnancy-HBV-NEJM-2016/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/Pan-TDF-pregnancy-HBV-NEJM-2016/</id>
+    <updated>2026-06-12T17:42:30+09:00</updated>
+    <summary>Pan CQ et al. NEJM 2016. RCT, 200명 HBV DNA 고농도 임산부, 임신 30주부터 TDF가 영아 HBV 감염을 0%로 감소시킨 결정적 시험.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
     <title>PEth (phosphatidylethanol)</title>
     <link href="https://drshin.kr/updates/PEth-%EC%95%8C%EC%BD%94%EC%98%AC-%EB%B0%94%EC%9D%B4%EC%98%A4%EB%A7%88%EC%BB%A4/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/PEth-%EC%95%8C%EC%BD%94%EC%98%AC-%EB%B0%94%EC%9D%B4%EC%98%A4%EB%A7%88%EC%BB%A4/</id>
@@ -202,11 +218,11 @@
     <author><name>신현재</name></author>
   </entry>
   <entry>
-    <title>TDF for HBV in pregnancy</title>
-    <link href="https://drshin.kr/updates/Pan-TDF-pregnancy-HBV-NEJM-2016/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/Pan-TDF-pregnancy-HBV-NEJM-2016/</id>
+    <title>Preemptive TIPS</title>
+    <link href="https://drshin.kr/updates/preemptive-TIPS-%EC%8B%9D%EB%8F%84%EC%A0%95%EB%A7%A5%EB%A5%98-%EC%B6%9C%ED%98%88/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/preemptive-TIPS-%EC%8B%9D%EB%8F%84%EC%A0%95%EB%A7%A5%EB%A5%98-%EC%B6%9C%ED%98%88/</id>
     <updated>2026-06-12T17:42:30+09:00</updated>
-    <summary>Pan CQ et al. NEJM 2016. RCT, 200명 HBV DNA 고농도 임산부, 임신 30주부터 TDF가 영아 HBV 감염을 0%로 감소시킨 결정적 시험.</summary>
+    <summary>Preemptive(early) TIPS는 고위험 정맥류 출혈 환자에서 표준 약물·내시경 치료보다 24-72시간 내 시행 시 사망률을 줄인 패러다임 변화입니다.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>
@@ -282,18 +298,10 @@
     <author><name>신현재</name></author>
   </entry>
   <entry>
-    <title>Preemptive TIPS</title>
-    <link href="https://drshin.kr/updates/preemptive-TIPS-%EC%8B%9D%EB%8F%84%EC%A0%95%EB%A7%A5%EB%A5%98-%EC%B6%9C%ED%98%88/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/preemptive-TIPS-%EC%8B%9D%EB%8F%84%EC%A0%95%EB%A7%A5%EB%A5%98-%EC%B6%9C%ED%98%88/</id>
-    <updated>2026-06-12T17:42:30+09:00</updated>
-    <summary>Preemptive(early) TIPS는 고위험 정맥류 출혈 환자에서 표준 약물·내시경 치료보다 24-72시간 내 시행 시 사망률을 줄인 패러다임 변화입니다.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
     <title>PBC 가려움증을 직접 겨냥한 첫 승인 약</title>
     <link href="https://drshin.kr/updates/Linerixibat-PBC-pruritus-FDA-2026/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/Linerixibat-PBC-pruritus-FDA-2026/</id>
-    <updated>2026-06-08T00:15:09+00:00</updated>
+    <updated>2026-06-08T00:15:09Z</updated>
     <summary>원발성 담즙성 담관염(PBC) 환자의 cholestatic pruritus(담즙정체성 가려움증)에 대해 IBAT 억제제 linerixibat(Lynavoy)이 2026년 3월 19일 미 FDA 승인을 받았습니다. 가려움증 자체를 표적으로 한 첫 승인 약이며, GLISTEN phase 3에서 24주 동안 가려움 점수 감소를 확인했습니다.</summary>
     <author><name>신현재</name></author>
   </entry>
@@ -311,14 +319,6 @@
     <id>https://drshin.kr/updates/EMERALD-3-TACE-immuneTarget-2026/</id>
     <updated>2026-06-02T11:02:38+09:00</updated>
     <summary>TACE 적응이 되는 중기(intermediate stage) 간세포암(HCC)에서 durvalumab+tremelimumab(STRIDE) + lenvatinib + TACE 4제 병합이 phase 3 EMERALD-3에서 1차 평가변수 무진행생존(PFS)을 통계적·임상적으로 의미 있게 개선했다고 2026년 4월 AstraZeneca가 발표했습니다. 환자분 진료 입장에서 본 정리.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>1차 면역치료 후 진행한 간세포암</title>
-    <link href="https://drshin.kr/updates/HCC-second-line-after-IO-2026/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/HCC-second-line-after-IO-2026/</id>
-    <updated>2026-06-02T11:02:38+09:00</updated>
-    <summary>아테졸리주맙+베바시주맙 또는 두르발루맙+트레멜리무맙 등 1차 면역치료 후 진행한 진행성 간세포암(HCC)에서 2차 옵션으로 lenvatinib, regorafenib, cabozantinib, ramucirumab 중 무엇을 선택할지 정리했습니다. real-world data와 EASL 2025·AASLD 권고를 함께 봅니다.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>

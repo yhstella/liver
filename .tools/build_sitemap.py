@@ -80,6 +80,10 @@ def categorize(rel_dir: Path) -> tuple[str, float, str]:
     first = parts[0]
     depth = len(parts)
 
+    # 유틸리티 페이지(문의) — 사이트 구조 일부, 낮은 우선순위
+    if depth == 1 and first == "문의":
+        return ("core", 0.4, "yearly")
+
     # 섹션 랜딩 (updates/, 케이스/, CC/, keywords/, 소개/, 연구/)
     if depth == 1 and first in SECTION_LANDINGS:
         cf = "weekly" if first == "updates" else "monthly"
