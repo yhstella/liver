@@ -6250,7 +6250,7 @@ _아테졸리주맙+베바시주맙 또는 두르발루맙+트레멜리무맙 �
 
 # 1차 면역치료 후 진행한 간세포암 — 2차 약 선택 (lenvatinib · regorafenib · cabozantinib · ramucirumab)
 
-작성일 2026년 6월 1일
+작성일 2026년 6월 29일
 
 주 인용
 Vogel A, Saborowski A, Rimassa L, El-Khoueiry A. Navigating second-line therapy after immunotherapy in advanced HCC. JHEP Rep. 2025;8(1):101630. doi:10.1016/j.jhepr.2025.101630
@@ -8567,6 +8567,13 @@ URL: https://drshin.kr/updates/
 _간 질환 최신 가이드라인·논문 노트. 의료진·전공의 대상의 짧은 요약과 임상 함의._
 
 # 최신 지견
+
+2026·6
+
+### 1차 면역치료 후 진행한 간세포암 — 2차 약 선택 (lenvatinib · regorafenib · cabozantinib · ramucirumab)
+Vogel A, Saborowski A, Rimassa L, El-Khoueiry A. Navigating second-line therapy after immunotherapy in advanced HCC. JHEP Rep. 2025;8(1):101630. doi:10.1016/j.j…
+
+읽기 →
 
 2026·6
 
