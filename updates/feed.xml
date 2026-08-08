@@ -4,7 +4,7 @@
   <link href="https://drshin.kr/updates/" rel="alternate" type="text/html"/>
   <link href="https://drshin.kr/updates/feed.xml" rel="self" type="application/atom+xml"/>
   <id>https://drshin.kr/updates/</id>
-  <updated>2026-07-05T00:25:29.870095+00:00</updated>
+  <updated>2026-08-08T14:49:11.742757+00:00</updated>
   <subtitle>주요 저널의 hepatology 최신 논문 요약 — 신현재(서울대학교병원 소화기내과·간암센터)</subtitle>
   <author><name>신현재</name><uri>https://drshin.kr/소개/</uri></author>
   <generator>build_updates_rss.py</generator>
@@ -110,7 +110,7 @@
     <link href="https://drshin.kr/updates/GLP1RA-small-molecule-orforglipron/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/GLP1RA-small-molecule-orforglipron/</id>
     <updated>2026-06-30T08:24:17+09:00</updated>
-    <summary>Orforglipron 등 경구 small molecule GLP-1 RA가 phase 3 임상에서 주사형과 유사한 체중 감량·혈당 조절 효과를 보고하며 비만·당뇨·MASH 치료에 새 옵션이 되고 있습니다.</summary>
+    <summary>Orforglipron 등 경구 small molecule GLP-1 RA가 phase 3 임상에서 주사형에 근접한 체중 감량·혈당 조절 효과를 보고하며 비만·당뇨·MASH 치료에 새 옵션이 되고 있습니다.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>
@@ -174,7 +174,7 @@
     <link href="https://drshin.kr/updates/IMbrave150-atezolizumab-bevacizumab-NEJM-2020/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/IMbrave150-atezolizumab-bevacizumab-NEJM-2020/</id>
     <updated>2026-06-30T08:24:17+09:00</updated>
-    <summary>Finn SA et al. NEJM 2020. Phase 3 RCT, 501명 진행성 간세포암, atezo+bev이 sorafenib보다 OS·PFS 우월 - 8년간 1차 표준이었던 sorafenib을 교체.</summary>
+    <summary>Finn RS et al. NEJM 2020. Phase 3 RCT, 501명 진행성 간세포암, atezo+bev이 sorafenib보다 OS·PFS 우월 - 8년간 1차 표준이었던 sorafenib을 교체.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>
@@ -190,7 +190,7 @@
     <link href="https://drshin.kr/updates/Lean-MASLD-review-2026/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/Lean-MASLD-review-2026/</id>
     <updated>2026-06-30T08:24:17+09:00</updated>
-    <summary>BMI가 정상인데도 지방간·MASH·간섬유화가 진행될 수 있습니다. Lean MASLD(마른 MASLD)의 진단 기준(Asian BMI &lt; 23, Caucasian BMI &lt; 25), 위험 요인(PNPLA3·TM6SF2 유전형, 내장 비만, 근감소, 당대사 이상), 자연 경과와 비만형 MASLD 대비 사망·간 합병증 위험을 외래 진료 관점에서 정리했습니다.</summary>
+    <summary>BMI가 정상인데도 지방간·MASH·간섬유화가 진행될 수 있습니다. Lean MASLD(마른 MASLD)의 진단 기준(Asian BMI &amp;lt; 23, Caucasian BMI &amp;lt; 25), 위험 요인(PNPLA3·TM6SF2 유전형, 내장 비만, 근감소, 당대사 이상), 자연 경과와 비만형 MASLD 대비 사망·간 합병증 위험을 외래 진료 관점에서 정리했습니다.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>
