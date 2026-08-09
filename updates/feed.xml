@@ -4,24 +4,16 @@
   <link href="https://drshin.kr/updates/" rel="alternate" type="text/html"/>
   <link href="https://drshin.kr/updates/feed.xml" rel="self" type="application/atom+xml"/>
   <id>https://drshin.kr/updates/</id>
-  <updated>2026-08-08T14:49:11.742757+00:00</updated>
+  <updated>2026-08-09T12:13:00.338263+00:00</updated>
   <subtitle>주요 저널의 hepatology 최신 논문 요약 — 신현재(서울대학교병원 소화기내과·간암센터)</subtitle>
   <author><name>신현재</name><uri>https://drshin.kr/소개/</uri></author>
   <generator>build_updates_rss.py</generator>
   <icon>https://drshin.kr/favicon.png</icon>
   <entry>
-    <title>아스피린과 MASLD 환자의 간세포암 위험</title>
-    <link href="https://drshin.kr/updates/Ahn-Aspirin-HCC-MASLD-CMH-2026/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/Ahn-Aspirin-HCC-MASLD-CMH-2026/</id>
-    <updated>2026-06-30T08:24:17+09:00</updated>
-    <summary>Ahn J, Hur MH, Shin H et al. Clin Mol Hepatol 2026. MASLD 환자에서 아스피린 사용과 HCC 위험의 nationwide cohort + 유전 위험 분석.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
     <title>AI 기반 CT 간세포암 진단</title>
     <link href="https://drshin.kr/updates/AI-CT-HCC-validation-Hepatology-2024/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/AI-CT-HCC-validation-Hepatology-2024/</id>
-    <updated>2026-06-30T08:24:17+09:00</updated>
+    <updated>2026-08-08T23:49:45+09:00</updated>
     <summary>동적 CT 영상에서 HCC를 자동 진단하는 AI 알고리즘의 대규모 다기관·다국가 검증. 영상 전문의 수준 진단 정확도.</summary>
     <author><name>신현재</name></author>
   </entry>
@@ -29,7 +21,7 @@
     <title>Baveno VII</title>
     <link href="https://drshin.kr/updates/Baveno-VII-portal-hypertension-J-Hepatol-2022/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/Baveno-VII-portal-hypertension-J-Hepatol-2022/</id>
-    <updated>2026-06-30T08:24:17+09:00</updated>
+    <updated>2026-08-08T23:49:45+09:00</updated>
     <summary>de Franchis R et al. J Hepatol 2022. Baveno VII 합의 - clinically significant portal hypertension(CSPH) 비침습 진단 기준, 식도정맥류 검진 생략 기준, 임상적 재대상화(recompensation) 정의 등을 표준화한 결정적 합의.</summary>
     <author><name>신현재</name></author>
   </entry>
@@ -37,7 +29,7 @@
     <title>Baveno VII</title>
     <link href="https://drshin.kr/updates/Baveno-VII-recompensation-2024/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/Baveno-VII-recompensation-2024/</id>
-    <updated>2026-06-30T08:24:17+09:00</updated>
+    <updated>2026-08-08T23:49:45+09:00</updated>
     <summary>Baveno VII 합의에서 처음으로 </summary>
     <author><name>신현재</name></author>
   </entry>
@@ -45,8 +37,88 @@
     <title>Bepirovirsen</title>
     <link href="https://drshin.kr/updates/Bepirovirsen-HBV-Lancet-2024/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/Bepirovirsen-HBV-Lancet-2024/</id>
-    <updated>2026-06-30T08:24:17+09:00</updated>
+    <updated>2026-08-08T23:49:45+09:00</updated>
     <summary>HBV RNA를 분해하는 antisense oligonucleotide bepirovirsen. B-Clear 시험에서 HBsAg 소실 약 9~10%, 새 시대의 첫 후보.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>EASO 2026 비만 약물치료 프레임워크</title>
+    <link href="https://drshin.kr/updates/EASO-MASH-pharmacotherapy-NatMed-2026/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/EASO-MASH-pharmacotherapy-NatMed-2026/</id>
+    <updated>2026-08-08T23:49:45+09:00</updated>
+    <summary>European Association for the Study of Obesity (EASO) 2026 framework가 Nature Medicine에 발표됐습니다. 2025년 판에서 &apos;간 질환&apos; 한 덩어리로 묶였던 영역이 &apos;MASH 관해&apos;와 &apos;섬유화 개선&apos;으로 분리됐고, semaglutide만 섬유화 개선에 단독으로 위치합니다.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>Survodutide</title>
+    <link href="https://drshin.kr/updates/ESSENCE-survodutide-MASH-Lancet-2024/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/ESSENCE-survodutide-MASH-Lancet-2024/</id>
+    <updated>2026-08-08T23:49:45+09:00</updated>
+    <summary>GLP-1과 글루카곤 수용체를 동시 작용하는 survodutide의 MASH 2상 — 위약 14% 대비 용량에 따라 약 47~62%에서 MASH 호전(섬유화 악화 없이), 섬유화 호전도 보임. N Engl J Med 2024.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>GLP-1 RA 경구 small molecule</title>
+    <link href="https://drshin.kr/updates/GLP1RA-small-molecule-orforglipron/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/GLP1RA-small-molecule-orforglipron/</id>
+    <updated>2026-08-08T23:49:45+09:00</updated>
+    <summary>Orforglipron 등 경구 small molecule GLP-1 RA가 phase 3 임상에서 주사형에 근접한 체중 감량·혈당 조절 효과를 보고하며 비만·당뇨·MASH 치료에 새 옵션이 되고 있습니다.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>IMbrave150</title>
+    <link href="https://drshin.kr/updates/IMbrave150-atezolizumab-bevacizumab-NEJM-2020/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/IMbrave150-atezolizumab-bevacizumab-NEJM-2020/</id>
+    <updated>2026-08-08T23:49:45+09:00</updated>
+    <summary>Finn RS et al. NEJM 2020. Phase 3 RCT, 501명 진행성 간세포암, atezo+bev이 sorafenib보다 OS·PFS 우월 - 8년간 1차 표준이었던 sorafenib을 교체.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>저는 살이 안 쪘는데 왜 지방간인가요</title>
+    <link href="https://drshin.kr/updates/Lean-MASLD-review-2026/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/Lean-MASLD-review-2026/</id>
+    <updated>2026-08-08T23:49:45+09:00</updated>
+    <summary>BMI가 정상인데도 지방간·MASH·간섬유화가 진행될 수 있습니다. Lean MASLD(마른 MASLD)의 진단 기준(Asian BMI &amp;lt; 23, Caucasian BMI &amp;lt; 25), 위험 요인(PNPLA3·TM6SF2 유전형, 내장 비만, 근감소, 당대사 이상), 자연 경과와 비만형 MASLD 대비 사망·간 합병증 위험을 외래 진료 관점에서 정리했습니다.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>MASH 간경변에서 처음 보인 가능성</title>
+    <link href="https://drshin.kr/updates/Noureddin-EFX-MASH-cirrhosis-NEJM-2025/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/Noureddin-EFX-MASH-cirrhosis-NEJM-2025/</id>
+    <updated>2026-08-08T23:49:45+09:00</updated>
+    <summary>MASH로 인한 보상성 간경변(F4) 환자에서 FGF21 유사체 efruxifermin의 SYMMETRY phase 2b 결과가 NEJM에 발표됐습니다. 36주째 primary endpoint는 충족하지 못했지만 96주째 50 mg군의 29%가 섬유화 1단계 이상 호전, 39%가 간경변 자체의 회복(F4→F3 이하)을 보였습니다.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>삼중 작용제 retatrutide</title>
+    <link href="https://drshin.kr/updates/Retatrutide-TRIUMPH-1-MASLD-2026/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/Retatrutide-TRIUMPH-1-MASLD-2026/</id>
+    <updated>2026-08-08T23:49:45+09:00</updated>
+    <summary>GIP·GLP-1·글루카곤 삼중 수용체 작용제 retatrutide의 TRIUMPH-1 phase 3 topline 결과가 2026년 5월 공개됐습니다. 80주째 최고 용량에서 약 28%의 체중 감량을 보였고, 앞서 phase 2a에서는 간 지방이 MRI-PDFF 기준 86%까지 줄며 대부분 정상화됐습니다. 다만 간 섬유화 같은 hard endpoint는 별도 3상 결과를 기다려야 합니다.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>보조 CIK 면역치료의 9년 장기 추적</title>
+    <link href="https://drshin.kr/updates/Shin-CIK-HCC-CII-2026/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/Shin-CIK-HCC-CII-2026/</id>
+    <updated>2026-08-08T23:49:45+09:00</updated>
+    <summary>Shin H et al. Cancer Immunol Immunother 2026. 간세포암 보조 CIK(cytokine-induced killer) 면역치료 RCT의 9년 연장 추적과 실세계 데이터.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>TDF·ETV에서 TAF로 전환 시 간세포암 위험</title>
+    <link href="https://drshin.kr/updates/Shin-TDF-ETV-TAF-switch-HCC-HepRes-2024/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/Shin-TDF-ETV-TAF-switch-HCC-HepRes-2024/</id>
+    <updated>2026-08-08T23:49:45+09:00</updated>
+    <summary>Shin H et al. Hepatol Res 2024. 근치 치료 후 TDF/ETV에서 TAF로 전환한 환자의 HCC 발생 위험 다기관 분석.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>아스피린과 MASLD 환자의 간세포암 위험</title>
+    <link href="https://drshin.kr/updates/Ahn-Aspirin-HCC-MASLD-CMH-2026/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/Ahn-Aspirin-HCC-MASLD-CMH-2026/</id>
+    <updated>2026-06-30T08:24:17+09:00</updated>
+    <summary>Ahn J, Hur MH, Shin H et al. Clin Mol Hepatol 2026. MASLD 환자에서 아스피린 사용과 HCC 위험의 nationwide cohort + 유전 위험 분석.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>
@@ -66,14 +138,6 @@
     <author><name>신현재</name></author>
   </entry>
   <entry>
-    <title>EASO 2026 비만 약물치료 프레임워크</title>
-    <link href="https://drshin.kr/updates/EASO-MASH-pharmacotherapy-NatMed-2026/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/EASO-MASH-pharmacotherapy-NatMed-2026/</id>
-    <updated>2026-06-30T08:24:17+09:00</updated>
-    <summary>European Association for the Study of Obesity (EASO) 2026 framework가 Nature Medicine에 발표됐습니다. 2025년 판에서 &apos;간 질환&apos; 한 덩어리로 묶였던 영역이 &apos;MASH 관해&apos;와 &apos;섬유화 개선&apos;으로 분리됐고, semaglutide만 섬유화 개선에 단독으로 위치합니다.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
     <title>EMERALD-1</title>
     <link href="https://drshin.kr/updates/EMERALD-1-TACE-durva-bev-Lancet-2024/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/EMERALD-1-TACE-durva-bev-Lancet-2024/</id>
@@ -90,27 +154,11 @@
     <author><name>신현재</name></author>
   </entry>
   <entry>
-    <title>Survodutide</title>
-    <link href="https://drshin.kr/updates/ESSENCE-survodutide-MASH-Lancet-2024/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/ESSENCE-survodutide-MASH-Lancet-2024/</id>
-    <updated>2026-06-30T08:24:17+09:00</updated>
-    <summary>GLP-1과 글루카곤 수용체를 동시 작용하는 survodutide의 MASH 2상 — 위약 14% 대비 용량에 따라 약 47~62%에서 MASH 호전(섬유화 악화 없이), 섬유화 호전도 보임. N Engl J Med 2024.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
     <title>FibroScan 수치 어떻게 읽나</title>
     <link href="https://drshin.kr/updates/FibroScan-%EC%88%98%EC%B9%98-%ED%95%B4%EC%84%9D-%EA%B0%80%EC%9D%B4%EB%93%9C-2026/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/FibroScan-%EC%88%98%EC%B9%98-%ED%95%B4%EC%84%9D-%EA%B0%80%EC%9D%B4%EB%93%9C-2026/</id>
     <updated>2026-06-30T08:24:17+09:00</updated>
     <summary>FibroScan(간 일과성 탄성도 검사) 결과지의 kPa(간 굳기) 값과 CAP(지방 정도) 값을 환자 입장에서 어떻게 읽는지, AASLD/EASL 권고 cut-off와 검사가 잘못 높게 나올 수 있는 흔한 상황(비만, 비공복, 우심부전, 간 염증)을 정리했습니다.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>GLP-1 RA 경구 small molecule</title>
-    <link href="https://drshin.kr/updates/GLP1RA-small-molecule-orforglipron/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/GLP1RA-small-molecule-orforglipron/</id>
-    <updated>2026-06-30T08:24:17+09:00</updated>
-    <summary>Orforglipron 등 경구 small molecule GLP-1 RA가 phase 3 임상에서 주사형에 근접한 체중 감량·혈당 조절 효과를 보고하며 비만·당뇨·MASH 치료에 새 옵션이 되고 있습니다.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>
@@ -170,27 +218,11 @@
     <author><name>신현재</name></author>
   </entry>
   <entry>
-    <title>IMbrave150</title>
-    <link href="https://drshin.kr/updates/IMbrave150-atezolizumab-bevacizumab-NEJM-2020/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/IMbrave150-atezolizumab-bevacizumab-NEJM-2020/</id>
-    <updated>2026-06-30T08:24:17+09:00</updated>
-    <summary>Finn RS et al. NEJM 2020. Phase 3 RCT, 501명 진행성 간세포암, atezo+bev이 sorafenib보다 OS·PFS 우월 - 8년간 1차 표준이었던 sorafenib을 교체.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
     <title>Semaglutide for AUD</title>
     <link href="https://drshin.kr/updates/Klausen-Semaglutide-AUD-Lancet-2026/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/Klausen-Semaglutide-AUD-Lancet-2026/</id>
     <updated>2026-06-30T08:24:17+09:00</updated>
     <summary>Klausen 2026 Lancet — semaglutide가 알코올 사용 장애 환자(비만 동반)의 음주를 줄였다는 RCT.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>저는 살이 안 쪘는데 왜 지방간인가요</title>
-    <link href="https://drshin.kr/updates/Lean-MASLD-review-2026/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/Lean-MASLD-review-2026/</id>
-    <updated>2026-06-30T08:24:17+09:00</updated>
-    <summary>BMI가 정상인데도 지방간·MASH·간섬유화가 진행될 수 있습니다. Lean MASLD(마른 MASLD)의 진단 기준(Asian BMI &amp;lt; 23, Caucasian BMI &amp;lt; 25), 위험 요인(PNPLA3·TM6SF2 유전형, 내장 비만, 근감소, 당대사 이상), 자연 경과와 비만형 MASLD 대비 사망·간 합병증 위험을 외래 진료 관점에서 정리했습니다.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>
@@ -242,14 +274,6 @@
     <author><name>신현재</name></author>
   </entry>
   <entry>
-    <title>MASH 간경변에서 처음 보인 가능성</title>
-    <link href="https://drshin.kr/updates/Noureddin-EFX-MASH-cirrhosis-NEJM-2025/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/Noureddin-EFX-MASH-cirrhosis-NEJM-2025/</id>
-    <updated>2026-06-30T08:24:17+09:00</updated>
-    <summary>MASH로 인한 보상성 간경변(F4) 환자에서 FGF21 유사체 efruxifermin의 SYMMETRY phase 2b 결과가 NEJM에 발표됐습니다. 36주째 primary endpoint는 충족하지 못했지만 96주째 50 mg군의 29%가 섬유화 1단계 이상 호전, 39%가 간경변 자체의 회복(F4→F3 이하)을 보였습니다.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
     <title>TDF for HBV in pregnancy</title>
     <link href="https://drshin.kr/updates/Pan-TDF-pregnancy-HBV-NEJM-2016/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/Pan-TDF-pregnancy-HBV-NEJM-2016/</id>
@@ -274,14 +298,6 @@
     <author><name>신현재</name></author>
   </entry>
   <entry>
-    <title>삼중 작용제 retatrutide</title>
-    <link href="https://drshin.kr/updates/Retatrutide-TRIUMPH-1-MASLD-2026/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/Retatrutide-TRIUMPH-1-MASLD-2026/</id>
-    <updated>2026-06-30T08:24:17+09:00</updated>
-    <summary>GIP·GLP-1·글루카곤 삼중 수용체 작용제 retatrutide의 TRIUMPH-1 phase 3 topline 결과가 2026년 5월 공개됐습니다. 80주째 최고 용량에서 약 28%의 체중 감량을 보였고, 앞서 phase 2a에서는 간 지방이 MRI-PDFF 기준 86%까지 줄며 대부분 정상화됐습니다. 다만 간 섬유화 같은 hard endpoint는 별도 3상 결과를 기다려야 합니다.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
     <title>AI 영상 바이오마커</title>
     <link href="https://drshin.kr/updates/Shin-AI-CT-HCC-CHB-JHep-2025/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/Shin-AI-CT-HCC-CHB-JHep-2025/</id>
@@ -295,14 +311,6 @@
     <id>https://drshin.kr/updates/Shin-Antiviral-CV-CHB-JMV-2024/</id>
     <updated>2026-06-30T08:24:17+09:00</updated>
     <summary>Shin H et al. J Med Virol 2024. 만성 B형간염 환자에서 항바이러스제의 대사 효과·심혈관 위험 비교 분석.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>보조 CIK 면역치료의 9년 장기 추적</title>
-    <link href="https://drshin.kr/updates/Shin-CIK-HCC-CII-2026/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/Shin-CIK-HCC-CII-2026/</id>
-    <updated>2026-06-30T08:24:17+09:00</updated>
-    <summary>Shin H et al. Cancer Immunol Immunother 2026. 간세포암 보조 CIK(cytokine-induced killer) 면역치료 RCT의 9년 연장 추적과 실세계 데이터.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>
@@ -335,14 +343,6 @@
     <id>https://drshin.kr/updates/Shin-HCC-Guidelines-Review-JLC-2025/</id>
     <updated>2026-06-30T08:24:17+09:00</updated>
     <summary>Shin H, Yu SJ. J Liver Cancer 2025. 2017-2024년 사이 발표된 주요 HCC 관리 가이드라인을 종합 비교한 review.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>TDF·ETV에서 TAF로 전환 시 간세포암 위험</title>
-    <link href="https://drshin.kr/updates/Shin-TDF-ETV-TAF-switch-HCC-HepRes-2024/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/Shin-TDF-ETV-TAF-switch-HCC-HepRes-2024/</id>
-    <updated>2026-06-30T08:24:17+09:00</updated>
-    <summary>Shin H et al. Hepatol Res 2024. 근치 치료 후 TDF/ETV에서 TAF로 전환한 환자의 HCC 발생 위험 다기관 분석.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>
