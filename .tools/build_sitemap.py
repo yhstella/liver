@@ -29,7 +29,7 @@ SITE = "https://drshin.kr"
 EXCLUDE_DIRS = {".git", ".tools", "node_modules", "assets", "guide", "논문", "private-figures"}
 EXCLUDE_SLUGS = {"자가면역간염"}  # legacy redirect — sitemap에서 제외
 HUBS_8 = {"간암", "간경화", "B형간염", "C형간염", "지방간", "간수치", "자가면역간질환", "간양성종양"}
-SECTION_LANDINGS = {"updates", "케이스", "CC", "keywords", "소개", "연구"}
+SECTION_LANDINGS = {"updates", "케이스", "CC", "keywords", "소개", "연구", "단상"}
 
 
 def is_noindex_or_draft(path: Path) -> bool:
@@ -100,6 +100,8 @@ def categorize(rel_dir: Path) -> tuple[str, float, str]:
         return ("cases", 0.6, "monthly")
     if first == "CC":
         return ("cc", 0.7, "monthly")
+    if first == "단상":
+        return ("notes", 0.5, "monthly")
 
     # 그 외 depth=1 = 대주제-세부 detail 페이지
     if depth == 1:
@@ -171,6 +173,7 @@ BUCKET_FILES = {
     "updates": "sitemap-updates.xml",
     "cases": "sitemap-cases.xml",
     "cc": "sitemap-cc.xml",
+    "notes": "sitemap-notes.xml",
 }
 
 

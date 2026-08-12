@@ -607,6 +607,27 @@ abbr[title]:hover,abbr[title]:focus{
 .contact-status.err{background:#fbeeee;border:1px solid #ecc9c9;color:#9a3a3a}
 .hp-field{position:absolute!important;left:-9999px!important;width:1px;height:1px;overflow:hidden}
 /* end 문의 */
+/* 단상 (personal notes) */
+.notes-list{list-style:none;padding:0;margin:32px 0 0}
+.notes-list li{padding:22px 0;border-bottom:1px solid var(--line)}
+.notes-list li:first-child{padding-top:0}
+.notes-list a{text-decoration:none;color:var(--fg)}
+.notes-list h3{margin:0 0 6px;font-family:"Times New Roman",Georgia,"Noto Serif KR",serif;font-size:20px;font-weight:600;letter-spacing:-0.015em;line-height:1.35}
+.notes-list a:hover h3{color:var(--accent)}
+.notes-list p{margin:0 0 8px;color:#3a3a3a;font-size:14.5px;line-height:1.65}
+.notes-list time{color:var(--muted);font-size:12.5px;letter-spacing:0.02em}
+article.note{max-width:640px}
+article.note h1{font-family:"Times New Roman",Georgia,"Noto Serif KR",serif;font-size:31px;line-height:1.3;letter-spacing:-0.02em;font-weight:600;margin:0 0 10px}
+article.note .note-lede{color:var(--muted);font-size:15.5px;line-height:1.7;margin:0 0 30px;padding-bottom:22px;border-bottom:1px solid var(--line)}
+article.note p{font-size:16.5px;line-height:1.95;margin:0 0 22px;color:#22302b}
+article.note p + p{text-indent:0}
+@media (max-width:600px){
+  .notes-list h3{font-size:17.5px}
+  article.note h1{font-size:24px}
+  article.note p{font-size:15.5px;line-height:1.85}
+  article.note .note-lede{font-size:14.5px}
+}
+/* end 단상 */
 
 /* publish-date (작성일) — 2026-05-12 */
 .publish-date{font-size:13px;color:var(--muted);margin:6px 0 18px;letter-spacing:0.02em;font-weight:400}

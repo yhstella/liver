@@ -31,6 +31,7 @@ STEPS = [
     ("Inject related-auto (same-hub picks)",     "inject_related_simple.py"),
     ("Update 'recent posts' on home (auto)",     "build_publish_dates_260512.py"),
     ("Recount homepage & hub series-meta",       "update_homepage_counts.py"),
+    ("Rebuild 단상 index list",                   "build_notes_index.py"),
     ("Build search index JSON",                  "build_search_index.py"),
     ("Generate sitemap.xml index + children",    "build_sitemap.py"),
     ("Generate Atom feed for /updates/",         "build_updates_rss.py"),

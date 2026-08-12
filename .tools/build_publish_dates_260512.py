@@ -26,7 +26,7 @@ HUB_SLUGS = {
     "C형간염", "자가면역간질환", "간양성종양",
     "자가면역간염",  # legacy redirect — '최근 작성글'에 노출 금지
     "CC", "케이스", "updates", "keywords", "guide",
-    "소개", "논문", "연구",
+    "소개", "논문", "연구", "단상",
     "assets", "private-figures", "tag", ".tools", ".git",
 }
 
