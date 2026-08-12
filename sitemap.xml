@@ -20,4 +20,8 @@
     <loc>https://drshin.kr/sitemap-cc.xml</loc>
     <lastmod>2026-08-08</lastmod>
   </sitemap>
+  <sitemap>
+    <loc>https://drshin.kr/sitemap-notes.xml</loc>
+    <lastmod>2026-08-12</lastmod>
+  </sitemap>
 </sitemapindex>
