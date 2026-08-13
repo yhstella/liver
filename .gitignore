@@ -17,3 +17,5 @@ __pycache__/
 .tools/link_meta_report.json
 .tools/_*
 .tools/workflows_factcheck.js
+
+.tools/notes_publish.log
