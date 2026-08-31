@@ -198,6 +198,7 @@
 - [조기 HBeAg 혈청전환과 간세포암(HCC)·간경변 위험의 연관성 부재](https://drshin.kr/updates/Shin-HBeAg-seroclearance-HCC-JHepR-2024/): Shin H et al. JHEP Rep 2024. 치료 중 조기 HBeAg 혈청전환과 HCC/비대상성 간경변 발생의 연관성 분석.
 - [간세포암 글로벌 가이드라인 종합 정리 (2017-2024)](https://drshin.kr/updates/Shin-HCC-Guidelines-Review-JLC-2025/): Shin H, Yu SJ. J Liver Cancer 2025. 2017-2024년 사이 발표된 주요 HCC 관리 가이드라인을 종합 비교한 review.
 - [TDF·ETV에서 TAF로 전환 시 간세포암 위험](https://drshin.kr/updates/Shin-TDF-ETV-TAF-switch-HCC-HepRes-2024/): Shin H et al. Hepatol Res 2024. 근치 치료 후 TDF/ETV에서 TAF로 전환한 환자의 HCC 발생 위험 다기관 분석.
+- [면역치료로 줄어들면 수술할 수 있나 — TALENTOP (Lancet 2026)](https://drshin.kr/updates/TALENTOP-conversion-surgery-HCC-Lancet-2026/): 혈관 침범이 있는 간세포암에서 아테졸리주맙+베바시주맙에 반응한 뒤 절제를 하는 것이 유지 치료보다 나은지 물은 첫 3상 시험. 치료 실패까지의 기간은 길어졌지만 생존 이득은 아직 확인되지 않았고 수술군 부작용이 더 많았습니다.
 - [Tirzepatide MASH — phase 2 SYNERGY-NASH 정리와 phase 3 진행 상황 (2026)](https://drshin.kr/updates/Tirzepatide-MASH-phase3-update-2026/): Tirzepatide의 MASH 적응증 개발 현황을 정리합니다. phase 2 SYNERGY-NASH(NEJM 2024)에서 52주째 15 mg군 73%가 MASH 관해(efficacy estimand 기준), 약 53~59%가 섬유화 1단계 이상 호
 
 ## 케이스 (Clinical Cases)

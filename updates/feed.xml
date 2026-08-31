@@ -4,11 +4,19 @@
   <link href="https://drshin.kr/updates/" rel="alternate" type="text/html"/>
   <link href="https://drshin.kr/updates/feed.xml" rel="self" type="application/atom+xml"/>
   <id>https://drshin.kr/updates/</id>
-  <updated>2026-08-19T00:06:31.946523+00:00</updated>
+  <updated>2026-08-31T04:31:51.638568+00:00</updated>
   <subtitle>주요 저널의 hepatology 최신 논문 요약 — 신현재(서울대학교병원 소화기내과·간암센터)</subtitle>
   <author><name>신현재</name><uri>https://drshin.kr/소개/</uri></author>
   <generator>build_updates_rss.py</generator>
   <icon>https://drshin.kr/favicon.png</icon>
+  <entry>
+    <title>면역치료로 줄어들면 수술할 수 있나</title>
+    <link href="https://drshin.kr/updates/TALENTOP-conversion-surgery-HCC-Lancet-2026/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/TALENTOP-conversion-surgery-HCC-Lancet-2026/</id>
+    <updated>2026-08-31T04:28:59.641854+00:00</updated>
+    <summary>혈관 침범이 있는 간세포암에서 아테졸리주맙+베바시주맙에 반응한 뒤 절제를 하는 것이 유지 치료보다 나은지 물은 첫 3상 시험. 치료 실패까지의 기간은 길어졌지만 생존 이득은 아직 확인되지 않았고 수술군 부작용이 더 많았습니다.</summary>
+    <author><name>신현재</name></author>
+  </entry>
   <entry>
     <title>아스피린과 MASLD 환자의 간세포암 위험</title>
     <link href="https://drshin.kr/updates/Ahn-Aspirin-HCC-MASLD-CMH-2026/" rel="alternate" type="text/html"/>
