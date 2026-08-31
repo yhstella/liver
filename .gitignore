@@ -19,3 +19,4 @@ __pycache__/
 .tools/workflows_factcheck.js
 
 .tools/notes_publish.log
+.tools/updates_publish.log
