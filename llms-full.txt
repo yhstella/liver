@@ -8407,7 +8407,7 @@ _C형간염 DAA로 완치(SVR12)된 환자분도 간경변이 남아 있으면 �
 
 # C형간염 완치(SVR) 이후에도 추적이 필요한 이유 — 2026 가이드라인 정리
 
-작성일 2026년 6월 1일
+작성일 2026년 9월 1일
 
 주 참고
 Reiberger T, Lens S, Cabibbo G, et al. EASL position paper on clinical follow-up after HCV cure. J Hepatol. 2024;81(2):326–344. · AASLD-IDSA HCV Guidance (continuously updated). · 2025 KASL clinical practice guidelines for management of hepatitis C. Clin Mol Hepatol. 2025.
@@ -8965,6 +8965,13 @@ URL: https://drshin.kr/updates/
 _간 질환 최신 가이드라인·논문 노트. 의료진·전공의 대상의 짧은 요약과 임상 함의._
 
 # 최신 지견
+
+2026·9
+
+### C형간염 완치(SVR) 이후에도 추적이 필요한 이유 — 2026 가이드라인 정리
+Reiberger T, Lens S, Cabibbo G, et al. EASL position paper on clinical follow-up after HCV cure. J Hepatol. 2024;81(2):326–344. · AASLD-IDSA HCV Guidance (conti…
+
+읽기 →
 
 2026·6
 
