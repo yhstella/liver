@@ -70,6 +70,10 @@ def categorize(p: Path) -> str:
     return 'detail'
 
 
+# 검수 전 초안(DRAFT 주석 또는 noindex,nofollow)은 공개 자산에 넣지 않는다
+DRAFT_RE = re.compile(r'<!--\s*DRAFT|<meta\s+name="robots"\s+content="noindex,nofollow"', re.I)
+
+
 def main():
     out = []
     for p in ROOT.rglob('index.html'):
@@ -82,6 +86,8 @@ def main():
         if len(rel_parts) == 2 and rel_parts[0] in LEGACY_REDIRECTS:
             continue
         txt = p.read_text(encoding='utf-8')
+        if DRAFT_RE.search(txt[:8000]):
+            continue
         cat = categorize(p)
         h1m = H1_RE.search(txt)
         title = strip_tags(h1m.group(1)) if h1m else ''

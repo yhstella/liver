@@ -178,7 +178,6 @@
 - [IMbrave050 — 절제·소작 후 보조 atezo+bev의 첫 양성 결과](https://drshin.kr/updates/IMbrave050-adjuvant-atezo-bev-Lancet-2023/): 고위험 절제·소작 후 atezolizumab + bevacizumab 12개월이 재발 없는 생존(RFS)을 의미 있게 연장한 첫 양성 보조 면역치료 시험. Lancet 2023.
 - [IMbrave150](https://drshin.kr/updates/IMbrave150-atezolizumab-bevacizumab-NEJM-2020/): Finn RS et al. NEJM 2020. Phase 3 RCT, 501명 진행성 간세포암, atezo+bev이 sorafenib보다 OS·PFS 우월 - 8년간 1차 표준이었던 sorafenib을 교체.
 - [Semaglutide for AUD — Lancet RCT](https://drshin.kr/updates/Klausen-Semaglutide-AUD-Lancet-2026/): Klausen 2026 Lancet — semaglutide가 알코올 사용 장애 환자(비만 동반)의 음주를 줄였다는 RCT.
-- [저는 살이 안 쪘는데 왜 지방간인가요 — Lean MASLD(마른 MASLD) 정리 (2026)](https://drshin.kr/updates/Lean-MASLD-review-2026/): BMI가 정상인데도 지방간·MASH·간섬유화가 진행될 수 있습니다. Lean MASLD(마른 MASLD)의 진단 기준(Asian BMI < 23, Caucasian BMI < 25), 위험 요인(PNPLA3·TM6SF2 유전형, 내장 비만, 근감소, 
 - [LEAP-012 — 중간기 간암에 TACE + 면역치료 + TKI 조합 두 번째 근거](https://drshin.kr/updates/LEAP-012-TACE-pembro-lenva-Lancet-2024/): 중간기 간세포암에서 TACE + pembrolizumab + lenvatinib 조합이 TACE 단독 대비 PFS 의미 있게 연장. EMERALD-1과 함께 BCLC B 표준 변화의 두 번째 근거.
 - [PBC 가려움증을 직접 겨냥한 첫 승인 약 — linerixibat(Lynavoy) FDA 2026](https://drshin.kr/updates/Linerixibat-PBC-pruritus-FDA-2026/): 원발성 담즙성 담관염(PBC) 환자의 cholestatic pruritus(담즙정체성 가려움증)에 대해 IBAT 억제제 linerixibat(Lynavoy)이 2026년 3월 19일 미 FDA 승인을 받았습니다. 가려움증 자체를 표적으로 한 첫 승인 
 - [Resmetirom 3년 데이터 — 첫 MASH 약의 장기 효과 확인](https://drshin.kr/updates/MAESTRO-NASH-resmetirom-3%EB%85%84-2024/): MAESTRO-NASH 3년 추적 — Resmetirom(thyroid hormone β receptor agonist)이 NASH·섬유화 호전을 3년 유지하고 안전성 양호.
@@ -199,7 +198,6 @@
 - [간세포암 글로벌 가이드라인 종합 정리 (2017-2024)](https://drshin.kr/updates/Shin-HCC-Guidelines-Review-JLC-2025/): Shin H, Yu SJ. J Liver Cancer 2025. 2017-2024년 사이 발표된 주요 HCC 관리 가이드라인을 종합 비교한 review.
 - [TDF·ETV에서 TAF로 전환 시 간세포암 위험](https://drshin.kr/updates/Shin-TDF-ETV-TAF-switch-HCC-HepRes-2024/): Shin H et al. Hepatol Res 2024. 근치 치료 후 TDF/ETV에서 TAF로 전환한 환자의 HCC 발생 위험 다기관 분석.
 - [면역치료로 줄어들면 수술할 수 있나 — TALENTOP (Lancet 2026)](https://drshin.kr/updates/TALENTOP-conversion-surgery-HCC-Lancet-2026/): 혈관 침범이 있는 간세포암에서 아테졸리주맙+베바시주맙에 반응한 뒤 절제를 하는 것이 유지 치료보다 나은지 물은 첫 3상 시험. 치료 실패까지의 기간은 길어졌지만 생존 이득은 아직 확인되지 않았고 수술군 부작용이 더 많았습니다.
-- [Tirzepatide MASH — phase 2 SYNERGY-NASH 정리와 phase 3 진행 상황 (2026)](https://drshin.kr/updates/Tirzepatide-MASH-phase3-update-2026/): Tirzepatide의 MASH 적응증 개발 현황을 정리합니다. phase 2 SYNERGY-NASH(NEJM 2024)에서 52주째 15 mg군 73%가 MASH 관해(efficacy estimand 기준), 약 53~59%가 섬유화 1단계 이상 호
 
 ## 케이스 (Clinical Cases)
 

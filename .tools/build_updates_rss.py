@@ -36,6 +36,10 @@ def html_escape(s: str) -> str:
             .replace('"', '&quot;').replace("'", '&apos;'))
 
 
+# 검수 전 초안(DRAFT 주석 또는 noindex,nofollow)은 공개 자산에 넣지 않는다
+DRAFT_RE = re.compile(r'<!--\s*DRAFT|<meta\s+name="robots"\s+content="noindex,nofollow"', re.I)
+
+
 def extract_meta(p: Path) -> dict:
     text = p.read_text(encoding='utf-8', errors='ignore')
     title_m = re.search(r'<title>([^<]+)</title>', text)
@@ -54,6 +58,8 @@ def main():
             continue
         idx = sub / 'index.html'
         if not idx.exists():
+            continue
+        if DRAFT_RE.search(idx.read_text(encoding='utf-8', errors='ignore')[:8000]):
             continue
         meta = extract_meta(idx)
         slug = sub.name

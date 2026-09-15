@@ -4,11 +4,19 @@
   <link href="https://drshin.kr/updates/" rel="alternate" type="text/html"/>
   <link href="https://drshin.kr/updates/feed.xml" rel="self" type="application/atom+xml"/>
   <id>https://drshin.kr/updates/</id>
-  <updated>2026-09-15T04:09:08.413102+00:00</updated>
+  <updated>2026-09-15T04:30:46.194794+00:00</updated>
   <subtitle>주요 저널의 hepatology 최신 논문 요약 — 신현재(서울대학교병원 소화기내과·간암센터)</subtitle>
   <author><name>신현재</name><uri>https://drshin.kr/소개/</uri></author>
   <generator>build_updates_rss.py</generator>
   <icon>https://drshin.kr/favicon.png</icon>
+  <entry>
+    <title>C형간염 완치(SVR) 이후에도 추적이 필요한 이유</title>
+    <link href="https://drshin.kr/updates/HCV-post-SVR-longterm-followup-2026/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/HCV-post-SVR-longterm-followup-2026/</id>
+    <updated>2026-09-15T13:06:42+09:00</updated>
+    <summary>C형간염 DAA로 완치(SVR12)된 환자분도 간경변이 남아 있으면 평생 6개월 간격 간세포암 선별이 권고됩니다. AASLD-IDSA, EASL 2024 position paper, KASL 2025 가이드라인이 모두 같은 방향이며, F0~F2는 추적에서 졸업 가능하지만 F3와 F4, 재감염 고위험군은 예외입니다.</summary>
+    <author><name>신현재</name></author>
+  </entry>
   <entry>
     <title>면역치료로 줄어들면 수술할 수 있나</title>
     <link href="https://drshin.kr/updates/TALENTOP-conversion-surgery-HCC-Lancet-2026/" rel="alternate" type="text/html"/>
@@ -146,14 +154,6 @@
     <author><name>신현재</name></author>
   </entry>
   <entry>
-    <title>C형간염 완치(SVR) 이후에도 추적이 필요한 이유</title>
-    <link href="https://drshin.kr/updates/HCV-post-SVR-longterm-followup-2026/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/HCV-post-SVR-longterm-followup-2026/</id>
-    <updated>2026-08-12T19:13:50+09:00</updated>
-    <summary>C형간염 DAA로 완치(SVR12)된 환자분도 간경변이 남아 있으면 평생 6개월 간격 간세포암 선별이 권고됩니다. AASLD-IDSA, EASL 2024 position paper, KASL 2025 가이드라인이 모두 같은 방향이며, F0~F2는 추적에서 졸업 가능하지만 F3와 F4, 재감염 고위험군은 예외입니다.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
     <title>HIMALAYA</title>
     <link href="https://drshin.kr/updates/HIMALAYA-durvalumab-tremelimumab-NEJM-Evid-2022/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/HIMALAYA-durvalumab-tremelimumab-NEJM-Evid-2022/</id>
@@ -191,14 +191,6 @@
     <id>https://drshin.kr/updates/Klausen-Semaglutide-AUD-Lancet-2026/</id>
     <updated>2026-08-12T19:13:50+09:00</updated>
     <summary>Klausen 2026 Lancet — semaglutide가 알코올 사용 장애 환자(비만 동반)의 음주를 줄였다는 RCT.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>저는 살이 안 쪘는데 왜 지방간인가요</title>
-    <link href="https://drshin.kr/updates/Lean-MASLD-review-2026/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/Lean-MASLD-review-2026/</id>
-    <updated>2026-08-12T19:13:50+09:00</updated>
-    <summary>BMI가 정상인데도 지방간·MASH·간섬유화가 진행될 수 있습니다. Lean MASLD(마른 MASLD)의 진단 기준(Asian BMI &amp;lt; 23, Caucasian BMI &amp;lt; 25), 위험 요인(PNPLA3·TM6SF2 유전형, 내장 비만, 근감소, 당대사 이상), 자연 경과와 비만형 MASLD 대비 사망·간 합병증 위험을 외래 진료 관점에서 정리했습니다.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>
@@ -351,14 +343,6 @@
     <id>https://drshin.kr/updates/Shin-TDF-ETV-TAF-switch-HCC-HepRes-2024/</id>
     <updated>2026-08-12T19:13:50+09:00</updated>
     <summary>Shin H et al. Hepatol Res 2024. 근치 치료 후 TDF/ETV에서 TAF로 전환한 환자의 HCC 발생 위험 다기관 분석.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>Tirzepatide MASH</title>
-    <link href="https://drshin.kr/updates/Tirzepatide-MASH-phase3-update-2026/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/Tirzepatide-MASH-phase3-update-2026/</id>
-    <updated>2026-08-12T19:13:50+09:00</updated>
-    <summary>Tirzepatide의 MASH 적응증 개발 현황을 정리합니다. phase 2 SYNERGY-NASH(NEJM 2024)에서 52주째 15 mg군 73%가 MASH 관해(efficacy estimand 기준), 약 53~59%가 섬유화 1단계 이상 호전을 보였습니다. phase 3 확증 자료는 아직 발표 전이며, EASO 2026 framework에서 tirzepatide는 &apos;MASH 관해&apos;에 위치합니다.</summary>
     <author><name>신현재</name></author>
   </entry>
 </feed>

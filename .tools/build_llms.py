@@ -129,6 +129,10 @@ def url_for_dir(rel_dir: Path) -> str:
     return f"{SITE}/{encoded}/"
 
 
+# 검수 전 초안(DRAFT 주석 또는 noindex,nofollow)은 공개 자산에 넣지 않는다
+DRAFT_RE = re.compile(r'<!--\s*DRAFT|<meta\s+name="robots"\s+content="noindex,nofollow"', re.I)
+
+
 def collect_pages():
     """Collect (slug, url, page_data) for all detail pages."""
     pages = []
@@ -141,6 +145,11 @@ def collect_pages():
             continue
         # legacy redirect 페이지는 llms.txt에서 제외
         if len(parts) == 2 and parts[0] in LEGACY_REDIRECTS:
+            continue
+        try:
+            if DRAFT_RE.search(path.read_text(encoding="utf-8", errors="ignore")[:8000]):
+                continue
+        except Exception:
             continue
         rel_dir = path.parent.relative_to(ROOT)
         slug = "/".join(rel_dir.parts) if str(rel_dir) != "." else ""

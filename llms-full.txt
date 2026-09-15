@@ -3861,7 +3861,7 @@ CKD투석DAA
 eGFR (mL/min)1차 권장 regimen주의사항
 
 ≥30SOF/VEL(엡클루사) 또는 GLE/PIB(마비렛)일반 용량
-15–29GLE/PIB(마비렛) 또는 SOF/VEL(엡클루사, 단기 안전)SOF 장기 사용 시 신독성 모니터
+15–29GLE/PIB(마비렛) 또는 SOF/VEL(엡클루사)용량 조정 불필요. 치료 중 신기능은 정기 확인
 <15 (HD 포함)GLE/PIB(마비렛) 8주 우선, SOF/VEL(엡클루사) 12주 대안둘 다 용량 조정 없이 사용
 혈액투석 중GLE/PIB(마비렛) 100/40 mg × 8주 우선, SOF/VEL 12주 대안투석 일정과 무관하게 매일 복용
 이식 후SOF/VEL(엡클루사) 또는 GLE/PIB(마비렛)면역억제제 농도 모니터
@@ -3879,7 +3879,7 @@ HCV 양성 환자도 신장이식 대기·수여 가능합니다. DAA 시대에�
 
 ## 자주 묻는 질문
 
-투석 중인데 DAA 받을 수 있나요?네, 가능합니다. 혈액투석 환자분의 1차 옵션은 글레카프레비르/피브렌타스비르(GLE/PIB, 상품명 마비렛)로, 8주 복용 시 SVR 95% 이상이 보고됩니다. GLE/PIB는 신장으로 거의 배설되지 않아 모든 신기능 단계(eGFR < 15 포함, 투석 환자분 포함)에서 용량 조정 없이 사용할 수 있는 것이 큰 장점입니다. 반면 sofosbuvir 기반 약제(SOF/VEL 등)는 신장 배설이 의미 있어 eGFR < 30에서는 신중한 사용이 권장됩니다. 치료 중에는 일반적인 정기 혈액 검사(ALT·HCV RNA·신기능) 외에 별도의 투석 일정 조정이 필요하지 않으며, 외래에서 8주 복용 후 SVR12로 완치를 확인합니다.
+투석 중인데 DAA 받을 수 있나요?네, 가능합니다. 혈액투석 환자분의 1차 옵션은 글레카프레비르/피브렌타스비르(GLE/PIB, 상품명 마비렛)로, 8주 복용 시 SVR 95% 이상이 보고됩니다. GLE/PIB는 신장으로 거의 배설되지 않아 모든 신기능 단계(eGFR < 15 포함, 투석 환자분 포함)에서 용량 조정 없이 사용할 수 있는 것이 큰 장점입니다. 소포스부비르 기반 약제(SOF/VEL 등)도 2019년 미국 FDA가 eGFR 30 이하와 투석 환자에게 쓸 수 있도록 허가를 바꿔, 지금은 용량 조정 없이 함께 쓸 수 있는 선택지입니다. 치료 중에는 일반적인 정기 혈액 검사(ALT·HCV RNA·신기능) 외에 별도의 투석 일정 조정이 필요하지 않으며, 외래에서 8주 복용 후 SVR12로 완치를 확인합니다.
 
 신장이식 대기 중인데 C형간염 먼저 치료해야 하나요?대부분의 경우 이식 전에 DAA로 SVR을 달성하는 것이 표준입니다. 이식 후 면역억제 상태에서는 HCV 재활성화로 진행 섬유화가 가속될 수 있고, 이식 후 약물 상호작용으로 치료가 더 복잡해지기 때문입니다. 이식 대기 중 GLE/PIB 8주 또는 SOF/VEL 12주로 SVR을 먼저 달성한 뒤 이식을 진행하는 흐름이 일반적입니다. 다만 이식 적합 신장이 HCV 양성 공여자에서 나온 경우(이른바 HCV-positive donor strategy)에는 이식 전 치료를 의도적으로 미루고, 이식 직후 즉시 DAA를 시작해 함께 완치하는 전략이 일부 의료기관에서 시도됩니다. 이 결정은 대기 기간·이식 가능성·환자분 상태를 종합해 신장내과·이식외과·간내과가 함께 정합니다.
 
@@ -9311,142 +9311,6 @@ GLP-1RAMASLDMASHRCT지방간
 
 ---
 
-# 저는 살이 안 쪘는데 왜 지방간인가요 — Lean MASLD(마른 MASLD) 정리 (2026)
-
-URL: https://drshin.kr/updates/Lean-MASLD-review-2026/
-
-_BMI가 정상인데도 지방간·MASH·간섬유화가 진행될 수 있습니다. Lean MASLD(마른 MASLD)의 진단 기준(Asian BMI < 23, Caucasian BMI < 25), 위험 요인(PNPLA3·TM6SF2 유전형, 내장 비만, 근감소, 당대사 이상), 자연 경과와 비만형 MASLD 대비 사망·간 합병증 위험을 외래 진료 관점에서 정리했습니다._
-
-# 저는 살이 안 쪘는데 왜 지방간인가요 — Lean MASLD(마른 MASLD) 정리 (2026)
-
-작성일 2026년 6월 1일
-
-주 참고문헌
-Purnomo HD, Adiwinata R, Permatadewi CO, et al. The global landscape of lean metabolic dysfunction-associated steatotic liver disease: insight from Asia and the West. Front Gastroenterol. 2025;4:1699508. · Ha J, Yim SY, Karagozian R. Mortality and Liver-Related Events in Lean Versus Non-Lean Nonalcoholic Fatty Liver Disease: A Systematic Review and Meta-analysis. Clin Gastroenterol Hepatol. 2023;21(10):2496-2507.e5.
-Frontiers in Gastroenterology 원문 보기
-
-한 문단 요약"저는 살이 안 쪘는데 왜 지방간이라고 하나요?" — 외래에서 가장 자주 듣는 질문 중 하나입니다. 답은 간단합니다. BMI(체질량지수)가 정상이어도 MASLD(대사이상 관련 지방간), MASH(대사이상 관련 지방간염), 그리고 간섬유화·간경변까지 진행할 수 있습니다. 이를 lean MASLD(또는 lean NAFLD, 마른 지방간)라고 부르며, 아시아인은 BMI 23 kg/m² 미만, 서양인은 BMI 25 kg/m² 미만을 기준으로 합니다. 전 세계 MASLD 환자 중 약 19%가 lean 표현형이고, 아시아권에서는 그 비율이 더 높습니다. 원인은 비만이 없는 대신 내장 비만, 근감소, 인슐린 저항성, 그리고 PNPLA3·TM6SF2 같은 유전형 위험이 더 크게 작용합니다. 그리고 결정적으로, lean MASLD는 결코 "착한 지방간"이 아닙니다. 비만형 MASLD와 비교해도 간 관련 사망과 간경변·간세포암 위험이 같거나 더 높다는 자료가 누적되고 있고, 전체 사망 위험에 대해서도 메타분석에 따라 비슷하거나 더 높게 보고됩니다. 이번 글은 그 이유와, 외래에서 실제로 무엇을 챙겨야 하는지를 정리합니다.
-
- Lean MASLD vs 비만형 MASLD — 무엇이 다르고 무엇이 같은가
-
- 
- 
- Lean MASLD
- 아시아 BMI < 23 · 서양 BMI < 25
-
- 위험 요인
- · 내장 비만 (허리둘레 증가)
- · 근감소(sarcopenia)
- · 인슐린 저항성·당뇨/공복혈당장애
- · 이상지질혈증·고혈압
- · 유전형: PNPLA3 G, TM6SF2 T
-
- 예후 (vs 비만형)
- · 간 관련 사망 위험 ↑ (RR ≈ 1.9~2.2)
- · 간경변·간세포암 같거나 더 높음
- · 심혈관 사건도 동등 이상
- → "착한 지방간" 아님
-
- 
- 
- 비만형 MASLD
- 아시아 BMI ≥ 23 · 서양 BMI ≥ 25
-
- 위험 요인
- · 전신 비만 + 내장 비만
- · 인슐린 저항성·2형 당뇨 흔함
- · 이상지질혈증·고혈압
- · 유전형 영향은 상대적으로 작음
- · 체중 감량 효과 가시적
-
- 예후
- · MASH·섬유화 진행 위험 ↑
- · GLP-1·resmetirom 등 치료 옵션
- · 7~10% 감량으로 호전 가능
- → 약·식이·운동 길이 비교적 명확
-
-비만형 MASLD는 "체중을 빼면 되는 영역"이 비교적 분명한 데 비해, lean MASLD는 빼야 할 체중이 많지 않은 만큼 내장 지방·근감소·유전형·당대사 자체를 표적으로 잡아야 합니다. 그리고 사망·간 합병증 위험은 결코 낮지 않습니다.
-
-## 왜 "마른 사람의 지방간"이 따로 다뤄지나
-
-지방간은 오랫동안 "살찐 사람의 병"으로 인식되어 왔습니다. 그런데 검진에서 BMI가 22~23인데 초음파에서 지방간 소견이 나오거나 간수치(AST/ALT)가 살짝 올라가 있는 분들이 의외로 많습니다. 한국·일본·중국·인도 같은 아시아 인구에서 특히 흔한데, 정작 본인은 "살이 안 쪘는데 왜?" 하고 당황하시죠.
-
-2023년 AASLD·EASL·ALEH 합의에서 NAFLD(비알코올 지방간)라는 용어가 MASLD(metabolic dysfunction-associated steatotic liver disease, 대사이상 관련 지방간)로 바뀌었습니다. 새 정의의 핵심은 음주 여부가 아니라 대사 이상이 같이 있느냐로 지방간을 정의하자는 것입니다. 그래서 BMI가 정상이어도 다른 대사 위험인자(허리둘레 증가, 공복혈당 이상, 고혈압, 이상지질혈증)가 하나라도 있으면 MASLD에 해당합니다. 마른 사람의 지방간도 처음부터 정식 MASLD로 분류되도록 만들어진 진단 체계인 셈입니다.
-
-규모도 무시할 수 없습니다. 2025년 Frontiers in Gastroenterology 리뷰를 보면 전체 MASLD 환자의 약 19%가 lean 표현형이고, 아시아권에서는 MASLD 환자의 12~14% 이상이 lean으로 보고됩니다. 예외적인 표현형이 아니라, 외래에서 일상적으로 마주치는 한 축이라는 뜻입니다.
-
-## 진단 기준 — 무엇이 lean MASLD인가
-
-현재 사용되는 정의는 비교적 단순합니다.
-
-BMI 기준 — 아시아인은 BMI < 23 kg/m², 서양인은 BMI < 25 kg/m². 한국인은 아시아 기준을 따릅니다.
-
-지방간 확인 — 복부 초음파, transient elastography(피브로스캔)의 CAP 값, 또는 CT/MRI에서 지방간 소견. 조직검사가 필수는 아닙니다.
-
-대사 위험 인자 1개 이상 — 허리둘레 증가(남 ≥ 90 cm, 여 ≥ 85 cm, 한국 기준), 공복혈당 ≥ 100 mg/dL 또는 당뇨, 혈압 ≥ 130/85 mmHg 또는 고혈압 약, 중성지방 ≥ 150 mg/dL 또는 HDL 감소 중 한 가지 이상.
-
-다른 원인 배제 — 과음(주당 남자 210 g, 여자 140 g 알코올 이상), B형/C형 간염, 자가면역 간질환, 약물 유발 지방간 등을 우선 배제합니다.
-
-실제 외래에서는 "BMI가 22인데 허리둘레가 88 cm이고 공복혈당이 105이며 초음파에 지방간이 보인다"는 분이 가장 전형적입니다. 이런 경우 분명히 lean MASLD에 해당하고, 체중이 정상이니까 괜찮다고 안심시켜서는 안 됩니다.
-
-## 왜 마른데도 지방간이 생기나 — 4가지 축
-
-내장 비만(visceral adiposity) — 전체 체중은 정상이어도 복강 내 장기 주변에 지방이 쌓이는 패턴입니다. 같은 BMI에서도 아시아인은 서양인보다 내장 지방 비율이 높다는 자료가 일관됩니다. 허리둘레와 허리/엉덩이 비가 BMI보다 lean MASLD 위험을 더 잘 설명하는 이유입니다.
-
-근감소(sarcopenia) — 근육량이 적으면 식후 포도당과 지방산을 처리할 "흡수통"이 줄어들고, 남는 에너지가 간으로 흘러갑니다. 한 메타분석은 근육량이 낮은 lean 환자가 lean MASLD가 생길 위험이 약 1.8배 높다고 보고했습니다. 노년기, 운동량이 적은 사무직, 다이어트로 근육이 함께 빠진 경우가 흔합니다.
-
-당대사 이상(인슐린 저항성, 전당뇨·당뇨, 이상지질혈증) — Lean MASLD 환자의 상당수에서 공복혈당 또는 당화혈색소(HbA1c) 경계 이상, 중성지방 증가, HDL 감소가 동반됩니다. 체중이 정상이라도 대사적으로는 "이미 신호가 와 있는" 상태입니다.
-
-유전형(PNPLA3 rs738409, TM6SF2 rs58542926 등) — PNPLA3 유전자의 G 대립유전자, TM6SF2의 T 대립유전자는 간 내 지방 축적과 섬유화 진행을 촉진하는 것으로 잘 알려져 있고, 아시아 인구에서 빈도가 높습니다. 한 종단 연구(NAFLD 코호트)는 PNPLA3 C>G 변이 보유 시 비대상화 위험이 약 2.1배(HR 2.10, 95% CI 1.03–4.29), 간세포암 위험이 약 2.7배(HR 2.68, 95% CI 1.01–7.26), 간 관련 사망 위험이 약 3.6배(HR 3.64, 95% CI 1.18–11.2) 증가하는 것을 보고했습니다. "가족 중 간 질환이 있는데 본인은 마르다"는 경우 특히 의심해야 하는 축입니다.
-
-외래에서 4가지를 한 번에 다 따지지는 못해도, 적어도 ① 허리둘레 측정 ② 공복혈당/지질 검사 ③ 가족력 청취 ④ 피브로스캔(또는 NFS·FIB-4 같은 비침습 점수)는 lean MASLD를 의심할 때 기본 패키지로 챙기는 편입니다.
-
-## 자연 경과 — "착한 지방간"이라는 오해
-
-오랫동안 lean NAFLD는 비만 동반 지방간보다 양호할 거라는 인식이 있었습니다. 그런데 최근 10년간 누적된 코호트와 메타분석은 이 인상을 뒤집습니다.
-
-간 관련 사망(liver-related mortality) — 2023년 Clinical Gastroenterology and Hepatology에 발표된 Ha 등의 메타분석(10개 코호트, NAFLD 109,151명)은 lean NAFLD에서 간 관련 사망 위험이 non-lean 대비 약 1.88배(RR 1.88, 95% CI 1.02–3.45)로 더 높다고 보고했습니다. 이후 약 100만 명을 대상으로 한 2024년 업데이트 메타분석에서도 같은 방향(RR ≈ 2.2)으로 재확인되었습니다.
-
-전체 사망(all-cause mortality) — Ha 등의 메타분석에서는 전체 사망 위험은 lean과 non-lean 사이에 통계적으로 유의한 차이가 없었지만(RR 1.09, 95% CI 0.66–1.90), 일부 후속 업데이트 메타분석에서는 lean에서 약 1.5~1.6배 더 높게 나오는 등 자료마다 편차가 있어 일관된 결론으로 단정하기는 어렵습니다.
-
-간경변·간세포암(HCC) — Lean MASLD에서 진행성 섬유화 위험은 비만형과 같거나 일부 자료에서는 더 높게 보고됩니다. 2025년 리뷰들은 lean MASLD에서 진행성 섬유화의 위험비를 약 1.3~1.9배로 정리하고 있고, 간세포암 발생 위험도 비만형 대비 낮지 않다는 점을 강조합니다.
-
-심혈관 사건 — Lean MASLD는 간 합병증보다 오히려 심혈관 사망과 대사 합병증으로 먼저 나타나는 경향이 보고됩니다. "간이 나빠지기 전에 심장이 먼저 문제"라는 패턴입니다.
-
-이러한 일관된 자료에 근거해, 2025년 APT의 사설은 "Comparable Hepatic Fibrosis Risk Demands Equal Vigilance"라는 제목으로 lean MASLD 환자에게도 비만형 MASLD와 동등한 추적·평가가 필요하다고 강조했습니다.
-
-## 외래에서 어떻게 설명하는가
-
-"체중이 정상인데 왜 지방간인가요?" — 지방간은 체중이 아니라 대사적 부담의 결과입니다. 허리둘레, 근육량, 혈당, 지질, 유전형이 함께 결정합니다. BMI가 22여도 허리둘레가 늘고 공복혈당이 100을 넘으면 이미 lean MASLD 영역에 들어와 있을 수 있습니다.
-
-"그래도 마른 지방간은 양호한 것 아닌가요?" — 그렇지 않습니다. 누적된 자료는 lean MASLD에서 전체 사망과 간경변 위험이 비만형 대비 같거나 더 높다는 방향입니다. "살이 안 쪘으니까 괜찮다"는 안심이 진단·추적을 늦추는 가장 흔한 함정입니다.
-
-"무엇을 더 챙겨야 하나요?" — ① 허리둘레와 근육량(근감소 평가)을 같이 보고, ② 공복혈당·HbA1c·지질을 정기적으로 확인하며, ③ 섬유화 위험이 의심되면 피브로스캔과 FIB-4로 진행 정도를 평가합니다. ④ 가족 중 간경변·간세포암 병력이 있으면 PNPLA3 등 유전적 위험까지 염두에 둡니다.
-
-"체중 감량 7~10%"가 마른 환자에게도 적용되나요? — 정상 체중에서 더 빼는 것은 보통 권하지 않습니다. 대신 내장 지방을 줄이고 근육을 늘리는 방향(저항 운동 병행, 정제 탄수화물·과당 줄이기, 알코올 절제, 당뇨·이상지질혈증 약물 관리)으로 목표를 다시 잡습니다.
-
-약물 치료는 어떻게 되나요? — 2026년 현재 resmetirom, semaglutide(위고비) 등 MASH 치료제는 F2~F3 진행성 섬유화 적응증으로 승인되어 있고, lean 환자만을 대상으로 한 별도 권고는 아직 정착되지 않았습니다. 비만 동반이 없는 lean 환자에서 GLP-1 계열을 일률적으로 권하지는 않으며, 동반 당뇨·심혈관 위험 여부에 따라 개별적으로 결정합니다.
-
-정리하면, 마른 지방간은 예외적인 환자군이 아니라 한국·아시아 외래에서 일상적으로 마주치는 한 축이고, 비만이 없다는 이유로 가볍게 봐서는 안 되는 병입니다. 살이 안 쪘다는 사실은 진단을 늦출 이유가 아니라, 오히려 허리둘레와 근육량, 당대사, 가족력, 피브로스캔까지 더 빨리 챙겨봐야 할 이유에 가깝습니다. 저는 BMI가 정상인 분이라고 해서 안심부터 시키지 않고, 비만형 MASLD와 같은 강도로 다른 축들을 확인하는 편입니다. 섬유화가 꽤 진행된 분 중에는 서울대병원에서 진행 중인 MASH 신약 임상시험을 외래에서 안내드릴 때도 있는데, 모든 분이 대상이 되는 건 아니고 간 상태와 동반 질환을 보고 판단합니다.
-
-## References
-
-Purnomo HD, Adiwinata R, Permatadewi CO, et al. The global landscape of lean metabolic dysfunction-associated steatotic liver disease: insight from Asia and the West. Front Gastroenterol. 2025;4:1699508. Frontiers
-
-Ha J, Yim SY, Karagozian R. Mortality and Liver-Related Events in Lean Versus Non-Lean Nonalcoholic Fatty Liver Disease: A Systematic Review and Meta-analysis. Clin Gastroenterol Hepatol. 2023;21(10):2496–2507.e5. CGH
-
-Rinella ME, Lazarus JV, Ratziu V, et al. A multisociety Delphi consensus statement on new fatty liver disease nomenclature. J Hepatol. 2023;79(6):1542–1556. J Hepatol
-
-European Association for the Study of the Liver (EASL), European Association for the Study of Diabetes (EASD), European Association for the Study of Obesity (EASO). EASL–EASD–EASO Clinical Practice Guidelines on the management of metabolic dysfunction-associated steatotic liver disease (MASLD). J Hepatol. 2024;81(3):492–542. EASL CPG 2024
-
-Editorial. Comparable Hepatic Fibrosis Risk Demands Equal Vigilance in Lean and Non-Lean Patients With Metabolic Dysfunction-Associated Steatotic Liver Disease. Aliment Pharmacol Ther. 2025. APT Editorial
-
-본 노트는 일반적 의료 정보 제공이며, 진료 결정의 단일 근거가 되지 않습니다.
-
-Lean MASLDlean NAFLD마른 지방간MASLDMASHPNPLA3TM6SF2내장비만
-
----
-
 # LEAP-012 — 중간기 간암에 TACE + 면역치료 + TKI 조합 두 번째 근거
 
 URL: https://drshin.kr/updates/LEAP-012-TACE-pembro-lenva-Lancet-2024/
@@ -10866,134 +10730,6 @@ Finn RS, Qin S, Ikeda M, et al. Atezolizumab plus Bevacizumab in Unresectable He
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며 개별 진료를 대체하지 않습니다. 여기 소개한 시험은 특정 조건을 만족한 환자군에서 진행 중인 연구이며 국내 진료 지침에 반영된 내용이 아닙니다. 치료 방법은 반드시 담당 의료진과 상의해 결정하시기 바랍니다. (2026년 8월 기준)
 
 간세포암혈관침범전환수술면역치료간절제TALENTOP
-
----
-
-# Tirzepatide MASH — phase 2 SYNERGY-NASH 정리와 phase 3 진행 상황 (2026)
-
-URL: https://drshin.kr/updates/Tirzepatide-MASH-phase3-update-2026/
-
-_Tirzepatide의 MASH 적응증 개발 현황을 정리합니다. phase 2 SYNERGY-NASH(NEJM 2024)에서 52주째 15 mg군 73%가 MASH 관해(efficacy estimand 기준), 약 53~59%가 섬유화 1단계 이상 호전을 보였습니다. phase 3 확증 자료는 아직 발표 전이며, EASO 2026 framework에서 tirzepatide는 'MASH 관해'에 위치합니다._
-
-# Tirzepatide MASH — phase 2 SYNERGY-NASH 정리와 phase 3 진행 상황 (2026)
-
-작성일 2026년 6월 1일
-
-원문
-Loomba R, Hartman ML, Lawitz EJ, et al. Tirzepatide for Metabolic Dysfunction–Associated Steatohepatitis with Liver Fibrosis. N Engl J Med. 2024;391(4):299–310. (SYNERGY-NASH, NCT04166773)
-NEJM 원문 보기
-
-한 문단 요약Tirzepatide(상품명 마운자로)는 GIP/GLP-1 이중 작용제로, 당뇨와 비만 적응증으로 이미 허가된 약입니다. 대사이상 지방간염(MASH·NASH) 환경에서는 phase 2b SYNERGY-NASH(NEJM 2024)에서 섬유화 F2~F3 환자 190명을 대상으로 52주째 15 mg군 73%가 "섬유화 악화 없이 MASH 관해(resolution)"를 보였고(위약 13%, efficacy estimand 기준), 섬유화 1단계 이상 호전은 5~15 mg 어느 용량에서도 위약 33% 대비 약 53~59%로 일관되게 나타났습니다. 다만 phase 3 확증 자료는 본 글 작성 시점(2026년 6월)까지 아직 공식 발표되지 않았습니다. EASO 2026 framework는 tirzepatide를 "MASH 관해"에 semaglutide와 함께 위치시키되, "섬유화 개선" 영역에는 phase 3가 보고된 semaglutide만 단독으로 올렸습니다. 외래에서는 "phase 2 신호만으로 MASH를 적응증으로 처방할 수 없다"가 현재 한국 보험·진료의 현실입니다.
-
- SYNERGY-NASH phase 2b — 52주째 결과 (F2~F3, n=190)
-
- 
- 
- 1차 평가변수 — MASH 관해
- (섬유화 악화 없이 MASH 사라짐)
-
- 
- 위약
- 
- 13%
-
- 
- 5 mg
- 
- 52%
-
- 
- 10 mg
- 
- 63%
-
- 
- 15 mg
- 
- 73%
-
- 
- 
- 주요 보조 평가변수 — 섬유화 호전
- (MASH 악화 없이 1단계 이상)
-
- 
- 위약
- 
- 33%
-
- 
- 5 mg
- 
- 59%
-
- 
- 10 mg
- 
- 53%
-
- 
- 15 mg
- 
- 54%
-
-SYNERGY-NASH 52주째 결과(efficacy estimand 기준). MASH 관해는 용량의존적 형태가 분명히 보였고, 섬유화 1단계 이상 호전은 5 mg에서도 위약 대비 약 1.6~1.8배로 어느 용량에서도 일관됐습니다. 다만 이 자료는 phase 2b이고, F2~F3로 제한된 환자군에서 52주간의 결과입니다. 표본 수와 추적 기간이 phase 3 확증 자료와는 다릅니다. NEJM 본문에는 보다 보수적인 treatment-policy estimand(MASH 관해 위약 10% vs 15 mg 62%, 섬유화 호전 위약 30% vs 15 mg 51%)도 함께 보고됐습니다.
-
-## 마운자로가 왜 지방간염 후보로 거론됐나
-
-마운자로(tirzepatide)는 인크레틴이라고 부르는 호르몬 두 가지에 동시에 작용하는 약입니다. 인크레틴은 소장에서 나와 식후 인슐린 분비와 식욕 조절에 관여하는데, 이 약은 그중 GIP와 GLP-1 두 수용체에 모두 붙는 이중 작용제예요. 당뇨 적응증으로 2022년, 비만 적응증으로 2023년에 미 FDA 승인을 받았고, SURPASS·SURMOUNT 시리즈에서 평균 15~22% 정도의 체중 감량이 보고됐습니다. 대사이상 지방간염(MASH)은 결국 대사 증후군 영역의 병이고, 체중을 7~10%만 빼도 조직학적으로 관해에 이르는 경우가 많다는 것이 오래전부터 알려진 사실이라, 이 약이 지방간염에서도 시험될 후보로 꼽힌 건 자연스러운 흐름이었습니다.
-
-같은 계열에서는 semaglutide(위고비)가 phase 3 ESSENCE를 거쳐 MASH 적응증 확대 승인을 먼저 받았고, 작용 표적을 하나 더 늘린 retatrutide(GIP/GLP-1/glucagon 삼중 작용제)는 phase 3가 한창 진행 중입니다. 마운자로는 그 사이에 놓인 약이라고 보면 됩니다.
-
-## SYNERGY-NASH에서 나온 숫자들
-
-이 약의 지방간염 자료 중 가장 많이 인용되는 것이 SYNERGY-NASH(NEJM 2024)입니다. 생검으로 MASH가 확인되면서 섬유화가 F2~F3(진행성 섬유화) 단계인 성인 190명을 5 mg, 10 mg, 15 mg, 위약 네 군으로 나눠 52주간 본 시험인데, 당뇨를 동반한 분과 아닌 분이 모두 포함됐고 간경변(F4)은 제외됐습니다. 결과를 항목별로 정리하면 이렇습니다.
-
-가장 핵심인 "섬유화 악화 없이 MASH가 사라진 비율"은 위약 13%, 5 mg 52%, 10 mg 63%, 15 mg 73%였습니다(가장 많이 인용되는 efficacy estimand 기준). 중도탈락을 부정적으로 가정하는 보다 보수적인 treatment-policy estimand로 보면 위약 10%, 5 mg 44%, 10 mg 56%, 15 mg 62%였고요. 어느 쪽으로 계산해도 모든 용량군이 위약보다 유의하게 좋았고, 용량을 올릴수록 더 좋아지는 양상이 분명했습니다.
-
-"MASH 악화 없이 섬유화가 한 단계 이상 좋아진 비율"은 위약 33% 대비 5 mg 59%, 10 mg 53%, 15 mg 54%였습니다(treatment-policy estimand로는 위약 30%, 5 mg 55%, 10 mg 51%, 15 mg 51%). 흥미로운 점은 섬유화 쪽은 MASH 관해와 달리 용량을 올린다고 더 좋아지는 양상이 뚜렷하지 않았고, 5 mg에서 이미 위약과 분명히 차이가 났다는 겁니다.
-
-부작용은 이 계열에서 익숙한 위장관 증상, 즉 오심·설사·식욕 저하·변비가 대부분이었고 경증에서 중등도 수준이었습니다. 간 기능이나 신기능, 췌장에서 새로운 안전성 신호는 나오지 않았습니다.
-
-이후 JHEP Reports 2025에 실린 사후 분석에서는 성별·연령·체질량지수·인종·당뇨 동반 여부로 나눠 봐도 효과가 어느 하위군에서나 일관됐습니다. 물론 사후 분석은 결론을 확정하는 게 아니라 가설을 세우는 단계로 봐야 합니다.
-
-## 아직 확증 시험이 없다는 점
-
-이 숫자들은 인크레틴 계열의 지방간염 시험 중에서도 조직학적 응답이 가장 좋게 나온 축에 듭니다. 그런데도 신중하게 봐야 하는 이유가 있어요. 이 글을 쓰는 시점까지 확증 단계인 phase 3 자료는 아직 공식적으로 발표되지 않았고, MASH를 적응증으로 한 정식 허가도 나오지 않았습니다. 제조사인 Lilly는 규제 당국과 다음 단계를 협의 중이라고 밝힌 상태이고, EASO 2026 framework도 이 균형을 정확히 반영해서 마운자로를 "MASH 관해" 영역에는 위고비와 함께 올려놓았지만, "섬유화 개선" 영역에는 확증 시험이 보고된 위고비만 단독으로 두었습니다.
-
-확증 시험이 왜 중요한가 하면, 우선 환자 수가 다릅니다. SYNERGY-NASH의 190명은 효과의 방향을 보는 데는 충분하지만, 추정치의 신뢰구간을 좁히고 드물게 생기는 안전성 문제까지 잡으려면 보통 수백에서 1,000명대 규모가 필요해요. 관찰 기간도 다릅니다. 이 영역의 확증 시험은 대개 72~96주, 혹은 그 이상을 두고 간경변 진행이나 비대상화, 간 관련 사망 같은 실제 임상 사건까지 함께 봅니다. 52주는 조직이 좋아졌는지 확인하기엔 충분해도 그 윗단계 사건을 보기엔 짧습니다. 마지막으로 처방 영역이 다릅니다. 마운자로는 지금도 당뇨와 비만에서 쓰이고, 지방간염 환자가 비만이나 당뇨를 함께 가지고 있으면 그 적응증으로는 이미 처방할 수 있습니다. 다만 "지방간염 자체"를 이유로 처방하려면 확증 시험 이후의 허가 변경이 따라와야 합니다.
-
-지금 시점에서 정직하게 말하면 이렇습니다. phase 2 자료는 분명히 강한 신호를 보여줬고, 확증 시험이 이를 뒷받침해 준다면 지방간염 영역에서 GLP-1 단일 작용제와 더불어 GIP/GLP-1 이중 작용제가 처음으로 표준 후보로 올라설 수 있습니다. 그 전까지는 비만·당뇨 영역에서 함께 처방되는 형태가 현실적인 위치입니다.
-
-## 외래에서 자주 받는 질문
-
-이 약을 두고 외래에서 비슷한 질문을 반복해서 받는데, 제가 평소 답하는 방식 그대로 옮겨 봅니다.
-
-"마운자로가 지방간염에도 효과가 있나요?" — phase 2 자료에서는 꽤 강한 신호가 보였습니다. 다만 한국에서 마운자로의 정식 허가는 당뇨(2022년)이고, 지방간염 적응증은 아직 확증 시험을 기다리는 단계예요. 비만이나 당뇨를 함께 가진 분이라면 본래 적응증으로 처방을 검토하면서 간 수치와 영상 변화를 같이 추적하는 게 현실적인 방법입니다.
-
-"위고비와 마운자로 중에 어느 쪽이 간에 더 좋은가요?" — 두 약을 직접 맞붙여 비교한 시험은 아직 없습니다. 시험 방식과 대상 환자가 달라서 숫자만 나란히 놓고 비교하면 오해를 부르기 쉽고요. EASO 2026도 "MASH 관해"에서는 두 약을 함께 두되 "섬유화 개선"이 입증된 약으로는 위고비만 올려놓았는데, 시간이 지나면 마운자로도 같은 영역에 올라올 가능성이 높다고 봅니다.
-
-"체중 감량이 핵심이라면 약 없이 7~10% 빼면 같은 효과 아닌가요?" — 부분적으로는 맞는 말씀입니다. 7~10%를 빼면 조직학적 관해가 절반 정도에서 나타난다는 이전 자료가 있으니까요. 문제는 그 정도 감량을 식이·운동만으로 1년 넘게 유지하는 분이 현실적으로 많지 않다는 점이고, 인크레틴 약물은 바로 그 유지를 도와줍니다. 둘은 대립이 아니라 보완 관계로 보는 게 맞습니다.
-
-"간경변(F4) 단계인데 마운자로가 도움이 될까요?" — SYNERGY-NASH는 F2~F3만 포함했습니다. 마운자로의 F4 자료는 아직 없고, 이 영역은 efruxifermin SYMMETRY에서 처음 가능성 있는 신호가 보고된 단계예요. 간경변 단계에서 지방간염을 이유로 마운자로를 권할 근거는 지금으로선 없습니다.
-
-정리하면, 마운자로는 phase 2b SYNERGY-NASH에서 F2~F3 지방간염에 대해 조직학적으로 상당히 좋은 결과를 보여줬지만, 이를 확정해 줄 확증 시험과 그에 따른 정식 허가는 아직 나오지 않았습니다. 그래서 지금은 비만·당뇨라는 본래 적응증으로 쓰면서 간 쪽 변화를 함께 지켜보는 정도가 현실적인 자리이고, "지방간염 적응증" 처방은 확증 자료가 나온 뒤의 일입니다. 이런 신약 자료가 결국 환자 한 분 한 분의 참여로 만들어진다는 점도 외래에서 종종 이야기하게 되는데, 진행된 지방간·간경변 단계에서는 서울대병원에서 진행 중인 임상시험을 안내드리는 경우도 있습니다. 다만 모든 분이 대상이 되는 건 아니고, 본인의 간 상태와 동반 질환을 보고 외래에서 판단하게 됩니다.
-
-## References
-
-Loomba R, Hartman ML, Lawitz EJ, et al. Tirzepatide for Metabolic Dysfunction–Associated Steatohepatitis with Liver Fibrosis. N Engl J Med. 2024;391(4):299–310. DOI · (SYNERGY-NASH, NCT04166773)
-
-Hartman ML, Sanyal AJ, Loomba R, et al. Consistent improvements in liver histology across subgroups in a post hoc analysis of the SYNERGY-NASH trial with tirzepatide. JHEP Rep. 2025. JHEP Reports
-
-Framework for the pharmacological treatment of obesity and its complications from the European Association for the Study of Obesity (EASO): 2026 update. Nat Med. 2026. Nature Medicine
-
-Sanyal AJ, Newsome PN, Kliers I, et al. Phase 3 trial of semaglutide in metabolic dysfunction-associated steatohepatitis (ESSENCE). N Engl J Med. 2025;392(21):2089–2099.
-
-Harrison SA, Bedossa P, Guy CD, et al. A phase 3 randomized controlled trial of resmetirom in nonalcoholic steatohepatitis (MAESTRO-NASH). N Engl J Med. 2024;390(6):497–509.
-
-본 노트는 일반적 의료 정보 제공이며, 진료 결정의 단일 근거가 되지 않습니다.
-
-tirzepatide마운자로MASHSYNERGY-NASHGLP-1GIP지방간
 
 ---
 
@@ -17300,24 +17036,6 @@ _잘 되면 제 덕이 아니고, 안 되면 제 탓 같습니다._
 
 ---
 
-# 직접 맞아보기
-
-URL: https://drshin.kr/%EB%8B%A8%EC%83%81/%EC%A7%81%EC%A0%91-%EB%A7%9E%EC%95%84%EB%B3%B4%EA%B8%B0/
-
-_환자분께 권하는 약을 제가 먼저 써 봤습니다._
-
-# 직접 맞아보기
-
-2026년 8월 12일
-
-환자분께 권하는 약을 제가 먼저 써 봤습니다.
-
-(본문 미작성 — 위 주석의 질문에 답해 주시면 정리하겠습니다.)
-
-이 글은 개인적인 생각이며 의학적 조언이 아닙니다.
-
----
-
 # 대사이상 지방간질환(MASLD)
 
 URL: https://drshin.kr/%EB%8C%80%EC%82%AC%EC%9D%B4%EC%83%81%EC%A7%80%EB%B0%A9%EA%B0%84-MASLD/
@@ -23461,7 +23179,7 @@ _임신 8주에 산전 검사에서 anti-HCV 양성 발견. 임신 중 추적 + 
 
 ## 출산 후 — 직접 작용 항바이러스제(DAA) + 영아 추적
 
-출산 4주 후 마비렛 8주 시작. SVR12 확인. 모유 수유 지속 (안전). 영아 — 6개월 후 C형간염 바이러스(HCV) RNA 음성, 18개월 anti-HCV(C형간염 항체) 음성. 수직감염이 없음을 확인했습니다.
+출산 4주 후 마비렛 8주 시작. SVR12 확인. 모유 수유 지속 (안전). 아기는 생후 2~6개월 사이에 HCV RNA 검사를 해 음성으로 나와, 수직감염이 없음을 확인했습니다.
 
 ## Teaching Points
 
@@ -23473,7 +23191,7 @@ _임신 8주에 산전 검사에서 anti-HCV 양성 발견. 임신 중 추적 + 
 
 모유 수유 안전
 
-영아 검사 — 6개월 RNA 또는 18개월 anti-C형간염 바이러스(HCV)
+영아 검사 — 생후 2~6개월 HCV RNA 1회, 음성이면 추가 추적 불필요
 
 이 사례는 표준 진료 흐름을 보여주기 위해 구성한 교육용 예시이며, 특정 환자의 기록이 아닙니다. 실제 진료는 개인의 상태에 따라 달라집니다.
 
