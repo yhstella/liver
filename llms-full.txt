@@ -633,7 +633,7 @@ Wedemeyer H, et al. A phase 3, randomized trial of bulevirtide in chronic hepati
 
 Negro F. Hepatitis D virus coinfection and superinfection. Cold Spring Harb Perspect Med 2014.
 
-Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026.
+Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026;83(4):974–997. DOI · PMID 41186418
 
 Jeng WJ, Yip TC, Lok AS. Hepatitis B. JAMA. 2026. (CHB 5 phases 정의·자연사·NA 1차 치료·HCC 감시 종합)
 
@@ -733,7 +733,7 @@ Cornberg M, Lok AS, Terrault NA, Zoulim F; 2019 EASL-AASLD HBV Treatment Endpoin
 
 Korean Association for the Study of the Liver (KASL). KASL clinical practice guidelines for management of chronic hepatitis B. Clin Mol Hepatol. 2022;28(2):276-331. DOI
 
-Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026.
+Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026;83(4):974–997. DOI · PMID 41186418
 
 Jeng WJ, Yip TC, Lok AS. Hepatitis B. JAMA. 2026. (CHB 5 phases 정의·자연사·NA 1차 치료·HCC 감시 종합)
 
@@ -800,7 +800,7 @@ HBeAg(−) (면역회피기)HBV DNA ≥ 2,000 IU/mL + ALT >ULN 또는 섬유화�
 
 성인의 약 40%는 위 다섯 단계 어느 것에도 정확히 부합하지 않는 "indeterminate phase"로 분류됩니다 (Jeng JAMA 2026). 한국 환자는 면역활성기(2·3)·비활동성 보균기(4) 단계에서 진료를 받는 경우가 많습니다. 단계는 시간에 따라 전환되므로 6–12개월 간격 추적이 핵심입니다.
 
-치료 중단 후 자연사·간경변 진행 위험: 무치료 시 비활동성 보균자의 연간 간세포암 발생률 약 0.05%, 간경변 동반 시 3–5%로 의미 있는 차이가 있습니다. 항바이러스제 장기 치료는 간경변 합병증을 약 49%(RR 0.51), 간세포암을 약 63%(RR 0.37) 감소시키며, 약 71%에서 간섬유화·간경변의 조직학적 역전이 보고됩니다 (AASLD 2026).
+치료 중단 후 자연사·간경변 진행 위험: 무치료 시 비활동성 보균자의 연간 간세포암 발생률 약 0.05%, 간경변 동반 시 3–5%로 의미 있는 차이가 있습니다. 항바이러스제 장기 치료는 간경변 진행과 간세포암 위험을 낮추지만, 위험이 0이 되지는 않습니다. 테노포비르를 5년간 복용한 연구에서는 치료 시작 때 조직검사상 간경변이던 96명 중 71명(74%)이 5년 뒤 간경변 단계에서 벗어났습니다(Marcellin 2013).
 
 ## 치료 적응증의 차이
 
@@ -870,7 +870,9 @@ Korean Association for the Study of the Liver (KASL). KASL clinical practice gui
 
 Terrault NA, Lok ASF, McMahon BJ, et al. Update on prevention, diagnosis, and treatment of chronic hepatitis B: AASLD 2018 hepatitis B guidance. Hepatology. 2018;67(4):1560-1599. DOI · PMID 29405329
 
-Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026.
+Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026;83(4):974–997. DOI · PMID 41186418
+
+Marcellin P, Gane E, Buti M, et al. Regression of cirrhosis during treatment with tenofovir disoproxil fumarate for chronic hepatitis B: a 5-year open-label follow-up study. Lancet. 2013;381(9865):468–475. DOI · PMID 23234725
 
 European Association for the Study of the Liver. EASL 2017 Clinical Practice Guidelines on the management of hepatitis B virus infection. J Hepatol. 2017;67(2):370-398. DOI
 
@@ -946,7 +948,7 @@ Raimondo G, et al. Update of the statement on occult hepatitis B virus infection
 
 Hwang JP, et al. Hepatitis B virus screening for patients with cancer before therapy: ASCO Provisional Clinical Opinion update. J Clin Oncol 2020.
 
-Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026.
+Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026;83(4):974–997. DOI · PMID 41186418
 
 Jeng WJ, Yip TC, Lok AS. Hepatitis B. JAMA. 2026. (CHB 5 phases 정의·자연사·NA 1차 치료·HCC 감시 종합)
 
@@ -1013,13 +1015,13 @@ PIVKA-IIAFP와 보완와파린 복용 시 위양성
 
 ## 간경변 없는 B형간염에서의 검진 시작
 
-간경변이 없어도 B형간염은 그 자체로 간암의 독립 위험인자이기 때문에 다음 그룹에서 정기 감시가 권장됩니다 (AASLD 2023 HCC 가이드, AASLD 2026 HBV 가이드 갱신 반영).
+간경변이 없어도 B형간염은 그 자체로 간암의 독립 위험인자이기 때문에 다음 그룹에서 정기 감시가 권장됩니다 (AASLD 2023 간암 가이드. AASLD-IDSA 2025 B형간염 가이드도 같은 기준을 싣고 있습니다).
 
- 풍토 지역(아시아·서태평양) 출신 만성 B형간염 남성 40세 이상 또는 여성 50세 이상
+ B형간염 유병률이 높은 지역(아시아·아프리카 등) 출신 만성 B형간염 남성 40세 이상 또는 여성 50세 이상
 
- 아프리카·하위 사하라 출신은 더 이른 나이부터 시작
+ 아프리카 출신은 더 이른 나이부터 시작
 
- 간세포암 1촌 가족력 동반
+ 간세포암 가족력 동반
 
  PAGE-B 점수 ≥ 10 — 나이·성별·혈소판으로 계산하는 간세포암 위험 점수. 10점 이상이면 간경변이 없어도 정기 감시군에 포함
 
@@ -1110,7 +1112,7 @@ Park JW, Chen M, Colombo M, et al. Global patterns of hepatocellular carcinoma m
 
 Rich NE, Villanueva A, Marrero JA, Kanwal F. AGA Clinical Practice Update on Risk Stratification and Emerging Surveillance Strategies for Hepatocellular Carcinoma: Expert Review. Gastroenterology. 2026.
 
-Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026.
+Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026;83(4):974–997. DOI · PMID 41186418
 
 Papatheodoridis G, Dalekos G, Sypsa V, et al. PAGE-B predicts the risk of developing hepatocellular carcinoma in Caucasians with chronic hepatitis B on 5-year antiviral therapy. J Hepatol. 2016;64(4):800–806. DOI · PMID 26678008
 
@@ -1277,7 +1279,7 @@ European Association for the Study of the Liver. EASL 2017 Clinical Practice Gui
 
 Liaw YF, Chu CM. Hepatitis B virus infection. Lancet. 2009;373(9663):582–592. DOI · PMID 19217993
 
-Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026.
+Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026;83(4):974–997. DOI · PMID 41186418
 
 Jeng WJ, Yip TC, Lok AS. Hepatitis B. JAMA. 2026. (CHB 5 phases 정의·자연사·NA 1차 치료·HCC 감시 종합)
 
@@ -1526,7 +1528,7 @@ Brown RS Jr, McMahon BJ, Lok AS, et al. Antiviral therapy in chronic hepatitis B
 
 Terrault NA, Lok ASF, McMahon BJ, et al. AASLD 2018 hepatitis B guidance. Hepatology. 2018;67(4):1560–1599. DOI · PMID 29405329
 
-Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026.
+Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026;83(4):974–997. DOI · PMID 41186418
 
 의학적 고지: 이 글은 일반적인 의학 정보 제공을 목적으로 하며, 개인별 진료·처방을 대체하지 않습니다. 임신·분만 중 약물 사용과 관리 계획은 반드시 담당 의사와 상의하십시오.
 
@@ -1660,7 +1662,7 @@ European Association for the Study of the Liver. EASL 2017 Clinical Practice Gui
 
 Bruce MG, Bruden D, Hurlburt D, et al. Antibody Levels and Protection After Hepatitis B Vaccine: Results of a 30-Year Follow-up Study and Response to a Booster Dose. J Infect Dis. 2016;214(1):16–22. DOI · PMID 26802139
 
-Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026.
+Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026;83(4):974–997. DOI · PMID 41186418
 
 Jeng WJ, Yip TC, Lok AS. Hepatitis B. JAMA. 2026. (CHB 5 phases 정의·자연사·NA 1차 치료·HCC 감시 종합)
 
@@ -1728,7 +1730,7 @@ KASL Korean Pediatric Hepatology Guideline.
 
 Sokal EM, et al. Management of chronic hepatitis B in childhood. J Hepatol 2013.
 
-Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026.
+Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026;83(4):974–997. DOI · PMID 41186418
 
 Jeng WJ, Yip TC, Lok AS. Hepatitis B. JAMA. 2026. (CHB 5 phases 정의·자연사·NA 1차 치료·HCC 감시 종합)
 
@@ -1783,7 +1785,7 @@ Hwang JP, et al. Hepatitis B virus screening before therapy: ASCO update. J Clin
 
 Loomba R, Liang TJ. Hepatitis B reactivation associated with immune suppressive and biological modifier therapies. Gastroenterology 2017.
 
-Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026.
+Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026;83(4):974–997. DOI · PMID 41186418
 
 Jeng WJ, Yip TC, Lok AS. Hepatitis B. JAMA. 2026. (CHB 5 phases 정의·자연사·NA 1차 치료·HCC 감시 종합)
 
@@ -1835,7 +1837,7 @@ KASL 만성 B형간염 가이드라인.
 
 Marcellin P, et al. Tenofovir alafenamide versus tenofovir disoproxil fumarate in chronic HBV. Lancet Gastroenterol Hepatol 2016.
 
-Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026.
+Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026;83(4):974–997. DOI · PMID 41186418
 
 Jeng WJ, Yip TC, Lok AS. Hepatitis B. JAMA. 2026. (CHB 5 phases 정의·자연사·NA 1차 치료·HCC 감시 종합)
 
@@ -1960,7 +1962,7 @@ Hwang JP, Feld JJ, Hammond SP, et al. Hepatitis B Virus Screening and Management
 
 Loomba R, Liang TJ. Hepatitis B Reactivation Associated With Immune Suppressive and Biological Modifier Therapies: Current Concepts, Management Strategies, and Future Directions. Gastroenterology. 2017;152(6):1297-1309. DOI · PMID 28219691
 
-Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026.
+Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026;83(4):974–997. DOI · PMID 41186418
 
 Jeng WJ, Yip TC, Lok AS. Hepatitis B. JAMA. 2026. (CHB 5 phases 정의·자연사·NA 1차 치료·HCC 감시 종합)
 
@@ -2265,7 +2267,7 @@ European Association for the Study of the Liver. EASL 2017 Clinical Practice Gui
 
 Buti M, Riveiro-Barciela M, Esteban R. Long-term safety and efficacy of nucleos(t)ide analogue therapy in hepatitis B. Liver Int. 2018;38 Suppl 1:84–89. DOI · PMID 29427498
 
-Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026.
+Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026;83(4):974–997. DOI · PMID 41186418
 
 의학적 고지: 이 글은 일반적인 의학 정보 제공을 목적으로 하며, 개인별 진료·처방을 대체하지 않습니다. 치료 시작·변경·중단은 반드시 담당 의사와 상의하십시오.
 
@@ -2285,19 +2287,19 @@ _B형간염 1선 항바이러스제 3종(TDF, TAF, 엔테카비르)의 효과·�
 
 작성일 2026년 4월 30일
 
-핵심 요약B형간염 1선 약물 3종은 효과는 비슷하지만 부작용 프로파일이 다릅니다. TDF는 임신 안전성 우수·약가 저렴하나 신·골 부담 가능, TAF는 신·골 안전성 향상, ETV는 라미부딘 미경험자에 강력. 환자의 신기능·골밀도·임신 계획·동반 질환에 따라 선택합니다.
+B형간염 먹는 약은 지금 주로 세 가지를 씁니다. 테노포비어 디소프록실(TDF), 테노포비어 알라페나미드(TAF), 엔테카비어(ETV)입니다. 바이러스를 억제하는 힘은 세 약이 거의 같고, 차이는 부작용과 복용법, 임신 계획에서 납니다. TDF는 가장 오래 써서 임신 중 자료가 많고 약값이 싼 편이지만 오래 먹으면 신장과 뼈에 부담이 생길 수 있습니다. TAF는 그 부담을 줄인 약이고, ETV는 공복에 먹어야 하며 라미부딘을 써 본 적이 없는 분에게 잘 듣습니다.
 
 ## 3종의 기본 차이
 
 세 약 모두 뉴클레오사이드/뉴클레오타이드 유사체로 B형간염 바이러스(HBV) DNA 중합효소를 차단해 바이러스 복제를 막습니다.
 
- TDF (테노포비어 디소프록실) — 가장 오래 쓰여 임상 경험이 풍부한 강력한 약물입니다. 일부 환자에서 신장과 골밀도에 부담을 줄 수 있습니다.
+ 테노포비어 디소프록실(TDF) — 가장 오래 쓰여 임상 경험이 풍부한 강력한 약물입니다. 일부 환자에서 신장과 골밀도에 부담을 줄 수 있습니다.
 
- TAF (테노포비어 알라페나미드) — TDF의 개선판으로 효과는 같으면서 신장·골 안전성이 향상됐습니다. 약가는 더 비쌉니다.
+ 테노포비어 알라페나미드(TAF) — TDF의 개선판으로 효과는 같으면서 신장·골 안전성이 향상됐습니다. 약가는 더 비쌉니다.
 
- ETV (엔테카비어) — 효과가 강력합니다. 다만 라미부딘 내성 환자에서는 효과가 떨어지고, 공복 복용이 필요합니다.
+ 엔테카비어(ETV) — 효과가 강력합니다. 다만 라미부딘 내성 환자에서는 효과가 떨어지고, 공복 복용이 필요합니다.
 
-세 약 모두 내성 발생률이 매우 낮아(5년에 1% 미만) 1차 치료로 권장됩니다.
+세 약 모두 처음 치료하는 환자에서는 내성이 거의 생기지 않아 1차 치료로 권장됩니다.
 
 구분TDFTAFETV
 
@@ -2314,10 +2316,8 @@ _B형간염 1선 항바이러스제 3종(TDF, TAF, 엔테카비르)의 효과·�
 
 임상시험과 실세계 데이터를 종합하면 세 약물의 바이러스 억제 효과는 거의 같습니다.
 
-1년 후 HBV DNA 불검출률: TDF 약 75–80%, TAF 약 65–75%, ETV 약 70–80%
-5년 후: 90% 이상으로 모두 수렴
-HBeAg 혈청전환: 5년에 약 30–40% (3종 비슷)
-HBsAg 소실: 5년에 약 1–5%로 모두 낮음
+TAF와 TDF를 직접 비교한 임상시험에서 48주 뒤 HBV DNA가 29 IU/mL 미만으로 떨어진 비율은 HBeAg 양성 환자에서 TAF 64%, TDF 67%, HBeAg 음성 환자에서 각각 94%, 93%로 차이가 없었습니다. 몇 년을 먹어도 HBsAg이 없어지는 경우는 드뭅니다.
+
 효과보다 환자별 부작용·접근성으로 결정합니다.
 
 ## 신기능과 골밀도
@@ -2330,7 +2330,7 @@ HBsAg 소실: 5년에 약 1–5%로 모두 낮음
 
  ETV — 신기능에 미치는 영향은 적지만 신부전 환자분에서는 용량 조절이 필요합니다.
 
-신기능이 떨어졌거나 골다공증이 있는 환자, 고령 환자분에서는 TAF나 ETV가 우선됩니다. TDF 복용 중 신기능이나 골밀도 저하가 확인되면 TAF로 전환하는 것이 표준입니다.
+신기능이 떨어졌거나 골다공증이 있는 환자, 고령 환자분에서는 TAF나 ETV가 우선됩니다. TDF 복용 중 신기능이나 골밀도 저하가 확인되면 TAF나 ETV로 바꾸는 것을 권합니다.
 
 ## 임신·수유
 
@@ -2342,7 +2342,7 @@ HBsAg 소실: 5년에 약 1–5%로 모두 낮음
 
  ETV — 임신 데이터가 제한적이라 임신 계획이 있으시면 TDF로 전환하는 것이 권장됩니다.
 
-수유 중에는 세 약 모두 모유로 미량 분비되지만 영아에게 의미 있는 노출은 없는 것으로 평가됩니다.
+테노포비어를 먹으면서 모유 수유를 하는 것은 안전하다고 보고 말리지 않습니다(EASL 2025). TAF는 모유로 나오는 양이 매우 적다는 보고가 있지만 자료가 많지 않고, 엔테카비어는 수유 중 자료가 부족해 진료의와 상의가 필요합니다.
 
 ## 전환을 고려하는 상황
 
@@ -2368,7 +2368,7 @@ Lamivudine (LAM, 제픽스)rtM204V/I, rtL180M (5년 ~70%)ETV 효과 감소(완�
 Telbivudine (LdT)rtM204ILAM과 유사TDF 또는 TAF
 Adefovir (ADV)rtA181V/T, rtN236TTDF·TAF 효과 약간 감소 (완전 내성 아님), ETV 효과 유지ETV (LAM 노출 없는 경우) 또는 TDF + ETV 병용 검토
 Entecavir (ETV)rtT184, rtS202, rtM250 (LAM 내성 있는 환자에서 5년 ~50%)TDF·TAF 효과 유지TDF 또는 TAF
-TDF·TAF임상적으로 의미 있는 내성 사실상 없음—유지 (효과 부족 시 순응도 평가 우선)
+TDF·TAF임상적으로 의미 있는 내성은 거의 보고되지 않음—유지 (효과 부족 시 순응도 평가 우선)
 
 국내에서는 2007년 이전 LAM 단독 치료받은 환자가 일부 남아있어, 외래에서 처음 보는 환자라면 과거 약물 이력을 정확히 확인합니다. LAM 내성 환자에 ETV 단독은 권장되지 않으며 TDF/TAF 전환이 표준입니다.
 
@@ -2394,11 +2394,11 @@ TDF·TAF임상적으로 의미 있는 내성 사실상 없음—유지 (효과 �
 
 TDF에서 TAF로 바꿔야 하나요?TDF에서 신기능·골밀도 저하 신호가 있거나 위험 인자가 있으면 검토합니다. 전환 고려 상황: eGFR < 60으로 떨어짐, 새로운 단백뇨·요당, DXA 검사에서 골밀도 감소, 골다공증·골절 이력, 고령(65세 이상) + 신독성 약물 동반(NSAIDs·아미노글리코사이드), 임신 계획(다만 TDF가 임신 데이터 더 풍부). 안정적이면 TDF 유지해도 됩니다 — 약가가 저렴하고 임신·수유 안전성 데이터가 가장 풍부하기 때문입니다. 자가 변경하지 말고 진료의와 상의해 결정합니다.
 
-ETV는 왜 공복 복용하나요?음식과 함께 복용 시 흡수가 약 30-40% 감소해 약효가 떨어지기 때문입니다. 표준 복용법: 식전 2시간 또는 식후 2시간 공복에 물과 함께 복용합니다. 매일 같은 시간에 복용하는 것이 좋습니다(취침 전 또는 기상 직후가 흔함). 공복 유지가 어려운 환자(예: 잦은 간식, 야간 근무)에서는 TDF·TAF로 전환을 고려할 수 있습니다 — 두 약은 식사 무관하게 복용 가능합니다. 공복 복용을 한두 번 잊더라도 다음 시간에 같은 방식으로 복용하면 되며, 두 배로 먹지 마세요.
+ETV는 왜 공복 복용하나요?음식과 함께 먹으면 흡수가 줄어 약효가 떨어질 수 있기 때문입니다. 표준 복용법: 식전 2시간 또는 식후 2시간 공복에 물과 함께 복용합니다. 매일 같은 시간에 복용하는 것이 좋습니다(취침 전 또는 기상 직후가 흔함). 공복 유지가 어려운 환자(예: 잦은 간식, 야간 근무)에서는 TDF·TAF로 전환을 고려할 수 있습니다 — 두 약은 식사 무관하게 복용 가능합니다. 공복 복용을 한두 번 잊더라도 다음 시간에 같은 방식으로 복용하면 되며, 두 배로 먹지 마세요.
 
 3종 외에 다른 옵션은 없나요?라미부딘·텔비부딘·아데포비르도 있지만 모두 1선이 아닙니다. 라미부딘은 5년 후 내성 발생률이 약 70%로 높아 단독 사용은 권장되지 않으며, 일부 임신 환자나 특수 상황에서만 사용됩니다. 텔비부딘은 효과는 좋지만 내성 위험이 있어 1선에서 밀렸습니다. 아데포비르는 신독성 우려로 거의 사용되지 않습니다. 페그인터페론은 일부 젊은 환자에서 시도되나 부작용(피로·우울·백혈구 감소·갑상선 이상)이 커서 사용이 제한적입니다 — 다만 functional cure 도달률이 일부 환자에서 더 높을 수 있어 신중히 적응증을 평가합니다.
 
-약가 차이가 얼마나 되나요?국내 보험가는 TDF가 가장 저렴, ETV 중간, TAF가 가장 비쌉니다(2026 기준 월 본인부담 기준 TDF < ETV < TAF). 본인부담은 보험 적용·산정특례·B형간염 보험 인정 적응증 등에 따라 달라집니다. B형간염 치료는 산정특례로 본인부담 5%이며, 적응증을 충족하면 추가 보장도 가능합니다. 정확한 약가·본인부담은 처방 시 약국·병원 행정과 확인하세요. 약가 차이만으로 약을 자가 변경하지 마세요 — 신기능·골밀도·임신 계획 등 임상 인자를 함께 봐야 합니다.
+약가 차이가 얼마나 되나요?국내 보험가는 TDF가 가장 저렴, ETV 중간, TAF가 가장 비쌉니다(2026 기준 월 본인부담 기준 TDF < ETV < TAF). 본인부담은 보험 적용·산정특례·B형간염 보험 인정 적응증 등에 따라 달라집니다. 정확한 약가·본인부담은 처방 시 약국·병원 행정과 확인하세요. 약가 차이만으로 약을 자가 변경하지 마세요 — 신기능·골밀도·임신 계획 등 임상 인자를 함께 봐야 합니다.
 
 3개월마다 검사받는데 무엇을 보나요?HBV DNA, ALT(알라닌 아미노전이효소), AST(아스파르테이트 아미노전이효소), 빌리루빈, 알부민, PT(프로트롬빈 시간), 신기능(BUN/Cr/eGFR), 인(P), 칼슘, 알파태아단백(AFP)·PIVKA-II 등을 봅니다. 검사로 확인하는 것: 1) 약물 효과 — DNA가 불검출 또는 < 20 IU/mL로 잘 억제되는지, 2) 약물 부작용 — 신기능·골 부담 신호(TDF), 3) 간 기능 안정성 — ALT·알부민·PT 추세, 4) 합병증 조기 발견 — 간경변·간암 신호입니다. 안정적이면 점차 6개월 간격으로 늘릴 수 있습니다. 검사 결과지를 모아두면 추세 평가에 도움이 됩니다.
 
@@ -2414,7 +2414,11 @@ Pan CQ, Duan Z, Dai E, et al. Tenofovir to Prevent Hepatitis B Transmission in M
 
 Terrault NA, Lok ASF, McMahon BJ, et al. Update on prevention, diagnosis, and treatment of chronic hepatitis B: AASLD 2018 hepatitis B guidance. Hepatology. 2018;67(4):1560-1599. DOI · PMID 29405329
 
-Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026.
+Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026;83(4):974–997. DOI · PMID 41186418
+
+Chan HLY, Fung S, Seto WK, et al. Tenofovir alafenamide versus tenofovir disoproxil fumarate for the treatment of HBeAg-positive chronic hepatitis B virus infection: a randomised, double-blind, phase 3, non-inferiority trial. Lancet Gastroenterol Hepatol. 2016;1(3):185–195. DOI · PMID 28404091
+
+European Association for the Study of the Liver. EASL Clinical Practice Guidelines on the management of hepatitis B virus infection. J Hepatol. 2025;83(2):502–583. DOI · PMID 40348683
 
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
@@ -4050,22 +4054,13 @@ _DAA 완치(SVR) 후에도 추적이 필요한 이유 — C형 간염 세부주�
 
 작성일 2025년 10월 20일
 
-핵심 요약완치(SVR)되어도 치료 전 간경변·진행 섬유화(F3~F4)가 있었던 환자분은 평생 6개월마다 간암 검진을 받으셔야 합니다. SVR은 "바이러스 박멸"이지만 그동안 쌓인 간 손상은 일부 남기 때문이며, 완치 후에도 간세포암(HCC) 발생률이 일반인보다 5~10배 높습니다. 섬유화가 가벼웠던 분은 일반 검진 수준으로 줄일 수 있고, 재감염 위험군만 1년마다 HCV RNA를 한 번 봅니다.
+C형간염 약을 먹고 바이러스가 없어졌다는 말을 들으면, 이제 병원에 안 와도 되는지 물으시는 분이 많습니다. 답은 치료 전에 간이 얼마나 굳어 있었는지에 따라 달라집니다. 섬유화가 가벼웠던(F0~F2) 분은 대부분 일반 건강검진으로 돌아가도 됩니다. 간경변(F4)이 있었다면 완치 뒤에도 6개월마다 간암 검진을 평생 이어 가야 합니다. 바이러스는 없어졌어도 그동안 쌓인 간 손상은 남기 때문입니다. 그 중간인 진행성 섬유화(F3)는 당뇨, 음주, 나이 같은 다른 위험 요인을 함께 보고 간격을 정합니다.
 
-완치되신 환자분께 · 본인 시점 가이드
-완치 후 추적 강도는 "치료 전 또는 직후의 섬유화 단계"로 정해집니다. 본인 단계는 다음 중 하나로 확인하실 수 있습니다.
-
- 치료 시작 전후 받으신 간섬유화스캔(Fibroscan, LSM kPa) 수치 — 진료기록·검사 결과지에 적혀 있습니다.
-
- 혈액검사로 계산하는 FIB-4 점수 (담당 의료진이 알려줍니다).
-
- 과거 간경변 진단을 받은 적이 있다면 자동으로 F4로 간주합니다.
-
-모르시면 다음 외래에서 "제 섬유화 단계가 F 몇이었는지" 한 번만 여쭤보시고, 그 숫자를 기록해 두세요. 이후 평생 검진 간격을 결정하는 가장 중요한 정보입니다.
+본인의 섬유화 단계는 치료할 때 받은 파이브로스캔 수치나 혈액으로 계산하는 FIB-4 점수로 알 수 있고, 간경변 진단을 받은 적이 있다면 F4로 봅니다. 잘 모르신다면 다음 외래에서 한 번 여쭤보고 적어 두세요. 앞으로 검진 간격을 정하는 데 가장 중요한 정보입니다.
 
 ## "완치"라는 단어를 정확히 이해하기
 
-SVR12 = 치료 종료 12주 후 RNA 음성 = 완치. 24주 SVR 후 재발은 1% 미만으로 매우 드물어 SVR12를 사실상의 완치 기준으로 봅니다. 다만 외래에서 환자에게 설명할 때 늘 강조하는 부분이 있습니다.
+치료가 끝나고 12주 뒤에도 HCV RNA가 나오지 않으면(SVR12) 완치로 봅니다. 그 뒤에 바이러스가 다시 나오는 경우는 1% 미만입니다. 다만 외래에서 환자에게 설명할 때 늘 강조하는 부분이 있습니다.
 
  "바이러스가 없어졌다"는 사실은 분명합니다. RNA가 검출되지 않습니다.
 
@@ -4077,10 +4072,8 @@ SVR12 = 치료 종료 12주 후 RNA 음성 = 완치. 24주 SVR 후 재발은 1% 
 
 추적 축본인 위치 확인일반 외래 권고
 
-간섬유화 단계치료 전 또는 직후의 Fibroscan(LSM kPa), FIB-4, 과거 간경변 진단 유무F0~F2는 일반 검진, F3는 6~12개월 영상+AFP, F4는 6개월 영상+AFP 평생
+간섬유화 단계치료 전 또는 직후의 Fibroscan(LSM kPa), FIB-4, 과거 간경변 진단 유무F0~F2는 일반 검진, F3는 위험 요인에 따라 6개월~1년, F4는 6개월마다 영상+AFP 평생
 재감염 위험주삿바늘·문신·성접촉 등 노출 가능 행위가 지금도 있는지위험 행위 가능성 있으면 1~2년마다 HCV RNA 재검, 없으면 기본 추적만
-
-본인 섬유화 단계를 모르시면 간섬유화스캔(Fibroscan) 수치 해석을 먼저 확인하세요. 과거 간경변 진단을 받은 적이 있다면 F4로 간주합니다.
 
 ## SVR 후 HCC 위험 — 왜 평생 검진을 권하는가
 
@@ -4088,12 +4081,12 @@ SVR12 = 치료 종료 12주 후 RNA 음성 = 완치. 24주 SVR 후 재발은 1% 
 
 치료 전 섬유화 단계SVR 후 연간 HCC 위험권고 추적
 
-F0~F2 (경증)약 0.1~0.3%/년 (일반인과 유사)일반 검진 수준. 정기 HCC surveillance 불필요
-F3 (진행 섬유화)약 0.5~1.5%/년6~12개월마다 초음파 + AFP, 평생
+F0~F2 (경증)약 0.1~0.3%/년일반 검진 수준. 정기 HCC surveillance 불필요
+F3 (진행 섬유화)약 0.5%/년 전후당뇨·음주·60세 이상 같은 위험 요인이 겹치면 6개월, 없으면 1년 간격 등 개별 판단
 F4 (간경변, 보상성)약 1.5~3%/년6개월마다 초음파 + AFP, 평생
 F4 + 비대상성3% 이상/년6개월 초음파 + AFP, 정맥류 추적, 간이식 평가 검토
 
-F3~F4의 평생 검진은 가이드라인의 합의 사항입니다(KASL, AASLD, EASL). 일부 환자는 SVR 후 5~10년 사이 첫 HCC가 발견되는 경우도 있어 "10년 동안 깨끗했으니 그만 해도 되겠다"는 판단은 위험합니다.
+간경변(F4)이 있었던 분의 평생 검진은 KASL, AASLD-IDSA, EASL이 같은 방향으로 권고합니다. 완치 후 몇 년이 지나 처음 간암이 발견되는 경우도 있어, 오래 깨끗했다고 검진을 그만두는 것은 권하지 않습니다. 가이드라인마다의 근거와 F3 판단 기준은 완치 후 장기 추적 업데이트에 따로 정리했습니다.
 
 ## 섬유화 추적 — 시간이 지나면서 좋아지는가
 
@@ -4101,7 +4094,7 @@ SVR 후 섬유화는 일부 환자에서 호전됩니다. 일반적인 추세는
 
  F1~F2 — SVR 후 1~3년에 정상 또는 거의 정상으로 회복 가능합니다. Fibroscan 수치가 의미 있게 떨어집니다.
 
- F3 — 시간이 지나며 일부 호전되나, 완전히 정상으로 돌아가는 경우는 적음. 12.5 kPa 이하로 내려가도 HCC surveillance 그대로 유지(섬유화 reverse가 HCC 위험을 0으로 만들지는 않음).
+ F3 — 시간이 지나며 일부 호전되지만 완전히 정상으로 돌아가는 경우는 많지 않습니다. 파이브로스캔 수치가 떨어져도 간암 위험이 없어진 것은 아니어서, 검진 간격은 치료 전 단계와 다른 위험 요인을 기준으로 정합니다.
 
  F4 — 일부에서 Fibroscan 수치가 떨어지지만, 조직학적 간경변이 완전히 소실되는 경우는 드뭅니다. 식도정맥류·문맥압항진은 천천히 호전될 수 있어 1~3년 간격 EGD 추적 검토합니다.
 
@@ -4128,7 +4121,7 @@ HCV 동반 간외 합병증은 SVR 후 대체로 호전되나 일부는 잔존�
 SVR12 확인RNA 음성 확인 후 일반 추적으로 전환RNA 음성 확인 + Fibroscan 베이스라인
 6개월증상 점검만 (검사 필수 아님)초음파 + AFP, ALT/AST/혈소판·알부민/PT
 12개월ALT 1회, 위험군이면 RNA 1회위와 동일 + Fibroscan
-이후 평생일반 검진. 위험군은 매년 RNA매 6개월 초음파+AFP, 매 1~3년 EGD, 매 2년 Fibroscan
+이후 평생일반 검진. 위험군은 매년 RNA6개월마다 초음파+AFP(F3는 위험 요인에 따라 조정), 간경변이면 내시경 추적, 2년마다 Fibroscan
 
 ## 재감염 위험군은 별도 관리
 
@@ -4162,17 +4155,17 @@ HCV는 자연회복이나 DAA 완치 후 면역이 영구 형성되지 않습니
 
 ## 자주 묻는 질문
 
-SVR 달성 후 ALT가 정상이면 안심해도 되나요?활동성 바이러스는 사라졌지만 간 자체의 손상(섬유화·간경변)은 잔존합니다. ALT 정상은 좋은 신호이지만, 간경변·진행 섬유화(F3~F4) 환자분은 평생 6개월 간암 검진이 필요합니다. ALT 정상이라고 검진을 미루지 마세요.
+SVR 달성 후 ALT가 정상이면 안심해도 되나요?활동성 바이러스는 사라졌지만 간 자체의 손상(섬유화·간경변)은 잔존합니다. ALT 정상은 좋은 신호이지만, 간경변(F4)이 있었던 분은 평생 6개월마다, 진행성 섬유화(F3)였던 분은 위험 요인에 따라 간암 검진이 필요합니다. ALT 정상이라고 검진을 미루지 마세요.
 
 완치되면 보험·취업·헌혈에서 영향이 있나요?국내에서 C형간염 진단력 자체가 차별 사유가 되지는 않지만, 일부 보험 가입에서는 고지 의무가 있을 수 있습니다. 헌혈은 anti-HCV 양성 이력 자체로 평생 헌혈 불가가 됩니다(현재 RNA 음성이라도). 취업 신체검사는 단순 ALT가 정상이면 일반적으로 통과합니다.
 
-가족이나 배우자에게 옮길 위험이 남아있나요?SVR 후 RNA 음성이면 전염 위험이 사실상 없습니다. 다만 칫솔·면도기 등 혈액 접촉 가능 물품 공유는 일반적인 위생 차원에서 분리 권장합니다. 식기·포옹·키스 등 일상 접촉은 안전합니다. 배우자가 한 번 anti-HCV 검사를 안 받았다면 한 번은 받아보시는 게 좋습니다(환자분이 진단되기 전 무증상 노출 가능).
+가족이나 배우자에게 옮길 위험이 남아있나요?SVR 후 RNA가 음성이면 다른 사람에게 옮기지 않습니다. 다만 칫솔·면도기 등 혈액 접촉 가능 물품 공유는 일반적인 위생 차원에서 분리 권장합니다. 식기·포옹·키스 등 일상 접촉은 안전합니다. 배우자가 한 번 anti-HCV 검사를 안 받았다면 한 번은 받아보시는 게 좋습니다(환자분이 진단되기 전 무증상 노출 가능).
 
 완치되면 더 이상 RNA 검사를 안 해도 되나요?일반적으로는 SVR12 확인 후 추가 RNA는 필수가 아닙니다. ALT가 새로 오르거나 증상이 생기면 그때 다시 봅니다. 단, 재감염 위험군(위 섹션)은 1년마다 RNA를 한 번씩 점검합니다. 간 영상·AFP는 RNA와 별개로 섬유화 단계에 따라 정기 진행합니다.
 
 이미 간경변인 상태에서 SVR을 달성했는데, 간이식이 필요한가요?보상성 간경변(Child-Pugh A)이라면 SVR 후 추적 관찰이 표준이며, 즉시 이식 평가가 필요한 것은 아닙니다. 비대상성 간경변(Child-Pugh B/C, 복수·간성혼수·정맥류 출혈)이거나 MELD가 의미 있게 높은 경우에는 이식 평가를 시작합니다. SVR 후 일부 환자분에서는 간기능이 호전되어 이식 대기 명단에서 제외될 수도 있고("delisting"), 일부는 SVR 도달 후에도 진행하여 이식이 필요할 수 있습니다. 6개월 단위 평가로 결정합니다.
 
-완치 후 검진 외래 간격을 더 길게 잡고 싶습니다.F3~F4는 6개월 간격이 표준이며 짧아지는 것은 권하지 않습니다. 6개월보다 길게 잡으면 발견 시 종양이 커서 치료 옵션이 좁아질 수 있습니다. 환자분의 일정상 어렵다면, 검진을 다른 의료기관에서 분담하거나(영상은 가까운 곳에서, 외래는 본원에서) 약속 시간을 조정하는 방향으로 합의하는 게 안전합니다.
+완치 후 검진 외래 간격을 더 길게 잡고 싶습니다.간경변(F4)이 있었다면 6개월 간격이 표준이라 더 길게 잡는 것은 권하지 않습니다. 간격이 길어지면 발견했을 때 종양이 커서 치료 선택지가 좁아질 수 있습니다. F3였고 다른 위험 요인이 없다면 1년 간격도 검토할 수 있으니 담당 의사와 상의해 보세요. 환자분의 일정상 어렵다면, 검진을 다른 의료기관에서 분담하거나(영상은 가까운 곳에서, 외래는 본원에서) 약속 시간을 조정하는 방향으로 합의하는 게 안전합니다.
 
 ## References
 
@@ -4209,18 +4202,18 @@ _임신 전 DAA 완치가 표준. 임신 중 DAA는 충분한 안전성 자료 �
 임신·수유 단계별 HCV 관리
 시기치료·검사비고
 
-임신 전DAA 치료 완료 권장완치 후 6개월 피임 (RBV 사용 시 6개월)
+임신 전DAA 치료 완료 권장리바비린을 함께 쓴 경우에만 치료 후 6개월 피임
 임신 중DAA 일반적으로 미권장SOF + ledipasvir 임상 자료 누적 중
 출산제왕절개 의무 아님HCV RNA 고농도 + HIV 동시감염 시 검토
-모자감염률약 5% (HCV RNA 양성 산모)HIV 동시감염 시 10–20%로 ↑
-수유일반적으로 안전유두 손상·출혈 시 일시 중단
+모자감염률약 6% (HCV RNA 양성 산모)HIV 동시감염이면 약 11%로 높아짐
+수유HCV 감염만으로는 금기 아님유두 손상·출혈 시 일시 중단, HIV 동시감염이면 수유하지 않음
 영아 검사생후 2~6개월 HCV RNA (CDC 2023 1차 권고)검사 못 한 7~17개월 아기는 그때라도 HCV RNA, 18개월 이후 anti-HCV도 가능
 
 ## 임신 전
 
-임신 계획 6개월 전 DAA 완치 권장
+임신 전에 DAA 치료를 마치고 SVR12까지 확인하는 것이 좋음
 완치 후 SVR12 확인 후 임신 진행이 안전
-리바비린 함유 제제는 임신 전후 6개월 회피(태아 기형 위험)
+리바비린을 쓰면 치료 중과 치료 후 6개월은 임신을 피함(태아 기형 위험)
 HCV RNA 양성 채로 임신 계획 시 산과·간내과 협진
 
 ## 임신 중 발견 시
@@ -4232,15 +4225,15 @@ HCV RNA 양성 채로 임신 계획 시 산과·간내과 협진
 
 ## 수유와 신생아
 
-모유 수유는 안전 (모유에 RNA 매우 낮음, 영아 감염 보고 없음)
-유두 출혈 시 일시 중단 권고
+모유 수유는 HCV를 옮기는 위험 요인이 아니어서 계속해도 됨
+유두가 갈라지거나 피가 나면 일시 중단, HIV 동시감염이면 수유하지 않음
 출생 직후 anti-HCV는 모체 항체가 섞여 의미가 없어, 생후 2~6개월에 HCV RNA로 직접 확인합니다. 음성이면 더 추적하지 않아도 됩니다
 
 ## 자주 묻는 질문
 
-DAA로 완치된 후 임신해도 되나요?SVR12(치료 종료 12주 후 RNA 음성 확인)가 되면 안심하고 임신을 계획할 수 있습니다. DAA 자체는 임신 6개월 전 중단으로 충분히 안전하며, 인터페론 시대처럼 장기간 기다릴 필요가 없습니다. 다만 치료에 ribavirin이 포함되었다면 다른 일정이 적용됩니다. Ribavirin은 동물 실험에서 명확한 기형 유발 효과가 보고되어 여성은 마지막 복용 후 6개월, 남성은 7개월 동안 임신을 피해야 합니다. 일반 외래에서 가장 흔히 쓰는 1차 regimen(GLE/PIB, SOF/VEL)에는 ribavirin이 포함되지 않으므로 SVR12 확인 후 바로 임신을 시작해도 됩니다. 산부인과·간내과와 함께 임신 시점을 조율하시길 권합니다.
+DAA로 완치된 후 임신해도 되나요?SVR12(치료 종료 12주 후 RNA 음성 확인)가 되면 안심하고 임신을 계획할 수 있습니다. 리바비린이 없는 DAA 치료였다면 인터페론 시대처럼 오래 기다릴 필요가 없습니다. 다만 치료에 ribavirin이 포함되었다면 다른 일정이 적용됩니다. Ribavirin은 동물 실험에서 기형 유발 효과가 보고되어, 환자가 여성이든 남성이든 마지막 복용 후 6개월까지 임신을 피하도록 합니다(미국 허가 기준). 일반 외래에서 가장 흔히 쓰는 1차 regimen(GLE/PIB, SOF/VEL)에는 ribavirin이 포함되지 않으므로 SVR12 확인 후 바로 임신을 시작해도 됩니다. 산부인과·간내과와 함께 임신 시점을 조율하시길 권합니다.
 
-임신 중에 발견됐는데 어떻게 하나요?대부분의 경우 출산 후로 치료를 미루고 임신 중에는 정기 추적만 진행합니다. DAA의 임신 중 안전성 데이터가 아직 제한적이고, 임신 중 자연 면역 변화로 ALT가 일과성으로 오르내릴 수 있어 임신 종료 후 치료를 시작하는 것이 표준입니다. 임신 중에는 (1) ALT, HCV RNA, 간 기능 정기 추적, (2) 분만 시 신생아 노출 최소화(가능하면 자연분만 우선, 양막 파열 후 장시간 경과·자궁 모니터링 침습 시술 회피), (3) 분만 후 즉시 신생아 추적 계획 안내가 핵심입니다. 일부 의료기관에서는 임신 중 HCV 치료 임상시험을 진행하고 있어, 진행 섬유화가 동반된 환자분 등 일부에서는 임상시험 참여도 검토할 수 있습니다.
+임신 중에 발견됐는데 어떻게 하나요?대부분의 경우 출산 후로 치료를 미루고 임신 중에는 정기 추적만 진행합니다. DAA의 임신 중 안전성 데이터가 아직 제한적이고, 임신 중 자연 면역 변화로 ALT가 일과성으로 오르내릴 수 있어 임신 종료 후 치료를 시작하는 것이 표준입니다. 임신 중에는 (1) ALT, HCV RNA, 간 기능 정기 추적, (2) 분만 시 신생아 노출 최소화(분만 방식은 산과 적응증대로 정하고, 양막 파열 후 오래 기다리거나 침습적 태아 모니터링을 하는 것은 가급적 피함), (3) 분만 후 즉시 신생아 추적 계획 안내가 핵심입니다. 일부 의료기관에서는 임신 중 HCV 치료 임상시험을 진행하고 있어, 진행 섬유화가 동반된 환자분 등 일부에서는 임상시험 참여도 검토할 수 있습니다.
 
 아이는 언제 검사하나요?출생 직후에는 검사하지 않습니다. 산모의 anti-HCV 항체가 태반을 통해 아기에게 넘어가 18개월 무렵까지 남아 있어서, 그 전에 항체 검사를 하면 "진짜 감염"인지 "엄마 항체가 남은 것"인지 구별이 안 됩니다. 그래서 미국 CDC는 2023년부터 생후 2~6개월에 HCV RNA 검사로 바이러스를 직접 확인하도록 권고를 바꿨습니다. 항체가 사라지길 18개월까지 기다리는 사이 추적에서 놓치는 아기가 많았기 때문입니다. RNA가 음성이면 그것으로 추적을 마칩니다. 이 시기에 검사를 못 했다면 7~17개월에라도 HCV RNA를, 18개월 이후라면 anti-HCV를 봅니다. 감염이 확인된 아이는 만 3세 이후 먹는 약(GLE/PIB 등)으로 치료가 가능하므로 소아 간 전문 진료와 함께 봅니다.
 
@@ -4249,6 +4242,8 @@ DAA로 완치된 후 임신해도 되나요?SVR12(치료 종료 12주 후 RNA �
 Bhattacharya D, Aronsohn A, Price J, Lo Re V, et al. Hepatitis C Guidance 2023 Update: AASLD-IDSA Recommendations for Testing, Managing, and Treating Hepatitis C Virus Infection. Clin Infect Dis. 2023. (매 임신마다 anti-HCV 선별검사 권고)
 
 Hughes BL, et al. Hepatitis C in pregnancy. Obstet Gynecol 2017.
+
+Benova L, Mohamoud YA, Calvert C, Abu-Raddad LJ. Vertical transmission of hepatitis C virus: systematic review and meta-analysis. Clin Infect Dis. 2014;59(6):765–773. DOI · PMID 24928290
 
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
@@ -4531,7 +4526,7 @@ C형간염anti-HCVDAAFibroscan검진
 
 URL: https://drshin.kr/D%ED%98%95%EA%B0%84%EC%97%BC-%EC%B9%98%EB%A3%8C-%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8/
 
-_EASL 2023·AASLD 2026 가이드라인 기반 D형간염(HDV) 검진·치료 알고리즘. Bulevirtide(MYR-301), 페그인터페론, 병용요법, 한국 임상 접근까지 정리합니다._
+_EASL 2023 가이드라인 기반 D형간염(HDV) 검진·치료 알고리즘. Bulevirtide(MYR-301), 페그인터페론, 병용요법, 한국 임상 접근까지 정리합니다._
 
 # D형간염 치료·관리 — 2023–2026 가이드라인
 
@@ -4539,13 +4534,13 @@ _EASL 2023·AASLD 2026 가이드라인 기반 D형간염(HDV) 검진·치료 알
 
 D형간염HDVBulevirtideMYR-301EASL 2023
 
-핵심 요약만성 D형간염은 B형간염 환자에서 가장 빠르게 간경변·간암으로 진행하지만 오랫동안 치료 옵션이 페그인터페론에 국한됐습니다. 2020년 유럽에서 NTCP 진입 차단제 Bulevirtide가 조건부 승인됐고, 미국 FDA도 2026년 5월 가속 승인하면서 처음으로 HDV 표적 치료가 표준으로 자리 잡았습니다. EASL 2023과 AASLD 2026은 HBsAg 양성 환자 전수 선별 → HDV RNA 양성·간 활동성 + 섬유화 ≥ F2이면 치료 시작 → Bulevirtide 2 mg/일 단독 또는 페그인터페론 병용을 1차 권고합니다. 한국은 2026년 5월 현재 Bulevirtide가 미허가 상태로 임상시험·동정적 사용·식약처 한시 도입이 유일한 경로입니다.
+핵심 요약만성 D형간염은 B형간염 환자에서 가장 빠르게 간경변·간암으로 진행하지만 오랫동안 치료 옵션이 페그인터페론에 국한됐습니다. 2020년 유럽에서 NTCP 진입 차단제 Bulevirtide가 조건부 승인됐고, 미국 FDA도 2026년 5월 가속 승인하면서 처음으로 HDV 표적 치료가 표준으로 자리 잡았습니다. EASL 2023은 HBsAg 양성인 모든 환자에게 anti-HDV 검사를 권하고, 대상성 간질환이면 Bulevirtide 치료를 고려하도록 합니다. 페그인터페론 금기가 없으면 두 약을 함께 쓰는 방법도 고려할 수 있습니다. 한국은 2026년 5월 현재 Bulevirtide가 미허가 상태로 임상시험·동정적 사용·식약처 한시 도입이 유일한 경로입니다.
 
 ## HDV가 임상에서 다른 만성 간염과 다른 점
 
 D형간염 바이러스(HDV)는 외피를 만들 능력이 없어 B형간염 바이러스(HBV)의 표면 항원(HBsAg)을 빌려 입자를 완성하는 결손 위성 바이러스입니다. HBsAg가 사라지면 HDV도 함께 사라지며, 그 반대 흐름은 임상에서 거의 일어나지 않습니다.
 
- 가장 빠른 간경변 — 만성 HDV 감염은 5~10년 안에 약 70%가 간경변에 도달합니다. HBV 단독 대비 진행 속도가 2~3배 빠르고 간세포암 발생률도 약 3배 높다는 보고가 있습니다.
+ 가장 빠른 간경변 — 만성 D형간염은 B형간염만 있을 때보다 간경변과 간부전으로 더 빨리, 더 자주 진행합니다(EASL 2023). 간세포암 위험도 높아서, 관찰연구를 모은 분석에서 전향적 코호트만 보면 위험이 약 2.8배였습니다(Alfaiate 2020).
 
  치료 옵션 비대칭 — HBV는 1세대 항바이러스제로 30년 이상 억제 경험이 누적된 반면 HDV는 2020년에야 첫 표적 치료가 승인되어 임상 경험이 시작 단계입니다.
 
@@ -4567,13 +4562,12 @@ D형간염 바이러스(HDV)는 외피를 만들 능력이 없어 B형간염 바
 
 ## 선별 — 누구에게 anti-HDV를 검사하나
 
-EASL 2023과 AASLD 2026은 HBsAg 양성인 모든 환자에게 평생 최소 1회 anti-HDV 선별 검사를 권고합니다(double-reflex 전략). 위험군에 한정한 KASL 권고와는 강도 차이가 있습니다.
+EASL 2023은 HBsAg 양성인 모든 환자에게 anti-HDV 선별 검사를 권하고, 양성이면 HDV RNA로 활동성 감염인지 확인하도록 합니다. 위험군에 한정한 KASL 2022 권고와는 범위에 차이가 있습니다.
 
 HDV 선별 — 가이드라인 비교 (2026)
 가이드라인선별 대상반복 검사
 
-EASL 2023HBsAg 양성인 모든 환자 (universal screening)고위험 지속 노출 시 매년
-AASLD 2026 (Ghany)HBsAg 양성 모든 환자에서 1회 (또는 위험 노출 시 반복)위험 노출 지속 시
+EASL 2023HBsAg 양성인 모든 환자임상적으로 필요할 때
 KASL 2022위험군 한정 (풍토 지역, 정맥주사 약물, HIV 동반, 빠른 진행)위험 지속 시
 
 국내에서 위험 인자가 없는 무증상 보균자에게 일률적 선별을 적용할지는 의료기관별로 결정이 다릅니다. 그러나 출생지·여행력 자료가 불완전한 경우가 많아 외래에서 한 번은 anti-HDV를 챙기는 것이 안전합니다. 검사 비용·접근성도 anti-HBs/anti-HBc 수준이라 부담이 크지 않습니다.
@@ -4596,13 +4590,13 @@ KASL 2022위험군 한정 (풍토 지역, 정맥주사 약물, HIV 동반, 빠�
 
  섬유화·간경변 평가 — Fibroscan(간섬유화 측정값(LSM))과 FIB-4(Fibrosis-4)를 측정하고, 가능하면 영상에서 간경변 소견을 함께 확인합니다.
 
- 간암 검진 — 6개월 간격으로 초음파와 알파태아단백(AFP)을 시행합니다. 간경변·진행 섬유화가 동반되면 평생 유지합니다.
+ 간암 검진 — 6개월 간격으로 초음파와 알파태아단백(AFP)을 시행합니다. D형간염이 함께 있으면 간경변이 없어도 감시를 권합니다(AASLD-IDSA 2025).
 
  HIV·HCV 동반 검사 — 위험군에서는 함께 검사합니다.
 
 ## 치료 시작 결정 — 누구에게 약을 시작하는가
 
-EASL 2023과 AASLD 2026의 치료 적응증은 거의 동일합니다.
+EASL 2023은 대상성 간질환이 있는 만성 D형간염이면 치료를 고려하도록 권합니다. 실제로는 아래처럼 나눠서 판단합니다.
 
  치료 권고 — HDV RNA 검출 + 다음 중 하나: ALT 정상 상한 초과, 섬유화 ≥ F2(LSM ≥ 8 kPa 또는 FIB-4 ≥ 2.0), 대상성 간경변 동반.
 
@@ -4612,7 +4606,7 @@ EASL 2023과 AASLD 2026의 치료 적응증은 거의 동일합니다.
 
  간이식 전후 — 이식 후 HDV 재감염 예방은 HBIG + 핵산 유사체 ± Bulevirtide 조합으로 다루며, 이식센터 프로토콜을 따릅니다.
 
-## Bulevirtide — NTCP 진입 차단제 (1차 치료)
+## Bulevirtide — NTCP 진입 차단제
 
 Bulevirtide(상품명 Hepcludex)는 HBV·HDV가 간세포에 진입할 때 사용하는 NTCP(Na⁺-taurocholate cotransporting polypeptide) 수용체를 경쟁적으로 차단하는 합성 myristoylated 단백 약입니다. 매일 피하 주사 1회로 투여하며, 작용 부위가 진입 단계라 HDV 입자의 새로운 감염을 줄여 시간이 지나며 바이러스 부하를 낮춥니다.
 
@@ -4631,11 +4625,11 @@ MYR-301(Wedemeyer N Engl J Med 2023, NCT03852719) 3상 시험은 대상성 간 �
 
 치료 중단 후 HDV RNA 재반등이 흔하므로 EASL과 AASLD 모두 유지 치료(chronic suppression)를 권장합니다. 다만 HBsAg 소실(functional cure)에 도달한 환자는 안전한 중단 후보가 됩니다.
 
-## 페그인터페론 알파 — 보조·대체 옵션
+## 페그인터페론 알파
 
 페그인터페론 알파-2a 180 µg/주 48주 표준 용법은 Bulevirtide 도입 전부터 사용되던 유일한 옵션이었습니다. 치료 종료 후 24주 시점에 HDV RNA 음성을 유지하는 환자는 약 25~30%로 보고됐고, 장기 추적에서 17% 정도까지 떨어지는 데이터가 있습니다(Heidrich Hepatology 2014, Wedemeyer Lancet Infect Dis 2019).
 
- 적응증 위치 (2026) — Bulevirtide 미접근 환경, BLV 단독에 반응이 부족한 환자, BLV 종결 후 단기 강화 사이클 등 보조 역할로 좁아졌습니다.
+ 언제 고려하나 — 치료 기간이 48주로 정해져 있다는 점이 장점입니다. 인터페론 금기가 없는 환자에서 Bulevirtide 대신 또는 함께 검토하고, Bulevirtide를 쓰기 어려운 환경에서도 선택지가 됩니다.
 
  금기·신중 사용 — 비대상성 간경변, 임신, 활성 자가면역 질환, 조절되지 않는 정신과 질환과 자살 위험, 심한 골수 억제, 갑상선 자가면역 활동기에서는 사용하지 않습니다.
 
@@ -4655,7 +4649,7 @@ MYR204(Asselah N Engl J Med 2024) phase 2b 시험은 BLV 10 mg/일 + PEG-IFN 180
 
 ## 모니터링과 치료 종결 기준
 
-치료 중 모니터링 (EASL 2023·AASLD 2026)
+치료 중 모니터링
 항목간격평가 기준
 
 HDV RNA3개월2 log10 감소, 불검출 도달 여부
@@ -4691,21 +4685,21 @@ HCC 검진6개월간경변·진행 섬유화 동반 시 평생
 
 ## 결론
 
-HDV 치료는 30년 가까이 페그인터페론 한 가지에 갇혀 있다가 Bulevirtide 진입 차단제로 표준이 처음 만들어졌고, 병용·신약 임상이 빠르게 누적 중입니다. EASL 2023과 AASLD 2026 모두 HBsAg 양성 환자 전수 선별 → HDV RNA 양성·간 활동성이면 치료 시작 → Bulevirtide 2 mg/일 단독을 1차, 페그인터페론 또는 병용을 보조로 권합니다. 한국은 아직 허가 공백이 있어 임상시험·식약처 한시 도입이 현실적 경로이며, 풍토 지역 출신·정맥주사 약물 이력·빠른 진행 환자에서는 적극적인 선별이 필요합니다.
+HDV 치료는 30년 가까이 페그인터페론 한 가지에 갇혀 있다가 Bulevirtide 진입 차단제로 표준이 처음 만들어졌고, 병용·신약 임상이 빠르게 누적 중입니다. EASL 2023은 HBsAg 양성인 모든 환자에게 anti-HDV 검사를 권하고, 대상성 간질환이면 Bulevirtide 치료를 고려하며, 인터페론 금기가 없으면 페그인터페론이나 두 약의 병용도 선택지로 둡니다. 한국은 아직 허가 공백이 있어 임상시험·식약처 한시 도입이 현실적 경로이며, 풍토 지역 출신·정맥주사 약물 이력·빠른 진행 환자에서는 적극적인 선별이 필요합니다.
 
 ## 자주 묻는 질문
 
-일반 B형간염 환자에게도 anti-HDV 검사를 해야 하나요?EASL 2023과 AASLD 2026은 HBsAg 양성인 모든 환자에게 평생 최소 1회 anti-HDV 선별을 권합니다. 한국의 KASL 2022는 위험군(풍토 지역 출생·거주, 정맥주사 약물, HIV 동반, 빠른 간경변 진행)에 한정하지만 출생지·과거 노출 자료가 불완전한 경우가 많아 일률 선별로 옮겨가는 흐름입니다. 검사 자체는 anti-HDV total(IgG) 단순 효소면역측정으로 비용·접근성 부담이 크지 않습니다. 양성이면 HDV RNA로 활동 감염을 확인합니다.
+일반 B형간염 환자에게도 anti-HDV 검사를 해야 하나요?EASL 2023은 HBsAg 양성인 모든 환자에게 anti-HDV 검사를 권합니다. 한국의 KASL 2022는 위험군(풍토 지역 출생·거주, 정맥주사 약물, HIV 동반, 빠른 간경변 진행)에 한정하지만, 본인도 위험 요인을 모르는 경우가 적지 않습니다. 검사 자체는 anti-HDV total(IgG) 단순 효소면역측정으로 비용·접근성 부담이 크지 않습니다. 양성이면 HDV RNA로 활동 감염을 확인합니다.
 
 Bulevirtide는 평생 맞아야 하나요?현재 가이드라인은 무기한 유지를 기본으로 합니다. 치료 중단 후 HDV RNA 재반등이 흔하기 때문입니다. 다만 HBsAg 소실 + anti-HBs 양전(HBV 기능적 완치)에 도달하면 HDV도 자연 소실되어 안전한 중단 후보가 됩니다. 또한 병용 요법으로 HDV RNA 완전 음성에 도달한 일부 환자에서 시도되는 finite-duration 전략은 임상시험·전문 진료에서 결정 영역으로 남아 있습니다. 자가 중단은 절대 금지이며 종결 결정은 진료의와 함께 결정합니다.
 
-Bulevirtide와 페그인터페론 중 무엇이 먼저인가요?EASL 2023과 AASLD 2026 모두 Bulevirtide 단독을 1차로 권합니다. 부작용 부담이 페그인터페론보다 작고 비대상성 간경변에서도 상대적으로 안전합니다. 페그인터페론은 (1) Bulevirtide 미접근 환경, (2) finite-duration 결합 사이클 설계, (3) 임상시험에서 병용 평가의 일부일 때 선택합니다. 비대상성 간경변·임신·활성 자가면역·심한 정신과 질환에서는 페그인터페론이 금기이므로 Bulevirtide(또는 임상시험)로 결정합니다.
+Bulevirtide와 페그인터페론 중 무엇이 먼저인가요?EASL 2023은 어느 한 약을 반드시 먼저 쓰라고 정하지 않았습니다. 대상성 간질환이면 Bulevirtide 치료를 고려하도록 하고, 페그인터페론도 선택지로 두며, 금기가 없으면 병용도 고려할 수 있다고 봅니다. Bulevirtide는 부작용 부담이 적은 대신 언제까지 써야 하는지가 정해져 있지 않고, 페그인터페론은 48주로 기간이 정해져 있지만 부작용이 많습니다. 비대상성 간경변·임신·활동성 자가면역질환·심한 정신과 질환에서는 페그인터페론을 쓰지 않으므로 Bulevirtide나 임상시험을 검토합니다.
 
 한국에서 Bulevirtide는 어떻게 받을 수 있나요?2026년 5월 현재 식약처 정식 허가가 없어 일반 보험·처방 경로로는 받을 수 없습니다. 가능한 경로는 세 가지입니다 — (1) 진행 중인 임상시험에 참여, (2) 식약처의 치료 목적 사용 승인을 받아 환자 단위로 도입, (3) 해외 의료기관에서 치료. (2)번 경로는 의료기관 약제실·식약처 담당과 함께 진행하며 보통 3~6개월이 소요됩니다. 가장 빠른 접근은 진행 중인 임상시험을 확인하는 것입니다. 임상연구정보서비스(CRIS)와 ClinicalTrials.gov에서 "bulevirtide" 또는 "hepatitis D"로 검색합니다.
 
 HDV가 있어도 HBV 약(테노포비어·엔테카비어)은 계속 먹어야 하나요?네, 반드시 유지합니다. HBV DNA가 억제되어야 HBsAg 공급이 줄고 HDV 활동도 함께 낮아집니다. Bulevirtide·페그인터페론을 시작하더라도 NA는 그대로 유지하는 것이 표준입니다. 신기능·골밀도에 따라 테노포비어 디소프록실(TDF)·테노포비어 알라페나미드(TAF)·엔테카비어 중 선택을 조정합니다.
 
-HDV 환자도 간암 검진을 6개월마다 받아야 하나요?네, 간경변·진행 섬유화 동반이면 평생 6개월 간격 검진(초음파 + 알파태아단백)이 표준입니다. 만성 HDV는 HBV 단독 대비 간세포암 발생률이 약 3배 높은 것으로 보고되어 검진 강도를 낮추지 않습니다. F2~F3 진행 섬유화에서도 6개월 간격이 권장되며, F0~F1이라도 위험 인자가 동반되면 진료의가 단축을 결정합니다.
+HDV 환자도 간암 검진을 6개월마다 받아야 하나요?네. 미국 AASLD-IDSA 2025 B형간염 가이드라인은 D형간염이 함께 있는 성인이면 간경변 여부와 관계없이 간암 감시를 권합니다. 간경변이 없어도 간세포암이 생기는 비율이 높게 보고됐기 때문입니다. 검사는 6개월 간격 초음파와 알파태아단백(AFP)으로 합니다.
 
 ## References
 
@@ -4715,13 +4709,15 @@ Wedemeyer H, Aleman S, Brunetto MR, et al. A Phase 3, Randomized Trial of Bulevi
 
 Asselah T, Arama SS, Bogomolov P, et al. Bulevirtide combined with pegylated interferon for chronic hepatitis D. N Engl J Med. 2024;391(2):133–143.
 
-Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026. (HDV section)
+Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026;83(4):974–997. DOI · PMID 41186418
 
 Heidrich B, Yurdaydın C, Kabaçam G, et al. Late HDV RNA relapse after peginterferon alpha-based therapy of chronic hepatitis delta. Hepatology. 2014;60(1):87–97. DOI · PMID 24585488
 
 Wedemeyer H, Yurdaydın C, Hardtke S, et al. Peginterferon alfa-2a plus tenofovir disoproxil fumarate for hepatitis D (HIDIT-II): a randomised, placebo-controlled, phase 2 trial. Lancet Infect Dis. 2019;19(3):275–286. DOI · PMID 30833068
 
 Korean Association for the Study of the Liver (KASL). KASL clinical practice guidelines for management of chronic hepatitis B. Clin Mol Hepatol. 2022;28(2):276–331. DOI
+
+Alfaiate D, Clément S, Gomes D, Goossens N, Negro F. Chronic hepatitis D and hepatocellular carcinoma: A systematic review and meta-analysis of observational studies. J Hepatol. 2020;73(3):533–539. DOI · PMID 32151618
 
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
@@ -8504,6 +8500,8 @@ F0~F2는 졸업이 가능합니다. 동반 위험인자(MASLD, 알코올, HIV)�
 
 정리하면, C형간염은 DAA 이후 완치되는 만성 감염병이 됐지만 완치는 어디까지나 바이러스에 대한 것이고, 그동안 진행된 간 상태는 따로 추적해야 합니다. 그래서 간경변(F4)은 평생 6개월 간격으로 보고, F3는 동반 위험인자를 보며 개별로 판단하며, F0~F2는 졸업하되 재감염 고위험군은 단계와 무관하게 매년 HCV RNA를 확인합니다. "완치됐는데 왜 또 오시라 하느냐"는 질문에 저는 결국 이렇게 답합니다 — 바이러스는 끝났지만, 그 바이러스가 만들어 놓은 발판 위에서 암이 생길 가능성은 한동안 남아 있다고요.
 
+섬유화 단계별 검사 일정과 생활 관리는 C형간염 완치 후 추적 안내에 정리해 두었습니다.
+
 완치 후 추적을 길게 이어가는 분 중에는, 간 상태와 동반 질환을 보고 서울대병원에서 진행 중인 장기 추적 코호트나 재감염 모니터링 연구를 외래에서 권해드리는 경우도 있습니다.
 
 ## References
@@ -10827,7 +10825,7 @@ Korean Association for the Study of the Liver (KASL). KASL clinical practice gui
 
 Terrault NA, Lok ASF, McMahon BJ, et al. AASLD 2018 hepatitis B guidance. Hepatology. 2018;67(4):1560–1599. DOI · PMID 29405329
 
-Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026.
+Ghany MG, Pan CQ, Lok AS, et al. AASLD-IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology. 2026;83(4):974–997. DOI · PMID 41186418
 
 Jeng WJ, Yip TC, Lok AS. Hepatitis B. JAMA. 2026. (CHB 5 phases 정의·자연사·NA 1차 치료·HCC 감시 종합)
 
@@ -14315,33 +14313,15 @@ _간세포암 중간기(BCLC B)의 표준 치료인 경동맥화학색전술(TAC
 
 TACEcTACEDEB-TACEBCLC면역치료
 
-핵심 요약중간기 간암(BCLC B, Barcelona Clinic Liver Cancer 병기 중 중간 단계)에서 첫 TACE는 보통 cTACE로 시작하고, 부작용·반복 시행 여부에 따라 DEB-TACE로 바꾸는 경우가 많습니다. 두 방식의 생존율 차이는 크지 않습니다. TACE(transarterial chemoembolization, 경동맥화학색전술)는 간동맥을 통해 종양 영양 혈관에 항암제를 주입한 뒤 색전 물질로 막아 종양을 굶기는 시술입니다. 중간기 간암(BCLC B)의 표준 1차 치료이며, 두 가지 방식이 있습니다 — 전통적 cTACE(리피오돌+항암제 혼합 후 젤폼·미세입자 색전)와 DEB-TACE(항암제 머금은 약물용출비드 사용). 두 방법의 전체 생존율 차이는 크지 않으나 부작용 패턴과 시술 후 영상 추적에서 차이가 있습니다. 최근에는 TACE에 면역치료를 결합하는 EMERALD-1·LEAP-012 등의 임상시험 결과로 치료 흐름이 빠르게 바뀌고 있습니다.
+경동맥화학색전술(TACE)은 간동맥으로 가는 관을 넣어 종양에 영양을 공급하는 혈관에 항암제를 넣고, 그 혈관을 막아 종양을 굶기는 시술입니다. 수술이나 고주파열치료로 없애기 어려운 중간기 간암(BCLC B)의 표준 치료이고, 방식은 크게 두 가지입니다. 리피오돌에 항암제를 섞어 넣는 전통적인 방식(cTACE)과, 항암제를 머금은 작은 구슬을 넣는 방식(DEB-TACE)입니다. 두 방식을 비교한 무작위 시험에서 생존율은 차이가 없었고, 부작용 양상과 시술 뒤 영상에서 보이는 모습이 다릅니다.
 
-처음 TACE를 안내받으신 분께 — 시술 흐름 한눈에
-TACE는 전신 마취가 아닌 국소 마취 시술입니다. 대략 다음 순서로 진행됩니다.
+## 시술은 이렇게 진행됩니다
 
- 사타구니 동맥(또는 손목 동맥) 천자 — 가는 도관(카테터)을 넣습니다.
+전신 마취가 아니라 국소 마취로 합니다. 사타구니(또는 손목) 동맥으로 가는 관을 넣어 간동맥까지 올린 뒤, 혈관 조영으로 종양에 가는 혈관을 찾아 그 혈관에만 약과 색전 물질을 넣습니다. 시술 자체는 1~2시간 걸리고, 시술 뒤 열이 나거나 배가 아플 수 있어 며칠 입원해 지켜봅니다. 정상 간은 주로 문맥에서 피를 받기 때문에 종양으로 가는 동맥을 막아도 정상 간의 손상은 크지 않습니다.
 
- 간동맥까지 도관 이동 — 영상(혈관 조영)으로 종양 영양 혈관 확인.
+## 나이가 많아도 받을 수 있나요
 
- 항암제 + 색전 물질 주입 — 종양 가는 혈관만 선택적으로 막습니다.
-
- 도관 제거 · 지혈 — 시술 자체는 1~2시간.
-
- 3~5일 입원 — 시술 후 발열·복통(post-embolization syndrome) 관찰·조절.
-
-정상 간세포는 문맥(다른 혈관)에서 영양을 받기 때문에, 종양에 가는 동맥만 막아도 정상 간 손상은 크지 않습니다.
-
-65세 이상 환자분께 — 고령자 TACE 안전성
-고령 자체는 TACE 금기가 아닙니다. 국내·외 자료 모두 나이보다 간 기능(Child-Pugh)·전신 상태(ECOG)·동반 질환이 결과를 더 크게 좌우합니다.
-
- Child-Pugh A · ECOG 0~1이면 75세 이상에서도 안전성·효과는 젊은 환자와 비슷하다는 보고가 많습니다.
-
- 당뇨·신기능 저하(eGFR 감소)가 있으면 조영제 사용량과 수분 공급을 더 신중히 조절합니다 — 시술 전후 신장 보호 절차가 추가됩니다.
-
- 심혈관·항응고제(아스피린·와파린·DOAC) 복용 중이면 시술 며칠 전부터 일시 중단 여부를 반드시 진료의와 상의하세요.
-
- 전신 부작용이 부담스러우면 첫 시술부터 DEB-TACE를 고려할 수 있으니 외래에서 말씀해 주세요.
+나이 자체는 TACE를 못 받는 이유가 아닙니다. 결과를 좌우하는 것은 나이보다 간 기능(Child-Pugh), 전신 상태, 동반 질환입니다. 당뇨가 있거나 신장 기능이 떨어져 있으면 조영제 양과 수분 공급을 더 신경 쓰고, 아스피린이나 와파린 같은 항응고제·항혈소판제를 드신다면 시술 전에 언제 끊을지 꼭 상의해야 합니다.
 
 ## TACE란 — 종양에 가는 혈류를 막는 시술
 
@@ -14349,30 +14329,19 @@ TACE는 전신 마취가 아닌 국소 마취 시술입니다. 대략 다음 순
 
 외래에서 환자분께 설명할 때 저는 이 비유를 자주 씁니다 — "종양에 가는 영양 호스를 막아서 종양만 마르게 하는 방법입니다. 정상 간은 다른 호스(문맥)로 피를 받으니 영향이 적습니다."
 
-cTACE vs DEB-TACE — 임상 선택
-항목cTACE (lipiodol)DEB-TACE
-
-약물 전달유리 doxorubicin + lipiodolDC bead 안에 doxorubicin 결합
-약물 농도 곡선피크 후 빠르게 ↓천천히 지속 방출 (60일)
-전신 부작용높음 (탈모·구토·골수억제)낮음
-치료 효과 (생존)대등대등
-비용저렴높음
-한국 급여적용일부 적용 (조건부)
-큰 종양 (>5 cm)다회 분할 가능, 영상 추적 용이1회 치료 효과적
-
 ## cTACE vs DEB-TACE — 두 방식의 차이
 
-항목cTACE (전통적)DEB-TACE (약물용출비드)
+항목전통적 cTACE약물용출비드 DEB-TACE
 
 색전 물질리피오돌(요오드화 양귀비 기름) + 항암제 혼합액 → 젤폼 또는 미세입자항암제(주로 독소루비신)를 미리 머금은 약물용출비드
 항암제 방출주입 직후 한꺼번에 방출비드에서 1~2주에 걸쳐 서서히 방출
 전신 항암제 노출높음 (혈중 농도 피크 큼)낮음 (서서히 방출되어 전신 농도 낮음)
-전신 부작용오심·구토·골수 억제 흔함전신 부작용 적음
+전신 부작용독소루비신 관련 부작용이 더 많았다는 시험이 있음상대적으로 적은 편
 post-embolization syndrome발열·우상복부 통증·피로 — 흔함, 1~5일비슷한 빈도이나 강도는 낮은 편
 시술 후 CT 영상리피오돌이 종양에 남아 고음영으로 보임 → 효과 평가 까다로움색전제가 CT에 안 보임 → 효과 평가 깔끔 (modified RECIST)
 비용·접근성전국 대부분 의료기관에서 시행비드 비용 추가, 상급종합병원 위주
 
-대규모 무작위 시험인 PRECISION V (2010)에서 DEB-TACE가 cTACE 대비 부작용은 적었으나 전체 생존율은 차이가 없었습니다. 이후 메타분석에서도 비슷한 결론입니다. KLCA-NCC는 두 방법을 동급 옵션으로 인정합니다. 제 임상에서는 첫 TACE는 보통 cTACE로 시작하고, 부작용이 심하거나 반복 시행이 예상되면 DEB-TACE로 전환하는 패턴을 자주 씁니다.
+무작위 시험인 PRECISION V(2010)에서 DEB-TACE는 cTACE보다 심한 간 독성과 독소루비신 관련 부작용이 적었지만, 주요 목표였던 6개월 종양 반응에서는 뚜렷한 차이를 보이지 못했습니다. 이탈리아에서 진행된 무작위 시험(2014)에서는 2년 생존율이 56.8%와 55.4%로 같았고, 시술 뒤 통증이 덜하다는 점 말고는 차이가 없었습니다. KLCA-NCC도 두 방법을 모두 쓸 수 있는 방법으로 봅니다. 제 임상에서는 첫 TACE는 보통 cTACE로 시작하고, 부작용이 심하거나 반복 시행이 예상되면 DEB-TACE로 전환하는 패턴을 자주 씁니다.
 
 ## 어떤 환자에게 TACE가 권장되나
 
@@ -14402,19 +14371,18 @@ KLCA-NCC 2022 기준 TACE의 1차 적응증:
 
 2~3회 TACE에도 의미 있는 반응이 없거나 종양이 진행하면 "TACE refractory"로 분류하고 1차 면역치료(atezo+bev 또는 STRIDE)로 전환을 고려합니다. 무리하게 4~5회 반복하면 간 기능만 떨어뜨리고 효과는 적어지는 경우가 많아 저는 외래에서 환자분께 이 점을 미리 말씀드립니다.
 
-## TACE + 면역치료 — 빠르게 바뀌는 치료 흐름
+## TACE에 면역치료를 더하면
 
-최근 2~3년 사이 TACE 단독에서 TACE + 면역치료로 표준이 바뀌는 흐름이 있습니다.
+TACE에 면역치료를 더하는 방법을 시험한 3상 연구 결과가 2025년에 나왔습니다.
 
- EMERALD-1 (Lancet 2024) — TACE + durvalumab + bevacizumab 조합이 TACE 단독 대비 무진행 생존을 의미 있게 연장. PFS 15.0 vs 8.2개월.
+ EMERALD-1 (Lancet 2025) — TACE에 두발루맙과 베바시주맙을 더한 군의 무진행 생존 기간이 15.0개월로, TACE만 한 군(8.2개월)보다 길었습니다. 전체 생존 결과는 이후에 따로 보고하기로 했습니다.
 
- LEAP-012 (Lancet 2024) — TACE + pembrolizumab + lenvatinib 조합도 비슷한 방향의 결과입니다.
+ LEAP-012 (Lancet 2025) — TACE에 렌바티닙과 펨브롤리주맙을 더하자 무진행 생존 기간이 14.6개월로 대조군(10.0개월)보다 길었습니다. 다만 중간 분석에서 전체 생존의 차이는 통계적으로 뚜렷하지 않았고, 3등급 이상 치료 관련 부작용은 71%로 대조군(32%)보다 많았습니다.
 
- CheckMate 74W 등 다수 임상시험 진행 중.
+ 
+종양이 다시 자라기까지의 기간이 늘어난 것은 분명하지만, 더 오래 사는지는 아직 확인되지 않았고 부작용은 늘어납니다. 그래서 지금은 모든 환자에게 권하기보다 환자 상태를 보고 진료의와 상의해 결정하거나 임상시험 참여를 검토하는 단계입니다.
 
-이 결과들이 곧 국내 가이드라인과 보험에 반영될 가능성이 큽니다. 다만 2026년 5월 현재 국내 보험은 TACE + 면역치료 조합을 일반 적응증으로 인정하지 않아 임상시험 또는 비급여로 진행됩니다.
-
-TACE 결정 전 오늘 챙길 5가지
+TACE를 결정하기 전에 확인해 두면 좋은 것
 
  현재 Child-Pugh 점수 · BCLC 병기 확인 (진료 기록에서 확인 가능).
 
@@ -14448,7 +14416,7 @@ TACE를 몇 번까지 받을 수 있나요?절대적 횟수 제한은 없습니�
 
 TACE 받으면 머리카락이나 면역력에 영향이 있나요?전신 화학요법과 비교해 전신 영향이 훨씬 적습니다. 탈모는 매우 드물고, 일시적 백혈구·혈소판 감소는 가능하지만 시술 후 1~2주 안에 회복됩니다. 감염·예방접종 관련 일정은 진료의와 상의하세요.
 
-TACE와 면역치료를 함께 받을 수 있나요?최근 임상시험 결과(EMERALD-1, LEAP-012)에서 조합 치료가 효과를 보였습니다. 2026년 5월 현재 국내 보험으로는 일반 적응증이 아니라 임상시험 또는 비급여로 진행됩니다. 곧 가이드라인·보험에 반영될 가능성이 있어 진료의와 상의해 임상시험 참여를 검토할 수 있습니다.
+TACE와 면역치료를 함께 받을 수 있나요?임상시험(EMERALD-1, LEAP-012)에서 조합 치료가 무진행 생존 기간을 늘렸지만, 전체 생존이 늘어나는지는 아직 확인되지 않았고 부작용은 더 많았습니다. 받을 수 있는지와 득실은 진료의와 상의하고, 임상시험 참여도 함께 검토해 보세요.
 
 ## References
 
@@ -14459,6 +14427,10 @@ Lammer J, et al. Prospective randomized study of doxorubicin-eluting-bead emboli
 Lencioni R, et al. EMERALD-1: A phase 3, randomized, placebo-controlled study of transarterial chemoembolization combined with durvalumab with or without bevacizumab. Lancet 2024.
 
 Llovet JM, et al. Locoregional therapies in the era of molecular and immune treatments for HCC. Nat Rev Gastroenterol Hepatol 2024.
+
+Golfieri R, Giampalma E, Renzulli M, et al. Randomised controlled trial of doxorubicin-eluting beads vs conventional chemoembolisation for hepatocellular carcinoma. Br J Cancer. 2014;111(2):255–264. DOI · PMID 24937669
+
+Kudo M, Ren Z, Guo Y, et al. Transarterial chemoembolisation combined with lenvatinib plus pembrolizumab versus dual placebo for unresectable, non-metastatic hepatocellular carcinoma (LEAP-012): a multicentre, randomised, double-blind, phase 3 study. Lancet. 2025;405(10474):203–215. DOI · PMID 39798578
 
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
@@ -14476,22 +14448,11 @@ _부모·형제·자매가 간세포암(HCC) 진단을 받은 경우, 본인의 
 
 가족력간암검진B형간염
 
-핵심 요약가족력이 있다면 가장 먼저 본인의 B형간염 3종 검사(HBsAg·anti-HBs·anti-HBc)부터 받으세요 — 이것이 위험을 가장 정확히 가립니다. 부모·형제자매에게 간세포암(HCC, 간세포암)이 있으면 본인의 평생 간암 위험이 일반 인구 대비 약 2~4배 높아집니다. 이 위험은 유전적 요인보다도 가족 안에서 공유되는 B형간염 수직·수평 감염이 가장 큰 원인입니다. B형간염이 양성이라면 정기 검진을, 음성이라면 백신을 챙기시고, B형간염이 없는데 간암 가족력만 있는 경우에도 40세 이후 정기 간 검진을 권장합니다.
+부모나 형제자매가 간암을 앓았다면 나도 위험한지부터 걱정되실 겁니다. 여러 연구를 모은 분석에서 간암 가족력이 있으면 간암 위험이 약 2.5배 높았고, B형·C형간염 여부를 감안해도 가족력 자체의 영향이 남았습니다. 가족력과 간염이 함께 있으면 위험은 훨씬 커집니다.
 
-가족 중 2명 이상이 간암·간경변이신 분께 — 본인 시점 가이드
-한 가족 안에 간암·간경변이 두 명 이상이라면 같은 B형간염 보균이 가족 안에서 옮겨졌을 가능성이 매우 높습니다. 다음 5가지를 한 번에 받으시기 바랍니다.
+우리나라에서는 가족 안에서 B형간염이 옮겨진 경우가 많아서, 가장 먼저 할 일은 본인의 B형간염 검사입니다. 표면항원(HBsAg), 표면항체(anti-HBs), 코어항체(anti-HBc) 세 가지를 보면 지금 감염돼 있는지, 예방접종이 필요한지 알 수 있습니다. 한 가족에 간암이나 간경변 환자가 두 명 이상이라면 간 기능 혈액검사와 간 초음파도 함께 받아 보시고, 형제자매나 자녀도 B형간염 검사를 받게 해 주세요.
 
- B형간염 3종 — HBsAg(표면항원), anti-HBs(표면항체), anti-HBc(코어항체)
-
- 간 초음파 — 결절 유무 1차 확인
-
- Fibroscan — 간 강직도(섬유화)·지방량 평가 1회
-
- 간 기능 혈액검사 — AST/ALT/혈소판/알부민/빌리루빈
-
- 자녀·형제자매 같이 B형간염 3종 검사 — 특히 1995년 이전 출생자
-
-B형간염 양성으로 확인되면 6개월 간격 초음파 + AFP + PIVKA-II 정기 검진으로 바로 들어갑니다.
+B형간염 보균자로 확인되면 간암 가족력이 있는 만큼 6개월마다 초음파와 혈액 종양표지자 검사를 받는 정기 검진 대상이 됩니다. B형간염도 없고 간 기능도 정상이라면 정기 간암 검진 대상은 아니지만, 가족력이 없는 사람보다는 위험이 조금 높으니 음주와 체중 관리에 신경 쓰시는 것이 좋습니다.
 
 ## 왜 가족력이 위험을 올리나 — 한국의 특수성
 
@@ -14501,31 +14462,21 @@ B형간염 양성으로 확인되면 6개월 간격 초음파 + AFP + PIVKA-II �
 
 ## 유전적 요인은 얼마나 큰가
 
-최근 대규모 유전체 연구로 간암 위험을 약간 올리는 유전 변이들이 밝혀졌습니다 — PNPLA3 rs738409, TM6SF2 rs58542926, HSD17B13 등. 이 변이들은 지방간·알코올성 간질환·간암 위험을 가산합니다. 다만 단일 유전자가 강력하게 위험을 올리는 "유전성 간암 증후군"은 매우 드뭅니다(예: 유전성 혈색소증, 알파-1 항트립신 결핍).
+대규모 유전체 연구에서 간 질환과 간암 위험에 영향을 주는 유전 변이들이 밝혀졌습니다. PNPLA3 rs738409와 TM6SF2 rs58542926 변이는 지방간·알코올 간질환과 간암 위험을 조금 올리고, HSD17B13의 일부 변이는 반대로 위험을 낮춥니다. 유전성 혈색소증이나 알파-1 항트립신 결핍처럼 한 가지 유전 질환이 간경변과 간암으로 이어지는 경우도 있지만 드뭅니다.
 
-실제 임상에서 가족력의 약 70~80%는 공유된 환경·감염(B형간염, 알코올, 지방간 위험)으로 설명되고, 순수 유전 요인은 작은 부분입니다. 그래서 검진 전략도 "유전자 검사"보다 "공유된 위험 인자 평가"가 먼저입니다.
+우리나라에서 간암 가족력의 상당 부분은 가족이 함께 가진 B형간염이나 음주, 지방간 같은 위험 요인으로 설명됩니다. 그래서 검진 전략도 "유전자 검사"보다 "공유된 위험 인자 평가"가 먼저입니다.
 
 ## 검진은 언제 시작해야 하나
 
 본인의 위험 상태검진 시작 시점주기방법
 
-가족력 + B형간염 보균자30세 또는 진단 즉시6개월간 초음파 + AFP + PIVKA-II
+가족력 + B형간염 보균자나이와 관계없이 확인 즉시6개월간 초음파 + AFP (PIVKA-II를 함께 보기도 함)
 가족력 + 간경변(원인 무관)진단 즉시6개월간 초음파 + AFP + PIVKA-II
-가족력 + 만성 C형간염30~40세 또는 진단 즉시6개월위와 동일
-가족력 + 지방간 또는 알코올 위험40세 이후, 섬유화 평가6~12개월 또는 일반 검진 강화초음파, Fibroscan, AFP
-가족력만 있고 본인 간 질환 없음40세 이후1~2년일반 간 검진 + Fibroscan 한 번
+가족력 + C형간염먼저 치료하고, 간경변이 있었다면 완치 후에도 검진6개월간 초음파 + AFP
+가족력 + 지방간 또는 음주섬유화 평가(FIB-4·파이브로스캔) 먼저간경변이면 6개월간 초음파 + AFP
+가족력만 있고 본인 간 질환 없음정기 간암 검진 권고는 없음원하면 40세 이후 1~2년 간격 초음파를 상의B형·C형간염, 간 기능 검사를 한 번 받아 두기
 
-KLCA-NCC 가이드라인은 "1촌 직계 가족 중 HCC 환자"를 추가 위험 인자로 인정합니다. 본인이 만성 B형간염 보균자라면 가족력 없을 때보다 더 일찍(30세부터) 검진을 시작합니다.
-
-### 연령별 권고 — 가족력 있으신 분의 자기 점검
-
-연령대꼭 받을 검사주기
-
-40대B형간염 3종(처음 1회) · 간 기능 · 간 초음파 · Fibroscan 1회1~2년 (B형간염 음성 + 정상)
-50대위 검사 + AFP + PIVKA-II · 지방간·당뇨 동반 평가B형간염 양성·간경변 시 6개월, 음성이면 1년
-60대 이상간 초음파 + AFP + PIVKA-II (영상 시야 어려우면 동적 CT/MRI 추가 고려)6개월 (위험 인자 한 가지라도 있으면)
-
-※ B형간염 양성·간경변·만성 C형간염이 확인되면 연령과 무관하게 6개월 간격 정기 검진으로 들어갑니다.
+미국간학회(AASLD) 2023 간암 가이드는 간경변이 없는 B형간염 보균자라도 간세포암 가족력이 있으면 정기 감시 대상으로 봅니다. 가족력이 없는 보균자는 남성 40세, 여성 50세 이상 같은 나이 기준을 함께 보지만, 가족력이 있으면 이 나이 기준과 별개로 감시 대상에 들어갑니다.
 
 ## 가족 검사 — 본인뿐 아니라 형제자매·자녀도
 
@@ -14545,13 +14496,13 @@ KLCA-NCC 가이드라인은 "1촌 직계 가족 중 HCC 환자"를 추가 위험
 
 가족력 있는 정기 검진은 다음 세 가지를 조합합니다.
 
- 간 초음파 — 1cm 이상 결절을 발견하는 1차 도구. 검사자 경험에 따라 민감도가 60~80%로 차이가 큽니다.
+ 간 초음파 — 결절을 찾는 기본 검사입니다. 검사자 경험과 체형, 지방간 정도에 따라 정확도 차이가 큽니다.
 
- 알파태아단백(AFP) + PIVKA-II — 종양표지자. AFP만 보면 약 30~40% 간암을 놓치지만 PIVKA-II와 함께 보면 검출률이 올라갑니다. 한국 표준은 두 마커를 같이 보는 것입니다.
+ 알파태아단백(AFP) + PIVKA-II — 종양표지자. AFP만으로는 놓치는 간암이 적지 않아, 국내에서는 PIVKA-II를 함께 보는 경우가 많습니다.
 
  동적 CT 또는 MRI (선택적) — 초음파 시야가 어려운 환자(비만, 지방간 심함, 간경변 진행)에서 보완. 일부 고위험 환자는 6개월마다 영상도 합니다.
 
-이상이 보이면 즉시 동적 영상으로 확진 단계로 갑니다. 결절이 1cm 미만이면 3~4개월 후 단기 추적, 1cm 이상이면 LI-RADS 기준에 맞춰 평가합니다.
+이상이 보이면 즉시 동적 영상으로 확진 단계로 갑니다. 결절이 1cm 미만이면 3~6개월 뒤 다시 확인하고, 1cm 이상이면 LI-RADS 기준에 맞춰 평가합니다.
 
 ## 검진을 미루지 마세요 — 첫 발견 시점이 결정합니다
 
@@ -14561,7 +14512,7 @@ KLCA-NCC 가이드라인은 "1촌 직계 가족 중 HCC 환자"를 추가 위험
 
  "가족 검사 한 번에 다 끝낼 수 있나요?" — 한 의료기관에서 가족 단위 검사가 가능합니다. B형간염 3가지 + 간 기능 + 초음파를 동시에 잡으면 1~2시간 안에 완료.
 
- "B형간염 음성인데 가족력만 있어요" — B형간염이 없다면 위험은 일반 인구에 가깝습니다. 다만 가족 안에 지방간·당뇨가 흔하면 그쪽 위험을 같이 봅니다. 40세 이후 1~2년에 한 번 간 초음파 정도가 합리적입니다.
+ "B형간염 음성인데 가족력만 있어요" — B형간염이 없으면 위험은 크게 낮아지지만, 가족력이 없는 사람보다는 조금 높을 수 있습니다. 다만 가족 안에 지방간·당뇨가 흔하면 그쪽 위험을 같이 봅니다. 40세 이후 1~2년에 한 번 간 초음파 정도가 합리적입니다.
 
  "유전자 검사 받아야 하나요?" — 단일 유전자 검사가 강하게 권장되는 경우는 드뭅니다. 매우 어린 나이 발병, 가족 내 다발성 발생, 비전형적 종양 양상이면 유전 상담·검사를 검토합니다. 일반적인 가족력에서는 B형간염·생활습관 평가가 우선입니다.
 
@@ -14571,9 +14522,9 @@ KLCA-NCC 가이드라인은 "1촌 직계 가족 중 HCC 환자"를 추가 위험
 
 ## 자주 묻는 질문
 
-가족 중 한 명이 간암이면 저는 평생 위험이 큰가요?본인의 B형간염·간경변 상태가 가장 큰 결정 요인입니다. 가족력만으로 보면 위험이 약 2~4배 올라가지만, B형간염이 없고 간 기능이 정상이라면 절대 위험은 여전히 낮습니다. 정기 검진과 위험 인자 관리가 가장 효과적인 대처입니다.
+가족 중 한 명이 간암이면 저는 평생 위험이 큰가요?본인의 B형간염·간경변 상태가 가장 큰 결정 요인입니다. 여러 연구를 모은 분석에서 가족력이 있으면 위험이 약 2.5배였지만, B형간염이 없고 간 기능이 정상이라면 절대 위험은 여전히 낮습니다. 정기 검진과 위험 인자 관리가 가장 효과적인 대처입니다.
 
-몇 촌까지 위험으로 봐야 하나요?1촌 직계(부모·자녀)와 형제자매가 가장 의미 있는 가족력입니다. 조부모·삼촌·이모는 같은 가족 안에 B형간염 보균자가 있는지 확인이 더 중요합니다. 3촌 이상은 일반 인구 위험에 가깝습니다.
+몇 촌까지 위험으로 봐야 하나요?1촌 직계(부모·자녀)와 형제자매가 가장 의미 있는 가족력입니다. 조부모·삼촌·이모는 같은 가족 안에 B형간염 보균자가 있는지 확인이 더 중요합니다.
 
 유전자 검사를 받으면 위험을 정확히 알 수 있나요?완벽한 위험 예측은 어렵습니다. PNPLA3 같은 유전 변이는 위험을 약간 올리지만 단독으로는 결정적이지 않습니다. 정확한 위험 평가는 본인의 B형간염·C형간염·간경변·지방간·음주·가족력을 종합해서 정합니다.
 
@@ -14590,6 +14541,8 @@ Singal AG, et al. AASLD Practice Guidance on prevention, diagnosis, and treatmen
 Trinchet JC, et al. Family history of liver cancer and risk of HCC in patients with cirrhosis. Hepatology 2010.
 
 Romeo S, et al. Genetic variation in PNPLA3 and hepatocellular carcinoma. Nat Genet 2008 + follow-up cohorts.
+
+Turati F, Edefonti V, Talamini R, et al. Family history of liver cancer and hepatocellular carcinoma. Hepatology. 2012;55(5):1416–1425. DOI · PMID 22095619
 
 본 콘텐츠는 일반적 의료 정보 제공을 목적으로 하며, 개별 진료를 대체하지 않습니다. 증상이나 검사 결과 해석, 치료 결정은 진료를 통해 의료진과 상의하시기 바랍니다.
 
@@ -15721,16 +15674,13 @@ _문맥·간정맥 침범이 있는 간세포암(BCLC C 일부)의 치료 옵션
 
 혈관침범BCLCAtezoBev면역치료
 
-핵심 요약혈관 침범이 있어도 치료 옵션은 있습니다. 간암이 문맥(특히 본간) 또는 간정맥을 침범하면 BCLC(바르셀로나 병기) C(진행기)로 분류되어 1차 치료는 면역치료 — 아테졸리주맙 + 베바시주맙(AtezoBev) 또는 두발루맙 + 트레멜리무맙(STRIDE, HIMALAYA 시험 기반)이 표준이 됩니다. KLCA-NCC(한국 가이드라인)는 여기에 더해 SBRT(정위방사선) 치료, 일부에서 TACE(경동맥 화학색전술)·절제까지 옵션으로 인정하여 BCLC 가이드라인보다 폭이 넓습니다. 혈관 침범 위치(문맥 본간 vs 분지)와 침범 범위, 간 기능 잔여, 환자분 상태에 따라 단계별 접근을 합니다.
+CT나 MRI에서 간암이 문맥이나 간정맥 안으로 자라 들어갔다는 이야기를 들으면, 이제 치료가 어렵다는 뜻으로 받아들이시는 분이 많습니다. 그렇지는 않습니다. 혈관 침범이 있으면 바르셀로나 병기(BCLC)로 C, 진행기에 해당하고 첫 치료는 면역치료입니다. 아테졸리주맙과 베바시주맙을 함께 쓰거나, 두발루맙과 트레멜리무맙을 함께 쓰는 방법이 표준입니다.
 
-처음 "혈관 침범" 진단을 받으신 분께 / 본인 시점 가이드
-"혈관에 종양이 자랐다"는 말을 들으셨다고 해서 곧바로 치료를 못 하는 상황은 아닙니다. 2020년 이후 면역치료가 표준이 되면서 진행기 간암의 중앙 생존이 13개월에서 19~22개월로 늘었고, 일부 환자분은 치료 후 절제·이식 후보로 다시 검토되기도 합니다.
+국내 가이드라인(KLCA-NCC 2022)은 여기에 정위방사선치료(SBRT)나 경동맥화학색전술(TACE), 일부 환자의 절제까지 선택지로 두고 있어 BCLC보다 폭이 넓습니다. 혈관의 어느 가지까지 침범했는지, 간 기능이 얼마나 남아 있는지, 몸 상태가 어떤지를 함께 보고 순서를 정합니다. 한 번의 외래에서 모든 걸 결정하지는 않습니다.
 
-고령(70대 이상)이거나 체력이 떨어져 있어도 면역치료(3주 간격 외래 주입) 자체는 비교적 견딜 만한 치료입니다. 핵심은 간 기능(Child-Pugh A 또는 좋은 B), 활동도(ECOG 0~2), 동반 질환이 면역치료를 받을 수 있는 수준인지 평가하는 것입니다. 체력만으로 결정되지 않습니다.
+나이만으로 면역치료를 못 받는 것은 아닙니다. 다만 주요 임상시험은 간 기능이 Child-Pugh A이고 일상생활에 거의 제약이 없는 환자를 대상으로 했기 때문에, 치료 전에 간 기능과 전신 상태, 동반 질환을 먼저 확인합니다. 치료에 잘 반응하면 나중에 절제나 이식을 다시 검토하는 경우도 있습니다.
 
-보호자 3줄 요약: ① 혈관 침범 = 진행기지만 1차 면역치료(주사)로 의미 있는 생존 연장이 가능합니다. ② 한국 가이드라인은 방사선(SBRT)·국소 치료 병행도 인정하여 옵션이 더 넓습니다. ③ 다학제 논의 후 환자분 상태에 맞춰 단계별로 결정합니다 — 한 번에 결론짓지 않습니다.
-
-진단 직후, 첫 외래 전에 챙기실 5가지
+첫 외래에 챙겨 오시면 도움이 되는 것
 
 최근 CT·MRI 영상 CD와 판독지 챙기기 (다른 병원에서 받은 검사 포함)
 
@@ -15807,11 +15757,11 @@ BCLC 알고리즘은 혈관 침범 시 전신치료만 권하지만, KLCA-NCC 20
 
 ## 한국 진료 현장에서 자주 마주치는 시나리오
 
- "문맥에 혹이 자랐다는데 치료가 가능한가요?" — 2020년 이전이라면 옵션이 매우 제한적이었지만, 지금은 면역치료로 의미 있는 생존 연장이 가능해졌습니다. 일부 환자는 치료 후 절제·이식까지 가는 경우도 있어 희망적입니다.
+ "문맥에 혹이 자랐다는데 치료가 가능한가요?" — 면역치료가 표준이 되기 전에는 선택지가 많지 않았지만, 지금은 면역치료로 생존 기간을 늘릴 수 있습니다. 일부는 치료 후 절제나 이식까지 검토하게 됩니다.
 
  "면역치료 부작용이 걱정돼요" — AtezoBev 부작용은 고혈압, 단백뇨, 출혈 위험, 면역 관련 부작용(갑상선·간염·대장염 등)입니다. 정기 검사로 조기 발견·관리하는 시스템이 잡혀 있어 대부분 안전하게 진행됩니다.
 
- "혈관에 침범이 있으면 시간이 얼마 안 남았다는 뜻인가요?" — 일률적으로 답할 수 없습니다. 면역치료 도입 후 진행기 간암 환자의 중앙 생존이 13개월에서 19~22개월로 늘었고, 일부 환자는 훨씬 더 길게 유지됩니다. 단계별 치료로 진행을 늦추는 것이 목표입니다.
+ "혈관에 침범이 있으면 시간이 얼마 안 남았다는 뜻인가요?" — 한마디로 답하기 어렵습니다. 아테졸리주맙·베바시주맙 임상시험(IMbrave150)에서 중앙 생존 기간은 19.2개월로, 이전 표준이던 소라페닙(13.4개월)보다 길었습니다. 혈관 침범이 있으면 이보다 짧을 수 있지만, 치료에 잘 반응해 오래 지내시는 분도 있습니다.
 
  "한약·민간요법은 도움이 되나요?" — 객관적 효과가 입증된 것은 없습니다. 일부 한약은 약물성 간 손상이나 면역치료와의 상호작용 위험이 있어 진료의와 상의 없이는 권하지 않습니다.
 
@@ -23179,7 +23129,7 @@ _임신 8주에 산전 검사에서 anti-HCV 양성 발견. 임신 중 추적 + 
 
 ## 출산 후 — 직접 작용 항바이러스제(DAA) + 영아 추적
 
-출산 4주 후 마비렛 8주 시작. SVR12 확인. 모유 수유 지속 (안전). 아기는 생후 2~6개월 사이에 HCV RNA 검사를 해 음성으로 나와, 수직감염이 없음을 확인했습니다.
+출산 후 HCV RNA를 다시 확인해 저절로 없어지지 않았음을 본 뒤, 수유를 마치고 마비렛 8주 치료, SVR12 확인. 모유 수유는 HCV 감염만으로는 금기가 아니어서 그대로 했습니다. 아기는 생후 2~6개월 사이에 HCV RNA 검사를 해 음성으로 나와, 수직감염이 없음을 확인했습니다.
 
 ## Teaching Points
 
@@ -23189,7 +23139,7 @@ _임신 8주에 산전 검사에서 anti-HCV 양성 발견. 임신 중 추적 + 
 
 제왕절개가 수직감염 줄이지 않음
 
-모유 수유 안전
+모유 수유는 HCV 감염만으로 금기가 아님 (유두가 갈라지거나 피가 날 때, HIV 동시감염일 때는 예외)
 
 영아 검사 — 생후 2~6개월 HCV RNA 1회, 음성이면 추가 추적 불필요
 
