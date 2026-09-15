@@ -50,10 +50,12 @@ GIT_ENV = {
     "GCM_INTERACTIVE": "never",
     "GIT_ASKPASS": "",
     "SSH_ASKPASS": "",
+    "PYTHONUTF8": "1",
+    "PYTHONIOENCODING": "utf-8",
 }
 
 # fsmonitor 데몬은 다른 세션에서 붙으면 교착할 수 있어 이 스크립트에서는 끈다
-GIT = ["git", "-c", "core.fsmonitor=false"]
+GIT = ["git", "-c", "core.fsmonitor=false", "-c", "core.quotepath=false"]
 
 
 def run(args, check=True, timeout=600, label=None):

@@ -20,6 +20,12 @@ from __future__ import annotations
 import argparse, json, re
 from collections import defaultdict
 from pathlib import Path
+import sys
+for _s in (sys.stdout, sys.stderr):
+    try:
+        _s.reconfigure(encoding='utf-8', errors='replace')
+    except Exception:
+        pass
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / '.tools' / 'ai_tells_report.json'

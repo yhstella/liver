@@ -42,8 +42,11 @@ GIT_ENV = {
     "GCM_INTERACTIVE": "never",
     "GIT_ASKPASS": "",
     "SSH_ASKPASS": "",
+    # 자식 python 출력도 UTF-8 (9/1: publish_next_draft 가 cp949 에서 죽음)
+    "PYTHONUTF8": "1",
+    "PYTHONIOENCODING": "utf-8",
 }
-GIT = ["git", "-c", "core.fsmonitor=false"]
+GIT = ["git", "-c", "core.fsmonitor=false", "-c", "core.quotepath=false"]
 
 
 def log(msg: str) -> None:
@@ -89,7 +92,10 @@ def main() -> int:
 
     st = run(GIT + ["status", "--porcelain"], check=False, timeout=120, label="git status")
     dirty = [ln[3:] for ln in st.stdout.splitlines() if ln.strip()]
-    outside = [f for f in dirty if not f.startswith("updates/")]
+    # 발행 큐 파일은 publish_next_draft 가 커밋 전에 수정한다. 이걸 막으면 한 번 실패한
+    # 뒤로 영원히 중단된다(9/4~9/13 연속 ABORT).
+    outside = [f for f in dirty
+               if not f.startswith("updates/") and f != ".tools/publish_priority.txt"]
     if outside:
         log(f"ABORT: updates/ 밖에 커밋 안 된 변경 {len(outside)}건 — {outside[:3]}")
         return 1

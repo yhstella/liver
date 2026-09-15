@@ -202,6 +202,12 @@ def publish_one(slug: str, idx: Path, now_kst: datetime) -> dict:
 
 
 def main():
+    # 예약 실행(cp949 파이프)에서도 제목의 em dash 등이 출력되도록
+    for _s in (sys.stdout, sys.stderr):
+        try:
+            _s.reconfigure(encoding='utf-8', errors='replace')
+        except Exception:
+            pass
     parser = argparse.ArgumentParser()
     parser.add_argument('--dry-run', action='store_true')
     parser.add_argument('--list', action='store_true')
