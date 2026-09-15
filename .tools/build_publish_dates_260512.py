@@ -43,6 +43,10 @@ def korean_date(d):
     return f'<span class="y">{d.year}년 </span>{d.month}월 {d.day}일'
 
 
+# 검수 전 초안(DRAFT 주석 또는 noindex,nofollow)은 홈 최근 작성글에 올리지 않는다
+DRAFT_RE = re.compile(r'<!--\s*DRAFT|<meta\s+name="robots"\s+content="noindex,nofollow"', re.I)
+
+
 def collect_pages():
     pages = []
     # 세부주제: root level non-hub folders
@@ -311,9 +315,13 @@ def main():
     # Top 5 by date desc (with title)
     results.sort(key=lambda x: x[3], reverse=True)
     top5 = []
-    for cat, slug, path, d in results[:5]:
+    for cat, slug, path, d in results:
+        if DRAFT_RE.search(path.read_text(encoding="utf-8", errors="ignore")[:8000]):
+            continue
         title = extract_title(path)
         top5.append((cat, slug, title, d))
+        if len(top5) == 5:
+            break
 
     print("\nTop 5 most recent:")
     for i, (cat, slug, title, d) in enumerate(top5):
