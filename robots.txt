@@ -1,4 +1,4 @@
-# https://drshin.kr/ — Hepatology Note
+# https://drshin.kr/ — 신현재의 간(肝)담회
 # 일반적 의료 정보 제공 사이트, 모든 검색엔진 환영.
 
 User-agent: *

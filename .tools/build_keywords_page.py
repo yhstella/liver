@@ -96,7 +96,7 @@ def main():
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>키워드 색인 — Hepatology Note</title>
+<title>키워드 색인 — 신현재의 간(肝)담회</title>
 <meta name="description" content="키워드로 페이지 찾기.">
 <link rel="canonical" href="https://drshin.kr/keywords/">
 <meta name="robots" content="noindex,follow">
@@ -128,7 +128,7 @@ def main():
 <body>
 <header class="site-header">
   <div class="inner">
-    <a href="/" class="brand-mark">Hepatology<em> Note</em></a>
+    <a href="/" class="brand-mark">신현재의 간<span class="hanja">(肝)</span>담회</a>
     <nav class="site-nav"><a href="/소개/">소개</a><a href="/연구/">연구</a><a href="/updates/">Updates</a></nav>
   </div>
 </header>
@@ -150,7 +150,7 @@ def main():
 
 <footer class="site-footer">
   <div class="inner">
-    <div class="col"><strong>Hepatology Note</strong><p style="margin:4px 0 0;color:var(--muted);font-size:13px">간질환 가이드와 임상 노트 · 서울대학교병원 소화기내과</p></div>
+    <div class="col"><strong>신현재의 간(肝)담회</strong><p style="margin:4px 0 0;color:var(--muted);font-size:13px">간질환 가이드와 임상 노트 · 서울대학교병원 소화기내과</p></div>
     <div class="col"><strong>안내</strong><a href="/소개/">소개</a><a href="/연구/">연구</a><a href="/updates/">Updates</a><a href="/문의/">문의</a></div>
     <div class="copy" style="grid-column:1/-1">© 2026 drshin.kr</div>
   </div>

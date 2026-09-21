@@ -82,7 +82,7 @@ def main():
         if not titles:
             findings["title_missing"].append(relp)
         else:
-            t = titles[0].replace(" — Hepatology Note", "").strip()
+            t = titles[0].replace(" — 신현재의 간(肝)담회", "").strip()
             if len(t) > 60:
                 findings["title_too_long"].append({"page": relp, "len": len(t)})
 

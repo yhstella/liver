@@ -4,7 +4,7 @@ inject_jsonld.py — Inject standardized Article + MedicalWebPage + FAQPage JSON
 into every detail page. Idempotent — uses a marker comment so it can be re-run safely.
 
 For each detail page:
-- Article (datePublished/dateModified from git, author=신현재, publisher=Hepatology Note)
+- Article (datePublished/dateModified from git, author=신현재, publisher=신현재의 간(肝)담회)
 - MedicalWebPage (medicalAudience=Patient/MedicalProfessional)
 - FAQPage IF the page has <details><summary>...</summary><p>...</p></details> blocks
 - BreadcrumbList (홈 > 대주제 > 현재)
@@ -182,13 +182,13 @@ def determine_hub(rel_dir: Path, html: str):
     for hub in HUBS_8:
         if first.startswith(hub):
             return hub, f"{SITE}/{quote(hub, safe='')}/"
-    return "Hepatology Note", f"{SITE}/"
+    return "신현재의 간(肝)담회", f"{SITE}/"
 
 
 def build_jsonld(rel_dir: Path, html: str):
     p = HeadParser()
     p.feed(html)
-    title = (p.title or "").replace(" — Hepatology Note", "").strip()
+    title = (p.title or "").replace(" — 신현재의 간(肝)담회", "").strip()
     h1 = extract_h1(html)
     name = h1 or title or rel_dir.name
     description = p.description.strip()
@@ -303,7 +303,7 @@ def build_jsonld(rel_dir: Path, html: str):
         "@type": "WebSite",
         "@id": f"{SITE}/#website",
         "url": f"{SITE}/",
-        "name": "Hepatology Note",
+        "name": "신현재의 간(肝)담회",
         "inLanguage": "ko",
         "publisher": {"@id": f"{SITE}/#author"},
     })

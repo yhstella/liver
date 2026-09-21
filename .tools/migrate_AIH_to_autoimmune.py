@@ -38,7 +38,7 @@ NEW_HUB_HTML = '''<!doctype html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>자가면역간질환 — Hepatology Note</title>
+<title>자가면역간질환 — 신현재의 간(肝)담회</title>
 <meta name="description" content="자가면역간질환 대주제 — 자가면역간염(AIH)·원발성담즙성담관염(PBC)·overlap 증후군. 4축 진단(ALT·자가항체·IgG·조직), UDCA·면역억제 치료, 약 중단 결정, 임신·소아 등 특수상황까지 정리합니다.">
 <link rel="canonical" href="https://drshin.kr/자가면역간질환/">
 <meta name="author" content="신현재">
@@ -47,7 +47,7 @@ NEW_HUB_HTML = '''<!doctype html>
 <meta property="og:title" content="자가면역간질환">
 <meta property="og:url" content="https://drshin.kr/자가면역간질환/">
 <meta property="og:locale" content="ko_KR">
-<meta property="og:site_name" content="Hepatology Note">
+<meta property="og:site_name" content="신현재의 간(肝)담회">
 <meta property="og:image" content="https://drshin.kr/assets/img/author/drshin.jpg">
 <meta name="twitter:image" content="https://drshin.kr/assets/img/author/drshin.jpg">
 <link rel="icon" href="/favicon.ico?v=3" sizes="any">
@@ -66,7 +66,7 @@ NEW_HUB_HTML = '''<!doctype html>
 </head>
 <body>
 <a class="skip-link" href="#content">본문 바로가기</a>
-<header class="site-header"><div class="inner"><a href="/" class="brand-mark">Hepatology<em> Note</em></a><form id="site-search" role="search" autocomplete="off" onsubmit="return false">
+<header class="site-header"><div class="inner"><a href="/" class="brand-mark">신현재의 간<span class="hanja">(肝)</span>담회</a><form id="site-search" role="search" autocomplete="off" onsubmit="return false">
         <span class="search-icon" aria-hidden="true"><svg viewBox="0 0 20 20" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="9" r="6"/><line x1="13.5" y1="13.5" x2="17.5" y2="17.5"/></svg></span>
         <input class="search-input" type="search" placeholder="검색" aria-label="사이트 검색">
         <div class="search-panel">
@@ -164,7 +164,7 @@ NEW_HUB_HTML = '''<!doctype html>
   <a href="/간양성종양/" class="series-tile"><h3>간 양성종양</h3><p>혈관종·낭종·FNH·선종 감별, 큰 증상 낭종의 경화요법.</p></a>
 </div>
 </main>
-<footer class="site-footer"><div class="inner"><div class="col"><strong>Hepatology Note</strong><p style="margin:4px 0 0;color:var(--muted);font-size:13px;line-height:1.6">간질환 가이드와 임상 노트 · 서울대학교병원 소화기내과 · 간암센터</p></div><div class="col"><strong>안내</strong><a href="/소개/">소개</a><a href="/연구/">연구</a><a href="/updates/">Updates</a>
+<footer class="site-footer"><div class="inner"><div class="col"><strong>신현재의 간(肝)담회</strong><p style="margin:4px 0 0;color:var(--muted);font-size:13px;line-height:1.6">서울대학교병원 소화기내과 · 간암센터</p></div><div class="col"><strong>안내</strong><a href="/소개/">소개</a><a href="/연구/">연구</a><a href="/updates/">Updates</a>
       <a href="/keywords/">키워드</a></div><div class="col"><strong>외부 링크</strong><a href="https://www.snuh.org/blog/83759/philosophy.do" target="_blank" rel="noopener">SNUH 의료진 소개</a></div><div class="copy" style="grid-column:1/-1">© 2026 drshin.kr</div></div></footer>
 </body>
 </html>
@@ -174,7 +174,7 @@ REDIRECT_HTML = '''<!doctype html>
 <html lang="ko">
 <head>
 <meta charset="utf-8">
-<title>자가면역간질환 — Hepatology Note</title>
+<title>자가면역간질환 — 신현재의 간(肝)담회</title>
 <meta http-equiv="refresh" content="0; url=/자가면역간질환/">
 <link rel="canonical" href="https://drshin.kr/자가면역간질환/">
 <meta name="robots" content="noindex,follow">

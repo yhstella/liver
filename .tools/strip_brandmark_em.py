@@ -4,8 +4,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 
-OLD = '<a href="/" class="brand-mark">Hepatology<em> Note</em></a>'
-NEW = '<a href="/" class="brand-mark">Hepatology<em> Note</em></a>'
+OLD = '<a href="/" class="brand-mark">신현재의 간<span class="hanja">(肝)</span>담회</a>'
+NEW = '<a href="/" class="brand-mark">신현재의 간<span class="hanja">(肝)</span>담회</a>'
 
 SKIP_DIRS = {".git", ".tools", "node_modules", "private-figures"}
 

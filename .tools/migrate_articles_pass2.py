@@ -33,10 +33,10 @@ def cleanup(slug):
 
     series_slug, series_display = ARTICLE_TO_SERIES[slug]
 
-    # 1) og:site_name → "Hepatology Note"
+    # 1) og:site_name → "신현재의 간(肝)담회"
     h = re.sub(
         r'<meta property="og:site_name" content="[^"]*"',
-        '<meta property="og:site_name" content="Hepatology Note"',
+        '<meta property="og:site_name" content="신현재의 간(肝)담회"',
         h
     )
 

@@ -21,7 +21,7 @@ ARTICLE_SLUGS = [
 
 NEW_HEADER = '''<header class="site-header">
   <div class="inner">
-    <a href="/" class="brand-mark">Hepatology<em> Note</em></a>
+    <a href="/" class="brand-mark">신현재의 간<span class="hanja">(肝)</span>담회</a>
     <nav class="site-nav">
       <a href="/소개/">소개</a>
       <a href="/논문/">논문</a>
@@ -33,8 +33,8 @@ NEW_HEADER = '''<header class="site-header">
 NEW_FOOTER = '''<footer class="site-footer">
   <div class="inner">
     <div class="col">
-      <strong>Hepatology Note</strong>
-      <p style="margin:4px 0 0;color:var(--muted);font-size:13px;line-height:1.6">간질환 가이드와 임상 노트 · 서울대학교병원 소화기내과 · 간암센터</p>
+      <strong>신현재의 간(肝)담회</strong>
+      <p style="margin:4px 0 0;color:var(--muted);font-size:13px;line-height:1.6">서울대학교병원 소화기내과 · 간암센터</p>
     </div>
     <div class="col">
       <strong>안내</strong>
@@ -70,7 +70,7 @@ def migrate(slug):
     # 1) <title> tail: "— 신현재 (서울대병원)" → "— Hepatology Note"
     h = re.sub(
         r'(<title>[^<]*?) — 신현재 \(서울대병원\)</title>',
-        r'\1 — Hepatology Note</title>',
+        r'\1 — 신현재의 간(肝)담회</title>',
         h
     )
 

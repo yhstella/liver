@@ -42,14 +42,14 @@ def tag_chip(label: str, key: str | None = None) -> str:
 HEAD = """<!doctype html>
 <html lang="ko"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{title} — Hepatology Note</title>
+<title>{title} — 신현재의 간(肝)담회</title>
 <meta name="description" content="{desc}">
 <meta name="keywords" content="{keywords}">
 <meta name="robots" content="noindex,nofollow">
 <link rel="canonical" href="https://drshin.kr/{slug_enc}/">
 <meta name="author" content="신현재"><meta property="og:type" content="article">
 <meta property="og:title" content="{og_title}"><meta property="og:url" content="https://drshin.kr/{slug_enc}/">
-<meta property="og:locale" content="ko_KR"><meta property="og:site_name" content="Hepatology Note">
+<meta property="og:locale" content="ko_KR"><meta property="og:site_name" content="신현재의 간(肝)담회">
 <meta property="article:section" content="{section}">
 <link rel="icon" href="/favicon.ico?v=3" sizes="any">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png?v=3">
@@ -63,12 +63,12 @@ HEAD = """<!doctype html>
 <meta name="naver-site-verification" content="a978f4b99a9b45749c235f674d9ab6d31950470a">
 <!-- verify:auto:end -->
 </head><body>
-<header class="site-header"><div class="inner"><a href="/" class="brand-mark">Hepatology<em> Note</em></a><nav class="site-nav"><a href="/소개/">소개</a><a href="/연구/">연구</a><a href="/updates/">Updates</a><a href="/keywords/">키워드</a></nav></div></header>
+<header class="site-header"><div class="inner"><a href="/" class="brand-mark">신현재의 간<span class="hanja">(肝)</span>담회</a><nav class="site-nav"><a href="/소개/">소개</a><a href="/연구/">연구</a><a href="/updates/">Updates</a><a href="/keywords/">키워드</a></nav></div></header>
 <main class="wrap">
 """
 
 FOOTER = """</main>
-<footer class="site-footer"><div class="inner"><div class="col"><strong>Hepatology Note</strong><p style="margin:4px 0 0;color:var(--muted);font-size:13px;line-height:1.6">간질환 가이드와 임상 노트 · 서울대학교병원 소화기내과 · 간암센터</p></div><div class="col"><strong>안내</strong><a href="/소개/">소개</a><a href="/연구/">연구</a><a href="/updates/">Updates</a><a href="/keywords/">키워드</a></div><div class="col"><strong>외부 링크</strong><a href="https://www.snuh.org/blog/83759/philosophy.do" target="_blank" rel="noopener">SNUH 의료진 소개</a></div><div class="copy" style="grid-column:1/-1">© 2026 drshin.kr</div></div></footer>
+<footer class="site-footer"><div class="inner"><div class="col"><strong>신현재의 간(肝)담회</strong><p style="margin:4px 0 0;color:var(--muted);font-size:13px;line-height:1.6">서울대학교병원 소화기내과 · 간암센터</p></div><div class="col"><strong>안내</strong><a href="/소개/">소개</a><a href="/연구/">연구</a><a href="/updates/">Updates</a><a href="/keywords/">키워드</a></div><div class="col"><strong>외부 링크</strong><a href="https://www.snuh.org/blog/83759/philosophy.do" target="_blank" rel="noopener">SNUH 의료진 소개</a></div><div class="copy" style="grid-column:1/-1">© 2026 drshin.kr</div></div></footer>
 </body></html>
 """
 

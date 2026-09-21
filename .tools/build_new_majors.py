@@ -12,8 +12,8 @@ ROOT = Path(__file__).resolve().parent.parent
 
 def esc(s): return htmllib.escape(s or "")
 
-NAV = '''<header class="site-header"><div class="inner"><a href="/" class="brand-mark">Hepatology<em> Note</em></a><nav class="site-nav"><a href="/소개/">소개</a><a href="/연구/">연구</a><a href="/updates/">Updates</a><a href="/keywords/">키워드</a></nav></div></header>'''
-FOOTER = '''<footer class="site-footer"><div class="inner"><div class="col"><strong>Hepatology Note</strong><p style="margin:4px 0 0;color:var(--muted);font-size:13px;line-height:1.6">간질환 가이드와 임상 노트 · 서울대학교병원 소화기내과 · 간암센터</p></div><div class="col"><strong>안내</strong><a href="/소개/">소개</a><a href="/연구/">연구</a><a href="/updates/">Updates</a><a href="/keywords/">키워드</a><a href="/문의/">문의</a></div><div class="col"><strong>외부 링크</strong><a href="https://www.snuh.org/blog/83759/philosophy.do" target="_blank" rel="noopener">SNUH 의료진 소개 ↗</a></div><div class="copy" style="grid-column:1/-1">© 2026 drshin.kr</div></div></footer>'''
+NAV = '''<header class="site-header"><div class="inner"><a href="/" class="brand-mark">신현재의 간<span class="hanja">(肝)</span>담회</a><nav class="site-nav"><a href="/소개/">소개</a><a href="/연구/">연구</a><a href="/updates/">Updates</a><a href="/keywords/">키워드</a></nav></div></header>'''
+FOOTER = '''<footer class="site-footer"><div class="inner"><div class="col"><strong>신현재의 간(肝)담회</strong><p style="margin:4px 0 0;color:var(--muted);font-size:13px;line-height:1.6">서울대학교병원 소화기내과 · 간암센터</p></div><div class="col"><strong>안내</strong><a href="/소개/">소개</a><a href="/연구/">연구</a><a href="/updates/">Updates</a><a href="/keywords/">키워드</a><a href="/문의/">문의</a></div><div class="col"><strong>외부 링크</strong><a href="https://www.snuh.org/blog/83759/philosophy.do" target="_blank" rel="noopener">SNUH 의료진 소개 ↗</a></div><div class="copy" style="grid-column:1/-1">© 2026 drshin.kr</div></div></footer>'''
 
 
 def render_topic_page(slug, title, page_id, series_label, series_url, tldr, sections,
@@ -36,7 +36,7 @@ def render_topic_page(slug, title, page_id, series_label, series_url, tldr, sect
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{esc(title)} — Hepatology Note</title>
+<title>{esc(title)} — 신현재의 간(肝)담회</title>
 <meta name="description" content="{esc(title)} — {esc(series_label)} 세부주제.">
 <link rel="canonical" href="{canon}">
 <meta name="author" content="신현재">
@@ -45,7 +45,7 @@ def render_topic_page(slug, title, page_id, series_label, series_url, tldr, sect
 <meta property="og:title" content="{esc(title)}">
 <meta property="og:url" content="{canon}">
 <meta property="og:locale" content="ko_KR">
-<meta property="og:site_name" content="Hepatology Note">
+<meta property="og:site_name" content="신현재의 간(肝)담회">
 <meta property="og:image" content="https://drshin.kr/assets/img/author/drshin.jpg">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/favicon.ico?v=3" sizes="any">
@@ -104,7 +104,7 @@ def render_hub(slug, label, num, intro, topics, cases=None):
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{esc(label)} — Hepatology Note</title>
+<title>{esc(label)} — 신현재의 간(肝)담회</title>
 <meta name="description" content="{esc(label)} 대주제 — {esc(intro)}">
 <link rel="canonical" href="{canon}">
 <meta name="author" content="신현재">
@@ -113,7 +113,7 @@ def render_hub(slug, label, num, intro, topics, cases=None):
 <meta property="og:title" content="{esc(label)}">
 <meta property="og:url" content="{canon}">
 <meta property="og:locale" content="ko_KR">
-<meta property="og:site_name" content="Hepatology Note">
+<meta property="og:site_name" content="신현재의 간(肝)담회">
 <link rel="icon" href="/favicon.ico?v=3" sizes="any">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png?v=3">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png?v=3">
@@ -164,7 +164,7 @@ def render_case(slug, title, page_id, series_label, series_url, intro, sections,
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{esc(title)} — Hepatology Note</title>
+<title>{esc(title)} — 신현재의 간(肝)담회</title>
 <meta name="description" content="{esc(title)} — {esc(series_label)} 임상 케이스 노트.">
 <link rel="canonical" href="{canon}">
 <meta name="robots" content="index,follow">
@@ -172,7 +172,7 @@ def render_case(slug, title, page_id, series_label, series_url, intro, sections,
 <meta property="og:title" content="{esc(title)}">
 <meta property="og:url" content="{canon}">
 <meta property="og:locale" content="ko_KR">
-<meta property="og:site_name" content="Hepatology Note">
+<meta property="og:site_name" content="신현재의 간(肝)담회">
 <link rel="icon" href="/favicon.ico?v=3" sizes="any">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png?v=3">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png?v=3">

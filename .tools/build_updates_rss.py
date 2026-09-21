@@ -80,7 +80,7 @@ def main():
     now = datetime.now(timezone.utc).isoformat()
     feed = ['<?xml version="1.0" encoding="UTF-8"?>',
             '<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">',
-            f'  <title>Hepatology Note — 최신 지견</title>',
+            f'  <title>신현재의 간(肝)담회 — 최신 지견</title>',
             f'  <link href="{SITE}/updates/" rel="alternate" type="text/html"/>',
             f'  <link href="{SITE}/updates/feed.xml" rel="self" type="application/atom+xml"/>',
             f'  <id>{SITE}/updates/</id>',

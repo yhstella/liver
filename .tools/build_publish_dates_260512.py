@@ -26,7 +26,7 @@ HUB_SLUGS = {
     "C형간염", "자가면역간질환", "간양성종양",
     "자가면역간염",  # legacy redirect — '최근 작성글'에 노출 금지
     "CC", "케이스", "updates", "keywords", "guide",
-    "소개", "논문", "연구", "단상",
+    "소개", "논문", "연구", "단상", "문의",
     "assets", "private-figures", "tag", ".tools", ".git",
 }
 
@@ -133,8 +133,8 @@ def extract_title(html_path):
     if not m:
         return html_path.parent.name
     title = m.group(1)
-    # Strip " — Hepatology Note" suffix
-    title = re.sub(r"\s*—\s*Hepatology Note\s*$", "", title)
+    # Strip " — 신현재의 간(肝)담회" suffix
+    title = re.sub(r"\s*—\s*신현재의 간\(肝\)담회\s*$", "", title)
     return title.strip()
 
 

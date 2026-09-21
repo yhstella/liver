@@ -204,9 +204,9 @@ def write_brand_svg():
 
 
 WEBMANIFEST = '''{
-  "name": "Hepatology Note",
-  "short_name": "Hepatology",
-  "description": "신현재(서울대학교병원 소화기내과·간암센터)의 간질환 가이드와 임상 노트",
+  "name": "신현재의 간(肝)담회",
+  "short_name": "간담회",
+  "description": "서울대학교병원 소화기내과 신현재. 외래에서 다 못 한 말을 적습니다.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#fafaf7",

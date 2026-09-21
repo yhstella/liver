@@ -13,8 +13,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 def esc(s): return htmllib.escape(s or "")
 
-NAV = '''<header class="site-header"><div class="inner"><a href="/" class="brand-mark">Hepatology<em> Note</em></a><nav class="site-nav"><a href="/소개/">소개</a><a href="/연구/">연구</a><a href="/updates/">Updates</a><a href="/keywords/">키워드</a></nav></div></header>'''
-FOOTER = '''<footer class="site-footer"><div class="inner"><div class="col"><strong>Hepatology Note</strong><p style="margin:4px 0 0;color:var(--muted);font-size:13px;line-height:1.6">간질환 가이드와 임상 노트 · 서울대학교병원 소화기내과 · 간암센터</p></div><div class="col"><strong>안내</strong><a href="/소개/">소개</a><a href="/연구/">연구</a><a href="/updates/">Updates</a><a href="/keywords/">키워드</a><a href="/문의/">문의</a></div><div class="col"><strong>외부 링크</strong><a href="https://www.snuh.org/blog/83759/philosophy.do" target="_blank" rel="noopener">SNUH 의료진 소개 ↗</a></div><div class="copy" style="grid-column:1/-1">© 2026 drshin.kr</div></div></footer>'''
+NAV = '''<header class="site-header"><div class="inner"><a href="/" class="brand-mark">신현재의 간<span class="hanja">(肝)</span>담회</a><nav class="site-nav"><a href="/소개/">소개</a><a href="/연구/">연구</a><a href="/updates/">Updates</a><a href="/keywords/">키워드</a></nav></div></header>'''
+FOOTER = '''<footer class="site-footer"><div class="inner"><div class="col"><strong>신현재의 간(肝)담회</strong><p style="margin:4px 0 0;color:var(--muted);font-size:13px;line-height:1.6">서울대학교병원 소화기내과 · 간암센터</p></div><div class="col"><strong>안내</strong><a href="/소개/">소개</a><a href="/연구/">연구</a><a href="/updates/">Updates</a><a href="/keywords/">키워드</a><a href="/문의/">문의</a></div><div class="col"><strong>외부 링크</strong><a href="https://www.snuh.org/blog/83759/philosophy.do" target="_blank" rel="noopener">SNUH 의료진 소개 ↗</a></div><div class="copy" style="grid-column:1/-1">© 2026 drshin.kr</div></div></footer>'''
 
 ANON_NOTE = (
     '<p class="disclaimer" style="margin-top:48px">본 케이스는 외래에서 자주 만나는 임상 케이스를 '
@@ -714,7 +714,7 @@ def render_case(spec):
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{esc(spec["title"])} — Hepatology Note</title>
+<title>{esc(spec["title"])} — 신현재의 간(肝)담회</title>
 <meta name="description" content="{esc(spec["title"])} — {esc(series)} 임상 케이스 노트.">
 <link rel="canonical" href="{canonical}">
 <meta name="robots" content="index,follow">
@@ -723,7 +723,7 @@ def render_case(spec):
 <meta property="og:description" content="{esc(series)} 임상 케이스 노트">
 <meta property="og:url" content="{canonical}">
 <meta property="og:locale" content="ko_KR">
-<meta property="og:site_name" content="Hepatology Note">
+<meta property="og:site_name" content="신현재의 간(肝)담회">
 <meta property="og:image" content="https://drshin.kr/assets/img/author/drshin.jpg">
 <meta name="twitter:card" content="summary">
 <link rel="icon" href="/favicon.ico?v=3" sizes="any">

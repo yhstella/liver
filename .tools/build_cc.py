@@ -14,8 +14,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 def esc(s): return htmllib.escape(s or "")
 
-NAV = '''<header class="site-header"><div class="inner"><a href="/" class="brand-mark">Hepatology<em> Note</em></a><nav class="site-nav"><a href="/소개/">소개</a><a href="/연구/">연구</a><a href="/updates/">Updates</a><a href="/keywords/">키워드</a></nav></div></header>'''
-FOOTER = '''<footer class="site-footer"><div class="inner"><div class="col"><strong>Hepatology Note</strong><p style="margin:4px 0 0;color:var(--muted);font-size:13px;line-height:1.6">간질환 가이드와 임상 노트 · 서울대학교병원 소화기내과 · 간암센터</p></div><div class="col"><strong>안내</strong><a href="/소개/">소개</a><a href="/연구/">연구</a><a href="/updates/">Updates</a><a href="/keywords/">키워드</a><a href="/문의/">문의</a></div><div class="col"><strong>외부 링크</strong><a href="https://www.snuh.org/blog/83759/philosophy.do" target="_blank" rel="noopener">SNUH 의료진 소개 ↗</a></div><div class="copy" style="grid-column:1/-1">© 2026 drshin.kr</div></div></footer>'''
+NAV = '''<header class="site-header"><div class="inner"><a href="/" class="brand-mark">신현재의 간<span class="hanja">(肝)</span>담회</a><nav class="site-nav"><a href="/소개/">소개</a><a href="/연구/">연구</a><a href="/updates/">Updates</a><a href="/keywords/">키워드</a></nav></div></header>'''
+FOOTER = '''<footer class="site-footer"><div class="inner"><div class="col"><strong>신현재의 간(肝)담회</strong><p style="margin:4px 0 0;color:var(--muted);font-size:13px;line-height:1.6">서울대학교병원 소화기내과 · 간암센터</p></div><div class="col"><strong>안내</strong><a href="/소개/">소개</a><a href="/연구/">연구</a><a href="/updates/">Updates</a><a href="/keywords/">키워드</a><a href="/문의/">문의</a></div><div class="col"><strong>외부 링크</strong><a href="https://www.snuh.org/blog/83759/philosophy.do" target="_blank" rel="noopener">SNUH 의료진 소개 ↗</a></div><div class="copy" style="grid-column:1/-1">© 2026 drshin.kr</div></div></footer>'''
 
 
 CC_LIST = [
@@ -634,7 +634,7 @@ def render_cc_page(spec: dict) -> None:
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{esc(title)} — Hepatology Note</title>
+<title>{esc(title)} — 신현재의 간(肝)담회</title>
 <meta name="description" content="{esc(title)} — 외래에서 어떻게 진료받게 되는지 단계별 안내.">
 <link rel="canonical" href="{canonical}">
 <meta name="robots" content="index,follow">
@@ -642,7 +642,7 @@ def render_cc_page(spec: dict) -> None:
 <meta property="og:title" content="{esc(title)}">
 <meta property="og:url" content="{canonical}">
 <meta property="og:locale" content="ko_KR">
-<meta property="og:site_name" content="Hepatology Note">
+<meta property="og:site_name" content="신현재의 간(肝)담회">
 <meta property="og:image" content="https://drshin.kr/assets/img/author/drshin.jpg">
 <link rel="icon" href="/favicon.ico?v=3" sizes="any">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png?v=3">
@@ -715,14 +715,14 @@ def render_cc_hub() -> None:
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>증상별 안내 — Hepatology Note</title>
+<title>증상별 안내 — 신현재의 간(肝)담회</title>
 <meta name="description" content="환자분들이 자주 호소하는 증상·상황별로 외래에서 어떻게 진료가 진행되는지 안내합니다.">
 <link rel="canonical" href="https://drshin.kr/CC/">
 <meta property="og:type" content="website">
 <meta property="og:title" content="증상별 안내">
 <meta property="og:url" content="https://drshin.kr/CC/">
 <meta property="og:locale" content="ko_KR">
-<meta property="og:site_name" content="Hepatology Note">
+<meta property="og:site_name" content="신현재의 간(肝)담회">
 <link rel="icon" href="/favicon.ico?v=3" sizes="any">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png?v=3">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png?v=3">

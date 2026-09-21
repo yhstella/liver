@@ -2,23 +2,23 @@
 
 Targets:
   - <h1>X — subtitle</h1>  → <h1>X</h1>
-  - <title>X — subtitle — Hepatology Note</title> → <title>X — Hepatology Note</title>
+  - <title>X — subtitle — 신현재의 간(肝)담회</title> → <title>X — 신현재의 간(肝)담회</title>
     (preserves the trailing site-name segment)
   - <meta property="og:title" content="X — subtitle"> → <meta ... content="X">
-    (also handle " — Hepatology Note" suffix)
+    (also handle " — 신현재의 간(肝)담회" suffix)
   - JSON-LD "name":"X — subtitle" → "name":"X"
   - Topic-list <h3>X — subtitle</h3> inside <ul class="topic-list"> → <h3>X</h3>
   - Breadcrumb final <span>X — subtitle</span> → <span>X</span>
 
 Strategy: split on " — " and take FIRST segment for the visible title;
-for <title> tag preserve trailing " — Hepatology Note" segment.
+for <title> tag preserve trailing " — 신현재의 간(肝)담회" segment.
 """
 from __future__ import annotations
 import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-SITE_SUFFIX = " — Hepatology Note"
+SITE_SUFFIX = " — 신현재의 간(肝)담회"
 
 
 def strip_first(s: str) -> str:
@@ -27,7 +27,7 @@ def strip_first(s: str) -> str:
 
 
 def fix_title_tag(text: str) -> str:
-    """<title>X — sub — Hepatology Note</title> → <title>X — Hepatology Note</title>"""
+    """<title>X — sub — 신현재의 간(肝)담회</title> → <title>X — 신현재의 간(肝)담회</title>"""
     def repl(m):
         full = m.group(1)
         if SITE_SUFFIX in full:

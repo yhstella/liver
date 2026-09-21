@@ -83,15 +83,15 @@ def render_landing():
             f'</div></section>'
         )
 
-    NAV = '''<header class="site-header"><div class="inner"><a href="/" class="brand-mark">Hepatology<em> Note</em></a><nav class="site-nav"><a href="/소개/">소개</a><a href="/연구/">연구</a><a href="/updates/">Updates</a><a href="/keywords/">키워드</a></nav></div></header>'''
-    FOOTER = '''<footer class="site-footer"><div class="inner"><div class="col"><strong>Hepatology Note</strong><p style="margin:4px 0 0;color:var(--muted);font-size:13px;line-height:1.6">간질환 가이드와 임상 노트 · 서울대학교병원 소화기내과 · 간암센터</p></div><div class="col"><strong>안내</strong><a href="/소개/">소개</a><a href="/연구/">연구</a><a href="/updates/">Updates</a><a href="/keywords/">키워드</a><a href="/문의/">문의</a></div><div class="col"><strong>외부 링크</strong><a href="https://www.snuh.org/blog/83759/philosophy.do" target="_blank" rel="noopener">SNUH 의료진 소개 ↗</a></div><div class="copy" style="grid-column:1/-1">© 2026 drshin.kr</div></div></footer>'''
+    NAV = '''<header class="site-header"><div class="inner"><a href="/" class="brand-mark">신현재의 간<span class="hanja">(肝)</span>담회</a><nav class="site-nav"><a href="/소개/">소개</a><a href="/연구/">연구</a><a href="/updates/">Updates</a><a href="/keywords/">키워드</a></nav></div></header>'''
+    FOOTER = '''<footer class="site-footer"><div class="inner"><div class="col"><strong>신현재의 간(肝)담회</strong><p style="margin:4px 0 0;color:var(--muted);font-size:13px;line-height:1.6">서울대학교병원 소화기내과 · 간암센터</p></div><div class="col"><strong>안내</strong><a href="/소개/">소개</a><a href="/연구/">연구</a><a href="/updates/">Updates</a><a href="/keywords/">키워드</a><a href="/문의/">문의</a></div><div class="col"><strong>외부 링크</strong><a href="https://www.snuh.org/blog/83759/philosophy.do" target="_blank" rel="noopener">SNUH 의료진 소개 ↗</a></div><div class="copy" style="grid-column:1/-1">© 2026 drshin.kr</div></div></footer>'''
 
     html = f'''<!doctype html>
 <html lang="ko">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>임상 케이스 모음 — Hepatology Note</title>
+<title>임상 케이스 모음 — 신현재의 간(肝)담회</title>
 <meta name="description" content="간 질환 진료에서 자주 마주치는 상황을 가이드라인 적용 예시로 구성한 교육용 케이스 {total_cases}편. 간암·간경화·B형간염·지방간·간수치 이상 시리즈별 정리.">
 <link rel="canonical" href="https://drshin.kr/케이스/">
 <meta property="og:type" content="website">
@@ -99,7 +99,7 @@ def render_landing():
 <meta property="og:description" content="시리즈별 임상 케이스 노트.">
 <meta property="og:url" content="https://drshin.kr/케이스/">
 <meta property="og:locale" content="ko_KR">
-<meta property="og:site_name" content="Hepatology Note">
+<meta property="og:site_name" content="신현재의 간(肝)담회">
 <meta property="og:image" content="https://drshin.kr/assets/img/author/drshin.jpg">
 <meta name="twitter:card" content="summary">
 <link rel="icon" href="/favicon.ico?v=3" sizes="any">

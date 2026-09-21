@@ -112,7 +112,7 @@ def extract_page(path: Path):
     text = re.sub(r"[ \t]+", " ", text)
     text = re.sub(r"\n{3,}", "\n\n", text)
     text = text.strip()
-    title = (p.title or p.h1 or "").replace(" — Hepatology Note", "").strip()
+    title = (p.title or p.h1 or "").replace(" — 신현재의 간(肝)담회", "").strip()
     return {
         "title": title,
         "description": p.description.strip(),
@@ -188,7 +188,7 @@ def categorize_page(slug: str) -> str:
 def render_llms_txt(pages):
     """Short overview file with categorized links."""
     lines = [
-        "# Hepatology Note (drshin.kr)",
+        "# 신현재의 간(肝)담회 (drshin.kr)",
         "",
         "> 서울대학교병원 소화기내과·간암센터 신현재 교수의 간질환 가이드와 임상 노트.",
         "> 환자용 가이드와 의료진용 임상 노트를 한곳에 정리했습니다.",
@@ -297,7 +297,7 @@ def render_llms_txt(pages):
 def render_llms_full(pages):
     """Full content of all pages concatenated, suitable for LLM consumption."""
     lines = [
-        "# Hepatology Note (drshin.kr) — 전체 콘텐츠",
+        "# 신현재의 간(肝)담회 (drshin.kr) — 전체 콘텐츠",
         "",
         "> 서울대학교병원 소화기내과·간암센터 신현재 교수의 간질환 가이드.",
         "> 본 파일은 사이트 전체 페이지를 LLM이 한 번에 읽을 수 있도록 합친 마크다운입니다.",

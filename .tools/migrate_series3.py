@@ -17,8 +17,8 @@ S3 = {
 NEW_FOOTER = '''<footer class="site-footer">
   <div class="inner">
     <div class="col">
-      <strong>Hepatology Note</strong>
-      <p style="margin:4px 0 0;color:var(--muted);font-size:13px;line-height:1.6">간질환 가이드와 임상 노트 · 서울대학교병원 소화기내과 · 간암센터</p>
+      <strong>신현재의 간(肝)담회</strong>
+      <p style="margin:4px 0 0;color:var(--muted);font-size:13px;line-height:1.6">서울대학교병원 소화기내과 · 간암센터</p>
     </div>
     <div class="col">
       <strong>안내</strong>
@@ -202,7 +202,7 @@ for slug, (series_slug, series_display, last_name) in S3.items():
     # Actually skip — body works without <article>
 
     # 11) Title cleanup — remove " | 신현재" suffix if present
-    h = re.sub(r'(<title>[^<]*?) \| 신현재</title>', r'\1 — Hepatology Note</title>', h)
+    h = re.sub(r'(<title>[^<]*?) \| 신현재</title>', r'\1 — 신현재의 간(肝)담회</title>', h)
 
     p.write_text(h, encoding="utf-8")
     print(f"  rebuilt: {slug}")

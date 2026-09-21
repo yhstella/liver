@@ -142,7 +142,7 @@ SERIES = {
 
 NAV = '''<header class="site-header">
   <div class="inner">
-    <a href="/" class="brand-mark">Hepatology<em> Note</em></a>
+    <a href="/" class="brand-mark">신현재의 간<span class="hanja">(肝)</span>담회</a>
     <nav class="site-nav">
       <a href="/소개/">소개</a>
       <a href="/연구/">연구</a>
@@ -154,8 +154,8 @@ NAV = '''<header class="site-header">
 FOOTER = '''<footer class="site-footer">
   <div class="inner">
     <div class="col">
-      <strong>Hepatology Note</strong>
-      <p style="margin:4px 0 0;color:var(--muted);font-size:13px;line-height:1.6">간질환 가이드와 임상 노트 · 서울대학교병원 소화기내과 · 간암센터</p>
+      <strong>신현재의 간(肝)담회</strong>
+      <p style="margin:4px 0 0;color:var(--muted);font-size:13px;line-height:1.6">서울대학교병원 소화기내과 · 간암센터</p>
     </div>
     <div class="col">
       <strong>안내</strong>
@@ -223,7 +223,7 @@ def render_series(name, spec):
     published_count = sum(1 for t in topics if t[2])
     draft_count = len(topics) - published_count
 
-    title_full = f"{display} — Hepatology Note"
+    title_full = f"{display} — 신현재의 간(肝)담회"
     # 강제 80자 truncation + "…"는 SERP에서 잘린 것처럼 보여 CTR을 떨어뜨림.
     # 전체 intro를 쓰되 너무 길면 문장 경계에서 자연스럽게 끊는다(말줄임표 없음).
     _full = f"{display} 시리즈 — {intro}"
@@ -250,7 +250,7 @@ def render_series(name, spec):
 <meta property="og:description" content="{esc(desc_meta)}">
 <meta property="og:url" content="{canonical}">
 <meta property="og:locale" content="ko_KR">
-<meta property="og:site_name" content="Hepatology Note">
+<meta property="og:site_name" content="신현재의 간(肝)담회">
 <meta property="og:image" content="https://drshin.kr/assets/img/author/drshin.jpg">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/favicon.ico?v=3" sizes="any">

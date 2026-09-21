@@ -21,7 +21,7 @@ TEMPLATE = """<!doctype html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{title} — 단상 — Hepatology Note</title>
+<title>{title} — 단상 — 신현재의 간(肝)담회</title>
 <meta name="description" content="{lede}">
 <link rel="canonical" href="https://drshin.kr/단상/{slug}/">
 <meta name="author" content="신현재">
@@ -31,7 +31,7 @@ TEMPLATE = """<!doctype html>
 <meta property="og:description" content="{lede}">
 <meta property="og:url" content="https://drshin.kr/단상/{slug}/">
 <meta property="og:locale" content="ko_KR">
-<meta property="og:site_name" content="Hepatology Note">
+<meta property="og:site_name" content="신현재의 간(肝)담회">
 <meta property="og:image" content="https://drshin.kr/assets/img/author/drshin.jpg">
 <meta property="article:published_time" content="{iso}T09:00:00+09:00">
 <meta name="twitter:card" content="summary">
@@ -61,7 +61,7 @@ TEMPLATE = """<!doctype html>
 <a class="skip-link" href="#content">본문 바로가기</a>
 <header class="site-header">
   <div class="inner">
-    <a href="/" class="brand-mark">Hepatology<em> Note</em></a>
+    <a href="/" class="brand-mark">신현재의 간<span class="hanja">(肝)</span>담회</a>
     <nav class="site-nav">
       <a href="/소개/">소개</a>
       <a href="/연구/">연구</a>
@@ -91,8 +91,8 @@ TEMPLATE = """<!doctype html>
 <footer class="site-footer">
   <div class="inner">
     <div class="col">
-      <strong>Hepatology Note</strong>
-      <p style="margin:4px 0 0;color:var(--muted);font-size:13px;line-height:1.6">간질환 가이드와 임상 노트 · 서울대학교병원 소화기내과 · 간암센터</p>
+      <strong>신현재의 간(肝)담회</strong>
+      <p style="margin:4px 0 0;color:var(--muted);font-size:13px;line-height:1.6">서울대학교병원 소화기내과 · 간암센터</p>
     </div>
     <div class="col">
       <strong>안내</strong>
