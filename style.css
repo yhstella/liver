@@ -635,6 +635,12 @@ article.note p + p{text-indent:0}
 .start-card img{width:76px;height:44px;object-fit:cover;border-radius:6px;flex:none;background:#f4f4f1}
 .series-tile .tile-img{display:block;width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:6px;margin:0 0 12px;background:#f4f4f1}
 @media (max-width:780px){.start-card img{width:64px;height:38px;order:0}}
+.paper-fig.lit-fig{max-width:720px;margin:26px auto}
+.paper-fig.lit-fig figcaption{display:block;margin:10px 2px 0;font-size:13.5px;line-height:1.65;color:var(--fg)}
+.paper-fig.lit-fig .fig-credit{display:block;margin-top:4px;font-size:11.5px;line-height:1.5;color:var(--muted);word-break:break-all}
+.paper-fig.lit-fig .fig-credit a{color:var(--muted)}
+.paper-fig.lit-fig img{max-height:560px;object-fit:contain}
+.paper-fig.lit-fig img{width:auto;max-width:100%;max-height:520px;margin:0 auto}
 
 /* publish-date (작성일) — 2026-05-12 */
 .publish-date{font-size:13px;color:var(--muted);margin:6px 0 18px;letter-spacing:0.02em;font-weight:400}
