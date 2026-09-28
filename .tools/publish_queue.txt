@@ -1,0 +1,11 @@
+# 발행 큐 — 3일마다 09:00, 저자 승인(<!-- DRAFT: 발행 승인 -->)된 글 중 맨 위 한 편이 공개된다.
+# 형식: 슬러그 | 허브   (허브를 적으면 그 허브 목록 끝에 추가)
+간암-B형간염-약 | 간암
+간이-나빠지지-않게
+간암-먹는약-부작용 | 간암
+간-외래-검사 | 간수치
+간암-치료중-연락할-증상 | 간암
+updates/Lean-MASLD-review-2026
+updates/Tirzepatide-MASH-phase3-update-2026
+updates/HCV-DAA-dialysis-sofosbuvir-2026
+updates/HCV-perinatal-infant-testing-CDC-2023
