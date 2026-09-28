@@ -1,145 +1,6 @@
 {
- "note": "논문·오픈 라이선스 그림 사용 기록. 원본은 private-figures/(gitignore). NC·ND 라이선스와 제3자 재수록 그림은 쓰지 않음.",
+ "note": "논문·오픈 라이선스 그림 사용 기록. 원본은 private-figures/(gitignore). 제3자 재수록 그림은 쓰지 않음. NC(비상업) 라이선스는 광고 없는 비상업 사이트라 사용(2026-09-28 저자 승인). ND 그림은 자르거나 고치지 않음(크기 축소만).",
  "figures": {
-  "img_03877": {
-   "file": "assets/img/figures/img_03877.jpg",
-   "license": "CC BY 2.0",
-   "credit": "Joy Worthington, Roger Chapman, Wikimedia Commons",
-   "source_url": "https://commons.wikimedia.org/wiki/File:Cholangiogram_of_primary_sclerosing_cholangitis.jpg",
-   "doi": "",
-   "pmcid": "",
-   "original_caption": "File:Cholangiogram of primary sclerosing cholangitis.jpg | Cholangiogram of primary sclerosing cholangitis. | query=primary sclerosing cholangitis cholangiogram",
-   "pages": [
-    "자가면역간염-소아청소년",
-    "자가면역간염-진단",
-    "케이스/AIH-소아청소년-진단"
-   ]
-  },
-  "img_03878": {
-   "file": "assets/img/figures/img_03878.jpg",
-   "license": "CC BY-SA 3.0",
-   "credit": "Hellerhoff, Wikimedia Commons",
-   "source_url": "https://commons.wikimedia.org/wiki/File:Steatosis_hepatis_-_Sonographie_001.jpg",
-   "doi": "",
-   "pmcid": "",
-   "original_caption": "File:Steatosis hepatis - Sonographie 001.jpg | Fettleber in der Sonographie: Die Leber (links im Bild) ist deutlich echoreicher (heller) als die angrenzende rechte Niere. | query=Category:Ultrasound images of fatty liver",
-   "pages": [
-    "케이스/검진ALT상승-MASLD진단"
-   ]
-  },
-  "img_03879": {
-   "file": "assets/img/figures/img_03879.jpg",
-   "license": "CC BY-SA 4.0",
-   "credit": "Hellerhoff, Wikimedia Commons",
-   "source_url": "https://commons.wikimedia.org/wiki/File:Steatosis_hepatis_in_der_Sonografie_36M_-_US_-_001.jpg",
-   "doi": "",
-   "pmcid": "",
-   "original_caption": "File:Steatosis hepatis in der Sonografie 36M - US - 001.jpg | Steatosis hepatis in der Sonografie: Das Parenchym der Leber (oben im Bett) ist deutlich heller / echoreicher als das Parenchym der Niere (unten im Bild). | query=Category:Ultrasound images of fatty liver",
-   "pages": [
-    "CC/지방간-진단"
-   ]
-  },
-  "img_03883": {
-   "file": "assets/img/figures/img_03883.jpg",
-   "license": "CC BY-SA 3.0",
-   "credit": "Nephron, Wikimedia Commons",
-   "source_url": "https://commons.wikimedia.org/wiki/File:Mallory_body_high_mag_cropped.jpg",
-   "doi": "",
-   "pmcid": "",
-   "original_caption": "File:Mallory body high mag cropped.jpg | High magnification micrograph of a Mallory body , as seen in steatohepatitis . Liver biopsy . H&E stain . Mallory bodies are eosinophilic cytoplasmic inclusions that are aggregates of denatured keratin filaments. They have a twisted rope-like appearance. On t",
-   "pages": [
-    "지방간염-MASH"
-   ]
-  },
-  "img_03889": {
-   "file": "assets/img/figures/img_03889.jpg",
-   "license": "CC BY-SA 4.0",
-   "credit": "Mme Mim, Wikimedia Commons",
-   "source_url": "https://commons.wikimedia.org/wiki/File:Caudate_lobe_hypertrophy_0001.jpg",
-   "doi": "",
-   "pmcid": "",
-   "original_caption": "File:Caudate lobe hypertrophy 0001.jpg | caudate lobe hypertrophy in ultrasound due to cirrhosis | query=Category:Ultrasound images of cirrhosis",
-   "pages": [
-    "간경변-정상수치-함정"
-   ]
-  },
-  "img_03890": {
-   "file": "assets/img/figures/img_03890.jpg",
-   "license": "CC BY-SA 4.0",
-   "credit": "Kel898, Wikimedia Commons",
-   "source_url": "https://commons.wikimedia.org/wiki/File:Endoscopic_Banding_for_Esophageal_Varices.png",
-   "doi": "",
-   "pmcid": "",
-   "original_caption": "File:Endoscopic Banding for Esophageal Varices.png | Endoscopic Banding for Esophageal Varices | query=Category:Esophageal varices",
-   "pages": [
-    "간경변-식도정맥류"
-   ]
-  },
-  "img_03892": {
-   "file": "assets/img/figures/img_03892.jpg",
-   "license": "CC BY-SA 4.0",
-   "credit": "Jeremias, Wikimedia Commons",
-   "source_url": "https://commons.wikimedia.org/wiki/File:Bleeding_esophageal_varices.png",
-   "doi": "",
-   "pmcid": "",
-   "original_caption": "File:Bleeding esophageal varices.png | Krwawienie z żylaka przełyku (źródło krwawienia: prawy górny róg) | query=Category:Endoscopic images of esophageal varices",
-   "pages": [
-    "케이스/첫-식도정맥류-출혈"
-   ]
-  },
-  "img_03894": {
-   "file": "assets/img/figures/img_03894.jpg",
-   "license": "Public domain",
-   "credit": "The original uploader was Samir at English Wikipedia., Wikimedia Commons",
-   "source_url": "https://commons.wikimedia.org/wiki/File:Esophageal_varices_-_wale.jpg",
-   "doi": "",
-   "pmcid": "",
-   "original_caption": "File:Esophageal varices - wale.jpg | Gastroscopy image of esophageal varices with prominent red wale spots. | query=Category:Endoscopic images of esophageal varices",
-   "pages": [
-    "간경변-식도정맥류"
-   ]
-  },
-  "img_03900": {
-   "file": "assets/img/figures/img_03900.jpg",
-   "license": "CC BY 3.0",
-   "credit": "R. Badea and Simona Ioanitescu, Wikimedia Commons",
-   "source_url": "https://commons.wikimedia.org/wiki/File:Ultrasonography_of_a_liver_cyst.jpg",
-   "doi": "",
-   "pmcid": "",
-   "original_caption": "File:Ultrasonography of a liver cyst.jpg | Ultrasound of a liver cyst . | query=Category:Ultrasound images of liver cysts",
-   "pages": [
-    "간양성종양-낭종-관리",
-    "간양성종양-진단"
-   ]
-  },
-  "oa_PMC12952312_1": {
-   "file": "assets/img/figures/oa_PMC12952312_1.jpg",
-   "license": "CC BY 4.0",
-   "credit": "Purnomo HD 외. The global landscape of lean metabolic dysfunction-associated steatotic liver disease: insight from Asia and the West. Front Gastroenterol (Lausanne) 2025",
-   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12952312/",
-   "doi": "10.3389/fgstr.2025.1699508",
-   "pmcid": "PMC12952312",
-   "original_caption": "Adult cardiometabolic criteria for diagnosing MASLD ( 6 ).",
-   "pages": [
-    "updates/Lean-MASLD-review-2026",
-    "술-안마셔도-지방간",
-    "지방간-lean-MASLD"
-   ]
-  },
-  "oa_PMC4730261_1": {
-   "file": "assets/img/figures/oa_PMC4730261_1.jpg",
-   "license": "CC BY 4.0",
-   "credit": "Danan G 외. RUCAM in Drug and Herb Induced Liver Injury: The Update. Int J Mol Sci 2015",
-   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4730261/",
-   "doi": "10.3390/ijms17010014",
-   "pmcid": "PMC4730261",
-   "original_caption": "Classification of liver injury required for causality assessment of suspected DILI and HILI cases by the updated RUCAM. Note above: ALP from hepatic origin only. Abbreviations: ALP, alkaline phosphatase; ALT, Alanine aminotransferase; DILI, Drug-induced liver injury; HILI, Herb-induced liver injury;",
-   "pages": [
-    "CC/약물-간손상",
-    "약물성-간손상-DILI",
-    "케이스/약물성간손상-항결핵제"
-   ]
-  },
   "oa_PMC4772186_1": {
    "file": "assets/img/figures/oa_PMC4772186_1.jpg",
    "license": "CC BY 4.0",
@@ -147,61 +8,11 @@
    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4772186/",
    "doi": "10.3390/ijerph13020166",
    "pmcid": "PMC4772186",
-   "original_caption": "Threshold levels of alcohol consumption (standard drink units/week) for initiating GGT activation in individuals below and above 40 years of age. Alcohol consumption was recorded from the past one year prior to sampling [ 116 ]. The levels leading to GGT increases are markedly lower than the current",
+   "original_caption": "Threshold levels of alcohol consumption (standard drink units/week) for initiating GGT activation in individuals below and above 40 years of age. Alcohol consumption was recorded from the past one year prior to sampling [ 116 ]. The levels leading to GGT increases are markedly lower than the current limits of heavy drinking in many Western countries (men: 24 drinks, women: 16 drinks).",
    "pages": [
     "ALP-GGT-담도-간세포",
     "updates/PEth-알코올-바이오마커",
     "간수치-종류-차이"
-   ]
-  },
-  "oa_PMC5754852_1": {
-   "file": "assets/img/figures/oa_PMC5754852_1.jpg",
-   "license": "CC BY 4.0",
-   "credit": "Newsome PN 외. Guidelines on the management of abnormal liver blood tests. Gut 2018",
-   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5754852/",
-   "doi": "10.1136/gutjnl-2017-314924",
-   "pmcid": "PMC5754852",
-   "original_caption": "Response to abnormal liver blood tests. This figure details the initial response to abnormal liver blood tests. Boxes in yellow indicate the initial evaluation of the clinical presentation. Patients with marked derangement of liver blood tests, synthetic failure and/or suspicious clinical symptoms/s",
-   "pages": [
-    "간수치-높음"
-   ]
-  },
-  "oa_PMC5754852_3": {
-   "file": "assets/img/figures/oa_PMC5754852_3.jpg",
-   "license": "CC BY 4.0",
-   "credit": "Newsome PN 외. Guidelines on the management of abnormal liver blood tests. Gut 2018",
-   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5754852/",
-   "doi": "10.1136/gutjnl-2017-314924",
-   "pmcid": "PMC5754852",
-   "original_caption": "Alcohol-related liver disease algorithm. In patients in whom alcohol is suspected to be the main injurious factor, the extent of consumption influences early decision-making. For those drinking at harmful levels, ≥35 units/week women and ≥50 units/week men, an assessment of liver fibrosis is the cri",
-   "pages": [
-    "CC/음주-간걱정"
-   ]
-  },
-  "oa_PMC5837403_2": {
-   "file": "assets/img/figures/oa_PMC5837403_2.jpg",
-   "license": "CC BY 4.0",
-   "credit": "Schillie S 외. Prevention of Hepatitis B Virus Infection in the United States: Recommendations of the Advisory Committee on Immunization Practices. MMWR Recomm Rep 2018",
-   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5837403/",
-   "doi": "10.15585/mmwr.rr6701a1",
-   "pmcid": "PMC5837403",
-   "original_caption": "Acute hepatitis B virus infection with recovery Abbreviations: anti-HBc = antibody to hepatitis B core antigen; anti-HBe = antibody to hepatitis B e antigen; anti-HBs = antibody to hepatitis B surface antigen; HBeAg = hepatitis B e antigen; HBsAg = hepatitis B surface antigen; HBV DNA = hepatitis B ",
-   "pages": [
-    "B형간염-Occult-잠복감염",
-    "B형간염-검사결과",
-    "가족-B형간염-검사"
-   ]
-  },
-  "oa_PMC5837403_3": {
-   "file": "assets/img/figures/oa_PMC5837403_3.jpg",
-   "license": "CC BY 4.0",
-   "credit": "Schillie S 외. Prevention of Hepatitis B Virus Infection in the United States: Recommendations of the Advisory Committee on Immunization Practices. MMWR Recomm Rep 2018",
-   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5837403/",
-   "doi": "10.15585/mmwr.rr6701a1",
-   "pmcid": "PMC5837403",
-   "original_caption": "Pre-exposure evaluation for health care personnel previously vaccinated with complete, ≥3-dose HepB vaccine series who have not had postvaccination serologic testing* * Should be performed 1–2 months after the last dose of vaccine using a quantitative method that allows detection of the protective c",
-   "pages": [
-    "B형간염-백신"
    ]
   },
   "oa_PMC8631741_2": {
@@ -211,60 +22,9 @@
    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8631741/",
    "doi": "10.15585/mmwr.rr6905a1",
    "pmcid": "PMC8631741",
-   "original_caption": "Immunologic and clinical events associated with hepatitis A virus infection and recovery Source: CDC. Diagnosis and management of foodborne illnesses. MMWR Recomm Rep 2004;53(No. RR-4). Abbreviations: ALT = alanine aminotransferase; HAV = hepatitis A virus; IgG = immunoglobulin G; IgM = immunoglobul",
+   "original_caption": "Immunologic and clinical events associated with hepatitis A virus infection and recovery Source: CDC. Diagnosis and management of foodborne illnesses. MMWR Recomm Rep 2004;53(No. RR-4). Abbreviations: ALT = alanine aminotransferase; HAV = hepatitis A virus; IgG = immunoglobulin G; IgM = immunoglobulin M.",
    "pages": [
     "A형간염"
-   ]
-  },
-  "pwf_00002": {
-   "file": "assets/img/figures/pwf_00002.jpg",
-   "license": "CC BY 4.0",
-   "credit": "Lin, Y.-J.; Ho, C.-M., Wikimedia Commons",
-   "source_url": "https://commons.wikimedia.org/wiki/File:Hepatocellular_carcinoma_(HCC)_often_possesses_a_fibrous_capsule_with_a_clear-cut_margin_rather_than_an_infiltrating_border.png",
-   "doi": "",
-   "pmcid": "",
-   "original_caption": "Hepatocellular carcinoma (HCC) often possesses a fibrous capsule with a clear-cut margin rather than an infiltrating border. The surgical resection margin (“tumor free” margin) surrounding the target HCC may not need that much in the former case.",
-   "pages": [
-    "간암-치료-선택",
-    "케이스/BCLC-A-단일3cm-절제vs소작"
-   ]
-  },
-  "pwf_00003": {
-   "file": "assets/img/figures/pwf_00003.jpg",
-   "license": "CC BY 4.0",
-   "credit": "Viveiros, P.; Riaz, A.; Lewandowski, R.J.; Mahalingam, D., Wikimedia Commons",
-   "source_url": "https://commons.wikimedia.org/wiki/File:Liver_directed_therapies_and_changes_in_the_tumor_microenvironment.png",
-   "doi": "",
-   "pmcid": "",
-   "original_caption": "Liver directed therapies and changes in the tumor microenvironment. Increased vascular endothelial growth factor (VEGF) and neoangiogenesis with the potential for tumor progression after TACE; Infiltration of CD8+ Lymphocytes with resultant higher PD-L1 expression with the potential for tumor immune",
-   "pages": [
-    "updates/EMERALD-1-TACE-durva-bev-Lancet-2024",
-    "updates/LEAP-012-TACE-pembro-lenva-Lancet-2024",
-    "간암-TACE-종류-결정"
-   ]
-  },
-  "pwf_00004": {
-   "file": "assets/img/figures/pwf_00004.jpg",
-   "license": "CC BY 3.0",
-   "credit": "Kristie Guite, Louis Hinshaw and Fred Lee, Wikimedia Commons",
-   "source_url": "https://commons.wikimedia.org/wiki/File:Arterial_and_portal_venous_phase_CT_of_cirrhosis_and_hepatocellular_carcinoma.jpg",
-   "doi": "",
-   "pmcid": "",
-   "original_caption": "Arterial and portal venous phase CT of cirrhosis and hepatocellular carcinoma. For context, see en:Computed tomography of the abdomen and pelvis .",
-   "pages": [
-    "간암-진단-첫외래"
-   ]
-  },
-  "pwf_00011": {
-   "file": "assets/img/figures/pwf_00011.jpg",
-   "license": "CC BY 4.0",
-   "credit": "Zhenyu Pan, Guozi Yang, Tingting Yuan, Lihua Dong, Lihua Dong, Wikimedia Commons",
-   "source_url": "https://commons.wikimedia.org/wiki/File:Triphasic_CT_scan_of_hepatocellular_carcinoma.jpg",
-   "doi": "",
-   "pmcid": "",
-   "original_caption": "Triphasic contrast CT of hepatocellular carcinoma .",
-   "pages": [
-    "updates/AI-CT-HCC-validation-Hepatology-2024"
    ]
   },
   "pwf_00016": {
@@ -276,9 +36,49 @@
    "pmcid": "",
    "original_caption": "The replication cycle of Hepatitis B virus. Created by en:User:Graham Beards",
    "pages": [
-    "B형간염-Occult-잠복감염",
     "B형간염-functional-cure",
+    "B형간염-Occult-잠복감염",
     "updates/Bepirovirsen-HBV-Lancet-2024"
+   ]
+  },
+  "oa_PMC13430407_3": {
+   "file": "assets/img/figures/oa_PMC13430407_3.jpg",
+   "license": "CC BY-NC 3.0",
+   "credit": "Choi WM 외. KASL clinical practice guidelines for management of chronic hepatitis B Endorsed by the East Asia Liver Alliance (EALA). Clin Mol Hepatol 2026",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13430407/",
+   "doi": "10.3350/cmh.2026.0579",
+   "pmcid": "PMC13430407",
+   "original_caption": "Mechanisms of novel antiviral agents for the functional cure. ASO, antisense oligonucleotide; cccDNA, covalently closed circular DNA; HBcAg, hepatitis B core antigen; HBsAg, hepatitis B surface antigen; HBV, hepatitis B virus; HBx, hepatitis B virus X protein; NA, nucleos(t)ide analogue; NAPs, nucleic acid polymers; NK, natural killer; NTCP, sodium taurocholate co-transporting polypeptide; Pol, polymerase; rcDNA, relaxed circular DNA; siRNA, small interfering RNA; SVP, subviral particle; TLR, toll-like receptor.",
+   "pages": [
+    "B형간염-functional-cure"
+   ]
+  },
+  "oa_PMC5837403_2": {
+   "file": "assets/img/figures/oa_PMC5837403_2.jpg",
+   "license": "CC BY 4.0",
+   "credit": "Schillie S 외. Prevention of Hepatitis B Virus Infection in the United States: Recommendations of the Advisory Committee on Immunization Practices. MMWR Recomm Rep 2018",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5837403/",
+   "doi": "10.15585/mmwr.rr6701a1",
+   "pmcid": "PMC5837403",
+   "original_caption": "Acute hepatitis B virus infection with recovery Abbreviations: anti-HBc = antibody to hepatitis B core antigen; anti-HBe = antibody to hepatitis B e antigen; anti-HBs = antibody to hepatitis B surface antigen; HBeAg = hepatitis B e antigen; HBsAg = hepatitis B surface antigen; HBV DNA = hepatitis B virus deoxyribonucleic acid; IgM = immunoglobulin class M.",
+   "pages": [
+    "B형간염-Occult-잠복감염",
+    "B형간염-검사결과",
+    "가족-B형간염-검사"
+   ]
+  },
+  "oa_PMC9597235_3": {
+   "file": "assets/img/figures/oa_PMC9597235_3.jpg",
+   "license": "CC BY-NC 3.0",
+   "credit": "Korean Liver Cancer Association (KLCA) and National Cancer Center (NCC) Korea. 2022 KLCA-NCC Korea practice guidelines for the management of hepatocellular carcinoma. Clin Mol Hepatol 2022",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9597235/",
+   "doi": "10.3350/cmh.2022.0294",
+   "pmcid": "PMC9597235",
+   "original_caption": "Diagnostic algorithm. HCC, hepatocellular carcinoma; CHB, chronic hepatitis B; CHC, chronic hepatitis C; CT, computed tomography. * The radiological hallmarks for diagnosing “definite” HCC on multiphasic contrast-enhanced CT or magnetic resonance imaging (MRI) are arterial phase hyperenhancement (APHE) with washout appearance in the portal venous, delayed, or hepatobiliary phases. These criteria should be applied only to a lesion that does not show either marked T2 hyperintensity or targetoid appearances on diffusion-weighted images or contrast-enhanced images. For a second-line imaging modali",
+   "pages": [
+    "B형간염-간암검진",
+    "CC/검진-혹-발견",
+    "케이스/건강검진-우연발견-1cm결절"
    ]
   },
   "pwf_00017": {
@@ -293,43 +93,54 @@
     "B형간염-검사결과"
    ]
   },
-  "pwf_00029": {
-   "file": "assets/img/figures/pwf_00029.jpg",
-   "license": "Public domain",
-   "credit": "GrahamColmTalk.\n\nGrahamColm at English Wikipedia, Wikimedia Commons",
-   "source_url": "https://commons.wikimedia.org/wiki/File:Hepatitis_C_serology.png",
-   "doi": "",
-   "pmcid": "",
-   "original_caption": "Serologic profile of HCV infection.",
+  "oa_PMC5837403_3": {
+   "file": "assets/img/figures/oa_PMC5837403_3.jpg",
+   "license": "CC BY 4.0",
+   "credit": "Schillie S 외. Prevention of Hepatitis B Virus Infection in the United States: Recommendations of the Advisory Committee on Immunization Practices. MMWR Recomm Rep 2018",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5837403/",
+   "doi": "10.15585/mmwr.rr6701a1",
+   "pmcid": "PMC5837403",
+   "original_caption": "Pre-exposure evaluation for health care personnel previously vaccinated with complete, ≥3-dose HepB vaccine series who have not had postvaccination serologic testing* * Should be performed 1–2 months after the last dose of vaccine using a quantitative method that allows detection of the protective concentration of anti-HBs (≥10 mIU/mL) (e.g., enzyme-linked immunosorbent assay [ELISA]).",
    "pages": [
-    "C형간염-진단",
-    "케이스/anti-HCV양성-첫발견"
+    "B형간염-백신"
    ]
   },
-  "pwf_00033": {
-   "file": "assets/img/figures/pwf_00033.jpg",
-   "license": "CC BY-SA 4.0",
-   "credit": "Cerevisae, Wikimedia Commons",
-   "source_url": "https://commons.wikimedia.org/wiki/File:Ultrasound_of_upper_right_liver_lobe_showing_fatty_liver.jpg",
-   "doi": "",
-   "pmcid": "",
-   "original_caption": "Ultrasound of upper right liver lobe showing fatty liver. The liver has increased echogenicity with loss of echogenic portal vein wall. The posterior right liver lobe is difficult to be appreciated. Therefore, it is placed as Grade 3 liver steatosis/fatty liver.",
+  "oa_PMC13430407_4": {
+   "file": "assets/img/figures/oa_PMC13430407_4.jpg",
+   "license": "CC BY-NC 3.0",
+   "credit": "Choi WM 외. KASL clinical practice guidelines for management of chronic hepatitis B Endorsed by the East Asia Liver Alliance (EALA). Clin Mol Hepatol 2026",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13430407/",
+   "doi": "10.3350/cmh.2026.0579",
+   "pmcid": "PMC13430407",
+   "original_caption": "Prevention of HBV reactivation in patients undergoing immunosuppression or chemotherapy. * Assess when HBsAg or anti-HBc is positive. † HBV reactivation should be monitored with HBsAg, and/or HBV DNA every 1–3 months during and after immunosuppressive therapy. Because evidence for fixed risk-specific intervals is limited, the interval may be individualized according to reactivation risk and clinical context. anti-HBc, antibody to hepatitis B core antigen; anti-HBs, antibody to hepatitis B surface antigen; HBV, hepatitis B virus; HBsAg, hepatitis B surface antigen.",
    "pages": [
-    "CC/지방간-심함"
+    "B형간염-수술전-예방",
+    "B형간염-재활성화",
+    "케이스/B형간염-Occult-항암치료"
    ]
   },
-  "pwf_00036": {
-   "file": "assets/img/figures/pwf_00036.jpg",
-   "license": "Public domain",
-   "credit": "NIDDK, Wikimedia Commons",
-   "source_url": "https://commons.wikimedia.org/wiki/File:Stage_of_liver_damage_high.jpg",
-   "doi": "",
-   "pmcid": "",
-   "original_caption": "Some of the stages of liver damage following en:steatosis .",
+  "oa_PMC13430407_2": {
+   "file": "assets/img/figures/oa_PMC13430407_2.jpg",
+   "license": "CC BY-NC 3.0",
+   "credit": "Choi WM 외. KASL clinical practice guidelines for management of chronic hepatitis B Endorsed by the East Asia Liver Alliance (EALA). Clin Mol Hepatol 2026",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13430407/",
+   "doi": "10.3350/cmh.2026.0579",
+   "pmcid": "PMC13430407",
+   "original_caption": "Simplified algorithm for management of chronic hepatitis B. * Risk factors for disease progression or HCC: ALT &gt;ULN, age &gt;30 years, or significant fibrosis (≥F2). † Anti-HBV treatment refers to oral nucleos(t)ide analogues as standard first-line therapy. ALT, alanine aminotransferase; HBsAg, hepatitis B surface antigen; HBV, hepatitis B virus; HCC, hepatocellular carcinoma; ULN, upper limit of normal.",
    "pages": [
-    "대사이상지방간-MASLD",
-    "지방간-정밀검사",
-    "지방간염-MASH"
+    "B형간염-치료시작-기준"
+   ]
+  },
+  "oa_PMC13430407_1": {
+   "file": "assets/img/figures/oa_PMC13430407_1.jpg",
+   "license": "CC BY-NC 3.0",
+   "credit": "Choi WM 외. KASL clinical practice guidelines for management of chronic hepatitis B Endorsed by the East Asia Liver Alliance (EALA). Clin Mol Hepatol 2026",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13430407/",
+   "doi": "10.3350/cmh.2026.0579",
+   "pmcid": "PMC13430407",
+   "original_caption": "Natural history of chronic hepatitis B based on viral load. The dashed line indicates the HBeAg-negative moderate viremic phase, observed in approximately 20% of patients. The shaded area represents the potential variability of HBV DNA levels within the moderate viremic phase. ALT, alanine aminotransferase; cccDNA, covalently closed circular DNA; HBeAg, hepatitis B e antigen; HBsAg, hepatitis B surface antigen; HBV, hepatitis B virus; HCC, hepatocellular carcinoma.",
+   "pages": [
+    "B형간염-치료시작-기준"
    ]
   },
   "pwf_00038": {
@@ -346,6 +157,365 @@
     "간경변-복수"
    ]
   },
+  "oa_PMC4730261_1": {
+   "file": "assets/img/figures/oa_PMC4730261_1.jpg",
+   "license": "CC BY 4.0",
+   "credit": "Danan G 외. RUCAM in Drug and Herb Induced Liver Injury: The Update. Int J Mol Sci 2015",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4730261/",
+   "doi": "10.3390/ijms17010014",
+   "pmcid": "PMC4730261",
+   "original_caption": "Classification of liver injury required for causality assessment of suspected DILI and HILI cases by the updated RUCAM. Note above: ALP from hepatic origin only. Abbreviations: ALP, alkaline phosphatase; ALT, Alanine aminotransferase; DILI, Drug-induced liver injury; HILI, Herb-induced liver injury; N, Upper limit of normal; R, Ratio; RUCAM, Roussel Uclaf Causality Assessment Method.",
+   "pages": [
+    "CC/약물-간손상",
+    "약물성-간손상-DILI",
+    "케이스/약물성간손상-항결핵제"
+   ]
+  },
+  "oa_PMC5754852_3": {
+   "file": "assets/img/figures/oa_PMC5754852_3.jpg",
+   "license": "CC BY 4.0",
+   "credit": "Newsome PN 외. Guidelines on the management of abnormal liver blood tests. Gut 2018",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5754852/",
+   "doi": "10.1136/gutjnl-2017-314924",
+   "pmcid": "PMC5754852",
+   "original_caption": "Alcohol-related liver disease algorithm. In patients in whom alcohol is suspected to be the main injurious factor, the extent of consumption influences early decision-making. For those drinking at harmful levels, ≥35 units/week women and ≥50 units/week men, an assessment of liver fibrosis is the critical next step. For other patients, administration of the AUDIT C questionnaire alongside brief intervention is recommended initially. For patients who continue to drink at hazardous levels considera",
+   "pages": [
+    "CC/음주-간걱정"
+   ]
+  },
+  "pwf_00151": {
+   "file": "assets/img/figures/pwf_00151.jpg",
+   "license": "CC BY 4.0",
+   "credit": "Said E 외. Fulminant Primary Biliary Cholangitis-Autoimmune Hepatitis (PBC-AIH) Overlap Syndrome in a 27-Year-Old Woman With Childhood-Onset AIH: Steroid-Refractory Decompensation Necessitating Urgent Transplant Evaluation. Cureus 2025",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12332042/",
+   "doi": "10.7759/cureus.87519",
+   "pmcid": "PMC12332042",
+   "original_caption": "Hematoxylin and eosin (H&E)-stained liver core biopsy at low magnification Hematoxylin and eosin (H&E)-stained liver core biopsy at low magnification showing portal and periportal inflammatory infiltrates with interface hepatitis. Inflammatory cells extend from the portal tracts into surrounding hepatocytes",
+   "pages": [
+    "CC/자가면역간염-의심",
+    "자가면역간염-진단",
+    "케이스/AIH-첫진단-여성"
+   ]
+  },
+  "pwf_00033": {
+   "file": "assets/img/figures/pwf_00033.jpg",
+   "license": "CC BY-SA 4.0",
+   "credit": "Cerevisae, Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Ultrasound_of_upper_right_liver_lobe_showing_fatty_liver.jpg",
+   "doi": "",
+   "pmcid": "",
+   "original_caption": "Ultrasound of upper right liver lobe showing fatty liver. The liver has increased echogenicity with loss of echogenic portal vein wall. The posterior right liver lobe is difficult to be appreciated. Therefore, it is placed as Grade 3 liver steatosis/fatty liver.",
+   "pages": [
+    "CC/지방간-심함"
+   ]
+  },
+  "img_03879": {
+   "file": "assets/img/figures/img_03879.jpg",
+   "license": "CC BY-SA 4.0",
+   "credit": "Hellerhoff, Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Steatosis_hepatis_in_der_Sonografie_36M_-_US_-_001.jpg",
+   "doi": "",
+   "pmcid": "",
+   "original_caption": "File:Steatosis hepatis in der Sonografie 36M - US - 001.jpg | Steatosis hepatis in der Sonografie: Das Parenchym der Leber (oben im Bett) ist deutlich heller / echoreicher als das Parenchym der Niere (unten im Bild). | query=Category:Ultrasound images of fatty liver",
+   "pages": [
+    "CC/지방간-진단"
+   ]
+  },
+  "pwf_00029": {
+   "file": "assets/img/figures/pwf_00029.jpg",
+   "license": "Public domain",
+   "credit": "GrahamColmTalk.\n\nGrahamColm at English Wikipedia, Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Hepatitis_C_serology.png",
+   "doi": "",
+   "pmcid": "",
+   "original_caption": "Serologic profile of HCV infection.",
+   "pages": [
+    "C형간염-진단",
+    "케이스/anti-HCV양성-첫발견"
+   ]
+  },
+  "pwf_00087": {
+   "file": "assets/img/figures/pwf_00087.jpg",
+   "license": "CC BY 4.0",
+   "credit": "Diogo Dias J 외. Early Steps of Hepatitis B Life Cycle: From Capsid Nuclear Import to cccDNA Formation. Viruses 2021",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8145197/",
+   "doi": "10.3390/v13050757",
+   "pmcid": "PMC8145197",
+   "original_caption": "Schematic representation of the human hepatitis B virus (HBV) life cycle. After binding to the high affinity receptor sodium taurocholate co-transporting polypeptide (NTCP), HBV is internalized via endocytosis, and the viral capsid is released into the cytoplasm. The capsid travels to the nuclear pore using the microtubule network. The rcDNA is released in the nucleus and is converted into covalently closed circular DNA (cccDNA), which becomes chromatinized, and is the template for the transcrip",
+   "pages": [
+    "D형간염-치료-가이드라인",
+    "updates/HBV-siRNA-functional-cure-2026",
+    "updates/Hou-bepirovirsen-HBV-NEJM-2026"
+   ]
+  },
+  "pwf_00165": {
+   "file": "assets/img/figures/pwf_00165.jpg",
+   "license": "CC BY-NC-ND 4.0",
+   "credit": "Sarcognato S 외. Autoimmune biliary diseases: primary biliary cholangitis and primary sclerosing cholangitis. Pathologica 2021",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8299325/",
+   "doi": "10.32074/1591-951X-245",
+   "pmcid": "PMC8299325",
+   "original_caption": "A florid duct lesion in a primary biliary cholangitis patient. A chronic inflammatory infiltrate made of lymphocytes and plasma cells surrounds and destroys the bile duct (hematoxylin-eosin; original magnification 20x).",
+   "pages": [
+    "PBC-원발성담즙성담관염",
+    "updates/Linerixibat-PBC-pruritus-FDA-2026"
+   ]
+  },
+  "oa_PMC12835774_3": {
+   "file": "assets/img/figures/oa_PMC12835774_3.jpg",
+   "license": "CC BY-NC 3.0",
+   "credit": "Ahn J 외. Aspirin and hepatocellular carcinoma risk in metabolic dysfunction-associated steatotic liver disease: nationwide cohort study with genetic risk analysis. Clin Mol Hepatol 2026",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12835774/",
+   "doi": "10.3350/cmh.2025.0528",
+   "pmcid": "PMC12835774",
+   "original_caption": "",
+   "pages": [
+    "updates/Ahn-Aspirin-HCC-MASLD-CMH-2026"
+   ]
+  },
+  "pwf_00011": {
+   "file": "assets/img/figures/pwf_00011.jpg",
+   "license": "CC BY 4.0",
+   "credit": "Zhenyu Pan, Guozi Yang, Tingting Yuan, Lihua Dong, Lihua Dong, Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Triphasic_CT_scan_of_hepatocellular_carcinoma.jpg",
+   "doi": "",
+   "pmcid": "",
+   "original_caption": "Triphasic contrast CT of hepatocellular carcinoma .",
+   "pages": [
+    "updates/AI-CT-HCC-validation-Hepatology-2024"
+   ]
+  },
+  "pwf_00003": {
+   "file": "assets/img/figures/pwf_00003.jpg",
+   "license": "CC BY 4.0",
+   "credit": "Viveiros, P.; Riaz, A.; Lewandowski, R.J.; Mahalingam, D., Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Liver_directed_therapies_and_changes_in_the_tumor_microenvironment.png",
+   "doi": "",
+   "pmcid": "",
+   "original_caption": "Liver directed therapies and changes in the tumor microenvironment. Increased vascular endothelial growth factor (VEGF) and neoangiogenesis with the potential for tumor progression after TACE; Infiltration of CD8+ Lymphocytes with resultant higher PD-L1 expression with the potential for tumor immune-evasion after ablation. RAF, radiofrequency ablation; TACE, transarterial chemoembolization; VEGF, vascular endothelial growth factor; VEGFR: vascular endothelial growth factor receptor.",
+   "pages": [
+    "updates/EMERALD-1-TACE-durva-bev-Lancet-2024",
+    "updates/LEAP-012-TACE-pembro-lenva-Lancet-2024",
+    "간암-TACE-종류-결정"
+   ]
+  },
+  "pwf_00197": {
+   "file": "assets/img/figures/pwf_00197.jpg",
+   "license": "CC BY-NC 4.0",
+   "credit": "Sigrist RMS 외. Ultrasound Elastography: Review of Techniques and Clinical Applications. Theranostics 2017",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5399595/",
+   "doi": "10.7150/thno.18650",
+   "pmcid": "PMC5399595",
+   "original_caption": "Pathologic and normal physiologic processes which can be confounders of liver stiffness measurements. Among other causes, right heart failure can lead to hepatic venous congestion with consecutive elevation of liver stiffness due to the increased venous pressure. Increased levels of inspiration and expiration (Valsalva maneuver) can also increase liver stiffness and, therefore, patients need to be coached regarding breathing instructions when obtaining liver stiffness measurements.",
+   "pages": [
+    "updates/FibroScan-수치-해석-가이드-2026",
+    "간섬유화스캔-수치"
+   ]
+  },
+  "oa_PMC9597235_9": {
+   "file": "assets/img/figures/oa_PMC9597235_9.jpg",
+   "license": "CC BY-NC 3.0",
+   "credit": "Korean Liver Cancer Association (KLCA) and National Cancer Center (NCC) Korea. 2022 KLCA-NCC Korea practice guidelines for the management of hepatocellular carcinoma. Clin Mol Hepatol 2022",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9597235/",
+   "doi": "10.3350/cmh.2022.0294",
+   "pmcid": "PMC9597235",
+   "original_caption": "Treatment algorithm of systemic therapy for hepatocellular carcinoma. AFP, alpha-fetoprotein. * If patients have absolute or relative contraindications for immune-checkpoint inhibitors or bevacizumab, multiple tyrosine kinase inhibitors such as sorafenib or lenvatinib should be recommended.",
+   "pages": [
+    "updates/HCC-second-line-after-IO-2026",
+    "updates/IMbrave150-atezolizumab-bevacizumab-NEJM-2020",
+    "케이스/문맥침범-AtezoBev"
+   ]
+  },
+  "oa_PMC12952312_1": {
+   "file": "assets/img/figures/oa_PMC12952312_1.jpg",
+   "license": "CC BY 4.0",
+   "credit": "Purnomo HD 외. The global landscape of lean metabolic dysfunction-associated steatotic liver disease: insight from Asia and the West. Front Gastroenterol (Lausanne) 2025",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12952312/",
+   "doi": "10.3389/fgstr.2025.1699508",
+   "pmcid": "PMC12952312",
+   "original_caption": "Adult cardiometabolic criteria for diagnosing MASLD ( 6 ).",
+   "pages": [
+    "updates/Lean-MASLD-review-2026",
+    "술-안마셔도-지방간",
+    "지방간-lean-MASLD"
+   ]
+  },
+  "pwf_00107": {
+   "file": "assets/img/figures/pwf_00107.jpg",
+   "license": "CC BY 4.0",
+   "credit": "Sergi CM. NAFLD (MASLD)/NASH (MASH): Does It Bother to Label at All? A Comprehensive Narrative Review. Int J Mol Sci 2024",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11313354/",
+   "doi": "10.3390/ijms25158462",
+   "pmcid": "PMC11313354",
+   "original_caption": "Diagnostic criteria for MASLD. If hepatic steatosis is present, the identification of any CMRF (*) would lead to a diagnosis of MASLD, provided that there are no other causes of hepatic steatosis. If other causes of steatosis are discovered, then this is in line with a mix of factors contributing to the condition. When it comes to alcohol, this is referred to as MetALD. If there are no obvious cardiometabolic criteria present, other potential causes must be ruled out. If no other cause is found,",
+   "pages": [
+    "updates/MASLD-nomenclature-AASLD-EASL-2023",
+    "대사이상지방간-MASLD",
+    "지방간-MetALD"
+   ]
+  },
+  "pwf_00127": {
+   "file": "assets/img/figures/pwf_00127.jpg",
+   "license": "CC BY-NC 4.0",
+   "credit": "Diaz-Soto MP 외. Management of varices and variceal hemorrhage in liver cirrhosis: a recent update. Ther Adv Gastroenterol 2022",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9218432/",
+   "doi": "10.1177/17562848221101712",
+   "pmcid": "PMC9218432",
+   "original_caption": "Acute variceal hemorrhage management algorithm. CTP, Child–Turcotte–Pugh; FFP, fresh frozen plasma; NSBB, nonselective beta-blockers; PRBC, packed red blood cells; TIPS, transjugular intrahepatic portosystemic shunt. a Before starting prophylactic antibiotic ideally perform diagnostic paracentesis to increase yield in the case of spontaneous bacterial peritonitis.",
+   "pages": [
+    "updates/preemptive-TIPS-식도정맥류-출혈"
+   ]
+  },
+  "oa_PMC13364756_1": {
+   "file": "assets/img/figures/oa_PMC13364756_1.jpg",
+   "license": "CC BY-NC 4.0",
+   "credit": "Shin H 외. Efficacy and Safety of Switching from Entecavir to Tenofovir Alafenamide in Chronic Hepatitis B: A Multicenter Randomized Trial in Korea. Gut Liver 2026",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13364756/",
+   "doi": "10.5009/gnl250479",
+   "pmcid": "PMC13364756",
+   "original_caption": "Patient flow diagram of the trial. TAF, tenofovir alafenamide; ETV, entecavir; HBV, hepatitis B virus.",
+   "pages": [
+    "updates/Shin-ETV-TAF-RCT-GnL-2026"
+   ]
+  },
+  "pwf_00203": {
+   "file": "assets/img/figures/pwf_00203.jpg",
+   "license": "CC BY 4.0",
+   "credit": "Mulabecirovic A 외. Liver elasticity in healthy individuals by two novel shear-wave elastography systems-Comparison by age, gender, BMI and number of measurements. PLoS One 2018",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6138384/",
+   "doi": "10.1371/journal.pone.0203486",
+   "pmcid": "PMC6138384",
+   "original_caption": "2D-SWE by GE S8 performed on a healthy liver. The figure illustrates the method of 2D-SWE by GE performed on a healthy subject. The coloured box (centre) represents the elastogram, and the circle represents the ROI where the elastic modulus (LSM, liver stiffness measurement) of the liver is acquired. The blue colour indicates soft liver tissue, as semi-quantitatively presented by the colour scale to the left.",
+   "pages": [
+    "간-외래-검사"
+   ]
+  },
+  "oa_PMC9597235_4": {
+   "file": "assets/img/figures/oa_PMC9597235_4.jpg",
+   "license": "CC BY-NC 3.0",
+   "credit": "Korean Liver Cancer Association (KLCA) and National Cancer Center (NCC) Korea. 2022 KLCA-NCC Korea practice guidelines for the management of hepatocellular carcinoma. Clin Mol Hepatol 2022",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9597235/",
+   "doi": "10.3350/cmh.2022.0294",
+   "pmcid": "PMC9597235",
+   "original_caption": "Definite hepatocellular carcinoma (HCC) on multiphasic magnetic resonance imaging (MRI) with hepatocyte-specific contrast agent. A 1.7-cm liver nodule (arrow) is detected on surveillance ultrasound in a patient with liver cirrhosis. The lesion shows the radiological hallmarks of HCC, i.e., arterial phase hyperenhancement and washout appearance (portal venous phase, delayed phase, and hepatobiliary phase) on multiphasic MRI using hepatocyte-specific contrast agent (gadoxetic acid) but does not show marked T2 hyperintensity or targetoid appearances on diffusion-weighted images and contrast-enhan",
+   "pages": [
+    "간-외래-검사",
+    "케이스/B형간염-검진-새결절",
+    "케이스/MASLD-HCC-비만당뇨"
+   ]
+  },
+  "oa_PMC13430399_2": {
+   "file": "assets/img/figures/oa_PMC13430399_2.jpg",
+   "license": "CC BY-NC 3.0",
+   "credit": "Song DS 외. KASL clinical practice guidelines for liver cirrhosis: Ascites and related complications 2026. Clin Mol Hepatol 2026",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13430399/",
+   "doi": "10.3350/cmh.2026.0281",
+   "pmcid": "PMC13430399",
+   "original_caption": "Treatment algorithm for acute kidney injury in patients with cirrhosis.",
+   "pages": [
+    "간경변-간신증후군",
+    "간경변-복수-2026-개정"
+   ]
+  },
+  "oa_PMC7788190_2": {
+   "file": "assets/img/figures/oa_PMC7788190_2.jpg",
+   "license": "CC BY-NC 4.0",
+   "credit": "Aithal GP 외. Guidelines on the management of ascites in cirrhosis. Gut 2021",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7788190/",
+   "doi": "10.1136/gutjnl-2020-321790",
+   "pmcid": "PMC7788190",
+   "original_caption": "The ascitic fluid samples required from diagnostic paracentesis. *These investigations should be considered based on pretest probability of specific diagnosis. BNP, brain natriuretic peptide.",
+   "pages": [
+    "간경변-감염-SBP-예방",
+    "케이스/복수-SBP-진단치료"
+   ]
+  },
+  "oa_PMC7788190_4": {
+   "file": "assets/img/figures/oa_PMC7788190_4.jpg",
+   "license": "CC BY-NC 4.0",
+   "credit": "Aithal GP 외. Guidelines on the management of ascites in cirrhosis. Gut 2021",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7788190/",
+   "doi": "10.1136/gutjnl-2020-321790",
+   "pmcid": "PMC7788190",
+   "original_caption": "Anatomical landmarks for the safe performance of paracentesis [A] and performance of ascites drainage in patients with large ascites [B].",
+   "pages": [
+    "간경변-감염-SBP-예방"
+   ]
+  },
+  "oa_PMC13430399_1": {
+   "file": "assets/img/figures/oa_PMC13430399_1.jpg",
+   "license": "CC BY-NC 3.0",
+   "credit": "Song DS 외. KASL clinical practice guidelines for liver cirrhosis: Ascites and related complications 2026. Clin Mol Hepatol 2026",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13430399/",
+   "doi": "10.3350/cmh.2026.0281",
+   "pmcid": "PMC13430399",
+   "original_caption": "Algorithm for the differential diagnosis of ascites.",
+   "pages": [
+    "간경변-복수"
+   ]
+  },
+  "img_03894": {
+   "file": "assets/img/figures/img_03894.jpg",
+   "license": "Public domain",
+   "credit": "The original uploader was Samir at English Wikipedia., Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Esophageal_varices_-_wale.jpg",
+   "doi": "",
+   "pmcid": "",
+   "original_caption": "File:Esophageal varices - wale.jpg | Gastroscopy image of esophageal varices with prominent red wale spots. | query=Category:Endoscopic images of esophageal varices",
+   "pages": [
+    "간경변-식도정맥류"
+   ]
+  },
+  "img_03890": {
+   "file": "assets/img/figures/img_03890.jpg",
+   "license": "CC BY-SA 4.0",
+   "credit": "Kel898, Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Endoscopic_Banding_for_Esophageal_Varices.png",
+   "doi": "",
+   "pmcid": "",
+   "original_caption": "File:Endoscopic Banding for Esophageal Varices.png | Endoscopic Banding for Esophageal Varices | query=Category:Esophageal varices",
+   "pages": [
+    "간경변-식도정맥류"
+   ]
+  },
+  "img_03889": {
+   "file": "assets/img/figures/img_03889.jpg",
+   "license": "CC BY-SA 4.0",
+   "credit": "Mme Mim, Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Caudate_lobe_hypertrophy_0001.jpg",
+   "doi": "",
+   "pmcid": "",
+   "original_caption": "File:Caudate lobe hypertrophy 0001.jpg | caudate lobe hypertrophy in ultrasound due to cirrhosis | query=Category:Ultrasound images of cirrhosis",
+   "pages": [
+    "간경변-정상수치-함정"
+   ]
+  },
+  "oa_PMC5754852_1": {
+   "file": "assets/img/figures/oa_PMC5754852_1.jpg",
+   "license": "CC BY 4.0",
+   "credit": "Newsome PN 외. Guidelines on the management of abnormal liver blood tests. Gut 2018",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5754852/",
+   "doi": "10.1136/gutjnl-2017-314924",
+   "pmcid": "PMC5754852",
+   "original_caption": "Response to abnormal liver blood tests. This figure details the initial response to abnormal liver blood tests. Boxes in yellow indicate the initial evaluation of the clinical presentation. Patients with marked derangement of liver blood tests, synthetic failure and/or suspicious clinical symptoms/signs should be considered for urgent referral to secondary care (red box). For the remainder, a clinical history alongside evaluation of the pattern of liver blood test derangement will determine choi",
+   "pages": [
+    "간수치-높음"
+   ]
+  },
+  "oa_PMC9597235_8": {
+   "file": "assets/img/figures/oa_PMC9597235_8.jpg",
+   "license": "CC BY-NC 3.0",
+   "credit": "Korean Liver Cancer Association (KLCA) and National Cancer Center (NCC) Korea. 2022 KLCA-NCC Korea practice guidelines for the management of hepatocellular carcinoma. Clin Mol Hepatol 2022",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9597235/",
+   "doi": "10.3350/cmh.2022.0294",
+   "pmcid": "PMC9597235",
+   "original_caption": "First-line treatment of 2022 Korean Liver Cancer Association-National Cancer Center Korea practice guidelines for patients with hepatocellular carcinoma, Child-Pugh class A, no portal hypertension, and Eastern Cooperative Oncology Group performance status 0–1. mUICC, modified Union for International Cancer Control; VI, vascular or bile duct invasion; RFA, radiofrequency ablation; cTACE, conventional transarterial chemoembolization; TARE, transarterial radioembolization; Other local ablation, percutaneous ethanol injection (PEI), microwave ablation (MWA), and cryoablation; EBRT, external beam r",
+   "pages": [
+    "간암-BCLC병기",
+    "간암-진단-첫외래",
+    "간암-혈관침범-치료"
+   ]
+  },
   "pwf_00073": {
    "file": "assets/img/figures/pwf_00073.jpg",
    "license": "CC BY 4.0",
@@ -353,7 +523,7 @@
    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13120846/",
    "doi": "10.1055/a-2724-6488",
    "pmcid": "PMC13120846",
-   "original_caption": "Follow-up after SIRT of an HCC in liver segment III in a 53-year-old patient (status post right hemihepatectomy). a Pre-treatment, fat-saturated T1-VIBE, arterial phase: hypervascular HCC adjacent to the resection margin (arrow). b Pre-treatment, delayed phase: washout of the lesion. c Twelve weeks ",
+   "original_caption": "Follow-up after SIRT of an HCC in liver segment III in a 53-year-old patient (status post right hemihepatectomy). a Pre-treatment, fat-saturated T1-VIBE, arterial phase: hypervascular HCC adjacent to the resection margin (arrow). b Pre-treatment, delayed phase: washout of the lesion. c Twelve weeks after SIRT, arterial phase: thin peripheral rim enhancement around the treated lesion (arrowheads), consistent with post-therapeutic hyperemia. d Twelve weeks, subtraction: persistent central enhancem",
    "pages": [
     "간암-방사선색전술"
    ]
@@ -365,76 +535,123 @@
    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13120846/",
    "doi": "10.1055/a-2724-6488",
    "pmcid": "PMC13120846",
-   "original_caption": "MRI-guided microwave ablation. a Planning imaging using fat-saturated T1-VIBE illustrates the HCC to be treated in segment VIII of a 72-year-old male patient, showing arterial hyper-enhancement (arrow). b The lesion exhibits washout in the late phase. c During the intervention, the applicator is adv",
+   "original_caption": "MRI-guided microwave ablation. a Planning imaging using fat-saturated T1-VIBE illustrates the HCC to be treated in segment VIII of a 72-year-old male patient, showing arterial hyper-enhancement (arrow). b The lesion exhibits washout in the late phase. c During the intervention, the applicator is advanced percutaneously under image guidance to the lesion (sagittal plane). d The final contrast-enhanced control imaging shows an ovoid ablation zone, hypo-enhancing relative to the untreated liver par",
    "pages": [
     "간암-소작술-RFA-MWA"
    ]
   },
-  "pwf_00087": {
-   "file": "assets/img/figures/pwf_00087.jpg",
-   "license": "CC BY 4.0",
-   "credit": "Diogo Dias J 외. Early Steps of Hepatitis B Life Cycle: From Capsid Nuclear Import to cccDNA Formation. Viruses 2021",
-   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8145197/",
-   "doi": "10.3390/v13050757",
-   "pmcid": "PMC8145197",
-   "original_caption": "Schematic representation of the human hepatitis B virus (HBV) life cycle. After binding to the high affinity receptor sodium taurocholate co-transporting polypeptide (NTCP), HBV is internalized via endocytosis, and the viral capsid is released into the cytoplasm. The capsid travels to the nuclear po",
+  "pwf_00004": {
+   "file": "assets/img/figures/pwf_00004.jpg",
+   "license": "CC BY 3.0",
+   "credit": "Kristie Guite, Louis Hinshaw and Fred Lee, Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Arterial_and_portal_venous_phase_CT_of_cirrhosis_and_hepatocellular_carcinoma.jpg",
+   "doi": "",
+   "pmcid": "",
+   "original_caption": "Arterial and portal venous phase CT of cirrhosis and hepatocellular carcinoma. For context, see en:Computed tomography of the abdomen and pelvis .",
    "pages": [
-    "D형간염-치료-가이드라인",
-    "updates/HBV-siRNA-functional-cure-2026",
-    "updates/Hou-bepirovirsen-HBV-NEJM-2026"
+    "간암-진단-첫외래"
    ]
   },
-  "pwf_00103": {
-   "file": "assets/img/figures/pwf_00103.jpg",
+  "pwf_00002": {
+   "file": "assets/img/figures/pwf_00002.jpg",
    "license": "CC BY 4.0",
-   "credit": "Sergi CM. NAFLD (MASLD)/NASH (MASH): Does It Bother to Label at All? A Comprehensive Narrative Review. Int J Mol Sci 2024",
-   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11313354/",
-   "doi": "10.3390/ijms25158462",
-   "pmcid": "PMC11313354",
-   "original_caption": "( a ) Liver fibrosis. Extensive pericentral and periportal fibrosis with collagen deposition (blue) forming bridges and nearly pseudo-nodules (arrows). Masson’s trichromic stain, 100× original magnification, scale bar: 100 μm. ( b ) Liver steatosis. Fatty accumulation in the hepatocytes can be highl",
+   "credit": "Lin, Y.-J.; Ho, C.-M., Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Hepatocellular_carcinoma_(HCC)_often_possesses_a_fibrous_capsule_with_a_clear-cut_margin_rather_than_an_infiltrating_border.png",
+   "doi": "",
+   "pmcid": "",
+   "original_caption": "Hepatocellular carcinoma (HCC) often possesses a fibrous capsule with a clear-cut margin rather than an infiltrating border. The surgical resection margin (“tumor free” margin) surrounding the target HCC may not need that much in the former case.",
    "pages": [
-    "지방간-정밀검사",
-    "케이스/MASH-F3-당뇨-종합관리"
+    "간암-치료-선택",
+    "케이스/BCLC-A-단일3cm-절제vs소작"
    ]
   },
-  "pwf_00107": {
-   "file": "assets/img/figures/pwf_00107.jpg",
+  "pwf_00179": {
+   "file": "assets/img/figures/pwf_00179.jpg",
    "license": "CC BY 4.0",
-   "credit": "Sergi CM. NAFLD (MASLD)/NASH (MASH): Does It Bother to Label at All? A Comprehensive Narrative Review. Int J Mol Sci 2024",
-   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11313354/",
-   "doi": "10.3390/ijms25158462",
-   "pmcid": "PMC11313354",
-   "original_caption": "Diagnostic criteria for MASLD. If hepatic steatosis is present, the identification of any CMRF (*) would lead to a diagnosis of MASLD, provided that there are no other causes of hepatic steatosis. If other causes of steatosis are discovered, then this is in line with a mix of factors contributing to",
+   "credit": "Scialpi M 외. Split-bolus versus triphasic multidetector-row computed tomography technique in the diagnosis of hepatic focal nodular hyperplasia: a case report. J Med Case Rep 2014",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4301902/",
+   "doi": "10.1186/1752-1947-8-425",
+   "pmcid": "PMC4301902",
+   "original_caption": "Single-pass 64-detector row computed tomography findings of focal nodular hyperplasia in 53-year-old woman. Mixed phase (hepatic arterial phase/portal venous phase during hepatic enhancement) shows intense homogeneous enhancement with hypodense focal central scar (a) ; on delayed phase (b) the lesion appears substantially isodense to liver parenchyma with persistent enhancement of central scar.",
    "pages": [
-    "updates/MASLD-nomenclature-AASLD-EASL-2023",
+    "간양성종양-FNH-Adenoma"
+   ]
+  },
+  "pwf_00174": {
+   "file": "assets/img/figures/pwf_00174.jpg",
+   "license": "CC BY 4.0",
+   "credit": "Strange T 외. Pedunculated focal nodular hyperplasia: a case report, case series, and in-depth surgical, radiological, and histological analysis of a rare phenomenon. Diagn Pathol 2025",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12125829/",
+   "doi": "10.1186/s13000-025-01661-y",
+   "pmcid": "PMC12125829",
+   "original_caption": "MRI imaging indicated pedunculated focal nodular hyperplasia. The lesion is isointense compared to surrounding hepatic tissue on T2-weighted MRI ( A ) and Diffusion-weighted imaging (DWI, B ). With injection of Eovist contrast, the lesion became enhanced during the arterial phase ( C ), and remained enhanced after 20 min ( D ), findings that are characteristic for FNH.",
+   "pages": [
+    "간양성종양-FNH-Adenoma",
+    "간양성종양-진단"
+   ]
+  },
+  "pwf_00185": {
+   "file": "assets/img/figures/pwf_00185.jpg",
+   "license": "CC BY-NC 4.0",
+   "credit": "Renzulli M 외. Hepatocellular adenoma: An unsolved diagnostic enigma. World J Gastroenterol 2019",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6543239/",
+   "doi": "10.3748/wjg.v25.i20.2442",
+   "pmcid": "PMC6543239",
+   "original_caption": "Diagnostic challenges in hepatocyte nuclear factor 1A mutated hepatocellular adenoma. A: In a 51-year-old woman, the axial T1 in-phase image shows an isointense lesion in liver segment V; B: With signal dropout in the T1 out-of-phase image; C: Slightly hyperintense in the T2-weighted; D: In diffusion-weighted; E: In the arterial phase images; F: Washout of the contrast media in the portal-venous phase; G: In the delayed phase images; H: Hypointense in the hepatobiliary phase image. According to ",
+   "pages": [
+    "간양성종양-경구피임약"
+   ]
+  },
+  "pwf_00187": {
+   "file": "assets/img/figures/pwf_00187.jpg",
+   "license": "CC BY-NC 4.0",
+   "credit": "Klompenhouwer AJ 외. Management and outcome of hepatocellular adenoma with massive bleeding at presentation. World J Gastroenterol 2017",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5504373/",
+   "doi": "10.3748/wjg.v23.i25.4579",
+   "pmcid": "PMC5504373",
+   "original_caption": "Representative case of grade III bleeding hepatocellular adenoma involving a 28-year-old female who presented at the emergency department. A: Coronal computed tomography (CT) image in arterial phase shows a large hematoma in the left liver lobe (arrow); B: On the axial CT slice different bleeding adenomas are present in both lobes (arrows). Extracapsular peritoneal bleeding around the stomach is seen (triangle); C: One year later on magnetic resonance imaging in the venous phase all adenomas hav",
+   "pages": [
+    "간양성종양-경구피임약",
+    "간양성종양-임신중"
+   ]
+  },
+  "img_03900": {
+   "file": "assets/img/figures/img_03900.jpg",
+   "license": "CC BY 3.0",
+   "credit": "R. Badea and Simona Ioanitescu, Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Ultrasonography_of_a_liver_cyst.jpg",
+   "doi": "",
+   "pmcid": "",
+   "original_caption": "File:Ultrasonography of a liver cyst.jpg | Ultrasound of a liver cyst . | query=Category:Ultrasound images of liver cysts",
+   "pages": [
+    "간양성종양-낭종-관리",
+    "간양성종양-진단"
+   ]
+  },
+  "pwf_00036": {
+   "file": "assets/img/figures/pwf_00036.jpg",
+   "license": "Public domain",
+   "credit": "NIDDK, Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Stage_of_liver_damage_high.jpg",
+   "doi": "",
+   "pmcid": "",
+   "original_caption": "Some of the stages of liver damage following en:steatosis .",
+   "pages": [
     "대사이상지방간-MASLD",
-    "지방간-MetALD"
+    "지방간-정밀검사",
+    "지방간염-MASH"
    ]
   },
-  "pwf_00110": {
-   "file": "assets/img/figures/pwf_00110.jpg",
-   "license": "CC BY 4.0",
-   "credit": "Petta S 외. Focus on Semaglutide 2.4 mg/week for the Treatment of Metabolic Dysfunction-Associated Steatohepatitis. Liver Int 2025",
-   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12558666/",
-   "doi": "10.1111/liv.70407",
-   "pmcid": "PMC12558666",
-   "original_caption": "Potential algorithm to manage Semaglutide treatment for adult patients with MASH in clinical practice. LSM: liver stiffness measurement; VCTE: vibration controlled transient elastography. Please note that LSM cannot accurately discriminate between histological F2/F3 fibrosis. *In people who are not ",
+  "pwf_00115": {
+   "file": "assets/img/figures/pwf_00115.jpg",
+   "license": "CC BY-NC 4.0",
+   "credit": "Bae J 외. Metabolic Dysfunction-Associated Steatotic Liver Disease in Type 2 Diabetes Mellitus: A Review and Position Statement of the Fatty Liver Research Group of the Korean Diabetes Association. Diabetes Metab J 2024",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11621661/",
+   "doi": "10.4093/dmj.2024.0541",
+   "pmcid": "PMC11621661",
+   "original_caption": "Liver pathology of alcoholic steatohepatitis (ASH) and metabolic dysfunction-associated steatohepatitis (MASH). (A, B) The liver biopsy specimens in the top row came from a patient with alcoholic cirrhosis during liver transplantation. They show (A) cholestasis (arrowhead), (B) ballooned hepatocytes containing Malloy-Denk bodies (arrow), and focal necrosis associated with prominent inflammatory cell infiltration and fibrosis (hematoxylin and eosin stain [H&E]). (C, D) The liver biopsy specimens ",
    "pages": [
-    "지방간-위고비-마운자로"
-   ]
-  },
-  "pwf_00151": {
-   "file": "assets/img/figures/pwf_00151.jpg",
-   "license": "CC BY 4.0",
-   "credit": "Said E 외. Fulminant Primary Biliary Cholangitis-Autoimmune Hepatitis (PBC-AIH) Overlap Syndrome in a 27-Year-Old Woman With Childhood-Onset AIH: Steroid-Refractory Decompensation Necessitating Urgent Transplant Evaluation. Cureus 2025",
-   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12332042/",
-   "doi": "10.7759/cureus.87519",
-   "pmcid": "PMC12332042",
-   "original_caption": "Hematoxylin and eosin (H&E)-stained liver core biopsy at low magnification Hematoxylin and eosin (H&E)-stained liver core biopsy at low magnification showing portal and periportal inflammatory infiltrates with interface hepatitis. Inflammatory cells extend from the portal tracts into surrounding hep",
-   "pages": [
-    "CC/자가면역간염-의심",
-    "자가면역간염-진단",
-    "케이스/AIH-첫진단-여성"
+    "알코올성-간질환"
    ]
   },
   "pwf_00152": {
@@ -444,7 +661,7 @@
    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12332042/",
    "doi": "10.7759/cureus.87519",
    "pmcid": "PMC12332042",
-   "original_caption": "High-power hematoxylin and eosin (H&E)-stained liver biopsy AIH: autoimmune hepatitis; PBC: primary biliary cholangitis; H&E: high-power hematoxylin and eosin H&E-stained section of liver biopsy. The upper arrow highlights interface hepatitis, showing lymphoplasmacytic infiltration extending beyond ",
+   "original_caption": "High-power hematoxylin and eosin (H&E)-stained liver biopsy AIH: autoimmune hepatitis; PBC: primary biliary cholangitis; H&E: high-power hematoxylin and eosin H&E-stained section of liver biopsy. The upper arrow highlights interface hepatitis, showing lymphoplasmacytic infiltration extending beyond the limiting plate into periportal hepatocytes. The lower arrow points to a bile duct with surrounding lymphocytic infiltrate, consistent with bile duct injury. These features are characteristic of AI",
    "pages": [
     "자가면역간염-PBC-overlap",
     "케이스/AIH-PBC-overlap-진단"
@@ -462,41 +679,115 @@
     "자가면역간염-PBC-overlap"
    ]
   },
-  "pwf_00174": {
-   "file": "assets/img/figures/pwf_00174.jpg",
-   "license": "CC BY 4.0",
-   "credit": "Strange T 외. Pedunculated focal nodular hyperplasia: a case report, case series, and in-depth surgical, radiological, and histological analysis of a rare phenomenon. Diagn Pathol 2025",
-   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12125829/",
-   "doi": "10.1186/s13000-025-01661-y",
-   "pmcid": "PMC12125829",
-   "original_caption": "MRI imaging indicated pedunculated focal nodular hyperplasia. The lesion is isointense compared to surrounding hepatic tissue on T2-weighted MRI ( A ) and Diffusion-weighted imaging (DWI, B ). With injection of Eovist contrast, the lesion became enhanced during the arterial phase ( C ), and remained",
+  "img_03877": {
+   "file": "assets/img/figures/img_03877.jpg",
+   "license": "CC BY 2.0",
+   "credit": "Joy Worthington, Roger Chapman, Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Cholangiogram_of_primary_sclerosing_cholangitis.jpg",
+   "doi": "",
+   "pmcid": "",
+   "original_caption": "File:Cholangiogram of primary sclerosing cholangitis.jpg | Cholangiogram of primary sclerosing cholangitis. | query=primary sclerosing cholangitis cholangiogram",
    "pages": [
-    "간양성종양-FNH-Adenoma",
-    "간양성종양-진단"
+    "자가면역간염-소아청소년",
+    "자가면역간염-진단",
+    "케이스/AIH-소아청소년-진단"
    ]
   },
-  "pwf_00179": {
-   "file": "assets/img/figures/pwf_00179.jpg",
+  "pwf_00110": {
+   "file": "assets/img/figures/pwf_00110.jpg",
    "license": "CC BY 4.0",
-   "credit": "Scialpi M 외. Split-bolus versus triphasic multidetector-row computed tomography technique in the diagnosis of hepatic focal nodular hyperplasia: a case report. J Med Case Rep 2014",
-   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4301902/",
-   "doi": "10.1186/1752-1947-8-425",
-   "pmcid": "PMC4301902",
-   "original_caption": "Single-pass 64-detector row computed tomography findings of focal nodular hyperplasia in 53-year-old woman. Mixed phase (hepatic arterial phase/portal venous phase during hepatic enhancement) shows intense homogeneous enhancement with hypodense focal central scar (a) ; on delayed phase (b) the lesio",
+   "credit": "Petta S 외. Focus on Semaglutide 2.4 mg/week for the Treatment of Metabolic Dysfunction-Associated Steatohepatitis. Liver Int 2025",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12558666/",
+   "doi": "10.1111/liv.70407",
+   "pmcid": "PMC12558666",
+   "original_caption": "Potential algorithm to manage Semaglutide treatment for adult patients with MASH in clinical practice. LSM: liver stiffness measurement; VCTE: vibration controlled transient elastography. Please note that LSM cannot accurately discriminate between histological F2/F3 fibrosis. *In people who are not already on GLP1‐RAs, and in particular in the presence of T2D and/or obesity. Gallstone disease and family history of medullary thyroid cancer are contraindications. Resmetirom may be an alternative; ",
    "pages": [
-    "간양성종양-FNH-Adenoma"
+    "지방간-위고비-마운자로"
    ]
   },
-  "pwf_00203": {
-   "file": "assets/img/figures/pwf_00203.jpg",
+  "pwf_00103": {
+   "file": "assets/img/figures/pwf_00103.jpg",
    "license": "CC BY 4.0",
-   "credit": "Mulabecirovic A 외. Liver elasticity in healthy individuals by two novel shear-wave elastography systems-Comparison by age, gender, BMI and number of measurements. PLoS One 2018",
-   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6138384/",
-   "doi": "10.1371/journal.pone.0203486",
-   "pmcid": "PMC6138384",
-   "original_caption": "2D-SWE by GE S8 performed on a healthy liver. The figure illustrates the method of 2D-SWE by GE performed on a healthy subject. The coloured box (centre) represents the elastogram, and the circle represents the ROI where the elastic modulus (LSM, liver stiffness measurement) of the liver is acquired",
+   "credit": "Sergi CM. NAFLD (MASLD)/NASH (MASH): Does It Bother to Label at All? A Comprehensive Narrative Review. Int J Mol Sci 2024",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11313354/",
+   "doi": "10.3390/ijms25158462",
+   "pmcid": "PMC11313354",
+   "original_caption": "( a ) Liver fibrosis. Extensive pericentral and periportal fibrosis with collagen deposition (blue) forming bridges and nearly pseudo-nodules (arrows). Masson’s trichromic stain, 100× original magnification, scale bar: 100 μm. ( b ) Liver steatosis. Fatty accumulation in the hepatocytes can be highlighted (orange) using the Oil red O staining (arrows; ORO stain, 100× original magnification, scale bar: 100 μm). ( c ) Hepatocytic ballooning. ‘Hepatocytic ballooning’ is an often-employed combined t",
    "pages": [
-    "간-외래-검사"
+    "지방간-정밀검사",
+    "케이스/MASH-F3-당뇨-종합관리"
+   ]
+  },
+  "img_03883": {
+   "file": "assets/img/figures/img_03883.jpg",
+   "license": "CC BY-SA 3.0",
+   "credit": "Nephron, Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Mallory_body_high_mag_cropped.jpg",
+   "doi": "",
+   "pmcid": "",
+   "original_caption": "File:Mallory body high mag cropped.jpg | High magnification micrograph of a Mallory body , as seen in steatohepatitis . Liver biopsy . H&E stain . Mallory bodies are eosinophilic cytoplasmic inclusions that are aggregates of denatured keratin filaments. They have a twisted rope-like appearance. On trichrome stain they are green/dark brown. Associations (histologic): They often have neutrophils around them. They frequently are seen in hepatocytes undergoing ballooning degeneration . Deutsch: Star",
+   "pages": [
+    "지방간염-MASH"
+   ]
+  },
+  "pwf_00071": {
+   "file": "assets/img/figures/pwf_00071.jpg",
+   "license": "CC BY-NC 4.0",
+   "credit": "Liava C 외. Liver Imaging Reporting and Data System criteria for the diagnosis of hepatocellular carcinoma in clinical practice: A pictorial minireview. World J Gastroenterol 2022",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9476877/",
+   "doi": "10.3748/wjg.v28.i32.4540",
+   "pmcid": "PMC9476877",
+   "original_caption": "Diagnostic algorithm of liver lesions in computed tomography/magnetic resonance imaging (Liver Imaging Reporting and Data System v2018 CORE). Observations in the cell LR-4 and LR-5 are categorized based on one additional major feature: LR-4 if enhancing “capsule” and LR-5 if nonperipheral “washout” or threshold growth. APHE: Arterial phase hyperenhancement; CT: Computed tomography; HCC: Hepatocellular carcinoma; MRI: Magnetic resonance imaging; TIV: Tumor in vein.",
+   "pages": [
+    "케이스/LR3-모호결절-추적"
+   ]
+  },
+  "oa_PMC9597235_6": {
+   "file": "assets/img/figures/oa_PMC9597235_6.jpg",
+   "license": "CC BY-NC 3.0",
+   "credit": "Korean Liver Cancer Association (KLCA) and National Cancer Center (NCC) Korea. 2022 KLCA-NCC Korea practice guidelines for the management of hepatocellular carcinoma. Clin Mol Hepatol 2022",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9597235/",
+   "doi": "10.3350/cmh.2022.0294",
+   "pmcid": "PMC9597235",
+   "original_caption": "Probable hepatocellular carcinoma (HCC) on dynamic contrast-enhanced computed tomography (CT). On dynamic contrast-enhanced CT in a patient with chronic hepatitis B, there is a 2-cm liver nodule (arrow) with arterial phase hyperenhancement. This nodule does not show a washout appearance in the portal venous phase or delayed phase, so it cannot be non-invasively diagnosed as “definite” HCC. However, based on the presence of enhancing capsule in the portal venous phase and delayed phase, an ancillary imaging feature of HCC, this nodule can be diagnosed as “probable” HCC.",
+   "pages": [
+    "케이스/LR4-결절-추적"
+   ]
+  },
+  "img_03878": {
+   "file": "assets/img/figures/img_03878.jpg",
+   "license": "CC BY-SA 3.0",
+   "credit": "Hellerhoff, Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Steatosis_hepatis_-_Sonographie_001.jpg",
+   "doi": "",
+   "pmcid": "",
+   "original_caption": "File:Steatosis hepatis - Sonographie 001.jpg | Fettleber in der Sonographie: Die Leber (links im Bild) ist deutlich echoreicher (heller) als die angrenzende rechte Niere. | query=Category:Ultrasound images of fatty liver",
+   "pages": [
+    "케이스/검진ALT상승-MASLD진단"
+   ]
+  },
+  "pwf_00186": {
+   "file": "assets/img/figures/pwf_00186.jpg",
+   "license": "CC BY-NC 4.0",
+   "credit": "Renzulli M 외. Hepatocellular adenoma: An unsolved diagnostic enigma. World J Gastroenterol 2019",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6543239/",
+   "doi": "10.3748/wjg.v25.i20.2442",
+   "pmcid": "PMC6543239",
+   "original_caption": "Diagnostic challenges in the imaging classification of hepatocellular adenoma. A: In a 47-year-old woman the axial T1 in-phase; B: Out-of-phase images show an isointense lesion in liver segment V; C: Hyperintense in the T2-weighted; D: In the diffusion-weighted; E: In the arterial phase images; F: Without washout of the contrast media in the portal-venous phase; G: In the delayed phase images; H: Hypointense in the hepatobiliary phase image. According to the current guidelines, this lesion is su",
+   "pages": [
+    "케이스/경구피임약-HCA의심"
+   ]
+  },
+  "img_03892": {
+   "file": "assets/img/figures/img_03892.jpg",
+   "license": "CC BY-SA 4.0",
+   "credit": "Jeremias, Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Bleeding_esophageal_varices.png",
+   "doi": "",
+   "pmcid": "",
+   "original_caption": "File:Bleeding esophageal varices.png | Krwawienie z żylaka przełyku (źródło krwawienia: prawy górny róg) | query=Category:Endoscopic images of esophageal varices",
+   "pages": [
+    "케이스/첫-식도정맥류-출혈"
    ]
   }
  }

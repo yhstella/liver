@@ -4,25 +4,97 @@
   <link href="https://drshin.kr/updates/" rel="alternate" type="text/html"/>
   <link href="https://drshin.kr/updates/feed.xml" rel="self" type="application/atom+xml"/>
   <id>https://drshin.kr/updates/</id>
-  <updated>2026-09-28T12:48:35.992702+00:00</updated>
+  <updated>2026-09-28T13:44:05.080079+00:00</updated>
   <subtitle>주요 저널의 hepatology 최신 논문 요약 — 신현재(서울대학교병원 소화기내과·간암센터)</subtitle>
   <author><name>신현재</name><uri>https://drshin.kr/소개/</uri></author>
   <generator>build_updates_rss.py</generator>
   <icon>https://drshin.kr/favicon.png</icon>
+  <entry>
+    <title>AI 기반 CT 간세포암 진단</title>
+    <link href="https://drshin.kr/updates/AI-CT-HCC-validation-Hepatology-2024/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/AI-CT-HCC-validation-Hepatology-2024/</id>
+    <updated>2026-09-28T21:50:22+09:00</updated>
+    <summary>동적 CT 영상에서 HCC를 자동 진단하는 AI 알고리즘의 대규모 다기관·다국가 검증. 영상 전문의 수준 진단 정확도.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>Bepirovirsen</title>
+    <link href="https://drshin.kr/updates/Bepirovirsen-HBV-Lancet-2024/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/Bepirovirsen-HBV-Lancet-2024/</id>
+    <updated>2026-09-28T21:50:22+09:00</updated>
+    <summary>HBV RNA를 분해하는 antisense oligonucleotide bepirovirsen. B-Clear 시험에서 HBsAg 소실 약 9~10%, 새 시대의 첫 후보.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>EMERALD-1</title>
+    <link href="https://drshin.kr/updates/EMERALD-1-TACE-durva-bev-Lancet-2024/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/EMERALD-1-TACE-durva-bev-Lancet-2024/</id>
+    <updated>2026-09-28T21:50:22+09:00</updated>
+    <summary>중간기 간세포암(BCLC B)의 표준이 TACE 단독에서 TACE + durvalumab + bevacizumab로 바뀌는 출발점. Lancet 2024.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>GLP-1 RA 경구 small molecule</title>
+    <link href="https://drshin.kr/updates/GLP1RA-small-molecule-orforglipron/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/GLP1RA-small-molecule-orforglipron/</id>
+    <updated>2026-09-28T21:50:22+09:00</updated>
+    <summary>Orforglipron 등 경구 small molecule GLP-1 RA가 phase 3 임상에서 주사형에 근접한 체중 감량·혈당 조절 효과를 보고하며 비만·당뇨·MASH 치료에 새 옵션이 되고 있습니다.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>B형간염 functional cure 신약</title>
+    <link href="https://drshin.kr/updates/HBV-siRNA-functional-cure-2026/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/HBV-siRNA-functional-cure-2026/</id>
+    <updated>2026-09-28T21:50:22+09:00</updated>
+    <summary>만성 B형간염의 functional cure(기능적 완치)를 노리는 RNA 기반 신약들의 최근 phase 2/3 데이터를 종합합니다. bepirovirsen(ASO) B-Well phase 3는 NEJM에 보고되어 20% 안팎의 functional cure율을 보였고, imdusiran·elebsiran 등 GalNAc-siRNA는 PEG-IFN 병합으로 추가 phase 2 신호가 누적되고 있습니다.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>B형간염을 끊을 수 있을까</title>
+    <link href="https://drshin.kr/updates/Hou-bepirovirsen-HBV-NEJM-2026/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/Hou-bepirovirsen-HBV-NEJM-2026/</id>
+    <updated>2026-09-28T21:50:22+09:00</updated>
+    <summary>만성 B형간염에서 항바이러스제를 끊는 functional cure(기능적 완치)를 노린 bepirovirsen의 phase 3 B-Well 1·2 결과가 NEJM에 발표됐습니다. 72주째 약 20%가 HBsAg 소실에 도달했고(위약 0%), 베이스라인 HBsAg가 낮을수록 반응이 좋았습니다.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>LEAP-012</title>
+    <link href="https://drshin.kr/updates/LEAP-012-TACE-pembro-lenva-Lancet-2024/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/LEAP-012-TACE-pembro-lenva-Lancet-2024/</id>
+    <updated>2026-09-28T21:50:22+09:00</updated>
+    <summary>중간기 간세포암에서 TACE + pembrolizumab + lenvatinib 조합이 TACE 단독 대비 PFS 의미 있게 연장. EMERALD-1과 함께 BCLC B 표준 변화의 두 번째 근거.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>MASLD 새 명명</title>
+    <link href="https://drshin.kr/updates/MASLD-nomenclature-AASLD-EASL-2023/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/MASLD-nomenclature-AASLD-EASL-2023/</id>
+    <updated>2026-09-28T21:50:22+09:00</updated>
+    <summary>AASLD·EASL·ALEH의 Delphi 합의로 NAFLD → MASLD, NASH → MASH로 명명 변경. MetALD 새 카테고리 도입.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>PEth (phosphatidylethanol)</title>
+    <link href="https://drshin.kr/updates/PEth-%EC%95%8C%EC%BD%94%EC%98%AC-%EB%B0%94%EC%9D%B4%EC%98%A4%EB%A7%88%EC%BB%A4/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/PEth-%EC%95%8C%EC%BD%94%EC%98%AC-%EB%B0%94%EC%9D%B4%EC%98%A4%EB%A7%88%EC%BB%A4/</id>
+    <updated>2026-09-28T21:50:22+09:00</updated>
+    <summary>PEth(phosphatidylethanol)는 최근 임상에서 활용이 늘고 있는 알코올 섭취 객관적 바이오마커입니다. 검출 기간·민감도·임상 활용을 정리합니다.</summary>
+    <author><name>신현재</name></author>
+  </entry>
+  <entry>
+    <title>Preemptive TIPS</title>
+    <link href="https://drshin.kr/updates/preemptive-TIPS-%EC%8B%9D%EB%8F%84%EC%A0%95%EB%A7%A5%EB%A5%98-%EC%B6%9C%ED%98%88/" rel="alternate" type="text/html"/>
+    <id>https://drshin.kr/updates/preemptive-TIPS-%EC%8B%9D%EB%8F%84%EC%A0%95%EB%A7%A5%EB%A5%98-%EC%B6%9C%ED%98%88/</id>
+    <updated>2026-09-28T21:50:22+09:00</updated>
+    <summary>Preemptive(early) TIPS는 고위험 정맥류 출혈 환자에서 표준 약물·내시경 치료보다 24-72시간 내 시행 시 사망률을 줄인 패러다임 변화입니다.</summary>
+    <author><name>신현재</name></author>
+  </entry>
   <entry>
     <title>아스피린과 MASLD 환자의 간세포암 위험</title>
     <link href="https://drshin.kr/updates/Ahn-Aspirin-HCC-MASLD-CMH-2026/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/Ahn-Aspirin-HCC-MASLD-CMH-2026/</id>
     <updated>2026-09-22T07:55:29+09:00</updated>
     <summary>Ahn J, Hur MH, Shin H et al. Clin Mol Hepatol 2026. MASLD 환자에서 아스피린 사용과 HCC 위험의 nationwide cohort + 유전 위험 분석.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>AI 기반 CT 간세포암 진단</title>
-    <link href="https://drshin.kr/updates/AI-CT-HCC-validation-Hepatology-2024/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/AI-CT-HCC-validation-Hepatology-2024/</id>
-    <updated>2026-09-22T07:55:29+09:00</updated>
-    <summary>동적 CT 영상에서 HCC를 자동 진단하는 AI 알고리즘의 대규모 다기관·다국가 검증. 영상 전문의 수준 진단 정확도.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>
@@ -39,14 +111,6 @@
     <id>https://drshin.kr/updates/Baveno-VII-recompensation-2024/</id>
     <updated>2026-09-22T07:55:29+09:00</updated>
     <summary>Baveno VII 합의에서 처음으로 </summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>Bepirovirsen</title>
-    <link href="https://drshin.kr/updates/Bepirovirsen-HBV-Lancet-2024/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/Bepirovirsen-HBV-Lancet-2024/</id>
-    <updated>2026-09-22T07:55:29+09:00</updated>
-    <summary>HBV RNA를 분해하는 antisense oligonucleotide bepirovirsen. B-Clear 시험에서 HBsAg 소실 약 9~10%, 새 시대의 첫 후보.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>
@@ -74,14 +138,6 @@
     <author><name>신현재</name></author>
   </entry>
   <entry>
-    <title>EMERALD-1</title>
-    <link href="https://drshin.kr/updates/EMERALD-1-TACE-durva-bev-Lancet-2024/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/EMERALD-1-TACE-durva-bev-Lancet-2024/</id>
-    <updated>2026-09-22T07:55:29+09:00</updated>
-    <summary>중간기 간세포암(BCLC B)의 표준이 TACE 단독에서 TACE + durvalumab + bevacizumab로 바뀌는 출발점. Lancet 2024.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
     <title>EMERALD-3 phase 3</title>
     <link href="https://drshin.kr/updates/EMERALD-3-TACE-immuneTarget-2026/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/EMERALD-3-TACE-immuneTarget-2026/</id>
@@ -106,27 +162,11 @@
     <author><name>신현재</name></author>
   </entry>
   <entry>
-    <title>GLP-1 RA 경구 small molecule</title>
-    <link href="https://drshin.kr/updates/GLP1RA-small-molecule-orforglipron/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/GLP1RA-small-molecule-orforglipron/</id>
-    <updated>2026-09-22T07:55:29+09:00</updated>
-    <summary>Orforglipron 등 경구 small molecule GLP-1 RA가 phase 3 임상에서 주사형에 근접한 체중 감량·혈당 조절 효과를 보고하며 비만·당뇨·MASH 치료에 새 옵션이 되고 있습니다.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
     <title>GLP-1 RA와 알코올성 간 질환</title>
     <link href="https://drshin.kr/updates/GLP1RA-%EC%95%8C%EC%BD%94%EC%98%AC%EC%84%B1-%EA%B0%84%EC%A7%88%ED%99%98-ALD/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/GLP1RA-%EC%95%8C%EC%BD%94%EC%98%AC%EC%84%B1-%EA%B0%84%EC%A7%88%ED%99%98-ALD/</id>
     <updated>2026-09-22T07:55:29+09:00</updated>
     <summary>GLP-1 작용제가 음주 행동·알코올성 간 질환에 미치는 영향이 활발히 연구되고 있습니다. 음주 욕구 감소·간 보호 효과의 가능성과 현재 임상 진전.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>B형간염 functional cure 신약</title>
-    <link href="https://drshin.kr/updates/HBV-siRNA-functional-cure-2026/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/HBV-siRNA-functional-cure-2026/</id>
-    <updated>2026-09-22T07:55:29+09:00</updated>
-    <summary>만성 B형간염의 functional cure(기능적 완치)를 노리는 RNA 기반 신약들의 최근 phase 2/3 데이터를 종합합니다. bepirovirsen(ASO) B-Well phase 3는 NEJM에 보고되어 20% 안팎의 functional cure율을 보였고, imdusiran·elebsiran 등 GalNAc-siRNA는 PEG-IFN 병합으로 추가 phase 2 신호가 누적되고 있습니다.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>
@@ -154,14 +194,6 @@
     <author><name>신현재</name></author>
   </entry>
   <entry>
-    <title>B형간염을 끊을 수 있을까</title>
-    <link href="https://drshin.kr/updates/Hou-bepirovirsen-HBV-NEJM-2026/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/Hou-bepirovirsen-HBV-NEJM-2026/</id>
-    <updated>2026-09-22T07:55:29+09:00</updated>
-    <summary>만성 B형간염에서 항바이러스제를 끊는 functional cure(기능적 완치)를 노린 bepirovirsen의 phase 3 B-Well 1·2 결과가 NEJM에 발표됐습니다. 72주째 약 20%가 HBsAg 소실에 도달했고(위약 0%), 베이스라인 HBsAg가 낮을수록 반응이 좋았습니다.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
     <title>IMbrave050</title>
     <link href="https://drshin.kr/updates/IMbrave050-adjuvant-atezo-bev-Lancet-2023/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/IMbrave050-adjuvant-atezo-bev-Lancet-2023/</id>
@@ -183,14 +215,6 @@
     <id>https://drshin.kr/updates/Klausen-Semaglutide-AUD-Lancet-2026/</id>
     <updated>2026-09-22T07:55:29+09:00</updated>
     <summary>Klausen 2026 Lancet — semaglutide가 알코올 사용 장애 환자(비만 동반)의 음주를 줄였다는 RCT.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>LEAP-012</title>
-    <link href="https://drshin.kr/updates/LEAP-012-TACE-pembro-lenva-Lancet-2024/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/LEAP-012-TACE-pembro-lenva-Lancet-2024/</id>
-    <updated>2026-09-22T07:55:29+09:00</updated>
-    <summary>중간기 간세포암에서 TACE + pembrolizumab + lenvatinib 조합이 TACE 단독 대비 PFS 의미 있게 연장. EMERALD-1과 함께 BCLC B 표준 변화의 두 번째 근거.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>
@@ -218,14 +242,6 @@
     <author><name>신현재</name></author>
   </entry>
   <entry>
-    <title>MASLD 새 명명</title>
-    <link href="https://drshin.kr/updates/MASLD-nomenclature-AASLD-EASL-2023/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/MASLD-nomenclature-AASLD-EASL-2023/</id>
-    <updated>2026-09-22T07:55:29+09:00</updated>
-    <summary>AASLD·EASL·ALEH의 Delphi 합의로 NAFLD → MASLD, NASH → MASH로 명명 변경. MetALD 새 카테고리 도입.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
     <title>Semaglutide for NASH</title>
     <link href="https://drshin.kr/updates/Newsome-semaglutide-NASH-NEJM-2021/" rel="alternate" type="text/html"/>
     <id>https://drshin.kr/updates/Newsome-semaglutide-NASH-NEJM-2021/</id>
@@ -247,22 +263,6 @@
     <id>https://drshin.kr/updates/Pan-TDF-pregnancy-HBV-NEJM-2016/</id>
     <updated>2026-09-22T07:55:29+09:00</updated>
     <summary>Pan CQ et al. NEJM 2016. RCT, 200명 HBV DNA 고농도 임산부, 임신 30주부터 TDF가 영아 HBV 감염을 0%로 감소시킨 결정적 시험.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>PEth (phosphatidylethanol)</title>
-    <link href="https://drshin.kr/updates/PEth-%EC%95%8C%EC%BD%94%EC%98%AC-%EB%B0%94%EC%9D%B4%EC%98%A4%EB%A7%88%EC%BB%A4/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/PEth-%EC%95%8C%EC%BD%94%EC%98%AC-%EB%B0%94%EC%9D%B4%EC%98%A4%EB%A7%88%EC%BB%A4/</id>
-    <updated>2026-09-22T07:55:29+09:00</updated>
-    <summary>PEth(phosphatidylethanol)는 최근 임상에서 활용이 늘고 있는 알코올 섭취 객관적 바이오마커입니다. 검출 기간·민감도·임상 활용을 정리합니다.</summary>
-    <author><name>신현재</name></author>
-  </entry>
-  <entry>
-    <title>Preemptive TIPS</title>
-    <link href="https://drshin.kr/updates/preemptive-TIPS-%EC%8B%9D%EB%8F%84%EC%A0%95%EB%A7%A5%EB%A5%98-%EC%B6%9C%ED%98%88/" rel="alternate" type="text/html"/>
-    <id>https://drshin.kr/updates/preemptive-TIPS-%EC%8B%9D%EB%8F%84%EC%A0%95%EB%A7%A5%EB%A5%98-%EC%B6%9C%ED%98%88/</id>
-    <updated>2026-09-22T07:55:29+09:00</updated>
-    <summary>Preemptive(early) TIPS는 고위험 정맥류 출혈 환자에서 표준 약물·내시경 치료보다 24-72시간 내 시행 시 사망률을 줄인 패러다임 변화입니다.</summary>
     <author><name>신현재</name></author>
   </entry>
   <entry>
