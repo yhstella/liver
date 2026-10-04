@@ -24,3 +24,11 @@ __pycache__/
 # 에이전트 인계 문서 — 공개 사이트에 올라가면 안 됨
 CLAUDE_HANDOFF_*.md
 *_HANDOFF_*.md
+
+# 팀 운영 문서·에이전트 정의(Claude·Codex 공용) — 공개 저장소(GitHub Pages)에 올라가면 안 됨. 로컬에서만 쓴다(docs/는 별도 git)
+/docs/
+/AGENTS.md
+/CLAUDE.md
+/.claude/agents/
+/.codex/
+/.tools/agent-team/
